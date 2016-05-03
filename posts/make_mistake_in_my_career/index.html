@@ -1,63 +1,187 @@
-
-
-
-
 <!DOCTYPE html>
-<html>
+<html class="no-js">
 <head>
-    <meta charset="utf-8">
-    <base href="http://lijiangsheng1.github.io">
-    <title>  </title>
-    <link rel="canonical" href="http://lijiangsheng1.github.io/posts/make_mistake_in_my_career/">
-    
+  <base href="http://lijiangsheng1.github.io/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title> - 适兕的博客</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-<link rel="stylesheet" href="http://lijiangsheng1.github.io/css/poole.css">
-<link rel="stylesheet" href="http://lijiangsheng1.github.io/css/syntax.css">
-<link rel="stylesheet" href="http://lijiangsheng1.github.io/css/lanyon.css">
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+<meta name="description" content="曾经在职场中犯过的错 缘起 今天 InfoQ 中文网站发布了我点评的一篇文章。其实刚刚发布时，文章的题目不是这个，而是：“Apache 基金会17岁了！其成功的背后显为人知的“Apache 之道”！”。后来有位读者看到错别字就不爽了，我于是求助于编辑请求帮助。想更改为：“Apache 基金会17岁了！其成功背后独特的“Apache 之道””，（这要感谢夏雪的建议。）但是，InfoQ 中国的主编郭蕾大笔一挥，就是现在这个题目了：“17个Apache基金会的运营之道 ”。 这就是故事的始末，时间是2016年4月26日。我犯了一个很大、很大的错误，在信息爆炸的今天，一篇文章的题目占据一半的重要性。而还有一个明显的错别字！内容已经不再重要，我的点评也不再重要。重要的是我犯错了。于是，我引以为鉴！ 然后，我就回顾了一下我职业生涯中所犯的错误！ 给自己声明一下，以下的错是我自己以为的，不是来自任何人的评价。当然是我记忆非常深刻的那些错，当然记忆有的时候不太靠谱。 靠记忆的遍历 0、 自己的第一份职业，修改网站的IIS配置，当时对IIS非常的不熟悉，但是胆子很大手很快，删除了一些配置，导致某些站点无法访问。似乎是刚入职不到一个月干的事情，记得我当时很担心被炒鱿鱼，但是主管知道我不熟悉IIS，他修复之后，让我将IIS替换为Apache，除非是ASP的程序。那是2005年，我刚毕业。 1、 时间再往前推点，大约是2006年的春夏之交，河南报业网的后台CMS系统需要修改一些功能，厂商派过来二名工程师在修改。我主要是配合，他们看到我使用的是 OpenSuSe，具体版本我忘记是多少了，但是那时的OpenSuSe对于Nvidia的驱动是最好的，界面相对非常的酷炫，立方体桌面等。于是，其中一名工程师想将自己的笔记本也装一个OpenSuSe，于是简单整理了一下，就交给我了。我不知道怎么回事，分区的时候，将他的其中一个Windows分区的存放数据的地方给格式化了。完了。OpenSuSe是可以用了，但是他积攒很久的数据资料也随之消失了。他一声叹息，旧的不去、新的不来。我那个纠结、惭愧，可是也无能为力。后来，我专门给他写了一封道歉信，他只是礼貌性的回复了一下。到现在我仍然记忆清晰。 此后的几年里，一只小心翼翼、战战兢兢。在红旗的售后，虽然是代表公司经常出入客户现场，有时甚至是故障修复。反而没有犯什么错误。直到开始做开发： 2、 我在红旗做开发，主要是冲着安装程序去的，当时的红旗 Linux 服务器版，是中、日、韩三国联合开发的 Asianux 为基础版的，我也作为关键的代表红旗成为了 Asianux 的一员。既然是多国人，交流基本都是靠英语了，某个开发周期中，有个虚拟化的软件包选项的问题。是测试提出来的，称在裸机安装时虚拟化（xen）相关的包应该显示，在虚拟机中安装 Asianux时，关于虚拟化的选项就不应该显示。似乎是蛮合理的，但是我当时是拒绝修改的。其实，为什么就没有嵌套了呢？但是我的态度是很坚决的，而且不解释原因。导致大家最后对我敬而远之。 3、 是近几年的事情了，我曾经在云端时代的时候，开除过一位同学，准确点说是一位对Jboss很有研究的同学。因为一些思路的不一致，以及和社区的风格冲突等，其实是我踢出团队中最为可惜的一位。没过两天我就后悔了。天知道，我那几天是怎么回事。 4、 轮到我做顾问的易云了，我将我花时间搭建的编译环境的虚拟机随手一个“rm －rf”彻底的删除，毫不留情。不是说技术多复杂，每个在境内搭建环境，比如一些Maven的库、rpm的仓库、python、ruby等环境，和糟糕的网络环境是有很大关系的。那绝对是对自己生命的扼杀。 5、 最近的错误就是过去一年，也是目前为止职业生涯中所犯的最大的错误。我将自己带团队的思路代入为个人，将自己放大！ 结果挖了无数的坑！！！一如 OVDG 没有人响应一样，一个人的战斗！战斗了大半年之后，终于出了问题！ 6、 第5个错误，严格来说不是错误，所以里面的最大、代入等都不成立。因为这条才是，时间要追溯到2012年，我在普华做事情，亲历了一个团队的建设、乃至一个项目从无到有的过程，深刻明白了问题的所在，如招聘、团队文化、项目需求与现实的博弈、乃至政治因素对团队和技术生产力的破坏，于是，我鼓起勇气，走上了所谓的“叛逃”之路，而在云端，我是按照我自己的认识去重新走过上述这样的路，只是除了政治之外我可以把控所有环节，我以为我招聘的全部都是和我一样－－执着、清醒、为结果负责、目光远大等，甚至在和云端的高层破裂之后，我换一家依然是这么想的，直到又一天，我所倡导的团队扁平化被奸诈无比、气量狭小的高层利用了之后，而我依然坚信他们。经历过 OVDG的失败，我仍然没有醒悟；直到 OCSelected 社区在我失去那家公司的政治影响力之后再也没有任何他人贡献的时候，我开始渐渐的懂了。这个错误对我的伤害是蛮大，但是也是庆幸的！ 简单的总结 这篇文章是我对于过去的一年半的创业历程总结的前哨，我需要正视自己的错误，要将自己急躁的心慢下来，脚踏实地的去慢慢实现自己的梦想！要做长远的打算，而不是冲刺的去立即实现。 是的！应该找到自己的节奏了，再随波逐流就真的老了！">
+<meta name="author" content="coderzh">
+<meta name="publisher" content="coderzh">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content=" - 适兕的博客">
+<meta itemprop="description" content="曾经在职场中犯过的错 缘起 今天 InfoQ 中文网站发布了我点评的一篇文章。其实刚刚发布时，文章的题目不是这个，而是：“Apache 基金会17岁了！其成功的背后显为人知的“Apache 之道”！”。后来有位读者看到错别字就不爽了，我于是求助于编辑请求帮助。想更改为：“Apache 基金会17岁了！其成功背后独特的“Apache 之道””，（这要感谢夏雪的建议。）但是，InfoQ 中国的主编郭蕾大笔一挥，就是现在这个题目了：“17个Apache基金会的运营之道 ”。 这就是故事的始末，时间是2016年4月26日。我犯了一个很大、很大的错误，在信息爆炸的今天，一篇文章的题目占据一半的重要性。而还有一个明显的错别字！内容已经不再重要，我的点评也不再重要。重要的是我犯错了。于是，我引以为鉴！ 然后，我就回顾了一下我职业生涯中所犯的错误！ 给自己声明一下，以下的错是我自己以为的，不是来自任何人的评价。当然是我记忆非常深刻的那些错，当然记忆有的时候不太靠谱。 靠记忆的遍历 0、 自己的第一份职业，修改网站的IIS配置，当时对IIS非常的不熟悉，但是胆子很大手很快，删除了一些配置，导致某些站点无法访问。似乎是刚入职不到一个月干的事情，记得我当时很担心被炒鱿鱼，但是主管知道我不熟悉IIS，他修复之后，让我将IIS替换为Apache，除非是ASP的程序。那是2005年，我刚毕业。 1、 时间再往前推点，大约是2006年的春夏之交，河南报业网的后台CMS系统需要修改一些功能，厂商派过来二名工程师在修改。我主要是配合，他们看到我使用的是 OpenSuSe，具体版本我忘记是多少了，但是那时的OpenSuSe对于Nvidia的驱动是最好的，界面相对非常的酷炫，立方体桌面等。于是，其中一名工程师想将自己的笔记本也装一个OpenSuSe，于是简单整理了一下，就交给我了。我不知道怎么回事，分区的时候，将他的其中一个Windows分区的存放数据的地方给格式化了。完了。OpenSuSe是可以用了，但是他积攒很久的数据资料也随之消失了。他一声叹息，旧的不去、新的不来。我那个纠结、惭愧，可是也无能为力。后来，我专门给他写了一封道歉信，他只是礼貌性的回复了一下。到现在我仍然记忆清晰。 此后的几年里，一只小心翼翼、战战兢兢。在红旗的售后，虽然是代表公司经常出入客户现场，有时甚至是故障修复。反而没有犯什么错误。直到开始做开发： 2、 我在红旗做开发，主要是冲着安装程序去的，当时的红旗 Linux 服务器版，是中、日、韩三国联合开发的 Asianux 为基础版的，我也作为关键的代表红旗成为了 Asianux 的一员。既然是多国人，交流基本都是靠英语了，某个开发周期中，有个虚拟化的软件包选项的问题。是测试提出来的，称在裸机安装时虚拟化（xen）相关的包应该显示，在虚拟机中安装 Asianux时，关于虚拟化的选项就不应该显示。似乎是蛮合理的，但是我当时是拒绝修改的。其实，为什么就没有嵌套了呢？但是我的态度是很坚决的，而且不解释原因。导致大家最后对我敬而远之。 3、 是近几年的事情了，我曾经在云端时代的时候，开除过一位同学，准确点说是一位对Jboss很有研究的同学。因为一些思路的不一致，以及和社区的风格冲突等，其实是我踢出团队中最为可惜的一位。没过两天我就后悔了。天知道，我那几天是怎么回事。 4、 轮到我做顾问的易云了，我将我花时间搭建的编译环境的虚拟机随手一个“rm －rf”彻底的删除，毫不留情。不是说技术多复杂，每个在境内搭建环境，比如一些Maven的库、rpm的仓库、python、ruby等环境，和糟糕的网络环境是有很大关系的。那绝对是对自己生命的扼杀。 5、 最近的错误就是过去一年，也是目前为止职业生涯中所犯的最大的错误。我将自己带团队的思路代入为个人，将自己放大！ 结果挖了无数的坑！！！一如 OVDG 没有人响应一样，一个人的战斗！战斗了大半年之后，终于出了问题！ 6、 第5个错误，严格来说不是错误，所以里面的最大、代入等都不成立。因为这条才是，时间要追溯到2012年，我在普华做事情，亲历了一个团队的建设、乃至一个项目从无到有的过程，深刻明白了问题的所在，如招聘、团队文化、项目需求与现实的博弈、乃至政治因素对团队和技术生产力的破坏，于是，我鼓起勇气，走上了所谓的“叛逃”之路，而在云端，我是按照我自己的认识去重新走过上述这样的路，只是除了政治之外我可以把控所有环节，我以为我招聘的全部都是和我一样－－执着、清醒、为结果负责、目光远大等，甚至在和云端的高层破裂之后，我换一家依然是这么想的，直到又一天，我所倡导的团队扁平化被奸诈无比、气量狭小的高层利用了之后，而我依然坚信他们。经历过 OVDG的失败，我仍然没有醒悟；直到 OCSelected 社区在我失去那家公司的政治影响力之后再也没有任何他人贡献的时候，我开始渐渐的懂了。这个错误对我的伤害是蛮大，但是也是庆幸的！ 简单的总结 这篇文章是我对于过去的一年半的创业历程总结的前哨，我需要正视自己的错误，要将自己急躁的心慢下来，脚踏实地的去慢慢实现自己的梦想！要做长远的打算，而不是冲刺的去立即实现。 是的！应该找到自己的节奏了，再随波逐流就真的老了！">
+<meta itemprop="image" content="http://lijiangsheng1.github.io/public/coderzh.jpg">
+
+<meta property="og:title" content=" - 适兕的博客" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://lijiangsheng1.github.io/posts/make_mistake_in_my_career/" />
+<meta property="og:image" content="http://lijiangsheng1.github.io/public/coderzh.jpg" />
+<meta property="og:description" content="曾经在职场中犯过的错 缘起 今天 InfoQ 中文网站发布了我点评的一篇文章。其实刚刚发布时，文章的题目不是这个，而是：“Apache 基金会17岁了！其成功的背后显为人知的“Apache 之道”！”。后来有位读者看到错别字就不爽了，我于是求助于编辑请求帮助。想更改为：“Apache 基金会17岁了！其成功背后独特的“Apache 之道””，（这要感谢夏雪的建议。）但是，InfoQ 中国的主编郭蕾大笔一挥，就是现在这个题目了：“17个Apache基金会的运营之道 ”。 这就是故事的始末，时间是2016年4月26日。我犯了一个很大、很大的错误，在信息爆炸的今天，一篇文章的题目占据一半的重要性。而还有一个明显的错别字！内容已经不再重要，我的点评也不再重要。重要的是我犯错了。于是，我引以为鉴！ 然后，我就回顾了一下我职业生涯中所犯的错误！ 给自己声明一下，以下的错是我自己以为的，不是来自任何人的评价。当然是我记忆非常深刻的那些错，当然记忆有的时候不太靠谱。 靠记忆的遍历 0、 自己的第一份职业，修改网站的IIS配置，当时对IIS非常的不熟悉，但是胆子很大手很快，删除了一些配置，导致某些站点无法访问。似乎是刚入职不到一个月干的事情，记得我当时很担心被炒鱿鱼，但是主管知道我不熟悉IIS，他修复之后，让我将IIS替换为Apache，除非是ASP的程序。那是2005年，我刚毕业。 1、 时间再往前推点，大约是2006年的春夏之交，河南报业网的后台CMS系统需要修改一些功能，厂商派过来二名工程师在修改。我主要是配合，他们看到我使用的是 OpenSuSe，具体版本我忘记是多少了，但是那时的OpenSuSe对于Nvidia的驱动是最好的，界面相对非常的酷炫，立方体桌面等。于是，其中一名工程师想将自己的笔记本也装一个OpenSuSe，于是简单整理了一下，就交给我了。我不知道怎么回事，分区的时候，将他的其中一个Windows分区的存放数据的地方给格式化了。完了。OpenSuSe是可以用了，但是他积攒很久的数据资料也随之消失了。他一声叹息，旧的不去、新的不来。我那个纠结、惭愧，可是也无能为力。后来，我专门给他写了一封道歉信，他只是礼貌性的回复了一下。到现在我仍然记忆清晰。 此后的几年里，一只小心翼翼、战战兢兢。在红旗的售后，虽然是代表公司经常出入客户现场，有时甚至是故障修复。反而没有犯什么错误。直到开始做开发： 2、 我在红旗做开发，主要是冲着安装程序去的，当时的红旗 Linux 服务器版，是中、日、韩三国联合开发的 Asianux 为基础版的，我也作为关键的代表红旗成为了 Asianux 的一员。既然是多国人，交流基本都是靠英语了，某个开发周期中，有个虚拟化的软件包选项的问题。是测试提出来的，称在裸机安装时虚拟化（xen）相关的包应该显示，在虚拟机中安装 Asianux时，关于虚拟化的选项就不应该显示。似乎是蛮合理的，但是我当时是拒绝修改的。其实，为什么就没有嵌套了呢？但是我的态度是很坚决的，而且不解释原因。导致大家最后对我敬而远之。 3、 是近几年的事情了，我曾经在云端时代的时候，开除过一位同学，准确点说是一位对Jboss很有研究的同学。因为一些思路的不一致，以及和社区的风格冲突等，其实是我踢出团队中最为可惜的一位。没过两天我就后悔了。天知道，我那几天是怎么回事。 4、 轮到我做顾问的易云了，我将我花时间搭建的编译环境的虚拟机随手一个“rm －rf”彻底的删除，毫不留情。不是说技术多复杂，每个在境内搭建环境，比如一些Maven的库、rpm的仓库、python、ruby等环境，和糟糕的网络环境是有很大关系的。那绝对是对自己生命的扼杀。 5、 最近的错误就是过去一年，也是目前为止职业生涯中所犯的最大的错误。我将自己带团队的思路代入为个人，将自己放大！ 结果挖了无数的坑！！！一如 OVDG 没有人响应一样，一个人的战斗！战斗了大半年之后，终于出了问题！ 6、 第5个错误，严格来说不是错误，所以里面的最大、代入等都不成立。因为这条才是，时间要追溯到2012年，我在普华做事情，亲历了一个团队的建设、乃至一个项目从无到有的过程，深刻明白了问题的所在，如招聘、团队文化、项目需求与现实的博弈、乃至政治因素对团队和技术生产力的破坏，于是，我鼓起勇气，走上了所谓的“叛逃”之路，而在云端，我是按照我自己的认识去重新走过上述这样的路，只是除了政治之外我可以把控所有环节，我以为我招聘的全部都是和我一样－－执着、清醒、为结果负责、目光远大等，甚至在和云端的高层破裂之后，我换一家依然是这么想的，直到又一天，我所倡导的团队扁平化被奸诈无比、气量狭小的高层利用了之后，而我依然坚信他们。经历过 OVDG的失败，我仍然没有醒悟；直到 OCSelected 社区在我失去那家公司的政治影响力之后再也没有任何他人贡献的时候，我开始渐渐的懂了。这个错误对我的伤害是蛮大，但是也是庆幸的！ 简单的总结 这篇文章是我对于过去的一年半的创业历程总结的前哨，我需要正视自己的错误，要将自己急躁的心慢下来，脚踏实地的去慢慢实现自己的梦想！要做长远的打算，而不是冲刺的去立即实现。 是的！应该找到自己的节奏了，再随波逐流就真的老了！">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@coderzh">
+<meta name="twitter:title" content=" - 适兕的博客">
+<meta name="twitter:description" content="曾经在职场中犯过的错 缘起 今天 InfoQ 中文网站发布了我点评的一篇文章。其实刚刚发布时，文章的题目不是这个，而是：“Apache 基金会17岁了！其成功的背后显为人知的“Apache 之道”！”。后来有位读者看到错别字就不爽了，我于是求助于编辑请求帮助。想更改为：“Apache 基金会17岁了！其成功背后独特的“Apache 之道””，（这要感谢夏雪的建议。）但是，InfoQ 中国的主编郭蕾大笔一挥，就是现在这个题目了：“17个Apache基金会的运营之道 ”。 这就是故事的始末，时间是2016年4月26日。我犯了一个很大、很大的错误，在信息爆炸的今天，一篇文章的题目占据一半的重要性。而还有一个明显的错别字！内容已经不再重要，我的点评也不再重要。重要的是我犯错了。于是，我引以为鉴！ 然后，我就回顾了一下我职业生涯中所犯的错误！ 给自己声明一下，以下的错是我自己以为的，不是来自任何人的评价。当然是我记忆非常深刻的那些错，当然记忆有的时候不太靠谱。 靠记忆的遍历 0、 自己的第一份职业，修改网站的IIS配置，当时对IIS非常的不熟悉，但是胆子很大手很快，删除了一些配置，导致某些站点无法访问。似乎是刚入职不到一个月干的事情，记得我当时很担心被炒鱿鱼，但是主管知道我不熟悉IIS，他修复之后，让我将IIS替换为Apache，除非是ASP的程序。那是2005年，我刚毕业。 1、 时间再往前推点，大约是2006年的春夏之交，河南报业网的后台CMS系统需要修改一些功能，厂商派过来二名工程师在修改。我主要是配合，他们看到我使用的是 OpenSuSe，具体版本我忘记是多少了，但是那时的OpenSuSe对于Nvidia的驱动是最好的，界面相对非常的酷炫，立方体桌面等。于是，其中一名工程师想将自己的笔记本也装一个OpenSuSe，于是简单整理了一下，就交给我了。我不知道怎么回事，分区的时候，将他的其中一个Windows分区的存放数据的地方给格式化了。完了。OpenSuSe是可以用了，但是他积攒很久的数据资料也随之消失了。他一声叹息，旧的不去、新的不来。我那个纠结、惭愧，可是也无能为力。后来，我专门给他写了一封道歉信，他只是礼貌性的回复了一下。到现在我仍然记忆清晰。 此后的几年里，一只小心翼翼、战战兢兢。在红旗的售后，虽然是代表公司经常出入客户现场，有时甚至是故障修复。反而没有犯什么错误。直到开始做开发： 2、 我在红旗做开发，主要是冲着安装程序去的，当时的红旗 Linux 服务器版，是中、日、韩三国联合开发的 Asianux 为基础版的，我也作为关键的代表红旗成为了 Asianux 的一员。既然是多国人，交流基本都是靠英语了，某个开发周期中，有个虚拟化的软件包选项的问题。是测试提出来的，称在裸机安装时虚拟化（xen）相关的包应该显示，在虚拟机中安装 Asianux时，关于虚拟化的选项就不应该显示。似乎是蛮合理的，但是我当时是拒绝修改的。其实，为什么就没有嵌套了呢？但是我的态度是很坚决的，而且不解释原因。导致大家最后对我敬而远之。 3、 是近几年的事情了，我曾经在云端时代的时候，开除过一位同学，准确点说是一位对Jboss很有研究的同学。因为一些思路的不一致，以及和社区的风格冲突等，其实是我踢出团队中最为可惜的一位。没过两天我就后悔了。天知道，我那几天是怎么回事。 4、 轮到我做顾问的易云了，我将我花时间搭建的编译环境的虚拟机随手一个“rm －rf”彻底的删除，毫不留情。不是说技术多复杂，每个在境内搭建环境，比如一些Maven的库、rpm的仓库、python、ruby等环境，和糟糕的网络环境是有很大关系的。那绝对是对自己生命的扼杀。 5、 最近的错误就是过去一年，也是目前为止职业生涯中所犯的最大的错误。我将自己带团队的思路代入为个人，将自己放大！ 结果挖了无数的坑！！！一如 OVDG 没有人响应一样，一个人的战斗！战斗了大半年之后，终于出了问题！ 6、 第5个错误，严格来说不是错误，所以里面的最大、代入等都不成立。因为这条才是，时间要追溯到2012年，我在普华做事情，亲历了一个团队的建设、乃至一个项目从无到有的过程，深刻明白了问题的所在，如招聘、团队文化、项目需求与现实的博弈、乃至政治因素对团队和技术生产力的破坏，于是，我鼓起勇气，走上了所谓的“叛逃”之路，而在云端，我是按照我自己的认识去重新走过上述这样的路，只是除了政治之外我可以把控所有环节，我以为我招聘的全部都是和我一样－－执着、清醒、为结果负责、目光远大等，甚至在和云端的高层破裂之后，我换一家依然是这么想的，直到又一天，我所倡导的团队扁平化被奸诈无比、气量狭小的高层利用了之后，而我依然坚信他们。经历过 OVDG的失败，我仍然没有醒悟；直到 OCSelected 社区在我失去那家公司的政治影响力之后再也没有任何他人贡献的时候，我开始渐渐的懂了。这个错误对我的伤害是蛮大，但是也是庆幸的！ 简单的总结 这篇文章是我对于过去的一年半的创业历程总结的前哨，我需要正视自己的错误，要将自己急躁的心慢下来，脚踏实地的去慢慢实现自己的梦想！要做长远的打算，而不是冲刺的去立即实现。 是的！应该找到自己的节奏了，再随波逐流就真的老了！">
+<meta name="twitter:creator" content="@coderzh">
+<meta name="twitter:image" content="http://lijiangsheng1.github.io/public/coderzh.jpg">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="http://lijiangsheng1.github.io/posts/make_mistake_in_my_career/">
+  <link rel='shortlink' href="http://lijiangsheng1.github.io/posts/make_mistake_in_my_career/"/>
+  <link rel="shortcut icon" href="http://lijiangsheng1.github.io/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="http://lijiangsheng1.github.io/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="http://lijiangsheng1.github.io/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="http://lijiangsheng1.github.io/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="http://lijiangsheng1.github.io/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="http://lijiangsheng1.github.io/public/highlight/styles/github.css">
+<script src="http://lijiangsheng1.github.io/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="http://lijiangsheng1.github.io/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
 </head>
 
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
 
-<body class="theme-base-08">
-  
-
-
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
-
-
-<div class="sidebar" id="sidebar">
-
-  <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="http://lijiangsheng1.github.io/">Home</a>
-
-    <a class="sidebar-nav-item" href="http://lijiangsheng1.github.io/posts">Blog</a>
-  </nav>
-
-  <div class="sidebar-item">
-    <p>
-      &copy; 2014 Spencer Lyon. Powered by <a href="http://hugo.spf13.com">Hugo</a>. Design adapted from <a href="http://lanyon.getpoole.com">Lanyon</a>.
-    </p>
-  </div>
-</div>
-
-
-  
-  <div class="wrap">
-    <div class="masthead">
-      <div class="container">
-        <h3 class="masthead-title">
-          <a href="http://lijiangsheng1.github.io/posts" title="Blog">Blog Posts</a>
-        </h3>
-      </div>
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="http://lijiangsheng1.github.io/" class="nav-cs-icon">
+        <img width="40" height="40" src="http://lijiangsheng1.github.io/public/coderzh.jpg" alt="coderzh" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/">开源</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/">感悟</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/post/">归档</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
     </div>
 
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
     
-    <div class="container content">
-      <h1 class="post-title"></h1>
-        <section id="main">
-          <h5 id="date"> Mon Jan 1, 0001 </h5>
-          
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="http://lijiangsheng1.github.io/" rel="home">
+              <img style="border-radius: 50%;width:72px;height:72px;margin:0 auto;" alt="coderzh" src="http://lijiangsheng1.github.io/public/coderzh.jpg"></img>
+              适兕的博客
+            </a>
+          </h1>
+          <p class="site-description"> 如果你没有感觉到时间不够用时，你多半正在虚度光阴。 </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title"></h1>
+
+                  <p class="post-byline">
+                    by  · 0001年01月01日 · 48 Words ·
+                    ~1min reading time |
+                    <a href="https://github.com/coderzh/coderzh-hugo-blog/blob/master/content/posts/make_mistake_in_my_career.md"
+                       target="_blank">Improve on <i class="fa fa-github"></i></a>
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      
 
 <h1 id="曾经在职场中犯过的错:0bec89ab718633acb06637029ec3be98">曾经在职场中犯过的错</h1>
 
@@ -93,59 +217,183 @@
 
 <p>是的！应该找到自己的节奏了，再随波逐流就真的老了！</p>
 
-        </section>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="http://lijiangsheng1.github.io/public/qrcode.jpg" width="129px" height="129px"/>
+                        <div style="text-align:center;">微信扫一扫交流</div>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://blog.coderzh.com/">CoderZh</a>
+                            <br />微信关注：hacker-thinking （一个程序员的思考）
+                            <br />本文出处：<a target="_blank" href="http://lijiangsheng1.github.io/posts/make_mistake_in_my_career/">http://lijiangsheng1.github.io/posts/make_mistake_in_my_career/</a>
+                            <br />
+                            文章版权归本人所有，欢迎转载，但未经作者同意必须保留此段声明，且在文章页面明显位置给出原文连接，否则保留追究法律责任的权利。 </p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/coderzh" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On Twitter" rel="nofollow"
+        href="https://twitter.com/coderzh" target="_blank">
+        <i class="fa fa-twitter"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/coderzh" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="http://lijiangsheng1.github.io/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫：<br/> 关注我的公众号： <br /> hacker-thinking <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="http://lijiangsheng1.github.io/posts/mas-oyama-0/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span></span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+        <a href="http://lijiangsheng1.github.io/posts/finding_a_home_for_thunderbird/" rel="prev">
+          <i class="fa fa-chevron-left"></i>
+          <strong>Previous Post</strong>
+          <span></span>
+        </a>
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
     </div>
   </div>
-
-  <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-  
-
-<div class="container">
-  <hr />
-  <hr />
-  
-    <span class="left">
-    &nbsp; <em>&laquo; Previous:</em> <a class="next" href="http://lijiangsheng1.github.io/posts/finding_a_home_for_thunderbird/"></a>
-    </span>
-  
-
-  
-    <span class="right">
-    <em>Next: </em><a class="next" href="http://lijiangsheng1.github.io/posts/mas-oyama-0/"> &nbsp; </a> &raquo;
-    </span>
   
 </div>
 
-  <br />
-  
-<div class="container">
-  <ul class="catlist">
-    <li><em>Categories: </em></li>
-    
-  </ul>
-</div>
-
-
-
-  
-  
-
-<div class="container content">
-<footer>
-  <div>
-    <p class="right credit">
-    版权所有 <a href="http://lijiangsheng1.github.io/">Home Page</a>
-    </p>
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/">开源</a>
+          </li>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/">感悟</a>
+          </li>
+        
+      </ul>
+    </div>
   </div>
-</footer>
 </div>
 
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2016. All Rights Reserved. <br>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank">Hugo - the static site generator</a>.
+              <a rel="nofollow" href="http://golang.org" target="_blank">#golang</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/coderzh" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On Twitter" rel="nofollow"
+        href="https://twitter.com/coderzh" target="_blank">
+        <i class="fa fa-twitter"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/coderzh" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
 
+        </div>
+      </div>
 
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-10147768-2', 'auto');
+  ga('send', 'pageview');
+
+  $('#messagesbsb').remove();
+
+</script>
 </body>
 </html>
-
-
-
 
