@@ -1,50 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>开源 on 适兕的博客</title>
-    <link>http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/</link>
-    <description>Recent content in 开源 on 适兕的博客</description>
+    <title>文化 on 适兕的博客</title>
+    <link>http://lijiangsheng1.github.io/tags/%E6%96%87%E5%8C%96/</link>
+    <description>Recent content in 文化 on 适兕的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 07 May 2016 11:07:40 +0800</lastBuildDate>
-    <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>我们不能从开源本身获得盈利</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/you_can%27t_make_money_from_open_source/</link>
-      <pubDate>Sat, 07 May 2016 11:07:40 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/you_can%27t_make_money_from_open_source/</guid>
-      <description>
-
-&lt;h2 id=&#34;开源的商业模式出问题了:2962b7bcff86d3db05fac92919245cc4&#34;&gt;开源的商业模式出问题了？&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/05/money-100659960-primary.idge.jpg&#34; alt=&#34;money&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;在开放网络峰会（ONS）上，来自著名风投公司 Andreessen Horowitz 的合伙人： Peter Levine 说道：&lt;a href=&#34;https://www.linux.com/news/software-eating-networking-facebook-says-yes&#34;&gt;“开源需要商业模式”&lt;/a&gt;。之后在 OpenStack 峰会上，我偶遇了一位和 Levine 持相同观点的顾问，他的原话是：“请你告诉我哪家公司和红帽一样利用 Linux 赚了1亿美元。”&lt;/p&gt;
-
-&lt;p&gt;这是我经常听到的对于开源最为重要的问题：仅仅只有红帽在开源上赚钱了，至今依然没有出现第二家。&lt;/p&gt;
-
-&lt;p&gt;其实，我想写这样一篇文章已经很久了，但是一直没有非常充足的理由去付诸于实践，但是在经历了上述二者的对话以后，我知道是该下笔的时候了，于是就有了此文。&lt;/p&gt;
-
-&lt;h2 id=&#34;开源并非是你想的那样:2962b7bcff86d3db05fac92919245cc4&#34;&gt;开源并非是你想的那样&lt;/h2&gt;
-
-&lt;p&gt;若是有人说你根本无法从开源中获利，那可能是他们对于开源有很大的误解。&lt;/p&gt;
-
-&lt;p&gt;开源是软件开发的一种方式；它并非是一种商业模式。你不能从开源本身获得利润，你只能去围绕着开源去寻找获利的方法。&lt;/p&gt;
-
-&lt;p&gt;红帽接受这样的挑战，并改写了传统上的软件销售模式。通过为用户免费赠送软件，然后提供技术支持的方式来赚取利润。这相对于微软和其它商业公司过去的做法是一种非常大胆的行为。红帽将其所有的一切都构建在开放至上，他们的产品是免费可用的，而且还没有厂商锁定。红帽的成功向世人证明了：围绕开源的盈利模式是可行的。&lt;/p&gt;
-
-&lt;p&gt;但是，也只是红帽盈利了&amp;hellip;&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;也就是说此种模式并非是成功的。就我在 OpenStack 峰会上与那位不愿透露姓名的顾问聊天中，我说到了我在本文开始时的话题。我说会有像红帽一样成功的 Linux 公司出现的，他指出，红帽既是开源商务的开拓者也是终结者！&lt;/p&gt;
-
-&lt;p&gt;在每一个细分的行业中都有一个主导者，为何是红帽脱颖而出？&lt;/p&gt;
-
-&lt;p&gt;原文链接:&lt;a href=&#34;http://www.cio.com/article/3067352/linux/you-cant-make-money-from-open-source.html&#34;&gt;You can&amp;rsquo;t make money from open source&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Fri, 06 May 2016 08:36:54 -0700</lastBuildDate>
+    <atom:link href="http://lijiangsheng1.github.io/tags/%E6%96%87%E5%8C%96/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>为雷鸟寻找下一个家</title>
@@ -159,51 +123,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;© 2016 Mozilla Foundation&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>为什么说你的员工应该去为开源做贡献</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/why_employees_should_be_contributing_to_open_source/</link>
-      <pubDate>Fri, 06 May 2016 18:33:47 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/why_employees_should_be_contributing_to_open_source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>创业以来，我的时间都用在了什么地方？</title>
-      <link>http://lijiangsheng1.github.io/posts/where_the_time_used_since_startup/</link>
-      <pubDate>Thu, 05 May 2016 10:40:34 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/where_the_time_used_since_startup/</guid>
-      <description>&lt;p&gt;先来整理下我做的事情：&lt;/p&gt;
-
-&lt;p&gt;2014年9月～10月，是我职业生涯中最为狼狈不堪的岁月，被公司Boss质疑、被兄弟部门诬陷、被我身为信任的团队成员出卖。不提也罢，我当时做了如下几个决定：&lt;/p&gt;
-
-&lt;p&gt;0、必须攒够3万块钱。
-1、集中精力将ovirt-china开发完善
-2、练习英语过雅思。
-3、戒烟！
-4、多陪怀孕的老婆和充满阴影的孩子。&lt;/p&gt;
-
-&lt;p&gt;从2014年11月份决定辞职以后，11月份基本就是和易云的占海在纠缠不清。12月份开始作了一些交接的工作，基本就不在北京待了，开始着手忙乎着接下来的打算了，这个时候主要的思路还是集中在社区建设上！在2015年1月基本上做了如下一些内容：&lt;/p&gt;
-
-&lt;p&gt;0、评估CMS系统。
-1、学习 Mediawiki 的管理，准备亲自来管理wiki。
-2、开始着手翻译一些社区的书籍和文档：如Fuel、和OpenStack架构指南。
-3、学习了一些CSS、JS的内容，定制博客聚合。&lt;/p&gt;
-
-&lt;p&gt;注意，这个时候在撰写博客的时候，翻译了一个重要的文档，那就是：&lt;a href=&#34;http://iaaslee.blogspot.com/2015/03/blog-post.html?view=magazine&#34;&gt;通往开放云指南&amp;ndash;开放云项目简短介绍&lt;/a&gt;。 以及反思了自己作出人生重大决定的文章：&lt;a href=&#34;http://iaaslee.blogspot.com/2015/01/blog-post.html&#34;&gt;我为什么停下来&lt;/a&gt; ，我还清楚的记得我读的一本书《商业模式新构思》，于是开始自己大胆的创业之路。&lt;/p&gt;
-
-&lt;p&gt;（人都是在变化中思考并寻求解决问题的办法的。）&lt;/p&gt;
-
-&lt;p&gt;再来看看2015年2月份的流水账：&lt;/p&gt;
-
-&lt;p&gt;0、 Slideshare 上的 CultureCode ，野心是想考察硅谷的文化。这是我停下来，通过&lt;a href=&#34;http://iaaslee.blogspot.com/2015/02/culturecode.html&#34;&gt;意淫来向往一番&lt;/a&gt;。
-1、开始根据开放云、自己的经验、以及团队的臆想，开始&lt;/p&gt;
-
-&lt;p&gt;多谢 Google 日历！&lt;/p&gt;
 </description>
     </item>
     

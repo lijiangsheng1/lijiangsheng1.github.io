@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>翻译 on 适兕的博客</title>
+    <link>http://lijiangsheng1.github.io/tags/%E7%BF%BB%E8%AF%91/</link>
+    <description>Recent content in 翻译 on 适兕的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2016. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 06 May 2016 18:33:47 +0800</lastBuildDate>
+    <atom:link href="http://lijiangsheng1.github.io/tags/%E7%BF%BB%E8%AF%91/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>为什么说你的员工应该去为开源做贡献</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/why_employees_should_be_contributing_to_open_source/</link>
+      <pubDate>Fri, 06 May 2016 18:33:47 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/why_employees_should_be_contributing_to_open_source/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
