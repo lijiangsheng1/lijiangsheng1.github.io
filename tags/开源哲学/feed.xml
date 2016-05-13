@@ -11,7 +11,7 @@
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E5%93%B2%E5%AD%A6/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>为雷鸟寻找下一个家</title>
+      <title>为雷鸟寻找新的东家</title>
       <link>http://lijiangsheng1.github.io/posts/finding_a_home_for_thunderbird/</link>
       <pubDate>Fri, 06 May 2016 08:36:54 -0700</pubDate>
       
@@ -95,34 +95,155 @@
 
 &lt;p&gt;在本报告中，我所提到的“开源”、”自由软件“、和“FOSS/FLOSS”在不同的上下文中是可以互换的。&lt;/p&gt;
 
-&lt;h2 id=&#34;雷鸟的未来:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;雷鸟的未来&lt;/h2&gt;
+&lt;h2 id=&#34;雷鸟的新东家:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;雷鸟的新东家&lt;/h2&gt;
 
 &lt;h3 id=&#34;执行概要:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;执行概要&lt;/h3&gt;
 
-&lt;h3 id=&#34;自由软件保护协会:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;自由软件保护协会&lt;/h3&gt;
+&lt;p&gt;有了下面所列出来的目的地以及其它几个较有前途的基金会的比较，我大概可以估计出有三家是有可能成为雷鸟的新家的，它们是：自由软件保护协会、文档基金会、和 Mozilla 基金会产生新的交易。在此三家中，没有任何一家能够是脱颖而出，将其它二者比下去的。而且还有可能寻求迁移到“雷鸟基金会”来作为自己永久的家，（虽然是我建议的接下来的事情）。在这三家备选的基金会中，接下来要做的就是做计划，然后让 Mozilla 基金会的董事们做决策。这三家的选择上，需要考虑的关键因素有：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;自由软件保护协会:
+
+&lt;ul&gt;
+&lt;li&gt;早就同意接纳雷鸟&lt;/li&gt;
+&lt;li&gt;有着成熟的管理团队&lt;/li&gt;
+&lt;li&gt;支持雷鸟未来成熟后单飞&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;文档基金会:
+
+&lt;ul&gt;
+&lt;li&gt;总部在德国，哪里有着全球最大的雷鸟用户的本地社区。&lt;/li&gt;
+&lt;li&gt;已经托管了非常大型的面向最终用户的项目（LibreOffice）&lt;/li&gt;
+&lt;li&gt;有着成熟的管理团队&lt;/li&gt;
+&lt;li&gt;有着成功吸引大规模投资的经验&lt;/li&gt;
+&lt;li&gt;有着很好的围绕项目构建商业生态系统的经验&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Mozilla 基金会
+
+&lt;ul&gt;
+&lt;li&gt;雷鸟现在的东家，也是提议出卖雷鸟的组织，这其中有个严重的问题，那就是这一切都需要一个全新的安排。&lt;/li&gt;
+&lt;li&gt;现有的团队目前主要将精力集中在开放的互联网宣传和领导力发展上了，无暇顾及雷鸟的死活，而且不会设置管理大型的软件项目&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;软件自由保护协会:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;软件自由保护协会&lt;/h3&gt;
+
+&lt;h4 id=&#34;摘要:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;总部在美国的一家非盈利机构，其使命是为自由软件项目提供服务。协会愿意托管雷鸟。&lt;/p&gt;
+
+&lt;h4 id=&#34;细节:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;细节&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;此协会是完成整个应用过程的雷鸟委员会最初所接洽的组织。&lt;/li&gt;
+&lt;li&gt;该协会的评定委员会已经批准了雷鸟作为其一个新的成员&lt;/li&gt;
+&lt;li&gt;该协会组织的&lt;a href=&#34;https://sfconservancy.org/about/&#34;&gt;概况&lt;/a&gt;：
+
+&lt;ul&gt;
+&lt;li&gt;是一家驻扎在纽约市的典型的美国 501&amp;copy;(3) 免税的非盈利的公共慈善机构，是软件自由律师中心于2006年&lt;a href=&#34;https://web.archive.org/web/20060409104339/http://biz.yahoo.com/prnews/060403/sfm105.html&#34;&gt;创建&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;董事会构成，其成员是自我延续的，（由&lt;a href=&#34;https://sfconservancy.org/about/board/&#34;&gt;现有的成员&lt;/a&gt;来选择），以及现有的&lt;a href=&#34;https://sfconservancy.org/about/officers/&#34;&gt;官员&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;项目&lt;a href=&#34;https://sfconservancy.org/about/eval-committee/&#34;&gt;评审委员会&lt;/a&gt;由董事会特许，而且授权后方能承认新的项目。&lt;/li&gt;
+&lt;li&gt;有专门的&lt;a href=&#34;https://sfconservancy.org/about/staff/&#34;&gt;员工&lt;/a&gt;，负责业务操作、法律事务和项目指导。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sfconservancy.org/members/current/&#34;&gt;已经拥有一些项目&lt;/a&gt;（目前为33个），均是该协会的客户。这些项目主要的活动还是代码开发，不过有几个项目是没有任何的代码活动的。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;该保护协会为项目提供行政和法律&lt;a href=&#34;https://sfconservancy.org/members/services/&#34;&gt;服务&lt;/a&gt;，其官方&lt;a href=&#34;https://sfconservancy.org/about/&#34;&gt;描述&lt;/a&gt;的使命是：&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;保护协会提供非盈利的托管和基础设施，用于 FLOSS 项目，这可以让 FLOSS 的开发者们专注于发挥自己的特长－－为通用的公共的 FLOSS 撰写和改进 －保护协会提供项目的所需，即那些和项目的开发和文档没有直接关系的东西。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;协会的主要资金来自于捐赠，少数来自于诸如举办会议的服务回报，这都是根据它们的&lt;a href=&#34;https://sfconservancy.org/docs/conservancy_Form-990_fy-2013.pdf&#34;&gt;纳税申报&lt;/a&gt;得出的结果。它们目前的营业额是100万美元。&lt;/li&gt;
+&lt;li&gt;该协会托管了各式各样的项目，具有各种不同的支持需求和收入模式，其中包括赠送、学术经费、捐赠、以及赞助等资助模式。&lt;/li&gt;
+&lt;li&gt;项目可能会有一个60天移出的通知，该协会历史上有两个非常成功的移出的项目，它们是：&lt;a href=&#34;http://mifos.org/&#34;&gt;Mifos&lt;/a&gt;和 JQuery。&lt;/li&gt;
+&lt;li&gt;该协会早已托管了一个电子邮件项目：&lt;a href=&#34;http://bongo-project.org/&#34;&gt;Bongo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;若是雷鸟入住该协会，则雷鸟为该协会最大的项目之一，无论是项目的参与者，还是潜在的财政。&lt;/li&gt;
+&lt;li&gt;对于每个入驻的项目都会进行治理审查和进入评估，所以重新设计是必须的。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;太感谢软件自由保护协会的帮助了，尤其是其执行总监 Karen Sandler，提出了很多建设性的意见。&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;文档基金会-http-documentfoundation-org-tdf:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;&lt;a href=&#34;http://documentfoundation.org&#34;&gt;文档基金会&lt;/a&gt;（TDF）&lt;/h3&gt;
+
+&lt;h4 id=&#34;摘要-1:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;一家德国的国际非盈利机构，有意要托管雷鸟。这里要提醒一点的就是不要和 LibreOffice 扯上任何的关系，LibreOffice 是 TDF 的另外一个著名项目。&lt;/p&gt;
+
+&lt;h4 id=&#34;细节-1:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;细节&lt;/h4&gt;
+
+&lt;p&gt;*&lt;/p&gt;
+
+&lt;h3 id=&#34;mozilla-基金会-mofo:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;Mozilla 基金会 (MoFo)&lt;/h3&gt;
+
+&lt;h4 id=&#34;摘要-2:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;摘要&lt;/h4&gt;
+
+&lt;p&gt;MoFo 是一家美国非盈利公共慈善机构 (“501&amp;copy;(3)”)，有兼容目的，有意打算扮演一个组织的角色来托管独立的雷鸟项目。&lt;/p&gt;
+
+&lt;h4 id=&#34;细节-2:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;细节&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;MoFo 有意打算扮演一个组织的角色来托管独立的雷鸟项目。这并不表示会维持项目的现状;它只是意味着 MoFo 充当举办这样的文档中的其他侯选。&lt;/li&gt;
+&lt;li&gt;这样接管以后，MoFo 对待雷鸟不会像原来那样亲儿子一样，而是将雷鸟视为独立的项目，只是由 Mozilla 托管的由志愿者运营的项目罢了，而且希望雷鸟自己解决资金问题。&lt;/li&gt;
+&lt;li&gt;MoFo 将保留和管理雷鸟的商标。&lt;/li&gt;
+&lt;li&gt;技术管理也不在这个范畴之内。所以社区需要重新规划项目托管、仓库管理、构建、发布、以及下载等。一些标准的基础设施如 EtherPad、IRC 等可能雷鸟会继续使用，只要标准配置能够满足其需求。&lt;/li&gt;
+&lt;li&gt;MoFO 愿意提供技术来支持日渐增长的资助，并且会处理必要的管理开销，尽管所有的之处都要遵守 MoFo 的规定，因为 MoFo 需要保护其非盈利的状态。&lt;/li&gt;
+&lt;li&gt;项目将负责招聘、管理、以及任何相关的员工，MoFo 将不会提供任何的人力资源服务。尽管其会提供 Mozilla 的办公室以让项目相关的办公人员入驻。&lt;/li&gt;
+&lt;li&gt;雷鸟项目需要独立于 MoFo，并实现自身的治理结构。&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;其它基金会&lt;/p&gt;
 
 &lt;h3 id=&#34;gnome-基金会:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;GNOME 基金会&lt;/h3&gt;
 
-&lt;h3 id=&#34;http-www-spi-inc-org-spi:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;[](&lt;a href=&#34;http://www.spi-inc.org)（SPI）&#34;&gt;http://www.spi-inc.org)（SPI）&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;实体：美国非盈利公共慈善机构 (“501&amp;copy;(3)”)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;我曾花了很长一段时间，近距离的参与了 Gnome 董事会们讨论接管雷鸟的可能性，虽然有多名成员对雷鸟表现出明显的兴趣和同情，但是时机不对，现在 Gnome 还没有准备好给如何应对这么一个明显变化。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;大众软件-http-www-spi-inc-org-spi:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;&lt;a href=&#34;http://www.spi-inc.org&#34;&gt;大众软件&lt;/a&gt;（SPI）&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;实体：美国非盈利公共慈善机构 (“501&amp;copy;(3)”)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;apache-软件基金会-http-apache-org:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;&lt;a href=&#34;http://apache.org&#34;&gt;Apache 软件基金会&lt;/a&gt;&lt;/h3&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;实体：美国非盈利公共慈善机构 (“501&amp;copy;(3)”)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ASF 并未表示有意托管雷鸟。&lt;/li&gt;
+&lt;li&gt;ASF 托管开源项目是有自己的一套测试和理解的方法的，而且已经成功的托管了很多实用的和重要的&lt;a href=&#34;http://www.apache.org/index.html#projects-list&#34;&gt;项目&lt;/a&gt;。主要都是解决基础设施需求的。&lt;/li&gt;
+&lt;li&gt;ASF 的组织和流程都透露出平等和精英主义，而且会保证每个参与的项目可以以任何理由来使用 Apache 的代码，包括专有的盈利模式。&lt;/li&gt;
+&lt;li&gt;按照 ASF 的规矩，雷鸟将在开始的时候进入 Apache 的&lt;a href=&#34;http://incubator.apache.org/&#34;&gt;孵化项目&lt;/a&gt;中，若要成为 Apache 的顶级项目（TLP）的话，要遵循其写的非常&lt;a href=&#34;http://incubator.apache.org/incubation/Incubation_Policy.html&#34;&gt;详细的文档&lt;/a&gt;，其中包括：
+
+&lt;ul&gt;
+&lt;li&gt;雷鸟的所有代码都需要重新以&lt;a href=&#34;http://www.apache.org/licenses/LICENSE-2.0&#34;&gt;Apache许可证&lt;/a&gt;分发，这些是不可转让的，而且若有的代码不能重新许可分发，无论何种理由都会被删除。&lt;/li&gt;
+&lt;li&gt;所有的雷鸟贡献者都需签署&lt;a href=&#34;http://www.apache.org/licenses/icla.txt&#34;&gt;个人贡献者许可协议&lt;/a&gt;。而且雷鸟项目所雇佣的员工可能要签署&lt;a href=&#34;http://www.apache.org/licenses/cla-corporate.txt&#34;&gt;CCLA&lt;/a&gt; 。&lt;/li&gt;
+&lt;li&gt;雷鸟需要迁移到 ASF 的基础设施环境中。&lt;/li&gt;
+&lt;li&gt;雷鸟所有的商标都要捐赠给 ASF，或者项目更改名称。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;一旦成为 Apache 的顶级项目的话，雷鸟将不被允许其自己去增加资助，由 Apache 这个中央枢纽来掌管钱财，然后按需分配。&lt;/li&gt;
+&lt;li&gt;Apache 的项目绝大多数都是服务器、开发者、以及基础设施方面的项目，面向最终用户的项目很少（如 OpenOffice 就是个例外）。Apache 的流程并没有针对面向最终用户的项目进行适当的调整。&lt;/li&gt;
+&lt;li&gt;Apache  是一个源代码的社区，尽管有些项目也会提供“便利的二进制文件”，但是并非是一个 ASF 官方认可的流程。大规模的分发这些二进制文件不是 ASF 所关心的，Apache OpenOffice 的使用的是 SourceForge 来分发的。&lt;/li&gt;
+&lt;li&gt;Apache 很可能会自己雇佣员工来开发雷鸟。&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&#34;雷鸟基金会:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;“雷鸟基金会”&lt;/h3&gt;
 
-&lt;p&gt;__ 还没有成立，但是这是一个具有投机性质的结果 __&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;还没有成立，但是这是一个具有投机性质的结果&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;设在美国或欧洲，以一个慈善为目的的法律实体的形式呈现。
-*&lt;/li&gt;
+&lt;li&gt;设在美国或欧洲，以一个慈善为目的的法律实体的形式呈现。&lt;/li&gt;
+&lt;li&gt;项目的每一个参与者都得考虑，在介绍中所列出的所有考虑的必须在此新的实体中有所回应。&lt;/li&gt;
+&lt;li&gt;创建一个新的实体去尝试解决雷鸟和其社区当前面临的所有问题，让其符合法律规章制度和章程的绑定。这些最好是在所有问题解决之后进行，而不是没有解决完问题之前进行。&lt;/li&gt;
+&lt;li&gt;考虑到所有这些事情，我本人并不建议将此当作雷鸟到首选。然而，若是将来雷鸟和它的新主人再次面临分家时，对于其自身的独立是非常的有益处的。若是有能力这么做的话，确实是在选择新家时应该考虑的。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;© 2016 Mozilla Foundation&lt;/p&gt;
+
+&lt;h2 id=&#34;译者写在后面:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;译者写在后面&lt;/h2&gt;
+
+&lt;p&gt;开源绝非是仅仅将代码开放就可以的，社区的建设是至关重要的一步。以个人的经验来讲，开发者参与到社区的机会，几乎都是1:1的关系的，能力和时间较强的人可能是2或3:1，那么作为社区的角度来讲，其实也就是吸引开发者的过程。本文给出了非常宽阔的视野，来考虑社区建设的方方面面。译者还是受益匪浅的！ 相比之前对于开源的认识，总还是不够的，能力也需要提高。&lt;/p&gt;
 </description>
     </item>
     
