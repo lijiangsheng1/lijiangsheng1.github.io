@@ -91,6 +91,144 @@
     </item>
     
     <item>
+      <title>精心布局的开源</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/open_by_design/</link>
+      <pubDate>Tue, 10 May 2016 19:35:45 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/open_by_design/</guid>
+      <description>
+
+&lt;h2 id=&#34;由开源和开放治理所带来的云计算的转变:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;由开源和开放治理所带来的云计算的转变&lt;/h2&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.oreilly.com/learning/open-by-design&#34;&gt;Open By Design&lt;/a&gt;，作者：&lt;a href=&#34;https://www.oreilly.com/people/6e78b-philip-estes&#34;&gt;Philip Estes&lt;/a&gt;和&lt;a href=&#34;https://www.oreilly.com/people/3ec19-doug-davis&#34;&gt;Doug Davis&lt;/a&gt;，写于2016年1月26日&lt;/p&gt;
+
+&lt;h2 id=&#34;介绍:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;介绍&lt;/h2&gt;
+
+&lt;p&gt;如果说&lt;a href=&#34;http://www.aberdeeninvestment.com/wp-content/uploads/2009/11/Why-Software-Is-Eating-The-World-8-20-111.pdf&#34;&gt;软件正在慢条斯理的将这个世界吃掉&lt;/a&gt;的话，那么我们可以毫不夸张的说开源软件正在吞噬世界。现在的开源可不像十几年前那样，几乎无人问津，现在到处都在谈论开源（对于入门者来说，看看讲解 Linux 丰富的历史吧），据统计，无论是社区参与、代码提交行数，还是企业参与、收入的影响，都以惊人的速度上升。举个例子，在2015年8月份举办的北美 LinuxCon 会场，Linux 基金会介绍说，仅仅是旗下的子项目就有六千四百万行代码的提交，这并没有包括 Linux 本身！这些提交来自成百上千的独立的贡献者，从学生到服务于公司的工程师，据粗略的估价，这些代码的软件是已经超过50多亿美元的软件项目。&lt;/p&gt;
+
+&lt;p&gt;虽然目前开源已经深入人心，但是我们这里要探讨的更加的耐人寻味，因为开源已经不再仅仅是指传统意义上的将代码仓库公开访问，以及以某种开源许可证来分发。开源还意味着由开放治理和合作基金会来管理，使得来自世界各地的开发人员能够协同起来，一起解决来自围绕云计算的挑战：从基础设施服务，到平台、应用的打包，乃至日益扩展的 Web 产品的交付和运维。&lt;/p&gt;
+
+&lt;p&gt;这场开源的革命改变了人们的看法，也让企业开始思考自己的软件产品应该如何开发，尤其是企业为其用户提供云计算的解决方案时，这一影响更加的凸显。我们发现在这个新的开放的时代，它本身就是在培养一种开放的思维以及开放的合作，目标是那些在自己的企业中已经习惯于封闭开发的大量的有经验的开发者们，而且，我们现在越来越多的软件的设计使用开放的原则，就云计算具体来说，企业传统的做法就是“自己滚起来”。我们称这个新的时代为：精心布局的开源。&lt;/p&gt;
+
+&lt;h2 id=&#34;开源-历史回顾:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开源：历史回顾&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源是什么:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开源是什么？&lt;/h3&gt;
+
+&lt;p&gt;为了能够充分的讨论开源这个主题，我们首先需要做的是先澄清此一名词的概念。首先我们会定义一个基准，然后，我们回顾开源的历史，它是如何出现的？为什么会出现？在此过程，我们会遵循在多个行业的开发过程和软件领域中，以成熟的、可行的、有一定价值的组件来说明问题。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;N.B.: Open 这个词，确实是最近几年变化非常大的一个词，近来还读了另外一篇文章&lt;a href=&#34;http://firstmonday.org/ojs/index.php/fm/article/view/6360/5460&#34;&gt;Fifty shades of open&lt;/a&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;首先，开放源代码促进会的&lt;a href=&#34;http://opensource.org/definition&#34;&gt;开源的十个定义&lt;/a&gt;对于我们理解起开源是非常有意义的。其中一个至为重要的真相就是说能够访问源代码是必要的！但是仅仅是源代码开放就说它是开源软件是远远不够的。正如开源促进会所澄清的，能够访问源代码仅仅是入门级，需要进一步的能够再次分发软件，－原有的和修改过的－以及删除了一些代码的情况所造成的不同，乃至于不同的人们，如用户和开发者。最有价值的或者是一文不值的开源项目在多个方面都会有摩擦，如代码访问、代码共享、以及自由的使用和分发，允许任何人和任何组织去轻易使用和修改。&lt;/p&gt;
+
+&lt;h3 id=&#34;大众化和商业化:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;大众化和商业化&lt;/h3&gt;
+
+&lt;h3 id=&#34;瓦解:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;瓦解&lt;/h3&gt;
+
+&lt;p&gt;不管它们是否能够理解，当下大多数的消费者都在使用开源软件。即使消费者仅有一点点的技术意识，也会在不知不觉中受益于开源。这些最终用户获益的最大的来源就是通过面向消费者的设备实现的，从 GPS 单元、到家庭无线路由器、再到诸如 Roku 和 Chromecast 这样的流设备。作为开源项目最好的案例－Android ，每天全球有几十亿用户通过智能电话和平板电脑在使用它。即使是在个人电脑上的商业操作系统之中，人们也在使用诸如 Firefox 和 Chrome 这样的开源项目，而且是与日俱增。让我们从个人用户往后推点，看看托管供应商，Apache web 服务仍然是 web 服务器的老大，尽管现在有了新的竞争对手－Nginx，但是 Nginx 依然一款开源的项目。在 Web 的内容方面，我们必须得提一下非常流行的内容管理系统 WorkPress，开源的内容管理平台，每天承载着上百万的博客提交和撰写，其中多数的人们对于平台之后运行的开源一无所知。&lt;/p&gt;
+
+&lt;p&gt;基于这样一个常识－开源软件几乎渗透于软、硬件的各个系统的层次！让我们回顾一下在过去的15年，开源是如何逐个瓦解各个关键领域的。&lt;/p&gt;
+
+&lt;h3 id=&#34;服务器操作系统:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;服务器操作系统&lt;/h3&gt;
+
+&lt;h3 id=&#34;web-服务器:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;web 服务器&lt;/h3&gt;
+
+&lt;h3 id=&#34;移动设备:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;移动设备&lt;/h3&gt;
+
+&lt;h3 id=&#34;虚拟化:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;虚拟化&lt;/h3&gt;
+
+&lt;p&gt;在1999年 VMware WorkStation 出现之前，软件 Hypervisor 早已存在了好多年了，但是是作为那些非常昂贵的企业服务器的一个部分存在的，即那些如 IBM、HP、以及 Sun 的大型机，工作在这里的工程师们从来没有想过有谁能够改变他们的职业生涯。然而，当 VMware WorkStation 出现以后，这一切都改变了。在任意的笔记本或个人电脑上的 Windows 系统中可以看到 BIOS 的启动！这是多么的令人惊奇和兴奋！在接下来的十多年，虚拟化都是炙手可热的技术点：不仅仅是因为它能够轻松的将原来物理服务器转换为虚拟机，使整个的应用更加的容易备份、配置和迁移，还有它能够在同一台服务器上将大型的不同的负载完全的隔离起来的全新方法，而这是数据中心运维模式的巨大转变。&lt;/p&gt;
+
+&lt;p&gt;从VMware 发布 WorkStation后，没过多久，开源社区在虚拟化这一领域也有了新的突破。Xen Hypervisor 在2003年横空出世，它为Linux提供了半虚拟化的内核；加上 QEMU 模拟器软件的搭配，形成了完善的虚拟化解决方案，而且它还在不断的发展，新的功能和特性与日俱增，如提供非 X86 架构，例如 Power 架构，如 ARM。或许读者你对老牌的公有云提供商 亚马逊 web 服务（AWS）非常的熟悉，这家公司就是在2006年开始为用户提供虚拟化的计算能力的，但是你可能不会知道，AWS 运行虚拟机使用的技术就是 Xen Hypervisor！&lt;/p&gt;
+
+&lt;p&gt;在开源界还有另外一款 Hypervisor，在十多年前，一家名叫 Qumranet 的以色列创业公司，开发了一款基于硬件虚拟化的 Hypervisor，它就是后来大名鼎鼎的 KVM。利用 Intel VT-x（或 AMD－V）的硬件辅助虚拟化技术。KVM 在2007 被合并到 Linux 内核；2008年红帽又将 Qumranet 收购；在那之后，KVM 迅速崛起，很多发行版都开始支持它，成为了主流的 Hypervisor，而且也是很多企业级 Linux 的虚拟化产品，诸如 红帽企业级虚拟化（RHEV）、IBM 的 PowerKVM等。（PowerKVM 是基于 IBM Open Power 硬件平台的，操作系统为 Linux）。&lt;/p&gt;
+
+&lt;h3 id=&#34;云计算:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;云计算&lt;/h3&gt;
+
+&lt;h2 id=&#34;开放治理-基金会模式:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放治理： 基金会模式&lt;/h2&gt;
+
+&lt;h3 id=&#34;超越开源:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;超越开源&lt;/h3&gt;
+
+&lt;h3 id=&#34;基金会的崛起:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;基金会的崛起&lt;/h3&gt;
+
+&lt;p&gt;让我们先来看几个较为著名的基金会，以及在特定社区所扮演的角色。通过对这些基金会的快速遍历，希望可以更好的理解他们，看他们如何通过开放基金会的模式来分享愿景以及是如何开展神曲工作的。&lt;/p&gt;
+
+&lt;h4 id=&#34;apache-软件基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Apache 软件基金会&lt;/h4&gt;
+
+&lt;h4 id=&#34;linux-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Linux 基金会&lt;/h4&gt;
+
+&lt;p&gt;Linux 基金会在2007年成立，由原开源开发实验室（OSDL）和 自由标准协会（FSG）合并而成。目的是提供发行版中立的发展和加强 Linux 操作系统及其相关的技术。据其&lt;a href=&#34;http://www.linuxfoundation.org/about&#34;&gt;官方网站&lt;/a&gt;的说法：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Linux 基金会旨在保护和激励自由的理念，通过 Linux 开发来加强合作。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;linux-基金会合作项目:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Linux 基金会合作项目&lt;/h4&gt;
+
+&lt;h4 id=&#34;cloud-foundry-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Cloud Foundry 基金会&lt;/h4&gt;
+
+&lt;h4 id=&#34;开放容器促进会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放容器促进会&lt;/h4&gt;
+
+&lt;h4 id=&#34;node-js-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Node.js 基金会&lt;/h4&gt;
+
+&lt;h4 id=&#34;云原生计算基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;云原生计算基金会&lt;/h4&gt;
+
+&lt;h4 id=&#34;openstack-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;OpenStack 基金会&lt;/h4&gt;
+
+&lt;h4 id=&#34;其它开源的基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;其它开源的基金会&lt;/h4&gt;
+
+&lt;h3 id=&#34;其它-的开源-开放标准:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;“其它”的开源：开放标准&lt;/h3&gt;
+
+&lt;h3 id=&#34;开放治理-合作的重要性:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放治理：合作的重要性&lt;/h3&gt;
+
+&lt;h4 id=&#34;开放云的合作:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放云的合作&lt;/h4&gt;
+
+&lt;h4 id=&#34;通过开放治理成功合作:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;通过开放治理成功合作&lt;/h4&gt;
+
+&lt;h3 id=&#34;案例-封闭标准以及私有的api:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;案例：封闭标准以及私有的API&lt;/h3&gt;
+
+&lt;h4 id=&#34;封闭标准-云基础设施管理接口:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;封闭标准：云基础设施管理接口&lt;/h4&gt;
+
+&lt;h4 id=&#34;私有-api-eucalyptus:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;私有 API：Eucalyptus&lt;/h4&gt;
+
+&lt;h3 id=&#34;案例-开源构建的开放云:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;案例：开源构建的开放云&lt;/h3&gt;
+
+&lt;h4 id=&#34;openstack:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;OpenStack&lt;/h4&gt;
+
+&lt;h4 id=&#34;cloud-foundry:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Cloud Foundry&lt;/h4&gt;
+
+&lt;h4 id=&#34;docker:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Docker&lt;/h4&gt;
+
+&lt;h3 id=&#34;案例-开放基金会扩展了云的协作:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;案例：开放基金会扩展了云的协作&lt;/h3&gt;
+
+&lt;h4 id=&#34;开放容器促进会-1:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放容器促进会&lt;/h4&gt;
+
+&lt;h4 id=&#34;云原生计算基金会-1:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;云原生计算基金会&lt;/h4&gt;
+
+&lt;h3 id=&#34;请在开放云中站稳您的脚跟:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;请在开放云中站稳您的脚跟&lt;/h3&gt;
+
+&lt;h3 id=&#34;总结:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;总结&lt;/h3&gt;
+
+&lt;p&gt;我们深信开放云的未来就是开放的精心布局。&lt;/p&gt;
+
+&lt;h4 id=&#34;作者简介:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;作者简介：&lt;/h4&gt;
+
+&lt;h5 id=&#34;philip-estes-https-www-oreilly-com-people-6e78b-philip-estes:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;&lt;a href=&#34;https://www.oreilly.com/people/6e78b-philip-estes&#34;&gt;Philip Estes&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Philip 在 IBM 开放云技术团队担任高级技术组成员的职位，目前代表 IBM 在 Docker 开源社区，亦是 Docker 的核心维护者。Philip 还和 IBM 的产品团队以及客户管理一起共事过，将开源的云技术转化为实际的产品、解决方案和 IT 项目。Phil 的成员团队均工作在关键的开源云项目的上游，如 OpenStack、Cloud Foundry、Docker等。在 Phil 加入开放云团队之前，Phil 是 IBM Linux 技术中心的首席架构师。&lt;/p&gt;
+
+&lt;h5 id=&#34;doug-davis-https-www-oreilly-com-people-3ec19-doug-davis:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;&lt;a href=&#34;https://www.oreilly.com/people/3ec19-doug-davis&#34;&gt;Doug Davis&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Doug Davis 在 IBM 的开源云和标准部门工作。他在开源和标准这个细分的领域内有超过15年的工作经验，曾经参与过过个现下非常流行的研究标准，诸如 Apache SOAP &amp;amp; Axis、围绕 Web 服务／SOAP 的 W3C 和 OASIS 标准、OpenStack、Cloud Foundry、以及最近参与的 Docker、OCI、和 CNCF。他还是 WSTF 的创始人，WSTF 是基于 Web Service 的内部操作机制的实现，地址是&lt;a href=&#34;http://soaphub.org&#34;&gt;http://soaphub.org&lt;/a&gt;，并有多个企业使用此实现来做他们的实时协作。&lt;/p&gt;
+
+&lt;h2 id=&#34;译者写在后面:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;译者写在后面&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://iaaslee.blogspot.com/2015/03/blog-post.html?view=magazine&#34;&gt;通往开放云指南&amp;ndash;开放云项目简短介绍&lt;/a&gt;，这篇文章是我职业生涯的转折点，令我热血沸腾的开始了自己的创业之路；但是本篇将我的创业梦敲醒，让我回到了残酷的现实！我似乎玩大了，&lt;a href=&#34;http://www.ocselected.com&#34;&gt;开放云精选&lt;/a&gt;的野心是 IBM 开放云团队的目标！ 我看起来似乎毫无希望！没有团队、没有钱，有的就是似乎是人家的想法。接下来该如何走？我陷入了深思。。。。。。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>我们无法从开源本身获利</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/you_can%27t_make_money_from_open_source/</link>
       <pubDate>Sat, 07 May 2016 11:07:40 +0800</pubDate>
