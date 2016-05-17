@@ -7,8 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 14 May 2016 08:01:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 May 2016 23:04:20 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VAR Guy 在2008年遴选出来的50家开源公司，现在是什么状况？</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/where_they_are_now_top_50_open_source_company/</link>
+      <pubDate>Mon, 16 May 2016 23:04:20 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/where_they_are_now_top_50_open_source_company/</guid>
+      <description>&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/var-guys-top-50-open-source-companies-where-are-they-now&#34;&gt;The VAR Guy&amp;rsquo;s Top 50 Open Source Companies: Where Are They Now?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;N.B.: 可能原网站的内容已经无法访问，不知是何缘故。或许用 Google 能找到其它的转载，请读者自行处理。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在大约7年前，VAR Guy 发布了&lt;a href=&#34;http://thevarguy.com/var-guy/var-guys-open-source-50&#34;&gt;开源50强&lt;/a&gt;的报道，报道中谈及的都是当年在开源公司的先行者，这几年，开源界早已发生了翻天覆地的变化，是时候将他们拿出来再捋一捋了。看看他们现在都过得怎么样？&lt;/p&gt;
+
+&lt;p&gt;先声明一点，这里列出来的过去的50强开源公司（按字母顺序），也在一定程度上反映了新的趋势－诸如云计算、移动、大数据、物联网、容器以及&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/was-2015-year-when-open-source-software-finally-won&#34;&gt;已经被大众广泛认可的开源&lt;/a&gt;。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.acquia.com/partners&#34;&gt;Acquia&lt;/a&gt;：如果聪明的读者您对于 Wordpress 的认识不止于其就是开源中唯一的 CMS 的话，就应该去关注下这家公司。Acquia 是一家基于 Drupal 交付商业的支持，拥有非常活跃的商业伙伴。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.actuate.com/home/&#34;&gt;Acutate&lt;/a&gt;: 致力于数据分析的公司，提供诸如数据可视化、客户通信管理等，在过去的几年颇受大数据解决方案的演化影响。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.alfresco.com/partners/&#34;&gt;Alfresco 软件有限责任公司&lt;/a&gt;：仍然标榜自己是替代商业内容管理的开源方面的领导者，据报告称，其拥有1800个客户、1千一百万用户、70亿的文档，并指出与2012年相比，业务翻了一番。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.astaro.com/&#34;&gt;Astraro 公司&lt;/a&gt;：一度将自己定位为开源实现的统一威胁管理系统（UTM），现在则被&lt;a href=&#34;http://www.sophos.com/&#34;&gt;Sophos&lt;/a&gt;完全收购，Sophos 是一家面向消费者的安全和反病毒厂商。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.canonical.com/&#34;&gt;Canonical&lt;/a&gt;：在2012年的时候，我们非常的想知道作为重要的 Linux 供应商之一，在云计算越来越重要的时候，选择在移动领域发力。过去了这几年，事实证明了它的路没有错。Canonical 目前除交付传统意义上的Linux操作系统之外，还交付平板电脑和智能手机操作系统，而且它还努力的去适应物联网，而对于物联网来说，我们也真诚的希望它能够有所突破。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.clearcenter.com/&#34;&gt;Clearcenter&lt;/a&gt;: 现在在走超融合基础设施和混合计算路线，通过为复杂数据中心交付中心化的管理平台来实现这一目的，即当下流行的云计算、混杂着传统遗留的系统，ClearCenter 是比较擅长这个。&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:9fedda20bd274b70d4a929427727e603:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:9fedda20bd274b70d4a929427727e603:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cleversafe.com/&#34;&gt;Cleversafe&lt;/a&gt;：
+8.
+9.
+10.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:9fedda20bd274b70d4a929427727e603:1&#34;&gt;译者注：没有调查过此公司的历史，但是这个看起来很像是软广告。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:9fedda20bd274b70d4a929427727e603:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>空手道晋级之橙带杠一日常训练</title>
