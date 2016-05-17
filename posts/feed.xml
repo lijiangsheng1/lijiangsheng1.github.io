@@ -11,12 +11,14 @@
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>VAR Guy 在2008年遴选出来的50家开源公司，现在是什么状况？</title>
+      <title>VAR Guy 在2008年遴选出来的 top 50开源公司，现在是什么状况？</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/where_they_are_now_top_50_open_source_company/</link>
       <pubDate>Mon, 16 May 2016 23:04:20 +0800</pubDate>
       
       <guid>http://lijiangsheng1.github.io/posts/opensource/where_they_are_now_top_50_open_source_company/</guid>
-      <description>&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/var-guys-top-50-open-source-companies-where-are-they-now&#34;&gt;The VAR Guy&amp;rsquo;s Top 50 Open Source Companies: Where Are They Now?&lt;/a&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/var-guys-top-50-open-source-companies-where-are-they-now&#34;&gt;The VAR Guy&amp;rsquo;s Top 50 Open Source Companies: Where Are They Now?&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;N.B.: 可能原网站的内容已经无法访问，不知是何缘故。或许用 Google 能找到其它的转载，请读者自行处理。&lt;/strong&gt;&lt;/p&gt;
 
@@ -31,11 +33,61 @@
 &lt;li&gt;&lt;a href=&#34;http://www.astaro.com/&#34;&gt;Astraro 公司&lt;/a&gt;：一度将自己定位为开源实现的统一威胁管理系统（UTM），现在则被&lt;a href=&#34;http://www.sophos.com/&#34;&gt;Sophos&lt;/a&gt;完全收购，Sophos 是一家面向消费者的安全和反病毒厂商。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.canonical.com/&#34;&gt;Canonical&lt;/a&gt;：在2012年的时候，我们非常的想知道作为重要的 Linux 供应商之一，在云计算越来越重要的时候，选择在移动领域发力。过去了这几年，事实证明了它的路没有错。Canonical 目前除交付传统意义上的Linux操作系统之外，还交付平板电脑和智能手机操作系统，而且它还努力的去适应物联网，而对于物联网来说，我们也真诚的希望它能够有所突破。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.clearcenter.com/&#34;&gt;Clearcenter&lt;/a&gt;: 现在在走超融合基础设施和混合计算路线，通过为复杂数据中心交付中心化的管理平台来实现这一目的，即当下流行的云计算、混杂着传统遗留的系统，ClearCenter 是比较擅长这个。&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:9fedda20bd274b70d4a929427727e603:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:9fedda20bd274b70d4a929427727e603:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cleversafe.com/&#34;&gt;Cleversafe&lt;/a&gt;：
-8.
-9.
-10.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cleversafe.com/&#34;&gt;Cleversafe&lt;/a&gt;：2004年成立的存储公司，一度在开源市场上做的风生水起，但是在2010年9月份突然改变了自己的方向，自那时起，他们将开源相关的内容也从网站上撤离了。如今的 Cleversafe 将自己描述为一个解决大数据存储问题的公司，声称可以支持数百petaybtes的横向扩展。但是已经很少关心开源了。&lt;/li&gt;
+&lt;li&gt;Compiere Inc.:&lt;a href=&#34;http://www.consona.com/news/compiere-acquisition.aspx&#34;&gt;consona收购了 Compiere&lt;/a&gt;，是2010年成立的一家专门提供开源 ERP 的公司。旧的 Compiere 网站在2012年的时候，还是可以访问的。但是在今年（2016）已经从网络上消失了。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://continuent.com/&#34;&gt;Continuent&lt;/a&gt;有限责任公司： 在2014年被&lt;a href=&#34;http://blogs.vmware.com/vcloud/2014/10/vmware-acquires-continuent.html&#34;&gt;VMware收购&lt;/a&gt;，此公司的技术目前是交付数据库的复制，以及为&lt;a href=&#34;http://www.vmware.com/products/continuent/&#34;&gt;VMare 的产品&lt;/a&gt;提供灾难恢复。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.digium.com/&#34;&gt;Digium&lt;/a&gt;有限责任公司：Asterisk 的主力推进者。Asterisk 可是大名鼎鼎的 IP BPX 开源实现。在2012年的时候，VAR Guy就想知道“Digium难道永远不会在云中启动自己的 Asterisk 项目？”，答案是否定的。它现在做了基于云的呼叫解决方案，名字叫做： Switchvox。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dotnetnuke.com/Partners/Partners-Overview/Overview.aspx&#34;&gt;dotnetnuke&lt;/a&gt;公司：过去一直是在微软的 .Net 环境下提供 Web 内容管理平台。现在则把精力转到了 web 设计服务上来了。仍然坚称自己是“DotNetNuke 开源项目的大管家”，其&lt;a href=&#34;http://www.dotnetnuke.com/Partners/Partners-Overview/Overview.aspx&#34;&gt;合作伙伴的名单&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;eBox 技术公司：公司在2010年8月将名称修改为&lt;a href=&#34;http://www.zentyal.com/partners/&#34;&gt;Zentyal&lt;/a&gt;。Zentyal 仍然致力于为中小型企业提供 Linux 服务，以及基于云的邮件系统和 Groupware，当然仍然是微软 Outlook 的一个替代。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.enterprisedb.com/&#34;&gt;Enterprisedb&lt;/a&gt;：依然将自己定位于 PostgreSQL，一款 Oracle 数据库的开源替代实现。该公司通过 SaaS 服务和云&lt;a href=&#34;http://www.enterprisedb.com/partner-programs&#34;&gt;渠道合作&lt;/a&gt;盈利。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://eracks.com/&#34;&gt;eRock 开源系统&lt;/a&gt;：依然一路高歌猛进，提供开源的机架式服务器和桌面电脑，依然高调标榜自己是开源的专家。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eucalyptus.com/&#34;&gt;Eucalyptus 系统&lt;/a&gt;：一家开源的云计算公司，在2012年融到了3000万美金的一轮资金。我们满以为它会利用这笔钱很好的和另外的云平台&lt;a href=&#34;http://www.openstack.org/&#34;&gt;OpenStack&lt;/a&gt;和 Citrix &lt;a href=&#34;http://www.cloudstack.com/&#34;&gt;CloudStack&lt;/a&gt;一决高下了，但是该公司似乎是针对专注于和亚马逊 AWS 的兼容上了，被惠普收购。现在很少能够听到它了。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fluendo.com/&#34;&gt;Fluendo SA&lt;/a&gt;:仍然耕耘在开源的多媒体解决方案。现在是 Linux 基金会的成员之一了。&lt;/li&gt;
+&lt;li&gt;GroundWork Open Source（GWOS）：并没有其简短的名称&lt;a href=&#34;http://www.gwos.com/&#34;&gt;Groundworks 公司&lt;/a&gt;有名气，依然聚焦于 IT 监控解决方案。但是公司已经意识到“DevOps”的新趋势了。它并不怎么提倡和合作伙伴的积极互动，但是可以查到他们的&lt;a href=&#34;http://www.gwos.com/company/partners/&#34;&gt;合作伙伴&lt;/a&gt;。
+18.
+19.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ipbrick.com/&#34;&gt;IPBrick&lt;/a&gt;国际：仍然致力于统一通信，我们在2012年观察到，其更加的专注于移动计算和 groupware，但相比以前很少标榜自己是开源的了。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jaspersoft.com/&#34;&gt;Jaspersoft&lt;/a&gt;公司：仍然致力于开源商业智能软件市场的耕耘，但已经向云计算和移动方面开始转移了，目测已经完成。
+22.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://corp.kaltura.com/partners/&#34;&gt;Kaltura&lt;/a&gt;有限责任公司：依然耕耘在开源的视频平台下，拥有长长的合作伙伴列表。
+24.
+25.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.magnolia-cms.com/&#34;&gt;Magnolia&lt;/a&gt;国际：业务仍然是 web 内容管理系统。现在聚焦于商务和增加了物联网的混合。
+27.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mindtouch.com/about/&#34;&gt;MindTouch&lt;/a&gt;:社交让公司重新定位了业务模式，在2010年从开源的软件转向了 SaaS 服务。到现在没有多大的变化。
+29.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mysql.com/&#34;&gt;MySQL&lt;/a&gt;：著名的开源关系型数据库，现在属于 Oracle。曾经一度是微软 SQL server 的开源替代，现在也受到来自 NoSQL 的挑战，如 MongoDB。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.novell.com/&#34;&gt;Novell&lt;/a&gt;：在2011年卖给了 Attachmate，然后，Attachmate 又被 Micro Focus 在2014年收购，但是易主归易主，他们仍然坚守&lt;a href=&#34;http://www.suse.com&#34;&gt;Suse Linux 企业版&lt;/a&gt;市场，（以及他们的社区版－&lt;a href=&#34;https://www.opensuse.org/&#34;&gt;OpenSuse Linux&lt;/a&gt;。但愿他们不会错过云计算这个机会。
+32.
+33.
+34.
+35.
+36.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.redhat.com/&#34;&gt;红帽&lt;/a&gt; Inc.：此50家列表中最大的赢家，目前还发展势头良好。红帽的业务早已经不再限于提供 Linux 发行版了，现在的产品线非常的齐全，包括 Jboss 中间件、企业级虚拟化、存储产品、以及一系列基于云的解决方案产品。就拿赚钱这事来说吧，红帽在2012年是首家年营业额超过10亿美元的公司，到2016年第一季度这个数字又翻了一番，已达到20亿美金。这就是做对了事情的结果。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rsmart.com/about-us&#34;&gt;rSmart&lt;/a&gt;：是一家专注于开源管理软件的公司，目标客户是大学校园、基于云平台的用户、或者是移动端的门户校园服务。Guy VAR 在2012年的时候认为这家公司一般般，但是2016年再看的话，好家伙，业务增长迅猛，据称现在全国范围内已经有750,000 的用户了。
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zarafa.com/&#34;&gt;Zarafa&lt;/a&gt;: 过去是做开源电子邮件平台的。随着公司的发展，渐渐分离出了提供文件共享和在线会议。并在2012年和 ClearCenter（上面 第六家） 达成伙伴关系。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zenoss.com/&#34;&gt;ZenOSS&lt;/a&gt; Inc.：针对物理和虚拟化环境的 IT 运维管理的促进者，过去是在开源方面很努力的，现在则开始加大力度&lt;a href=&#34;https://www.zenoss.com/solution/open-source-vs-enterprise&#34;&gt;推广&lt;/a&gt;他们在基于核心开源的平台之上所做的增值的商业实现部分。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zimbra.com/&#34;&gt;Zimbra&lt;/a&gt;：现在属于 VMware 了。原来是做电子邮件解决方案的，是类似 Microsoft Exchange 的开源替代。现在聚力于在线协作方面。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zmanda.com/&#34;&gt;Zmanda&lt;/a&gt; Inc.: 依然是坚挺的企业级备份和灾难恢复的开源提供商。他们的存储软件现在还整合到了 Google 的云存储中。&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h2 id=&#34;译者的话:9fedda20bd274b70d4a929427727e603&#34;&gt;译者的话&lt;/h2&gt;
+
+&lt;p&gt;整体而言，此报道做的优点粗糙。但是，话说回来，在没有任何资源的情况下，跟踪这些非致力于互联网的公司，难度确实非常的大。又不能做实地的考察。很多公司的技术评价方面，可以看出作者是外行，并非是计算机或IT专业的人士。没错，作者是一名历史学家。&lt;/p&gt;
+
+&lt;p&gt;这大概也是文章现在无法访问的缘由！&lt;/p&gt;
+
+&lt;p&gt;跨行工作难度确实非常的大！ 此处也可见一般。作者备受争议的那篇&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/041715/birth-open-source-was-about-saving-money-not-sharing-code#comment-302681&#34;&gt;At Birth, Open Source Was About Saving Money, Not Sharing Code&lt;/a&gt;，不可为一种全新的见解。&lt;/p&gt;
+
+&lt;p&gt;但本文也让我本人受益许多！有成功有失败，每家公司都有学习的地方！&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
