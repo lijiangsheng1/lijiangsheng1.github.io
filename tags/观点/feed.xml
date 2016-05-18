@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 10 May 2016 19:35:45 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 May 2016 19:35:45 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E8%A7%82%E7%82%B9/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>精心布局的开源</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/open_by_design/</link>
-      <pubDate>Tue, 10 May 2016 19:35:45 +0800</pubDate>
+      <pubDate>Fri, 20 May 2016 19:35:45 +0800</pubDate>
       
       <guid>http://lijiangsheng1.github.io/posts/opensource/open_by_design/</guid>
       <description>
@@ -66,15 +66,38 @@
 
 &lt;h3 id=&#34;云计算:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;云计算&lt;/h3&gt;
 
+&lt;p&gt;软硬件的虚拟化技术的成熟是云计算之所以能出现的关键，从近几年来看，这是一个快速创新的领域，并且是各种投资市场所青睐的对象。几乎所有的厂商，包括硬件和企业 IT 均竞相在私有云、公有云、以及混合云寻找机会和作出变革。&lt;/p&gt;
+
+&lt;p&gt;尽管在云计算这块依然有专有的厂商，但是我们在今天所看到的是，有无数个开源项目在这个领域扮演着重要的角色，并展开了整个云计算的创新。而且那些专有厂商也开始往开源这边倾斜，有时候在纯粹的开源项目和专有之间并没有那么清晰的界线。正如我们看到一直在 IT 市场上扮演专有厂商的微软近来也开始拥抱 Linux，称他们在 Azure 云中可以托管 Linux 虚拟化，无独有偶，微软近来还投入人力到 Docker 这个开源项目的上游社区中，试图将容器技术带入到 Windows 服务器版和 Azure 云中。&lt;/p&gt;
+
+&lt;p&gt;从本质上说，正如 Cloud Foundry 基金会的执行总监 Sam Ramji 最近的结论：“开源已经赢了！” 现在想从任何一家云计算厂商中找到没有开源项目的组件，那真是太难了。无论是 hypervisor、托管操作系统这个层、还是应用程序的运行层、如 Node.js、PHP、Ruby、Python 等开源项目的例子。&lt;/p&gt;
+
+&lt;p&gt;我们今天所看到是开源的复兴！其中，很多围绕云计算的关键活动和创新都是通过开源社区和它们各自的基金会来进行的。有三个社区值得我们拿出来仔细的研究，因为它们是对大型的 IT 企业的 IaaS 和 PaaS 实现产生了非常大的影响，即 OpenStack、Cloud Foundry、以及 Docker，这三家均拥有庞大的开源社区力量并且仍然在快速的增长，每年所举行的研讨会都有成千上万的人参加，有着足够的聚光度，媒体纷纷报道，而且还有来自所有的大型 IT 企业作为合作伙伴和支持者。在下文的 &lt;strong&gt;开放治理：基金会模式&lt;/strong&gt; 中我们将开始探讨基金会模式作为开源振兴的关键点来切入，看它是如何影响我们前面所提到的这些社区以及历史上大型的开源项目的。&lt;/p&gt;
+
 &lt;h2 id=&#34;开放治理-基金会模式:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放治理： 基金会模式&lt;/h2&gt;
 
 &lt;h3 id=&#34;超越开源:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;超越开源&lt;/h3&gt;
 
+&lt;p&gt;我们已经看到开源不再是被孤立的集体或与世无争的了：开源的商业化和普及化引来了一些公司和大企业的投资和参与。但随之而来的问题就是，在这些项目中商业化和社区的兴趣之间的冲突日益的计划，尽管开源有太多精明的参与者。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;在开源和商业利益的十字路口，问题日益严峻的是有关权威、真实性和文化的问题。
+&amp;ndash;&lt;a href=&#34;http://www.informationweek.com/strategic-cio/it-strategy/three-pillars-of-open-source-governance/a/d-id/1318585&#34;&gt;Nathen Harvey, Information Week&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nathen Harvey 在 &lt;strong&gt;Information Week&lt;/strong&gt; 中的文章中指出了三个问题：“项目应该由商业的赞助商驱动还是外围的贡献者驱动？商业利益是否应该凌驾于社区的意愿之上？该如何以及在哪里为商业实体和开源社区之间划上一个明确的界线？”&lt;/p&gt;
+
+&lt;p&gt;这三个问题确实是异常的尖锐，回答起来就显得非常的关键，但通过基金会的模式，开放的治理可以解决大多数的问题。&lt;/p&gt;
+
+&lt;p&gt;不过，首先还是让我们来了解一下开源软件世界的基金会的历史和崛起，这将更加的有助于我们的理解。&lt;/p&gt;
+
 &lt;h3 id=&#34;基金会的崛起:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;基金会的崛起&lt;/h3&gt;
 
-&lt;p&gt;让我们先来看几个较为著名的基金会，以及在特定社区所扮演的角色。通过对这些基金会的快速遍历，希望可以更好的理解他们，看他们如何通过开放基金会的模式来分享愿景以及是如何开展神曲工作的。&lt;/p&gt;
+&lt;p&gt;让我们先来看几个较为著名的基金会，以及在特定社区所扮演的角色。通过对这些基金会的快速遍历，希望可以更好的理解他们，看他们如何通过开放基金会的模式来分享愿景以及是如何开展工作的。&lt;/p&gt;
 
 &lt;h4 id=&#34;apache-软件基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Apache 软件基金会&lt;/h4&gt;
+
+&lt;p&gt;Apache 基金会（ASF）创立于1999年，&lt;/p&gt;
 
 &lt;h4 id=&#34;linux-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Linux 基金会&lt;/h4&gt;
 
