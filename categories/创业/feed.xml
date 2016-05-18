@@ -43,41 +43,54 @@
 &lt;li&gt;&lt;a href=&#34;http://eracks.com/&#34;&gt;eRock 开源系统&lt;/a&gt;：依然一路高歌猛进，提供开源的机架式服务器和桌面电脑，依然高调标榜自己是开源的专家。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.eucalyptus.com/&#34;&gt;Eucalyptus 系统&lt;/a&gt;：一家开源的云计算公司，在2012年融到了3000万美金的一轮资金。我们满以为它会利用这笔钱很好的和另外的云平台&lt;a href=&#34;http://www.openstack.org/&#34;&gt;OpenStack&lt;/a&gt;和 Citrix &lt;a href=&#34;http://www.cloudstack.com/&#34;&gt;CloudStack&lt;/a&gt;一决高下了，但是该公司似乎是针对专注于和亚马逊 AWS 的兼容上了，被惠普收购。现在很少能够听到它了。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.fluendo.com/&#34;&gt;Fluendo SA&lt;/a&gt;:仍然耕耘在开源的多媒体解决方案。现在是 Linux 基金会的成员之一了。&lt;/li&gt;
-&lt;li&gt;GroundWork Open Source（GWOS）：并没有其简短的名称&lt;a href=&#34;http://www.gwos.com/&#34;&gt;Groundworks 公司&lt;/a&gt;有名气，依然聚焦于 IT 监控解决方案。但是公司已经意识到“DevOps”的新趋势了。它并不怎么提倡和合作伙伴的积极互动，但是可以查到他们的&lt;a href=&#34;http://www.gwos.com/company/partners/&#34;&gt;合作伙伴&lt;/a&gt;。
-18.
-19.&lt;/li&gt;
+&lt;li&gt;GroundWork Open Source（GWOS）：并没有其简短的名称&lt;a href=&#34;http://www.gwos.com/&#34;&gt;Groundworks 公司&lt;/a&gt;有名气，依然聚焦于 IT 监控解决方案。但是公司已经意识到“DevOps”的新趋势了。它并不怎么提倡和合作伙伴的积极互动，但是可以查到他们的&lt;a href=&#34;http://www.gwos.com/company/partners/&#34;&gt;合作伙伴&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.actian.com/ingres-becomes-actian&#34;&gt;Ingres&lt;/a&gt;公司：一家开源数据库提供商，后改名为&lt;a href=&#34;http://supportservices.actian.com/&#34;&gt;Action&lt;/a&gt;，在2011年9月的时候，业务变更为在云计算平台上做消费者的 app。在品牌变更后三个月他们还更换了 CEO。时间过得真的很快，2016年的 Action 已经没有什么动静了。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.intalio.com/&#34;&gt;Intalio&lt;/a&gt;有限责任公司:在2012年的时候似乎已经停滞了，那时候，我们很像知道是否能够活下来。事实上也确实又了转变；在2015年的时候，Intalio &lt;a href=&#34;http://www.intalio.com/announcing-everteam-intalio/&#34;&gt;被 Everteam 收购&lt;/a&gt;，依然在做他们的企业内容管理和业务流程管理的组合拳。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.ipbrick.com/&#34;&gt;IPBrick&lt;/a&gt;国际：仍然致力于统一通信，我们在2012年观察到，其更加的专注于移动计算和 groupware，但相比以前很少标榜自己是开源的了。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jaspersoft.com/&#34;&gt;Jaspersoft&lt;/a&gt;公司：仍然致力于开源商业智能软件市场的耕耘，但已经向云计算和移动方面开始转移了，目测已经完成。
-22.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://corp.kaltura.com/partners/&#34;&gt;Kaltura&lt;/a&gt;有限责任公司：依然耕耘在开源的视频平台下，拥有长长的合作伙伴列表。
-24.
-25.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.magnolia-cms.com/&#34;&gt;Magnolia&lt;/a&gt;国际：业务仍然是 web 内容管理系统。现在聚焦于商务和增加了物联网的混合。
-27.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mindtouch.com/about/&#34;&gt;MindTouch&lt;/a&gt;:社交让公司重新定位了业务模式，在2010年从开源的软件转向了 SaaS 服务。到现在没有多大的变化。
-29.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jaspersoft.com/&#34;&gt;Jaspersoft&lt;/a&gt;公司：仍然致力于开源商业智能软件市场的耕耘，但已经向云计算和移动方面开始转移了，目测已经完成。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jumpbox.com/&#34;&gt;JumpBox&lt;/a&gt;有限责任公司：依然在提供麻烦不断的开源服务软件，承诺大家他们的应用已经进入容器时代，（官方网站上说提供“app 不仅仅是 OS”）但是从他的&lt;a href=&#34;http://www.jumpbox.com/partners&#34;&gt;合作伙伴列表&lt;/a&gt;以及网站的其它部分，并未看到任何的更新。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://corp.kaltura.com/partners/&#34;&gt;Kaltura&lt;/a&gt;有限责任公司：依然耕耘在开源的视频平台下，拥有长长的合作伙伴列表。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.knowledgetree.com/&#34;&gt;KnowledgeTree&lt;/a&gt; 有限责任公司：回到2007年，KnowledgeTree 可是当时的开源文档管理系统的世界级的领头羊，今天他们确转向了市场内容管理。并聚焦于和 Slaesforce.com 的整合。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.likewise.com/&#34;&gt;Likewise&lt;/a&gt;软件：致力于认证的管理、安全、以及存储。Likewise 原来所构建的软件是让 Linux、Unix、Mac 等系统到微软到活动目录服务上去认证。EMC 在2012年3月收购了 Likewise，现在则在 EMC 的运营之下很难找到原来公司的蛛丝马迹。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.magnolia-cms.com/&#34;&gt;Magnolia&lt;/a&gt;国际：业务仍然是 web 内容管理系统。现在聚焦于商务和增加了物联网的混合。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mandriva.com/en/&#34;&gt;Mandriva SA&lt;/a&gt;：早在2012年的时候就出现了经营问题，Mandriva 连同和他同名的 GNU／Linux 发行版一同消失在历史的长河中。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mindtouch.com/about/&#34;&gt;MindTouch&lt;/a&gt;:社交让公司重新定位了业务模式，在2010年从开源的软件转向了 SaaS 服务。到现在没有多大的变化。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mulesoft.com/mulesoft-partners&#34;&gt;Mulesoft&lt;/a&gt;: 在2007的时候标榜自己是“开源的基础设施和集成软件的领导供应商”，在2012年变为“在云计算中按需服务中最为广泛使用的用于连接 SaaS 和企业应用的集成平台。”到今天其宣言也跟着进化为公司现在承诺集成“任何的应用、数据源、API、无论是否在云中按需服务”。仍然由许多的合作伙伴。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.mysql.com/&#34;&gt;MySQL&lt;/a&gt;：著名的开源关系型数据库，现在属于 Oracle。曾经一度是微软 SQL server 的开源替代，现在也受到来自 NoSQL 的挑战，如 MongoDB。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.novell.com/&#34;&gt;Novell&lt;/a&gt;：在2011年卖给了 Attachmate，然后，Attachmate 又被 Micro Focus 在2014年收购，但是易主归易主，他们仍然坚守&lt;a href=&#34;http://www.suse.com&#34;&gt;Suse Linux 企业版&lt;/a&gt;市场，（以及他们的社区版－&lt;a href=&#34;https://www.opensuse.org/&#34;&gt;OpenSuse Linux&lt;/a&gt;。但愿他们不会错过云计算这个机会。
-32.
-33.
-34.
-35.
-36.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.novell.com/&#34;&gt;Novell&lt;/a&gt;：在2011年卖给了 Attachmate，然后，Attachmate 又被 Micro Focus 在2014年收购，但是易主归易主，他们仍然坚守&lt;a href=&#34;http://www.suse.com&#34;&gt;Suse Linux 企业版&lt;/a&gt;市场，（以及他们的社区版－&lt;a href=&#34;https://www.opensuse.org/&#34;&gt;OpenSuse Linux&lt;/a&gt;。但愿他们不会错过云计算这个机会。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nuxeo.com/en/partners&#34;&gt;Nuxeo&lt;/a&gt;：仍然致力于他们的开源的企业级内容管理系统。2011年实现了盈利翻番，Nuxeo 最近发布了12家新的 SI 合作伙伴，和9家的技术合作，尽管其网站上仅仅列出了5家。但是仍然有很多客户列表。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.open-xchange.com/&#34;&gt;Open-Xchange&lt;/a&gt;：公司继续其加强其开源的电子邮件和效率的解决方案，为用户提供 OS 套件、托管、以及 SaaS 专业服务，开放性、安全性仍然是他们的卖点。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.openbravo.com/&#34;&gt;OpenBravo&lt;/a&gt;：依然致力于开源的 ERP，2011年收入增长 143%，依然坐拥众多的&lt;a href=&#34;http://www.openbravo.com/partners/&#34;&gt;大客户&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.opengear.com/&#34;&gt;Openear&lt;/a&gt;：仍然提供高级的终端服务，和企业级的远程管理解决方案。只是多了&lt;a href=&#34;http://rethink-iot.com/2016/03/11/opengear-expands-datacenter-network-edge-iot-transition/&#34;&gt;基于物联网的创新&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pentaho.com/&#34;&gt;Pentaho&lt;/a&gt;:将他们原来在开源方面的经验应用到了大数据的分析上，现在是在传统的内容之上加上了云计算分析和物联网的分析。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.redhat.com/&#34;&gt;红帽&lt;/a&gt; Inc.：此50家列表中最大的赢家，目前还发展势头良好。红帽的业务早已经不再限于提供 Linux 发行版了，现在的产品线非常的齐全，包括 Jboss 中间件、企业级虚拟化、存储产品、以及一系列基于云的解决方案产品。就拿赚钱这事来说吧，红帽在2012年是首家年营业额超过10亿美元的公司，到2016年第一季度这个数字又翻了一番，已达到20亿美金。这就是做对了事情的结果。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.rsmart.com/about-us&#34;&gt;rSmart&lt;/a&gt;：是一家专注于开源管理软件的公司，目标客户是大学校园、基于云平台的用户、或者是移动端的门户校园服务。Guy VAR 在2012年的时候认为这家公司一般般，但是2016年再看的话，好家伙，业务增长迅猛，据称现在全国范围内已经有750,000 的用户了。
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.rsmart.com/about-us&#34;&gt;rSmart&lt;/a&gt;：是一家专注于开源管理软件的公司，目标客户是大学校园、基于云平台的用户、或者是移动端的门户校园服务。Guy VAR 在2012年的时候认为这家公司一般般，但是2016年再看的话，好家伙，业务增长迅猛，据称现在全国范围内已经有750,000 的用户了。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.springsource.com/&#34;&gt;SpringSource&lt;/a&gt;:现在是 VMware 的一个部门了，方向仍然是云计算应用程序平台。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://starpound.net/&#34;&gt;StarPound&lt;/a&gt;技术有限责任公司：在2008年时定位自己为一家统一通信公司，现在则转向为基于云计算的呼叫中心和 BPM 提供商。但是业绩平平似乎。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sugarcrm.com/&#34;&gt;SugarCRM&lt;/a&gt; 有限责任公司：仍然有业务增长，而且依然&lt;a href=&#34;http://www.sugarcrm.com/partner/sugarcrm-open-partner-program&#34;&gt;走渠道模式&lt;/a&gt;，重心还是在移动应用方面。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.talend.com/index.php&#34;&gt;Talend&lt;/a&gt;:仍然将自己定位是一家集成的公司，今年在大数据市场通过分布式的 Apache Spark 和 Hadoop 搞得也是风生水起。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.untangle.com/&#34;&gt;Untangle&lt;/a&gt;：一家开源的做安全的公司，在2012年重新定位自己推出了软件的防火墙。在2016年则转向了了网络的监控。且努力的&lt;a href=&#34;http://www.untangle.com/solutions/byod-and-open-wi-fi/&#34;&gt;推动开放的 Wi-Fi&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.vyatta.com/&#34;&gt;Vyatta&lt;/a&gt; 有限责任公司：在2007年的时候，Vyatta 将自己定位为一家开放的网络公司，主要是致力于开源的网络操作系统和路由系统，从而对抗市场的龙头 Cisco。在2012年的时候，&lt;a href=&#34;http://newsroom.brocade.com/press-releases/brocade-acquires-vyatta-a-pioneer-and-leader-in-s-nasdaq-brcd-0949599&#34;&gt;被 Brocade 收购&lt;/a&gt;。Vyatta 从此在开源界销声匿迹。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xandros.com/about.html&#34;&gt;Xandros&lt;/a&gt;公司：绝对的 Linux 专家，一直以来都想通过 Crossover 在 Linux 下运行微软的 Office 系列软件，试图这样为用户提供增值服务，7、8年来是一路走到黑的。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://xtuple.com/&#34;&gt;Xtuple&lt;/a&gt;：依然将自己定位于商业的开源公司，专注于业务应用、会计和运营的销售，在开源的 ERP 市场独占鳌头。仍然坚持&lt;a href=&#34;https://xtuple.com/why-open-source&#34;&gt;标榜自己是一家开源的公司&lt;/a&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.zarafa.com/&#34;&gt;Zarafa&lt;/a&gt;: 过去是做开源电子邮件平台的。随着公司的发展，渐渐分离出了提供文件共享和在线会议。并在2012年和 ClearCenter（上面 第六家） 达成伙伴关系。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.zenoss.com/&#34;&gt;ZenOSS&lt;/a&gt; Inc.：针对物理和虚拟化环境的 IT 运维管理的促进者，过去是在开源方面很努力的，现在则开始加大力度&lt;a href=&#34;https://www.zenoss.com/solution/open-source-vs-enterprise&#34;&gt;推广&lt;/a&gt;他们在基于核心开源的平台之上所做的增值的商业实现部分。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.zimbra.com/&#34;&gt;Zimbra&lt;/a&gt;：现在属于 VMware 了。原来是做电子邮件解决方案的，是类似 Microsoft Exchange 的开源替代。现在聚力于在线协作方面。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.zmanda.com/&#34;&gt;Zmanda&lt;/a&gt; Inc.: 依然是坚挺的企业级备份和灾难恢复的开源提供商。他们的存储软件现在还整合到了 Google 的云存储中。&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h2 id=&#34;小结:9fedda20bd274b70d4a929427727e603&#34;&gt;小结&lt;/h2&gt;
+
+&lt;p&gt;有多少人能读到这里了呢？这是一个浮躁的时代，快速浮掠、过眼烟云的阅读。谁又会在意你的思考？这是一副令人容易厌烦的又臭又长的列表，但是我们可以总结一些所谓的趋势：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;从2008年以来，在50家公司中有20家是被收购了的。而收购方多数并不是开源的。&lt;/li&gt;
+&lt;li&gt;大概有8家公司渐渐的淡出了人们的视线。&lt;/li&gt;
+&lt;li&gt;其中有2家公司变更了他们的名称。&lt;/li&gt;
+&lt;li&gt;其中有3家公司或倒闭或停止了服务支持。&lt;/li&gt;
+&lt;li&gt;在2008年的时候，多数公司聚焦点在于提供按需的解决方案；而2012年的时候，在他们的运营中加入了云计算，或者干脆整个转向了 SaaS。数据分析仍然占着很大的比重。&lt;/li&gt;
+&lt;li&gt;根据上述的很多公司来看，物联网确实是大势所趋。至少有4家公司声明提供物联网的产品。&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;译者的话:9fedda20bd274b70d4a929427727e603&#34;&gt;译者的话&lt;/h2&gt;
 
@@ -87,7 +100,7 @@
 
 &lt;p&gt;跨行工作难度确实非常的大！ 此处也可见一般。作者备受争议的那篇&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/041715/birth-open-source-was-about-saving-money-not-sharing-code#comment-302681&#34;&gt;At Birth, Open Source Was About Saving Money, Not Sharing Code&lt;/a&gt;，不可为一种全新的见解。&lt;/p&gt;
 
-&lt;p&gt;但本文也让我本人受益许多！有成功有失败，每家公司都有学习的地方！&lt;/p&gt;
+&lt;p&gt;但本文也让我本人受益许多！有成功有失败，每家公司都有学习的地方！是的，没错，现在依然每天都有标榜开源的公司出现，更何况在21世纪的8年里，还有多少公司没有在这个名单中？看历史就是这样。希望能够看历史来把握未来、以及未来的趋势，如果可能的话，抓住未来趋势的转变。方可致胜。&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
