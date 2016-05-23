@@ -7,8 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 23 May 2016 07:44:50 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 May 2016 06:12:10 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.05.24）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_24/</link>
+      <pubDate>Tue, 24 May 2016 06:12:10 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_24/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:f8904db22139ac2379db127d3e78ef34&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;有关-dc-os-开源项目的释疑:f8904db22139ac2379db127d3e78ef34&#34;&gt;有关 DC/OS 开源项目的释疑&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/all-about-dcos-open-source-project&#34;&gt;All About the DC/OS Open Source Project&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;遴选此文，完全是我个人的意思，不顾读者的。DC/OS 开源这件事情，在4月份算是一件开源的热点盛事了。Mesosphere 将他们的商业产品开源了，其实，他们在这方面做得蛮好的，因为按照这年头玩 Open Core 的模式，Mesos 项目已经非常的不错了。好吧，看看来自Mesosphere 产品经理的解释，我只关注以下两点：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1,000 dual-core servers become 1 computer with 2,000 cores。这绝对是对于新时代数据中心的新思维方式。&lt;/li&gt;
+&lt;li&gt;开源能够带来更好的创新和以及更多的用户，形成更加良好的生态系统。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;大教堂与集市-19年以来-影响深远:f8904db22139ac2379db127d3e78ef34&#34;&gt;《大教堂与集市》19年以来，影响深远&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/5/19-years-later-cathedral-and-bazaar-still-moves-us&#34;&gt;19 years later, The Cathedral and the Bazaar still moves us&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Eric Raymond ，开源运动的发起者和领袖，其作品《大教堂与集市》，从社会学家的角度试图阐释 Linux 等开源项目成功的原因，虽然自从出版以来一直争议不断。但是这本书本身却又进一步影响到了开源本身，比如 Mozilla 的出现等等。
+文中观点：《大教堂与集市》是每一位 Coding Freedom 的开发者的必修课，“成人礼”！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;是时候该抉择了-要不要在开源上投资:f8904db22139ac2379db127d3e78ef34&#34;&gt;是时候该抉择了：要不要在开源上投资？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/5/its-time-to-invest-in-open-source&#34;&gt;Time to choose: Are you investing in open source or not?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这篇更像是到使用软件的公司、政府、或其它组织推销开源的软文，搞市场和产品的人们可以学习一下，逻辑就是：开源已经这么流行了，你看大公司天天都在开源项目，你不使用开源就错过了这个时代最美好的事情。 好吧！ 其实，我的直觉是商业早晚会把开源毁掉，正如 Richard Stallman 所担心的一样。我现在下这个结论可能为时尚早，但是，看每天的新闻、软文、理论界等，大体上有这么一个趋势。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;自由编码-黑客的伦理与美学:f8904db22139ac2379db127d3e78ef34&#34;&gt;自由编码：黑客的伦理与美学&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://gabriellacoleman.org/Coleman-Coding-Freedom.pdf&#34;&gt;Coding Freedom：THE ETHICS AND AESTHETICS OF HACKING&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;2013年出版的书籍，作者 E. GABRIELLA COLEMAN。值得一读？请等待我的读后感。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源点评（2016-05-23）</title>
@@ -583,7 +645,23 @@
 
 &lt;p&gt;首先，开放源代码促进会的&lt;a href=&#34;http://opensource.org/definition&#34;&gt;开源的十个定义&lt;/a&gt;对于我们理解起开源是非常有意义的。其中一个至为重要的真相就是说能够访问源代码是必要的！但是仅仅是源代码开放就说它是开源软件是远远不够的。正如开源促进会所澄清的，能够访问源代码仅仅是入门级，需要进一步的能够再次分发软件，－原有的和修改过的－以及删除了一些代码的情况所造成的不同，乃至于不同的人们，如用户和开发者。最有价值的或者是一文不值的开源项目在多个方面都会有摩擦，如代码访问、代码共享、以及自由的使用和分发，允许任何人和任何组织去轻易使用和修改。&lt;/p&gt;
 
+&lt;p&gt;这就是 OSI 的定义所强调的一个关键的点。虽然有非常多的可用的开源项目，只是简单的将源代码放在了互联网上，其实这是远远不够的。特别注意的一点就是，很多的开源项目所使用的许可证使得很多的商业公司是无法参与进去的。这么做的后果就是限制了一些开发者，因此，项目就需要更长时间来获得增长乃至成功。举例，某个项目要求所有基于其下的源代码也必须再开源，这就意味着此许可证强制商业公司所开发的增值（可能是商业化的）必须是是自由可用的。对于一部分公司来说，显然是接受不了这样的许可证的。那些最为成功的开源项目都是实现了各式各样的人们来参与到项目中来，并且会鼓励采用贡献者到技术，而不是去强制限制什么。&lt;/p&gt;
+
+&lt;p&gt;除了能够访问到软件的源代码以及有权利去修改它之外，其实开源项目真正的价值并非代码库本身，开源项目真正的价值在于能够在更加广阔的范围很多人为了同样的目标一起协作形成的社区。一位形单影只的开发者，即使是一家单一的公司，做了一开源项目，或许还有点实际的用处的，但若是没有更多的参与者来改进他的代码库的话，项目很快就会变黄。众人抬柴火焰高，有更多的人手来投入时间和资源来让软件更好的测试、更好的文档、更加灵活的处理错误、添加更多的功能，从而满足用户的需求。原作者可能没有注意到全部，但是开源真正的力量在于感兴趣的人们花时间和专业技能来共同完善它，使之更快的成熟可用，甚至有些功能会超越原作者的意料。&lt;/p&gt;
+
 &lt;h3 id=&#34;大众化和商业化:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;大众化和商业化&lt;/h3&gt;
+
+&lt;p&gt;虽然我们可以肯定的说，现代的 GNU／Linux 和自由软件基金会是推动着开源时代来临的力量来源，从而让软件从受企业青睐、各种专利、以及过去的闭源的专有系统的反面的转变。但还是有必要回顾一下开源软件在整个计算机历史的时间线上的位置的。&lt;/p&gt;
+
+&lt;p&gt;在20世纪5、60年代，很多早期的计算系统都是来自于IBM、DEC、以及其它一些学术界、研究机构合作开发的，甚至还有一些政府部门的参与。这就导致最初的操作系统软件和其它关键的软件组件假设是可以在用户和开发者之间进行共享的资源，在计算机的历史上，就这一点可谓是惊人的重复。早期的计算机系统供应商交付他们的硬件的时候，会顺带将全部的软件的源代码一起交付，这其中包括了可能需要修改以及构建软件的工具。拿 IBM 701 大型机来说吧，这种特殊的源代码共享的方式，直接导致 SHARE 用户组以及研讨会持续了几十年！SHARE 是一个充满活力的社区，系统程序员和用户一起分享他们各自所遇到的问题，然后共享代码，即那些修复问题之后增加或变更的代码。&lt;/p&gt;
+
+&lt;p&gt;那个时候没有高带宽网络的普及，让人们能够在全世界范围内轻松的沟通，几十年以后才实现了。但是，这就是现在开源运动的根源：一个协作的社区，共享解决方案、源代码、以及专业的知识，而无须考虑专利权、许可收入、各种金钱的收入。&lt;/p&gt;
+
+&lt;p&gt;好吧，让我们还是快进吧，GNU 项目的创立以及自由软件的想法从 Richard Stallman 头脑中出现的时间是20世界80年代，没有过多久，Linus Torvalds 在1991年开始了 Linux 内核的撰写。这些&lt;a href=&#34;http://lijiangsheng1.github.io/posts/opensource/milestones_in_free_and_open_source_software_history/&#34;&gt;里程碑的事件&lt;/a&gt;，究其原因，有连接全球的越来越方便的网络、通过电子邮件来进行大量的沟通、早期的原始网站、放置代码仓库的 FTP 服务器，所有的这些组合在一起，促使新的开发者们加入到开源运动的大潮中来。Linux 和 GNU 项目的各种组件为开源活动提供自由的底层，参与到开源所需要的所有的必要的工具——编译器、编辑器、网络客户端、以及脚本语言，都可以在一个单一的自由使用的操作系统中获得，这一明显的降低门槛的现象，导致只要拥有一台个人电脑就可以加入到开源的事业中来。&lt;/p&gt;
+
+&lt;p&gt;就在90年代中期众多的参与者加入进来之后不久，此草根的开源运动中开始出现了一些尝试盈利的商业公司，如—— RedHat、SuSE、VA Linux、Netscape（很快变为 Mozilla）、以及 MySQL AB等等。不仅仅是这些新成立的开源公司，而且那些大型的企业很快也看到了开源开发模式的价值，并且也积极的参与到开源社区中来，并且鼓励员工全职为“上游”做开源的工作。IBM 就是在早期采用这一策略的大公司之一：在1998年成立了 IBM Linux 技术中心，雇佣 Linux 内核专家，以及培养内部员工积极的参与到 Linux 内核和其它上游的项目中，目标是让 Linux 能够在所有的硬件类型上运行，且能够支撑IBM 中间件产品，IBM 专门为其下受欢迎的企业级产品—— DB2 和 WebSphere 开发了 Linux 的版本，甚至是过去专门面向大型机的软件如 CICS 和 MQSeries。更多的大型企业也纷纷效仿：Oracle、HP、SAP、Intel、以及其它公司也开始直接支持 Linux，让他们等软、硬件开始支持 Linux 操作系统。开源不再仅仅是自由软件运动的“次文化的产物了”（因为他们有时会被人嘲笑）；它现在已经壮大，是几十亿的市场了。&lt;/p&gt;
+
+&lt;p&gt;相比于早期的企业参与到开源的那些日子，人们使用开源软件和专有软件或解决方案的混合，是一个从最初的忐忑不安到慢慢的适应的过程。但是在今天，你很难找到没有使用开源软件的地方，从移动设备、到嵌入式控制系统、再到企业级数据中心解决方案，开源软件的大众化和商业化的浪潮在我们写这篇文章的时候仍然在加速发展。这一点在云计算更加显得特别，Linux 操作系统让 web 扩展的计算资源成为可能，很多的开源项目也是云计算的基石——从 Hypervisor 到基础设施管理，再到部署，乃至应用程序层的框架。这些项目以及其背后的社区都是响当当的角色。其实，它们之中多数是通过基金会的所创建的开放治理社区。但是，在我们要谈开放治理之前，我们还需要交代一件事，那就是开源将业界瓦解的历史。&lt;/p&gt;
 
 &lt;h3 id=&#34;瓦解:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;瓦解&lt;/h3&gt;
 
@@ -1604,234 +1682,6 @@
 
 &lt;li&gt;&lt;p&gt;e-mail: lijiangsheng1 AT gmail.com 或者是 lijiansheng AT ocselected.org&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>不积硅步无以至千里</title>
-      <link>http://lijiangsheng1.github.io/posts/karate/mas-oyama-1/</link>
-      <pubDate>Fri, 15 Apr 2016 10:40:34 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/karate/mas-oyama-1/</guid>
-      <description>
-
-&lt;h2 id=&#34;我为什么选择空手道的考级:f0a199fa81577ab4af2b97fb5414893f&#34;&gt;我为什么选择空手道的考级&lt;/h2&gt;
-
-&lt;p&gt;时间大约要回到2月初，也就是农历年之前的一段日子。我做了一个决定，那就是按照我在2016年（也就是今年)年初所参与的极真空手道成人培训班的晋级之路，考取空手道的会员的级别考核，俗称为“考带”。经过了两个月的坚持，虽然结果并不理想，但是还是顺利的拿到了第一个级别。我在我的另外一篇文章：&lt;a href=&#34;https://www.zybuluo.com/lijiansheng/note/319350&#34;&gt;我要每日努力不懈！&lt;/a&gt;,介绍了我的短暂之旅的一些感慨。此文正如我的副标题所写，仅我个人的一些理由与认识，恐怕也谈不上武道，乃至极真之道。&lt;/p&gt;
-
-&lt;h2 id=&#34;人生的一些道理:f0a199fa81577ab4af2b97fb5414893f&#34;&gt;人生的一些道理&lt;/h2&gt;
-
-&lt;p&gt;这恐怕是最为人们所不屑的话题，就像我们周边的每个人都在躲避着政治一样，或许是&amp;rdquo;思想品德&amp;rdquo;、又或许是&amp;rdquo;精神文明建设&amp;rdquo;，总而言之，只要是人生的道理，没有人愿意和你交流或交谈。宁愿去聊聊明星、真人秀、或者是由国家姓党的媒体所主导的所谓的社会热点、又或者是抗日、反美，要么就是笑话下国人素质低下、无信仰。但是，谁又真的懂得人生这个大问题了呢？&lt;/p&gt;
-
-&lt;p&gt;古人又云：知难行易， 又有人云：知易行难。 这两个到底哪个对？ 我观察和思考了很久，都是错的。 二者都难！  世界洞悉人生又有几人？达到人生巅峰的又有几人？ 大多数的普通人，是既活的浑浑噩噩，又懒惰到毫无建树。&lt;/p&gt;
-
-&lt;p&gt;我此时斗胆就理论一个道理，那就是人生需要一个大的目标，而且要分割为无数的小目标，不断的去达到这些无数的小目标，方可达到最终的目标！ 将人生比做攀越高峰的话，很多时候在山脚下的时候，看到不可及的峰顶、甚至什么都看不到的情况下就望而却步，转而放弃！ 这是绝大多数人走的路。&lt;/p&gt;
-
-&lt;p&gt;如果你和我一样是走过中国特色的社会主义教育体制下的路的话，一定记得小时候写过的作文：“你的梦想是什么？” ，还有这个题目下的答案：“宇航员、人类灵魂的工程师、科学家。。。”，但是现在去问周边的人，你的梦想是什么？有钱、拥有豪宅、豪车。或者干脆一点以有梦想为耻，大笑不已，都多大了，你在和我谈梦想？比如汪峰就是经常被调侃的对象。就拿我个人来说吧，我一直以来都做着作家的梦，即使是工作如此多年，从未敢放弃自己，或许是偶尔的去想一想，但已经没有人可以交流和倾述。梦想似乎永远是那么的遥不可及，但是这绝对不是放弃的理由。过去的这十年，我是一名努力的工程师，虽然现在仍然是普普通通、籍籍无名，但是就像我崇拜的那些大文豪、优秀的诗人一样，我了解和懂得了工程师的级别。&lt;/p&gt;
-
-&lt;p&gt;计算机科学界的阶层：
-1. 图灵、阿隆佐丘奇、冯诺依曼、香农 等科学家、奠基者
-2. 高德纳、历届图灵奖得主
-3. 理查德斯托曼、林纳斯托沃兹等项目开拓者
-4. 那些个算法达人、架构师
-5. 优秀的工程师，能够高效的达到上述四中所设定的目标，以及所谓的跨界达人（所谓的懂业务、懂技术者）
-6. 软件的熟练使用者&lt;/p&gt;
-
-&lt;p&gt;这样来区分的话，一定会有很大的争议，评估一个事情，本来就有很多的维度，时间、空间、文化、视野等等不一而足。这里仅就我个人的偏见而言的，不妥的地方，可以留言商讨。&lt;/p&gt;
-
-&lt;p&gt;其它行业或者职业也是类似的金字塔，越往上就得越努力，而且需要的天赋比例亦越重。而且每一层都仍然是一个个小目标所集合而成。&lt;/p&gt;
-
-&lt;p&gt;所谓的梦想，就是所谓的终极目标！ 人类历史上很少有人能够在有生之年达到了自己认定的终极目标，绝大多数是带着遗憾的。但更多的是在开始，即起点处就放弃了自己。环顾四周看看，你的朋友、亲人，是否在为梦想而奋斗？是否已经随波逐流，早已放弃？是否在看着《老男孩》失声痛哭？&lt;/p&gt;
-
-&lt;h2 id=&#34;关于极真空手道考级的一些介绍以及其是如何迎合了上面的道理的:f0a199fa81577ab4af2b97fb5414893f&#34;&gt;关于极真空手道考级的一些介绍以及其是如何迎合了上面的道理的&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;级别&lt;/th&gt;
-&lt;th&gt;缎带&lt;/th&gt;
-&lt;th&gt;升级考核内容：基本技&lt;/th&gt;
-&lt;th&gt;型&lt;/th&gt;
-&lt;th&gt;体能&lt;/th&gt;
-&lt;th&gt;组手（实战）&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;无级&lt;/td&gt;
-&lt;td&gt;白带&lt;/td&gt;
-&lt;td&gt;三站立冲拳、四种格挡技、左右正拳、前蹴、前屈立移动&lt;/td&gt;
-&lt;td&gt;太极手技1-2&lt;/td&gt;
-&lt;td&gt;俯卧撑20次深蹲踢20次（成年）&lt;/td&gt;
-&lt;td&gt;无&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;十级&lt;/td&gt;
-&lt;td&gt;橙带&lt;/td&gt;
-&lt;td&gt;基本手技之背拳系、后屈立手刀移动、前回蹴、横蹴&lt;/td&gt;
-&lt;td&gt;太极手技3、太极足技1&lt;/td&gt;
-&lt;td&gt;俯卧撑30次深蹲踢25次（成年）&lt;/td&gt;
-&lt;td&gt;实战1人（2分）&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;九级&lt;/td&gt;
-&lt;td&gt;橙带一杠&lt;/td&gt;
-&lt;td&gt;基本手技之手刀系、三站立、后屈立、横蹴、砸蹴、前蹴、前回蹴&lt;/td&gt;
-&lt;td&gt;平安1、太极足技2&lt;/td&gt;
-&lt;td&gt;俯卧撑40次 深蹲踢30次（成年）&lt;/td&gt;
-&lt;td&gt;实战1人（2分）&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;八级&lt;/td&gt;
-&lt;td&gt;蓝带&lt;/td&gt;
-&lt;td&gt;基本手技之拳法系、实战步之移动系、横蹴、砸蹴、后蹴、后回蹴&lt;/td&gt;
-&lt;td&gt;平安2、太极足技3&lt;/td&gt;
-&lt;td&gt;俯卧撑40次 深蹲踢30次（成年）&lt;/td&gt;
-&lt;td&gt;实战2人&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;级别&lt;/th&gt;
-&lt;th&gt;缎带&lt;/th&gt;
-&lt;th&gt;升级考核内容： 型&lt;/th&gt;
-&lt;th&gt;体能&lt;/th&gt;
-&lt;th&gt;实战&lt;/th&gt;
-&lt;th&gt;组手&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;七级&lt;/td&gt;
-&lt;td&gt;蓝带一杠&lt;/td&gt;
-&lt;td&gt;平安3&lt;/td&gt;
-&lt;td&gt;俯卧撑40次 深蹲踢30次（成年）&lt;/td&gt;
-&lt;td&gt;每场尽打2分钟，不计胜负&lt;/td&gt;
-&lt;td&gt;2人&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;六级&lt;/td&gt;
-&lt;td&gt;黄带&lt;/td&gt;
-&lt;td&gt;平安4&lt;/td&gt;
-&lt;td&gt;俯卧撑50次，深蹲踢30次，带飞20次（成年）&lt;/td&gt;
-&lt;td&gt;每场净打2分钟，不计胜负&lt;/td&gt;
-&lt;td&gt;2人&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;五级&lt;/td&gt;
-&lt;td&gt;黄带一杠&lt;/td&gt;
-&lt;td&gt;平安5&lt;/td&gt;
-&lt;td&gt;俯卧撑50次，深蹲踢30次，带飞20次（成年）&lt;/td&gt;
-&lt;td&gt;每场净打2分钟，不计胜负&lt;/td&gt;
-&lt;td&gt;3人&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;级别&lt;/th&gt;
-&lt;th&gt;缎带&lt;/th&gt;
-&lt;th&gt;升级考核内容：型&lt;/th&gt;
-&lt;th&gt;体能&lt;/th&gt;
-&lt;th&gt;实战&lt;/th&gt;
-&lt;th&gt;组手&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;四级&lt;/td&gt;
-&lt;td&gt;绿带&lt;/td&gt;
-&lt;td&gt;安三&lt;/td&gt;
-&lt;td&gt;俯卧撑50次，深蹲踢30次，带飞20次（成年）&lt;/td&gt;
-&lt;td&gt;每场净打2分钟，不计胜负&lt;/td&gt;
-&lt;td&gt;4人&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;三级&lt;/td&gt;
-&lt;td&gt;绿带一杠&lt;/td&gt;
-&lt;td&gt;突击之型&lt;/td&gt;
-&lt;td&gt;俯卧撑50次，深蹲踢30次，带飞30次（成年）&lt;/td&gt;
-&lt;td&gt;每场净打2分钟，按国际空手道连盟竞赛规则，判定胜负，四局两胜制，胜者晋级。&lt;/td&gt;
-&lt;td&gt;4人&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;级别&lt;/th&gt;
-&lt;th&gt;缎带&lt;/th&gt;
-&lt;th&gt;升级考核内容：型&lt;/th&gt;
-&lt;th&gt;体能&lt;/th&gt;
-&lt;th&gt;力量&lt;/th&gt;
-&lt;th&gt;实战&lt;/th&gt;
-&lt;th&gt;组手&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;二级&lt;/td&gt;
-&lt;td&gt;棕带&lt;/td&gt;
-&lt;td&gt;平安1～5、安三、击碎大、突击之姓&lt;/td&gt;
-&lt;td&gt;3200米－15分钟完成&lt;/td&gt;
-&lt;td&gt;卧推：自身重量10次；深蹲：自身重量10次（仅限男子）&lt;/td&gt;
-&lt;td&gt;每场净打2分钟，按国际空手道连盟竞赛规则，判定胜负，五局三胜制，胜者晋级。&lt;/td&gt;
-&lt;td&gt;5人&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;一级&lt;/td&gt;
-&lt;td&gt;棕带一杠&lt;/td&gt;
-&lt;td&gt;平安1～5（反）、安三、击碎大、突击之姓&lt;/td&gt;
-&lt;td&gt;3200米－15分钟完成&lt;/td&gt;
-&lt;td&gt;卧推：自身重量15次；深蹲：自身重量15次（仅限男子）&lt;/td&gt;
-&lt;td&gt;每场净打2分钟，按国际空手道连盟竞赛规则，判定胜负，十局六胜制，胜者晋级。&lt;/td&gt;
-&lt;td&gt;10人&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;棕带一杠晋级后，就是黑带了，黑带就是段位，那将是另外一片天地了！关于黑带的段位晋级规则，我这里就从略了。可能会有下一篇文章来阐述，总而言之，那将是另外一片天地了。&lt;/p&gt;
-
-&lt;p&gt;是不是很像阶梯式的递进的目标？&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://img04.tooopen.com/images/20130925/sy_37788837451.jpg&#34; alt=&#34;image of step&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;要想往高处走，看得更远，必须拾阶而上！若你没有一步登天的能力，就得好好利用好阶梯。&lt;/p&gt;
-
-&lt;p&gt;从空手道乃至极真空手道创始以来，不知道有多少人走过了这条路，即使是目前为止的最高段位的人，也是有记载的、实实在在的！那么这些也是前人所总结的常人可以达到的目标。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://i1.t.hjfile.cn/ing_new/201206_3/8babaa3b-a5c4-4521-b9c7-d9363bde0509.png&#34; alt=&#34;image of you&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;需要解释吗:f0a199fa81577ab4af2b97fb5414893f&#34;&gt;需要解释吗？&lt;/h2&gt;
-
-&lt;p&gt;其实不需要，我就是想整理一下，给自己设定一个看得见的，很多人已经实现了的目标，然后努力的去实现它。这是我觉醒后做的第一件事，也是从不自觉、半自觉、到自觉的蜕变！&lt;/p&gt;
-
-&lt;h2 id=&#34;个人的领悟:f0a199fa81577ab4af2b97fb5414893f&#34;&gt;个人的领悟&lt;/h2&gt;
-
-&lt;p&gt;曾几何时，我这么一句话：“常常是我们疲惫的不是远方的高山，而是脚下的那些沙砾。” 是深信不疑。我忽略身边的小事和小人，无视它们，采取的是不屑、厌恶的策略，因为我的目标是远方！ 但是多年下来证明我是错的，我没能处理好这些小的“沙砾”，结果就是这些看起来微不足道的小事，却将我很狠的伤了一把，虽然不足以让我放弃远方，但是确实让我停下来思考很多。先处理好这些，方可远足！&lt;/p&gt;
-
-&lt;p&gt;你必须去正视身边的一些细节、小事，所谓的“失之毫厘，谬之千里！” 必须停下来，将脚下的沙子处理掉，才能无忧的出发，才不会由于脚的受伤而忘记远方！因为你无法一步登天，你只能一步一个台阶的努力前行！&lt;/p&gt;
-
-&lt;p&gt;还不得不将大的目标，分隔成无数的可以达到的小目标！ 这样才不会绝望、气馁而过早的放弃。&lt;/p&gt;
-
-&lt;p&gt;所以，0、人要有目标的去活。1、将目标分隔为多个可以看得见、努力就可以达到的、就是身边的小事情的阶段性的目标。然后就去努力吧！或许加上一点点的运气，你就可以实现！ （选目标的时候，最好是估摸下自己的天赋。）&lt;/p&gt;
 </description>
     </item>
     
