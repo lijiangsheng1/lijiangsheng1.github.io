@@ -7,8 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 24 May 2016 06:12:10 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 May 2016 07:15:22 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.5.25)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_25/</link>
+      <pubDate>Wed, 25 May 2016 07:15:22 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_25/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:b5a9f201969593a8814089777bfbe809&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;由电影-火星救援-和-radiohead-广播的故事-进一步阐释开源:b5a9f201969593a8814089777bfbe809&#34;&gt;由电影《火星救援》和 Radiohead 广播的故事，进一步阐释开源&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://medium.com/built-to-adapt/how-the-martian-and-radiohead-explain-open-source-10644c9a31f7#.o0vv849y6&#34;&gt;How ‘The Martian’ and Radiohead Explain Open Source
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/1200/1*NsIb35X9Gqba6xVZ9ltCZw.jpeg&#34; alt=&#34;the martian&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是值得一读的故事，由电影和音乐电台的故事，然后想到开源。这个思维跳跃是非常棒的！ 用人们熟悉的故事来解释抽象的事情。&lt;/p&gt;
+
+&lt;p&gt;你必须为市场提供价值！ 需要耐心的布局。没有任何事可以一蹴而就的。《火星救援》里的 Andy、Cloud Foundry 在商业化之前经过了多年的修炼、Radiohead花了近10年的时间做他们的专辑。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.05.24）</title>
@@ -627,11 +658,13 @@
 
 &lt;h2 id=&#34;介绍:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;介绍&lt;/h2&gt;
 
-&lt;p&gt;如果说&lt;a href=&#34;http://www.aberdeeninvestment.com/wp-content/uploads/2009/11/Why-Software-Is-Eating-The-World-8-20-111.pdf&#34;&gt;软件正在慢条斯理的将这个世界吃掉&lt;/a&gt;的话，那么我们可以毫不夸张的说开源软件正在吞噬世界。现在的开源可不像十几年前那样，几乎无人问津，现在到处都在谈论开源（对于入门者来说，看看讲解 Linux 丰富的历史吧），据统计，无论是社区参与、代码提交行数，还是企业参与、收入的影响，都以惊人的速度上升。举个例子，在2015年8月份举办的北美 LinuxCon 会场，Linux 基金会介绍说，仅仅是旗下的子项目就有六千四百万行代码的提交，这并没有包括 Linux 本身！这些提交来自成百上千的独立的贡献者，从学生到服务于公司的工程师，据粗略的估价，这些代码的软件是已经超过50多亿美元的软件项目。&lt;/p&gt;
+&lt;p&gt;如果说&lt;a href=&#34;http://www.aberdeeninvestment.com/wp-content/uploads/2009/11/Why-Software-Is-Eating-The-World-8-20-111.pdf&#34;&gt;软件正在慢条斯理的将这个世界吃掉&lt;/a&gt;的话，那么我们可以毫不夸张的说开源软件正在吞噬世界。现在的开源可不像十几年前那样——几乎无人问津，现在则到处都在谈论开源（对于入门者来说，看看讲解 Linux 丰富的历史吧），据统计，无论是社区参与、代码提交行数，还是企业参与、乃至金钱的收入，都以惊人的速度上升。举个例子，在2015年8月份举办的北美 LinuxCon 会场，Linux 基金会介绍说，仅仅是旗下的子项目就有六千四百万行代码的提交，这并没有包括 Linux 本身！这些提交来自成百上千的独立的贡献者，从学生到服务于公司的工程师，据粗略的估价，这些代码的软件是已经超过50多亿美元的项目。&lt;/p&gt;
 
-&lt;p&gt;虽然目前开源已经深入人心，但是我们这里要探讨的更加的耐人寻味，因为开源已经不再仅仅是指传统意义上的将代码仓库公开访问，以及以某种开源许可证来分发。开源还意味着由开放治理和合作基金会来管理，使得来自世界各地的开发人员能够协同起来，一起解决来自围绕云计算的挑战：从基础设施服务，到平台、应用的打包，乃至日益扩展的 Web 产品的交付和运维。&lt;/p&gt;
+&lt;p&gt;虽然目前开源已经深入人心，但是我们这里要探讨的更加的耐人寻味，因为开源已经不再仅仅是指传统意义上的将代码仓库公开访问，以及以某种开源许可证来分发。开源还意味着由开放治理和合作基金会的管理，使得来自世界各地的开发人员能够协同起来，一起解决来自围绕云计算的挑战：从基础设施服务，到平台、应用的打包，乃至日益扩展的 Web 产品的交付和运维。&lt;/p&gt;
 
-&lt;p&gt;这场开源的革命改变了人们的看法，也让企业开始思考自己的软件产品应该如何开发，尤其是企业为其用户提供云计算的解决方案时，这一影响更加的凸显。我们发现在这个新的开放的时代，它本身就是在培养一种开放的思维以及开放的合作，目标是那些在自己的企业中已经习惯于封闭开发的大量的有经验的开发者们，而且，我们现在越来越多的软件的设计使用开放的原则，就云计算具体来说，企业传统的做法就是“自己滚起来”。我们称这个新的时代为：精心布局的开源。&lt;/p&gt;
+&lt;p&gt;这场开源的革命改变了人们的看法，也让企业开始思考自己的软件产品应该如何开发，尤其是企业为其用户提供云计算的解决方案时，这一影响更加的凸显。我们发现在这个新的开放的时代，它本身就是在培养一种开放的思维以及开放的合作，目标人群是那些在自己的企业中已经习惯于封闭开发的拥有丰富经验的开发者们，而且，我们现在越来越多的软件的设计使用开放的原则，就云计算具体来说，企业传统的做法就是“自己滚起来”。我们称这个新的时代为：精心布局的开源时代。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://d3tdunqjn7n0wj.cloudfront.net/1440x960/openbydesign_73811171-944159280e45ed27a82498fca52eb9ca.jpg&#34; alt=&#34;window&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;开源-历史回顾:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开源：历史回顾&lt;/h2&gt;
 
@@ -790,11 +823,21 @@
 
 &lt;h3 id=&#34;案例-开源构建的开放云:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;案例：开源构建的开放云&lt;/h3&gt;
 
+&lt;p&gt;在看完两个有关开放协作和开放治理模式的反例之后，我们该重温一下我们在第二章所讨论的基于基金会的三大主要的云计算开源项目了，所有的这三个项目—— OpenStack、Cloud Foundry、以及 Docker——均拥有大型的社区，由众多的参与者，都是开放的生态系统，完全实现或者是正在进行中的开放治理，在现实的世界中影响力正在增长，从创业公司到大型企业，整个如此的跨度都可以提供生产就绪的云计算产品。&lt;/p&gt;
+
 &lt;h4 id=&#34;openstack:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;OpenStack&lt;/h4&gt;
 
 &lt;h4 id=&#34;cloud-foundry:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Cloud Foundry&lt;/h4&gt;
 
 &lt;h4 id=&#34;docker:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Docker&lt;/h4&gt;
+
+&lt;p&gt;Docker 是一款最新的开源项目，更准确点说是现在站在云计算的“风口”。Docker 的核心，是容器技术，不过其重新发明了轮子，目标是替代已有的容器技术—— LXC。容器技术是一种操作系统级的虚拟化技术，在用户空间的表现是看起来像拥有一套独立的系统一样。Docker 还希望通过改进用户体验，简单而易用的来在任何地方“构建、交付、运行” 应用程序的代码，甚至想取代传统的虚拟机或者是 PaaS 的某些应用场景。如果要对过去两年的 Docker 有什么要说的话，Docker 以非常成功的方式应证了开源！近来，Enterprise Technology Research （ETR）调查了 685家的CIO们，询问他们是否有意在接下来的一年里使用 Docker 相关的付费产品，令人颇为惊奇的结果是：97%的 CIO们说会！这是 ETR 创始以来得分最高的&lt;a href=&#34;https://www.linkedin.com/pulse/docker-scores-best-ever-net-score-etr-history-thomas-delvecchio&#34;&gt;调查&lt;/a&gt;。另外一个可以佐证 Docker 的成功以及其庞大的影响力的是，亚马逊近期通过其 AWS ec2 的容器服务来支持 Docker 的API。尽管亚马逊通过其 AWS 平台支持了很多传统的开发标准，但是采取其它非标准的 API 定义尚属罕见。这就非常明确的承认了 Docker 在容器化世界的领导者地位——正如我们经常所看到的，很多厂商为了迎合 AWS 这个 IaaS 市场领导者地位，将自家的产品做的和 AWS API 兼容。&lt;/p&gt;
+
+&lt;p&gt;一如我们前面所讨论的其它的云计算的开源社区刚刚起步的时候，Docker 这个开源项目当面面临的问题，由一个单一的商业实体发起并控制，且名称都是一样的。Docker 有限责任公司在整个开源项目中是关键角色且是维护的主要力量。Docker 和我们前面讨论过的一样，拥有多个积极有利的一面，几乎所有的 Docker 的开源社区方面的工作、计划、和讨论都是在公共的论坛上进行的。Docker 的员工，也是开源社区的成员，对于新的成员表现出非常好的态度；事实上，我们的经验是他们（很多开源项目均是）到处去招徕新的成员加入，不管他们的经验如何、或是对于项目本身的了解。尽管 Docker 并非是一个理想的开源项目，因为它有着最为致命的——单一厂商的控制，其实正如我们所一路看过来的，这对于一个刚刚创立不久的项目是非常正常的。我们有理由相信，Docker 会在其下一个成熟的周期会确保项目的长期成功，包括如何治理和监督。&lt;/p&gt;
+
+&lt;p&gt;伴随着 Docker 的成功，Docker 也开始承受来自业界其它的角逐者的竞争压力，因为这是云计算应用交付的未来，只渐趋白热化的技术焦点。还有的压力是来自社区的分裂：最为显著的就是 CoreOS ，一直以来都是 Docker 的支持者，其实现了一套容器运行时环境，叫做“Rocket”，是 2014年12月发布的容器运行时规范“appc”的实现，这样公开的撕逼和社区分裂行为让 Docker 项目着实不太好过（希望不会太久）。大家最初的反应都是第一步先找一个就容器技术的开放治理组织，以及解决 Docker 运行时的核心规范。&lt;/p&gt;
+
+&lt;p&gt;在2015年6月，Docker 将其核心的容器运行时代码库贡献出来了，以 Docker 的子项目的形式出现，名称叫做“libcontainer”，以及针对开放容器促进会所要求实现的“runC”的新的容器运行时接口。关于开放容器促进会，我们将会稍后专门进行讨论。随着时间的推移，我们期望容器的开放治理和开放协作逐渐的成熟起来。这将对于商业和开源合作来进行创新和产品提供是有益处的，这对于目前对于消费者的热点技术来说，是消除他们担心厂商锁定，增强可操作性、可移植性的最好契机。&lt;/p&gt;
 
 &lt;h3 id=&#34;案例-开放基金会扩展了云的协作:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;案例：开放基金会扩展了云的协作&lt;/h3&gt;
 
@@ -804,9 +847,21 @@
 
 &lt;h3 id=&#34;请在开放云中站稳您的脚跟:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;请在开放云中站稳您的脚跟&lt;/h3&gt;
 
+&lt;p&gt;到现在为止，我们已经捋过了多个开源项目、多种开放治理方式、以及一些基金会的模式，且可以看到对于云计算的技术来讲，真正的开放才是未来，才是真正有价值的，即协作的创新和合作竞争这条道路。我们也已经注意到了，其中主要的云计算的倡议和项目，越来越明显的感觉到，要完成很多的跨项目的合作才能解决云计算日益临近的挑战。&lt;/p&gt;
+
+&lt;p&gt;我们也可以看到，在运维人员、开发者、生产者和消费者之间的界线越来越模糊，而且代码、社区、和开源文化的性质正在悄然发生着变化，已经超出了传统的涵义。这就必然导致一个任何人只要有兴趣就可以成为开源项目的开发者和贡献者的扁平化时代的到来，至于方式，无论是为最终用户完善文档还是为开发者提出新的特性的建议，已经不是需要特别提醒的常识。&lt;/p&gt;
+
+&lt;p&gt;对于感兴趣的最终用户来说，这意味着再也不是站在纯粹的消费者一边的了：可以投入到自己感兴趣的项目，根据自身的需要在项目未来的发展方向上发出自己的声音。对于开发云计算平台的公司或者是运营云服务的公司来说，投入到开源中来，既可以受益于社区，又可以加速进入市场的准入门槛，以及不仅能够实现自己的利基专长，还能够吸收其它的来自开放社区的能力。参与到围绕关键云计算项目的基金会开放治理中来，还有助于提供公平的竞争环境，作为更为广泛的参与提供发出更多的声音以影响厂商中立的决策制定。&lt;/p&gt;
+
+&lt;p&gt;如果你正在考虑将自己的内部使用的技术开源，又或者是通过创建独立或企业领导引导的新社区项目，请记住，请选择将项目开放，以获得在整个生态系统的长期的生命力。一如我们所看到的那些成功的开源项目一样。你需要让其他各方的人们参与进来，并成为一些领导的角色。由健康的开放治理模式来引导。基于精英主义的技术发展路线，这在开始的时候是蛮困难的——因为没有人乐意将自己的想法或项目放弃控制权的。然而，正如我们所列举出来的，这条途径在云计算中是最为有利的，真正的协作！&lt;/p&gt;
+
 &lt;h3 id=&#34;总结:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;总结&lt;/h3&gt;
 
-&lt;p&gt;我们深信开放云的未来就是将开源精心布局。&lt;/p&gt;
+&lt;p&gt;我们相信开源软件项目通过健康的开放治理原则的治理下，以及厂商中立的基金会的交付实践，会缔造一个成功的云计算相关技术的未来的！我们已经看到一些大型的项目如 OpenStack、Cloud Foundry、Docker ，以及我们在前面讨论过的围绕它们的每个基金会，强强联手蓄势待发、企业的赞助和参与，引来了一大堆大大小小的厂商参与。这些开源和开放治理的项目，既允许广大社区协作，也允许独特的创新，这就可以让传统的厂商和初创公司基于开放的技术交付云的产品都可受益。&lt;/p&gt;
+
+&lt;p&gt;另外，我们也相信，在不久的将来，开放云的的跨项目合作将是趋势，通过一些基金会的庇护，在云计算的底层和应用层的编排和管理组件寻找一些标准的关键组件。对于 IaaS 或 PaaS 来说，客户最为需要的不是一个项目就能满足所有需求的所谓的产品，而是会覆盖多个潜在开源项目和产品的全面途径。跨多个云基础架构类型的编排、集群管理、以及分布式／部署的标准接口——举例来说，虚拟机和容器——在下一次的变革中，谁将是云计算中的王者？在这些关键的概念上的一些通用性和互操作性都是跨多个厂商和多个相关的开源项目的协作的。这就带来了众多的机会，一个潜在的新的利基厂商的实现，将带来新的收入、新的产品。&lt;/p&gt;
+
+&lt;p&gt;我们深信开放云的未来就是将开源精心的规划。&lt;/p&gt;
 
 &lt;h4 id=&#34;作者简介:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;作者简介：&lt;/h4&gt;
 
@@ -1513,175 +1568,6 @@
 &lt;p&gt;这篇文章是我对于过去的一年的创业历程总结的前哨，我需要正视自己的错误，要将自己急躁的心慢下来，脚踏实地的去慢慢实现自己的梦想！要做长远的打算，而不是冲刺的去立即实现。&lt;/p&gt;
 
 &lt;p&gt;是的！应该找到自己的节奏了，再随波逐流就真的老了！&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>http://lijiangsheng1.github.io/about/</link>
-      <pubDate>Wed, 04 May 2016 17:28:07 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;关于此博客:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;关于此博客&lt;/h1&gt;
-
-&lt;h2 id=&#34;从博客的搬家回溯自己的坎坷经历:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;从博客的搬家回溯自己的坎坷经历&lt;/h2&gt;
-
-&lt;p&gt;从博客出现伊始，我就开始写博客，最早的是bokee.com，当然现在已经消失了，那时候还是青涩的大学年代，写写诗，骂骂自己遇到的不公。真的把记录当回事的是2006年在 chinaunix 开博：&lt;a href=&#34;http://blog.chinaunix.net/uid/20172731.html&#34;&gt;生命的自由度与人&lt;/a&gt;。若是套在职业生涯中的话，此博客记录了我四年的技术学习史。也是我在红旗 Linux 的日子。从红旗 Linux 出来之后，一路迷失，从普华短暂的停留、再到云端的日夜奋斗，但并没有在博客中留下任何的痕迹。当意识到脱离这些时，再恢复博客到撰写，中间还有一小段的过渡，亦即&lt;a href=&#34;http://johnwoolee.blogspot.com/&#34;&gt;自由与爱&lt;/a&gt;，基本上就是记录了几篇自己职业上并不顺心的一些事情。终于有时间开始写一些文章，还是恢复自由身之后，即&lt;a href=&#34;http://iaaslee.blogspot.com/&#34;&gt;OpenSource tech. and culture&lt;/a&gt;，终于开始思考自己喜爱和认定的事情了。从2014年到决定迁移到国内可以访问，两年多的时间，其中有一些自己认为很好的文章翻译、有自己的对于技术的认知、对于开源、企业文化的反思、乃至于对于团队、人性的疑惑等等。&lt;/p&gt;
-
-&lt;p&gt;算上这次迁移，已经是第三次了，从上述脉络可以看出，什么才是真的自我。从没有博客的那些日子，现在回忆起来，就是被人鞭打的日子，几乎没有喘息的时间，即使有空，也是被拉到酒场饭桌上。大部分是一些不切实际的鼓吹。好在人是在成长的，谎言始终有被曝光的那一天！也是我从不自觉到半自觉到现在的自觉的过程，这个过程花的代价很大。但值得！&lt;/p&gt;
-
-&lt;p&gt;既然找回了自我，那么写作对于我就是生命的一个部分。博客从此将回归到它该有的状态。纪录我对&lt;a href=&#34;http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/&#34;&gt;开源&lt;/a&gt;的认识、我生命的&lt;a href=&#34;http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/&#34;&gt;感悟&lt;/a&gt;、&lt;a href=&#34;http://lijiangsheng1.github.io/categories/%E5%88%9B%E4%B8%9A/&#34;&gt;创业&lt;/a&gt;已经深植我心，不创不快活、作为两个孩子的父亲，自己走过的弯路，谈谈&lt;a href=&#34;http://lijiangsheng1.github.io/categories/%E6%95%99%E8%82%B2/&#34;&gt;教育&lt;/a&gt;是必须的、&lt;a href=&#34;http://lijiangsheng1.github.io/categories/%E5%81%A5%E5%BA%B7/&#34;&gt;健康&lt;/a&gt;第一，尤其是去年的经历、剩余的就是我的爱好了&lt;a href=&#34;http://lijiangsheng1.github.io/categories/%E8%AF%BB%E4%B9%A6/&#34;&gt;读书&lt;/a&gt;与&lt;a href=&#34;http://lijiangsheng1.github.io/categories/%E7%94%B5%E5%BD%B1/&#34;&gt;电影&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;经过了回顾和分类，我就不打算将原来的博客内容迁移过来了，虽然这会花费我一些时间去学习将 xml 转换为 markdown 的内容，甚至需要写一些具体细节和编码的程序，这些技术倒是无甚所谓，反而无法为我划上一个明确的界线。&lt;/p&gt;
-
-&lt;h1 id=&#34;关于我:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;关于我&lt;/h1&gt;
-
-&lt;h2 id=&#34;目前状态:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;目前状态：&lt;/h2&gt;
-
-&lt;p&gt;尝试创业，毫无进展，没有团队、没有资金。换句不好听的话，就是失败！&lt;/p&gt;
-
-&lt;p&gt;穷困但斗志昂扬，需要一份工作！&lt;/p&gt;
-
-&lt;h2 id=&#34;基本信息:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;基本信息&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;真实姓名： 李建盛&lt;/li&gt;
-&lt;li&gt;网络惟一ID： 适兕&lt;/li&gt;
-&lt;li&gt;性别：男&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;自我描述:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;自我描述&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Blogger、Author、Linuxer、Pythonic&lt;/li&gt;
-&lt;li&gt;开源文化布道师、技术翻译&lt;/li&gt;
-&lt;li&gt;开放云精选创始人&lt;/li&gt;
-&lt;li&gt;对分布式、集群系统有着浓厚的兴趣&lt;/li&gt;
-&lt;li&gt;空手道修行者&lt;/li&gt;
-&lt;li&gt;经常以演讲嘉宾的身份混迹于北京各种开源相关技术的线下活动&lt;/li&gt;
-&lt;li&gt;每日必须阅读两小时&lt;/li&gt;
-&lt;li&gt;戒烟者，亦是戒酒者&lt;/li&gt;
-&lt;li&gt;尝试对自我时间进行苛刻的管理&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;工作阅历:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;工作阅历&lt;/h2&gt;
-
-&lt;p&gt;2013.11～now&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;创建开放云精选社区&lt;/li&gt;
-&lt;li&gt;技术顾问（&lt;a href=&#34;http://www.eayun.cn&#34;&gt;易云捷讯&lt;/a&gt;）截止2015.10&lt;/li&gt;
-&lt;li&gt;兼职：&lt;a href=&#34;http://www.infoq.com/cn&#34;&gt;InfoQ 中国&lt;/a&gt;开源专栏主编。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2011.6～2013.10   云端时代&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;研发经理&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2010.3～2011.5   普华基础软件&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;高级开发工程师&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2006.11～2010.2   北京中科红旗技术有限公司&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;高级售后技术支持工程师&lt;/li&gt;
-&lt;li&gt;开发工程师&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2005.7～ 2006.10  大河网&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;系统管理员&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;演讲经历:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;演讲经历&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;演讲主题&lt;/th&gt;
-&lt;th&gt;会议名称&lt;/th&gt;
-&lt;th&gt;时间&lt;/th&gt;
-&lt;th&gt;地点&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Python in Virtualization&lt;/td&gt;
-&lt;td&gt;BPUG 2010 第一次线下活动&lt;/td&gt;
-&lt;td&gt;2010.9.18&lt;/td&gt;
-&lt;td&gt;douban office,BeiJing&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;How to build geeks team&lt;/td&gt;
-&lt;td&gt;Cloud Valley World 2012&lt;/td&gt;
-&lt;td&gt;2012.12.13&lt;/td&gt;
-&lt;td&gt;北京云基地（上地）&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;introduce oVirt&lt;/td&gt;
-&lt;td&gt;Fedora User/Developer Conferenc APAC&lt;/td&gt;
-&lt;td&gt;2014.5.25&lt;/td&gt;
-&lt;td&gt;北航&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;数据中心操作系统Mesos浅析&lt;/td&gt;
-&lt;td&gt;Mesos China Meetup&lt;/td&gt;
-&lt;td&gt;2015.6.24&lt;/td&gt;
-&lt;td&gt;去哪儿 office 北京&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;为什么基于成功的开源项 目的商业产品会失败？&lt;/td&gt;
-&lt;td&gt;OpenStack China Meetup&lt;/td&gt;
-&lt;td&gt;2015.12.12&lt;/td&gt;
-&lt;td&gt;Intel北京研发中心&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Open Cloud Profile&lt;/td&gt;
-&lt;td&gt;2015中国软件技术大会&lt;/td&gt;
-&lt;td&gt;2015.12.12&lt;/td&gt;
-&lt;td&gt;北京国家会议中心&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;出版物:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;出版物&lt;/h2&gt;
-
-&lt;p&gt;译作：&lt;a href=&#34;http://item.jd.com/11887046.html&#34;&gt;《云落谁家？OpenStack基于场景的架构设计实践》&lt;/a&gt; ISBN: 9787121276491 出版社：电子工业出版社&lt;/p&gt;
-
-&lt;h2 id=&#34;一些自己练习过的技能:6083a88ee3411b0d17ce02d738f69d47&#34;&gt; 一些自己练习过的技能&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Over ten years Linux user and 5 years developer.&lt;/li&gt;
-&lt;li&gt;Program Language: Python, C, Java, bash, xml,Go （都懂一点点）&lt;/li&gt;
-&lt;li&gt;Computer Science: Operating Systems, Cluster(HA,LB,Distributed), TCP/IP protocols&lt;/li&gt;
-&lt;li&gt;开源项目： Cloud computing: OpenStack,Eucalyptus,OpenNebula,CloudStack Virtualization: KVM,qemu,Ovirt,libvirt&lt;/li&gt;
-&lt;li&gt;框架之类的： Hugo、Django&lt;/li&gt;
-&lt;li&gt;写作工具： Docbook、 MarkDown、reStructuredText、以及一点点Tex&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;社交账号以及联系方式:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;社交账号以及联系方式&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;SlideShare: &lt;a href=&#34;http://www.slideshare.net/johnwoolee&#34;&gt;Li Jiansheng&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Linkedin: &lt;a href=&#34;https://cn.linkedin.com/in/lijiansheng&#34;&gt;Li Jiansheng&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;e-mail: lijiangsheng1 AT gmail.com 或者是 lijiansheng AT ocselected.org&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
