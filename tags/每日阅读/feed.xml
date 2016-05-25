@@ -7,8 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 24 May 2016 06:12:10 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 May 2016 06:20:58 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.5.26）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_26/</link>
+      <pubDate>Thu, 26 May 2016 06:20:58 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_26/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;5个急需的开源技能:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;5个急需的开源技能&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3074859/hiring/demand-for-open-source-talent-booming.html&#34;&gt;5 open source skills in high demand&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;每年 Linux 基金会都会做一个关于开源工作的调查（过去是Linux），现在Linux已经是常态、默认的系统了。这个可能在美国是相对准确的，而在本土就成为了可以把握的趋势罢了。今年的几个技能🈶️：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Linux、Hadoop、OpenStack等开源项目的开发者&lt;/li&gt;
+&lt;li&gt;DevOps,这是数据中心未来的趋势，在企业的系统管理员们面临一次严峻的技术变革。&lt;/li&gt;
+&lt;li&gt;云技术&lt;/li&gt;
+&lt;li&gt;网络 NFV，SDN等&lt;/li&gt;
+&lt;li&gt;分布式存储&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;N.B.: 作者的思路不知道是怎么想的。角色、技术本身放到一起归类，确实是够酸爽的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源监控研讨会开始召集演讲者了:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;开源监控研讨会开始召集演讲者了！&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.openpr.com/news/342299/Open-Source-Monitoring-Conference-starts-Call-for-Papers-and-Early-Bird-Phase.html&#34;&gt;Open Source Monitoring Conference starts Call for Papers and Early Bird Phase&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;其实，每次看到 FOSS、OSCON、Linux Conf 北美等开源盛会召集 Paper 的时候，心里就会和国内的场景对照一下，很少有在一个会之前放出消息的。而是依靠会议组织者的个人关系或所谓的业内来找的。这反映了文化的差异。包括我自己去年在组织12月份的 OpenStack Meetup 的时候，虽然提早两个月，最后找的演讲者也是靠圈子找的。当然，这个可能有一些差异。值得去反思！&lt;/p&gt;
+
+&lt;p&gt;其实，这篇新闻本身价值不大。OSCON 每年的 call paper，我都非常的心动。刚刚完成的这次，虽然技术偏弱一点，但是大多是我感兴趣的开源文化。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;市场每天都在变化-但有些事情是不变的:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;市场每天都在变化，但有些事情是不变的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/5/marketing-changes-some-things-never-will&#34;&gt;As marketing changes, some things never will&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;社区驱动的市场，有些东西是不变的：品牌，以及分享！ 是的，令人眼花缭乱的世界，什么才是根本，才是我们应该去追寻的。&lt;/p&gt;
+
+&lt;p&gt;Trust、Emotion、Reputation ，人类的有些东西是不会变的。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.05.24）</title>

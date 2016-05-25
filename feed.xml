@@ -7,8 +7,502 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 25 May 2016 07:15:22 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 May 2016 06:20:58 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.5.26）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_26/</link>
+      <pubDate>Thu, 26 May 2016 06:20:58 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_26/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;5个急需的开源技能:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;5个急需的开源技能&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3074859/hiring/demand-for-open-source-talent-booming.html&#34;&gt;5 open source skills in high demand&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;每年 Linux 基金会都会做一个关于开源工作的调查（过去是Linux），现在Linux已经是常态、默认的系统了。这个可能在美国是相对准确的，而在本土就成为了可以把握的趋势罢了。今年的几个技能🈶️：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Linux、Hadoop、OpenStack等开源项目的开发者&lt;/li&gt;
+&lt;li&gt;DevOps,这是数据中心未来的趋势，在企业的系统管理员们面临一次严峻的技术变革。&lt;/li&gt;
+&lt;li&gt;云技术&lt;/li&gt;
+&lt;li&gt;网络 NFV，SDN等&lt;/li&gt;
+&lt;li&gt;分布式存储&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;N.B.: 作者的思路不知道是怎么想的。角色、技术本身放到一起归类，确实是够酸爽的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源监控研讨会开始召集演讲者了:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;开源监控研讨会开始召集演讲者了！&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.openpr.com/news/342299/Open-Source-Monitoring-Conference-starts-Call-for-Papers-and-Early-Bird-Phase.html&#34;&gt;Open Source Monitoring Conference starts Call for Papers and Early Bird Phase&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;其实，每次看到 FOSS、OSCON、Linux Conf 北美等开源盛会召集 Paper 的时候，心里就会和国内的场景对照一下，很少有在一个会之前放出消息的。而是依靠会议组织者的个人关系或所谓的业内来找的。这反映了文化的差异。包括我自己去年在组织12月份的 OpenStack Meetup 的时候，虽然提早两个月，最后找的演讲者也是靠圈子找的。当然，这个可能有一些差异。值得去反思！&lt;/p&gt;
+
+&lt;p&gt;其实，这篇新闻本身价值不大。OSCON 每年的 call paper，我都非常的心动。刚刚完成的这次，虽然技术偏弱一点，但是大多是我感兴趣的开源文化。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;市场每天都在变化-但有些事情是不变的:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;市场每天都在变化，但有些事情是不变的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/5/marketing-changes-some-things-never-will&#34;&gt;As marketing changes, some things never will&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;社区驱动的市场，有些东西是不变的：品牌，以及分享！ 是的，令人眼花缭乱的世界，什么才是根本，才是我们应该去追寻的。&lt;/p&gt;
+
+&lt;p&gt;Trust、Emotion、Reputation ，人类的有些东西是不会变的。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>时间，你真的能管理好自己的时间吗？</title>
+      <link>http://lijiangsheng1.github.io/posts/reading/the_effective_executive/</link>
+      <pubDate>Wed, 25 May 2016 13:57:13 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/reading/the_effective_executive/</guid>
+      <description>
+
+&lt;p&gt;我突然变成了被无数事情撕成碎片的机械式的、茫然不知所终的怪物，整天似乎看起来忙忙碌碌，然而却在原地打转。我贪得无厌，我恨不能将所有感兴趣的知识都装进自己的脑子。似乎一停下来，又茫然四顾、踌躇满志，一时之间又不知道该干些什么。&lt;/p&gt;
+
+&lt;p&gt;看完《卓有成效的管理者》之后，尤其是对于时间的论述，我跺脚之余，唯有感叹。感叹这几年所做的傻事。&lt;/p&gt;
+
+&lt;h2 id=&#34;废话:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;废话&lt;/h2&gt;
+
+&lt;p&gt;这本书是在 Kindle 上断断续续看完的，差不多花了一个月的时间。是参加 QCon北京2016 的会议时听徐凯强的演讲时，所强烈的推荐的两本书之一，另外一本《营销管理》正在阅读中。在读的过程中，我完全失去了思考能力的傻子一样的读了下来，如芒在背！书中的卓有成效跟我一点边都不沾。多年以来我所学、所努力的，效率如此之低，全和我自身有关。&lt;/p&gt;
+
+&lt;h2 id=&#34;书中摘抄以及我的笔记笔记:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;书中摘抄以及我的笔记笔记&lt;/h2&gt;
+
+&lt;h3 id=&#34;推荐序:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;推荐序&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没有完美无缺的人，一个人无论多么有才，十全十美，比起整个人类拥有的知识和能力，比起组织拥有的力量来，都无足挂齿。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这大约就是人们喜欢去大公司历练的原因。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一次只做一件事，所谓“一心不可二用”，或”不同时捕捉两只兔子”，忙忙碌碌，一事无成的人，往往低估做成一件事情所需要的时间，其喜欢同时做几件事；所谓“眉毛胡子一把抓”，乱了章法，乱了方寸，乱了阵脚。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这明明就是在说我吗！我必须把这个人生中最大的错误毛病改正。focus 到某点上。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如果考虑到我们的“能力”有限，事情更是这样。必须把自己的所有长处，集中于成败的关键或机会上，这是唯一能够产生成果的办法。不能几件事情齐头并进。只有莫扎特这样的天才，才能同时作曲数首，且都是杰作。而其他一流的作曲家，甚至如巴赫、韩德尔、海顿和威尔第，都只能专心于一曲，完成后再做另一曲。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;承认自己是个白痴！请做好一件事。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;只有弄清事实真相，才能把握事情的性质，形成正确的思想、观念或认识，才能做出正确的决策。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我的疑问：What is Truth?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;前言:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;前言&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;管理者能否管理好别人从来就没有被真正验证过，但管理者却完全可以管理好自己。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;悦人者先悦己。
+N.B.: 我不知道我当时看到这段话是怎么想的，现在看起来评价的有点走神。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么需要卓有成效的管理者:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;为什么需要卓有成效的管理者&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我们无法对知识工作者进行严密和细致的督导，我们只能协助他们。知识工作者本人必须自己管理自己，自觉地完成任务，自觉地作出贡献，自觉地追求工作效益。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;但以我目前所经历的公司和所谓的管理者而言，均为达到如此的境界。
+N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这样的。要自我激励！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;的确，谁也不知道一位知识工作者在想些什么，然而，思考却正是他的本分，他既然是在思考，他就是在工作。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是否有一天，能够量化思考，那可是独裁者们梦寐以求的！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;美国是这方面的典型，美国今天占优势的资源当首推教育。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;教育是根本！对比国内的教育，那叫一个惨，愚民教育。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;管理者必须面对的现实:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;管理者必须面对的现实&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一位管理者如果不能致力于使工作卓有成效，现实必将迫使他一事无成。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我个人的例子也就不过如此。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;每一位知识工作者都有各自的专长，各自的志趣。有人热衷于税务会计，有人热衷于细菌学，也有人热衷于培训市政人员。而就在隔壁办公的另外一个人也许只对成本会计重的一些细节感兴趣，或只注意医院的经营情况，要不就是只关注市政的法律问题。他们每个人都需要使用别人的成果。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;要善于去协助，以及利用他人的成果。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;人数越少，规模越小，内部的工作越轻，组织就越接近于完美，就越有存在的理由，而组织存在的唯一理由，就是为外部环境提供良好的服务。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;存在的正当性。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;对有效性的认知:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;对有效性的认知&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;过不多久我们就会发现，我们正在勉强做哪些根本不可能办到的事，或原本就无利可图的事。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;而我所犯的错误却是没有清楚的认识自己，过于高估自己的能力，以及糟糕的时间安排。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;卓有成效可以学会吗:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;卓有成效可以学会吗？&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;学习习惯就非得反复地实践不可。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;三年方能熟练一个最简单的动作。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没有任何理由不让普通人通过练习来获得胜任某项工作的能力。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我那篇 Training 的文章中重要的理论支柱之一。&lt;/p&gt;
+
+&lt;p&gt;N.B.：这篇文章不知道什么时候能够写完，立论太大，以现有的能力收拾不回来。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;第二章-掌握自己的时间:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;第二章 掌握自己的时间&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;时间的供给，丝毫没有弹性。不管时间的需求有多大，供给绝不可能增加。时间的供需没有价格可资调节，也无法绘制边际效用曲线。而且时间稍纵即逝，根本无法储存。昨天的时间过去了，永远不再回来。所以，时间永远是最短缺的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;逝者如斯夫！不舍昼夜！更何况人还需要还斯宾诺莎称之为本金的东西——死亡，以及利息——睡眠。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如果完全靠记忆，我们恐怕说不清楚自己的时间是怎样打发的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这一点有很多的哲学家和艺术家都表达过，记忆是最为靠不住的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有效的管理者知道，如果要管理好自己的时间，首先应该了解自己的时间实际上是怎么耗用的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是我目前必须去努力学习掌握的！我的时间都用在了哪里？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;时间对管理者的压力:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;时间对管理者的压力&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.5.25)</title>
@@ -1352,222 +1846,6 @@
 &lt;p&gt;不就是一款协议吗？不就是签个名字吗？至于吗？不惜和昔日的战友撕逼！不惜和整个世界的政府对抗！&lt;/p&gt;
 
 &lt;h2 id=&#34;关于信任:ccaa580774c3319a51b77a01f7c566d9&#34;&gt;关于信任&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>创业以来，我的时间都用在了什么地方？</title>
-      <link>http://lijiangsheng1.github.io/posts/entrepreneur/where_the_time_used_since_startup/</link>
-      <pubDate>Thu, 05 May 2016 10:40:34 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/where_the_time_used_since_startup/</guid>
-      <description>
-
-&lt;p&gt;先来整理下我做的事情：&lt;/p&gt;
-
-&lt;p&gt;2014年9月～10月，是我职业生涯中最为狼狈不堪的一段日子，被公司Boss无端猜忌、被兄弟部门诬陷、被我深为信任的团队成员的背叛。不提也罢，我当时做了如下几个决定：&lt;/p&gt;
-
-&lt;p&gt;0、必须攒够3万块钱。
-1、集中精力将ovirt-china开发完善。
-2、练习英语过雅思。
-3、戒烟！
-4、多陪怀孕的老婆和充满阴影的孩子。&lt;/p&gt;
-
-&lt;p&gt;从2014年11月份决定辞职以后，11月份基本就是和易云的占海在纠缠不清。12月份开始作了一些交接的工作，基本就不在北京待了，开始着手忙乎着接下来的打算了，这个时候主要的思路还是集中在社区建设上！在2015年1月基本上做了如下一些内容：&lt;/p&gt;
-
-&lt;p&gt;0、评估CMS系统。
-1、学习 Mediawiki 的管理，准备亲自来管理wiki。
-2、开始着手翻译一些社区的书籍和文档：如Fuel、和OpenStack架构指南。
-3、学习了一些CSS、JS的内容，定制博客聚合。&lt;/p&gt;
-
-&lt;p&gt;注意，这个时候在撰写博客的时候，翻译了一个重要的文档，那就是：&lt;a href=&#34;http://iaaslee.blogspot.com/2015/03/blog-post.html?view=magazine&#34;&gt;通往开放云指南&amp;ndash;开放云项目简短介绍&lt;/a&gt;。 以及反思了自己作出人生重大决定的文章：&lt;a href=&#34;http://iaaslee.blogspot.com/2015/01/blog-post.html&#34;&gt;我为什么停下来&lt;/a&gt; ，我还清楚的记得我读的一本书《商业模式新构思》，于是开始自己大胆的创业之路。&lt;/p&gt;
-
-&lt;p&gt;（人都是在变化中思考并寻求解决问题的办法的。）&lt;/p&gt;
-
-&lt;p&gt;再来看看2015年2月份的流水账：&lt;/p&gt;
-
-&lt;p&gt;0、 Slideshare 上的 CultureCode ，野心是想考察硅谷的文化。这是我停下来，通过&lt;a href=&#34;http://iaaslee.blogspot.com/2015/02/culturecode.html&#34;&gt;意淫来向往一番&lt;/a&gt;。
-1、开始根据开放云、自己的经验、以及团队的臆想，开始整理商业模式的规划。
-2、开始更改维基百科的一些权限等的设置。
-3、基本完成《OpenStack 架构指南》的翻译。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年3月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年3月&lt;/h3&gt;
-
-&lt;p&gt;这个月正好进入农历年完，和易云签署了技术顾问的合同，开始全身心的忙前2个月的计划了：
-0、组织成立 OCSelected.org 社区，并大体的列了一些具体事项和目标。
-1、找一些项目，以及一些所谓的人开始了聊天。（林捷、后来骗我的何总、徐石磊、许峰等）。
-2、敲定图书出版事宜之后，就返回郑州。
-3、社区的几项事情：注册域名、社交账号、社区哲学／主旨、博客聚合、github仓库创建、wiki的页面整理、建立docs.ocselected.org（内容＋站点）。
-4、翻译这件事情：Fuel的文档、POSA的一章、以及 OpenStack 管理员手册的启动。
-5、博客写作和忍不住的好文翻译。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年4月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年4月&lt;/h3&gt;
-
-&lt;p&gt;这个月有着特别的意义，二女儿出生，前半个月基本上是在照顾妻子，但是还是抽空做了一些零碎的事情：&lt;/p&gt;
-
-&lt;p&gt;0、算是独立后，自己谈的第一个项目，即为和信创天做 oVirt 的培训大纲，以及我自己的一天的培训内容。
-1、ocselectd.org 的社区原则的细节考虑、
-2、翻译：（现在回过头来看，翻译将我扯入了巨大的黑洞，时间浪费的太多。）  Fuel文档、POAS还债、OpenStack管理员手册、Blog、ManageIQ、Ceph文档等
-3、商业上的考量：在做找到合伙人的切蛋糕的研究。
-4、OVDG书籍，在准备培训材料的同时，更新了OVDG的一些内容。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年5月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年5月&lt;/h3&gt;
-
-&lt;p&gt;由于有我妈在照顾我的小女儿，于是，我在5月份返回了北京：&lt;/p&gt;
-
-&lt;p&gt;0、整个上旬都在准备培训项目的事情了，讲了一天，但是最终还是被骗了，没有拿到钱。除了自己的知识收获以外，就是教训了。
-1、社区工作：进行 docs.ocselected.org 的建站和内容。wiki的如何参与页面。
-2、约谈一些人。（王嘉楠、陈沙克）后来发现这纯粹是在浪费时间，他们不会和你讲任何的意见。
-3、翻译，已经意识到翻译吞了很多时间，开始将这件事情限定在2小时之内。
-4、图书出版敲定，开始从社区的版本脱离。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年6月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年6月&lt;/h3&gt;
-
-&lt;p&gt;6月份，接受了易云的独立技术顾问的邀请，或许是还对原来的团队存有一丝的希望。&lt;/p&gt;
-
-&lt;p&gt;0、开放云精选社区活动，总结、哲学释义、
-1、图书出版，要更改一些提纲和内容的增加。
-2、翻译：Mesos、Fuel、Blog（Gartner的云计算报告）
-3、开始有易云出现的工作了：Cloudyn.com、Forest report、以及打报告给占海之类的。
-4、线下活动： OpenStack meetup 参与，Mesos Meetup 演讲嘉宾。
-5、.com 网站开始启动建设。wordpress 模版。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年7月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年7月&lt;/h3&gt;
-
-&lt;p&gt;0、由于找的技术人员迟迟没有动手，（“请你拒绝我！”感慨良多啊）自己开始做产品的设计乃至具体的技术实现。
-1、翻译，终于翻出了点样子，在OpenStack Translators Meet Up上给大家分享翻译那点事。
-2、易云的关于Murano平台研究系列开始启动。
-3、一本书的出版果然没有那么的简单。在翻译完毕后，仍然有很多的工作要做。
-4、没有考虑直接购买 wordpress 的模版，而是找原来认识的美工。（这也是件错误的事情）&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年8月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年8月&lt;/h3&gt;
-
-&lt;p&gt;0、易云的一些高层开始怕鼻子上脸了，开始不仅仅是技术顾问角色，这么简单了，期望我继续组建一个开发团队。看喝酒、吃饭的记录就知道是怎么一回事了。
-1、我期望的公司文化。以及社区的文化与理念。
-2、依然没有放弃找技术帮助我实现产品。甚至是和云端的旧同事聊聊销售的事情。
-3、商业产品的各种思考与考量，（由于缺乏最基础的知识，所以空想而已，没有任何的产出。）
-4、翻译：OpenStack 管理员指南，（有望出的下一本书）以及开放云社区的各类文档。
-5、根据易云的业务和boss的意见，撰写、考察 Murano的系列文章。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年9月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年9月&lt;/h3&gt;
-
-&lt;p&gt;0、终于敲定了和易云散伙的事情。但是一个Murano的调研、系列文档撰写就将我拖了半个月。
-1、翻译，应聘 InfoQ的布道师未果，加入了InfoQ 的社区编辑，翻译的任务又多了一项。OpenStack管理员手册（交稿期结束）。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年10月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年10月&lt;/h3&gt;
-
-&lt;p&gt;这个月对于我生命来说是一个颇为关键的转折点。国庆节的时候，突然身体上出现了一些问题，见我在&lt;a href=&#34;http://lijiangsheng1.github.io/posts/karate/mas-oyama-0/&#34;&gt;我要每日努力不懈！&lt;/a&gt;中所描述的那样。开始准备收尾，但是欠下了太多的债，需要还！&lt;/p&gt;
-
-&lt;p&gt;0、OpenStack Murano 系列博客，一次 OpenStack meetup 的分享准备。
-1、翻译，InfoQ 初级翻译审核，开源启示录的卷首语。
-2、OpenStack 峰会东京之行。
-3、商业上的思考，基本上是没有任何的实际行动了。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年11月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年11月&lt;/h3&gt;
-
-&lt;p&gt;0、InfoQ的翻译文章。
-1、《深入浅出云计算》培训课程准备。
-2、中国软件大会演讲准备。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年12月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年12月&lt;/h3&gt;
-
-&lt;p&gt;这个月基本上都是为了一次培训（我创业以来赚取的唯一的一次生意）、一次大会演讲、一次Meetup组织和演讲。
-0、《深入浅出云计算》培训课程准备。意料之外的耗时！
-1、 中国软件大会演讲准备。这是我有生以来面对最多人的一次演讲，200多号人。
-2、 OpenStack Meetup 组织与演讲，开源文化，以及那次自认为最牛的一次分享。&lt;/p&gt;
-
-&lt;p&gt;17号返回郑州之后，就放下了一些事。只有零星的翻译下InfoQ的文章。&lt;/p&gt;
-
-&lt;h3 id=&#34;2016年1月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2016年1月&lt;/h3&gt;
-
-&lt;p&gt;所谓的还债，其实没有还完，也就是自己在开放云精选社区挖了太多的坑。整个的生活都是和孩子、爱人待在一起了。开始了日常的锻炼，戒烟！不过值得一提的是，商业的系统，自己尝试做。还简单的列了些计划，现在看来，除了InfoQ 的翻译之外，均为付诸于实践。&lt;/p&gt;
-
-&lt;h3 id=&#34;2016年2月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2016年2月&lt;/h3&gt;
-
-&lt;p&gt;大女儿放假，几乎什么也没有做。将自己的脑子清空了一下。&lt;/p&gt;
-
-&lt;h3 id=&#34;2016年3月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2016年3月&lt;/h3&gt;
-
-&lt;p&gt;创业的心依然在！但是心有余而力不足。偶尔翻翻，review下自己的想法可以，付诸实践是没了可能。正式的加入了InfoQ的开源栏目社区主编。相比原来要多花点时间。&lt;/p&gt;
-
-&lt;h3 id=&#34;2016年4月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2016年4月&lt;/h3&gt;
-
-&lt;p&gt;和孩子、爱人待在一起的时间，真的好快！ 不知不觉！&lt;/p&gt;
-
-&lt;p&gt;4月底的时候，回来一趟北京，参加了一次 Qcon，采访了PingCAP的CTO，并聆听了自己感兴趣的技术创业主题。&lt;/p&gt;
-
-&lt;h3 id=&#34;2016年5月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2016年5月&lt;/h3&gt;
-
-&lt;p&gt;上旬还在家里，基本上就是翻译篇文章，之后，一个人返回北京，开始思考自己接下来要走的路。&lt;/p&gt;
-
-&lt;p&gt;0、将博客迁移到github，国内可访问。
-1、暂停了社区的wiki系统。需要重新改版为静态内容。
-2、博客上的文章，写作和翻译占去了一部分时间。
-3、向PingCAP投递简历，希望加入，以 Tech writer 的身份加入。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;总结:2d488a414cffb01385864035dc4cb4a7&#34;&gt;总结&lt;/h2&gt;
-
-&lt;p&gt;其实，整个创业，从我接受易云的技术顾问的前后，没有找到任何的合伙人，也就意味着我这次的失败。更退一步讲，所谓的创业，不过是我那卑微的、可怜的自尊心作崇的缘故。原来团队成员的变化，在关键决策的时候，置我于不顾，乃至江湖的险恶用心。强迫我去思考、去探索自己应该待的位置。也就是说不过是挽回自己那点毫无用处的情面罢了。&lt;/p&gt;
-
-&lt;p&gt;创业，以我的想法而言，以个人的能力，是难以完成的。所以，在招募合伙人上失败，后面的所有做的事情，不过都是在苦苦挣扎罢了。&lt;/p&gt;
-
-&lt;p&gt;回到本文的主题上来：时间！ 再一次验证了我个人对于时间管理的误区。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;团队的思维，一时之间没有转换过来。严重高估自己的能力。&lt;/li&gt;
-&lt;li&gt;同时做的事情太多，翻译、读书、业务等等不一而足。精力分散、效率奇低。&lt;/li&gt;
-&lt;li&gt;贪婪！急躁！总是希望一下子就得到结果。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;这就是我刚刚在过去的一年多的时间里所做的和事业有关的所有事情。时间用在了哪里一目了然，湮没在自己糟糕的规划中了。教训就是教训，要吸取！收获的也许更多！&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;调整自己，继续努力前行！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;多谢 &lt;a href=&#34;https://calendar.google.com/&#34;&gt;Google 日历!&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>曾经在职场中犯过的错</title>
-      <link>http://lijiangsheng1.github.io/posts/entrepreneur/make_mistake_in_my_career/</link>
-      <pubDate>Thu, 05 May 2016 10:40:34 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/make_mistake_in_my_career/</guid>
-      <description>
-
-&lt;h2 id=&#34;缘起:0bec89ab718633acb06637029ec3be98&#34;&gt;缘起&lt;/h2&gt;
-
-&lt;p&gt;今天 InfoQ 中文网站发布了我点评的一篇&lt;a href=&#34;http://www.infoq.com/cn/articles/apache-foundation-the-success-of-apache&#34;&gt;文章&lt;/a&gt;。其实刚刚发布时，文章的题目不是这个，而是：“Apache 基金会17岁了！其成功的背后显为人知的“Apache 之道”！”。后来有位读者看到错别字就不爽了，我于是求助于编辑请求帮助。想更改为：“Apache 基金会17岁了！其成功背后独特的“Apache 之道””，（这要感谢&lt;a href=&#34;http://www.infoq.com/cn/author/%E5%A4%8F%E9%9B%AA&#34;&gt;夏雪&lt;/a&gt;的建议。）但是，InfoQ 中国的主编&lt;a href=&#34;http://www.infoq.com/cn/author/%E9%83%AD%E8%95%BE&#34;&gt;郭蕾&lt;/a&gt;大笔一挥，就是现在这个题目了：“17个Apache基金会的运营之道 ”。&lt;/p&gt;
-
-&lt;p&gt;这就是故事的始末，时间是2016年4月26日。我犯了一个很大、很大的错误，在信息爆炸的今天，一篇文章的题目占据一半的重要性。而还有一个明显的错别字！内容已经不再重要，我的点评也不再重要。重要的是我犯错了。于是，我引以为鉴！ 然后，我就回顾了一下我职业生涯中所犯的错误！&lt;/p&gt;
-
-&lt;p&gt;给自己声明一下，以下的错是我自己以为的，不是来自任何人的评价。当然是我记忆非常深刻的那些错，当然记忆有的时候不太靠谱。&lt;/p&gt;
-
-&lt;h2 id=&#34;靠记忆的遍历:0bec89ab718633acb06637029ec3be98&#34;&gt;靠记忆的遍历&lt;/h2&gt;
-
-&lt;p&gt;0、 自己的第一份职业，修改网站的IIS配置，当时对IIS非常的不熟悉，但是胆子很大手很快，删除了一些配置，导致某些站点无法访问。似乎是刚入职不到一个月干的事情，记得我当时很担心被炒鱿鱼，但是主管知道我不熟悉IIS，他修复之后，让我将IIS替换为Apache，除非是ASP的程序。那是2005年，我刚毕业。&lt;/p&gt;
-
-&lt;p&gt;1、 时间再往前推点，大约是2006年的春夏之交，河南报业网的后台CMS系统需要修改一些功能，厂商派过来二名工程师在修改。我主要是配合，他们看到我使用的是 OpenSuSe，具体版本我忘记是多少了，但是那时的OpenSuSe对于Nvidia的驱动是最好的，界面相对非常的酷炫，立方体桌面等。于是，其中一名工程师想将自己的笔记本也装一个OpenSuSe，于是简单整理了一下，就交给我了。我不知道怎么回事，分区的时候，将他的其中一个Windows分区的存放数据的地方给格式化了。完了。OpenSuSe是可以用了，但是他积攒很久的数据资料也随之消失了。他一声叹息，旧的不去、新的不来。我那个纠结、惭愧，可是也无能为力。后来，我专门给他写了一封道歉信，他只是礼貌性的回复了一下。到现在我仍然记忆清晰。&lt;/p&gt;
-
-&lt;p&gt;此后的几年里，一只小心翼翼、战战兢兢。在红旗的售后，虽然是代表公司经常出入客户现场，有时甚至是故障修复。反而没有犯什么错误。直到开始做开发：&lt;/p&gt;
-
-&lt;p&gt;2、 我在红旗做开发，主要是冲着安装程序去的，当时的红旗 Linux 服务器版，是中、日、韩三国联合开发的 Asianux 为基础版的，我也作为关键的代表红旗成为了 Asianux 的一员。既然是多国人，交流基本都是靠英语了，某个开发周期中，有个虚拟化的软件包选项的问题。是测试提出来的，称在裸机安装时虚拟化（xen）相关的包应该显示，在虚拟机中安装 Asianux时，关于虚拟化的选项就不应该显示。似乎是蛮合理的，但是我当时是拒绝修改的。其实，为什么就没有嵌套了呢？但是我的态度是很坚决的，而且不解释原因。导致大家最后对我敬而远之。&lt;/p&gt;
-
-&lt;p&gt;3、 是近几年的事情了，我曾经在云端时代的时候，开除过一位同学，准确点说是一位对Jboss很有研究的同学。因为一些思路的不一致，以及和社区的风格冲突等，其实是我踢出团队中最为可惜的一位。没过两天我就后悔了。天知道，我那几天是怎么回事。&lt;/p&gt;
-
-&lt;p&gt;4、 轮到我做顾问的易云了，我将我花时间搭建的编译环境的虚拟机随手一个“rm －rf”彻底的删除，毫不留情。不是说技术多复杂，每个在境内搭建环境，比如一些Maven的库、rpm的仓库、python、ruby等环境，和糟糕的网络环境是有很大关系的。那绝对是对自己生命的扼杀。&lt;/p&gt;
-
-&lt;p&gt;5、 最近的错误就是过去一年，也是目前为止职业生涯中所犯的最大的错误。我将自己带团队的思路代入为个人，将自己放大！ 结果挖了无数的坑！！！一如 OVDG 没有人响应一样，一个人的战斗！战斗了大半年之后，终于出了问题！&lt;/p&gt;
-
-&lt;p&gt;6、 第5个错误，严格来说不是错误，所以里面的最大、代入等都不成立。因为这条才是，时间要追溯到2012年，我在普华做事情，亲历了一个团队的建设、乃至一个项目从无到有的过程，深刻明白了问题的所在，如招聘、团队文化、项目需求与现实的博弈、乃至政治因素对团队和技术生产力的破坏，于是，我鼓起勇气，走上了所谓的“叛逃”之路，而在云端，我是按照我自己的认识去重新走过上述这样的路，只是除了政治之外我可以把控所有环节，我以为我招聘的全部都是和我一样－－执着、清醒、为结果负责、目光远大等，甚至在和云端的高层破裂之后，我换一家依然是这么想的，直到又一天，我所倡导的团队扁平化被奸诈无比、气量狭小的高层利用了之后，而我依然坚信他们。经历过 OVDG的失败，我仍然没有醒悟；直到 OCSelected 社区在我失去那家公司的政治影响力之后再也没有任何他人贡献的时候，我开始渐渐的懂了。这个错误对我的伤害是蛮大，但是也是庆幸的！&lt;/p&gt;
-
-&lt;h2 id=&#34;简单的总结:0bec89ab718633acb06637029ec3be98&#34;&gt;简单的总结&lt;/h2&gt;
-
-&lt;p&gt;这篇文章是我对于过去的一年的创业历程总结的前哨，我需要正视自己的错误，要将自己急躁的心慢下来，脚踏实地的去慢慢实现自己的梦想！要做长远的打算，而不是冲刺的去立即实现。&lt;/p&gt;
-
-&lt;p&gt;是的！应该找到自己的节奏了，再随波逐流就真的老了！&lt;/p&gt;
 </description>
     </item>
     
