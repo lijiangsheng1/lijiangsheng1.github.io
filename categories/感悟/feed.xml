@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 27 May 2016 05:42:40 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 May 2016 06:36:00 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.5.28）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_28/</link>
+      <pubDate>Sat, 28 May 2016 06:36:00 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_28/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:6b7d6675dfceae1cbd8f7bbb4e971d03&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源-vs-专有-请保持各自的思想:6b7d6675dfceae1cbd8f7bbb4e971d03&#34;&gt;开源 vs 专有 —— 请保持各自的思想&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://insidehpc.com/2016/05/open-source-vs-proprietary-keeping-ideology-equation/&#34;&gt;Open-source vs. Proprietary – Keeping Ideology Out of the Equation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;典型的学究式的文章，绕来绕去，绕来绕去。这篇文章从我个人的角度来讲就是乱弹琴，连一点哲学的意义都没有。就是一个技术宅在自己狭小的世界里扯淡。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;emc-开源其基于-unikernel-的工具-unik-目的是云计算和物联网:6b7d6675dfceae1cbd8f7bbb4e971d03&#34;&gt;EMC 开源其基于 UniKernel 的工具—— UniK，目的是云计算和物联网&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/emc-targets-cloud-and-iot-unik-open-source-unikernel-tool&#34;&gt;EMC Targets Cloud and IoT with UniK, an Open Source Unikernel Tool&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;类似的新闻是不想记录的。但是面对接下来该如何的走，我是否仍在技术上坚守？这是个问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.5.27)</title>
@@ -1308,6 +1344,24 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 
 &lt;h3 id=&#34;web-服务器:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;web 服务器&lt;/h3&gt;
 
+&lt;p&gt;在 Web 的早期阶段，对于 Web 服务器软件的选择非常的少，在公共领域由 Rob McCool 开发的 &lt;a href=&#34;http://www.ncsa.illinois.edu/&#34;&gt;NCSA&lt;/a&gt;其实是事实上的标准。在上世纪90年代中期，微软在其 Windows NT 3.51 上开始提供一款叫做互联网信息服务（IIS）的 Web 服务器，大约在同一时间，Apache 的开源 Web 服务器项目也诞生了。Apache 是基于 NCSA 服务器的基础之上开发的，因为 NCSA 在这个时候已经被叫停开发了，不再维护了。除了公开代码之外，Apache 项目的意图是希望通过有兴趣的人们一些协同开发，随后最初的8位贡献者组成了 Apache Group，没过多久就有了很多的追随者。&lt;/p&gt;
+
+&lt;p&gt;在接下来的几年里，Apache Web 服务器的开发进展良好，功能渐趋完善，可扩展的架构带来更好的移植性，而且可以跨各种 CPU 架构的硬件上以及多种操作系统中运行。在1999年，Apache 软件基金会正式成立，这让早期的开发者们有了可持续的资金收入、治理方式、以及管理和法律等方面的帮助。该基金会很快变发展了很多的开源项目，而不再仅仅是一个 web 服务器了。&lt;/p&gt;
+
+&lt;p&gt;到今天，Apache 已经是托管互联网站点最为流行的 web 服务平台了。下图展示了 Apache 在 web 服务器领域的霸主地位。它已经坚挺了20多年！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://d3ansictanv2wj.cloudfront.net/market-share-webservers-1995-2012-9f627cffd3c77f0299b9601baec20a96.png&#34; alt=&#34;web server&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;图片来源：&lt;a href=&#34;http://news.netcraft.com/archives/2012/07/03/july-2012-web-server-survey.html&#34;&gt;Netcraft&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;既然谈到了 Web 服务器，笔者认为还是有必要再多说一点，让我们再看一张近几年 web 服务器统计的图片。可以看到在此市场中有了一个新生代的挑战者：nginx！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://d3ansictanv2wj.cloudfront.net/market-share-top-million-webservers-2008-2015-32e5f7d0e17b60a27dd5f2ec74a3143b.png&#34; alt=&#34;nginx&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;图片来源：&lt;a href=&#34;http://news.netcraft.com/archives/2015/08/13/august-2015-web-server-survey.html&#34;&gt;Netcraft&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;限于篇幅和为了节省大家的时间，我们对于所有的流行的 web 相关开源软件项目是如何成为互联网的核心和灵魂的故事就不铺开来讲了。不过值得一提的是 Linux 和 Apache 的组合是术语 LAMP 软件栈的基础。其中 &lt;strong&gt;M&lt;/strong&gt; 表示的是非常流行的开源数据库 MySQL，而 &lt;strong&gt;P&lt;/strong&gt; 则代表的是 PHP，PHP 是一种用于编写 Web 应用程序的语言，不过最近有被另外一个新崛起的叫做 Node.js 的项目替代的趋势（Node.js 也是一款开源的项目，而且目前也成立的相应的基金会）。&lt;/p&gt;
+
 &lt;h3 id=&#34;移动设备:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;移动设备&lt;/h3&gt;
 
 &lt;h3 id=&#34;虚拟化:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;虚拟化&lt;/h3&gt;
@@ -1963,48 +2017,6 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 &lt;p&gt;&lt;strong&gt;调整自己，继续努力前行！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;多谢 &lt;a href=&#34;https://calendar.google.com/&#34;&gt;Google 日历!&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>曾经在职场中犯过的错</title>
-      <link>http://lijiangsheng1.github.io/posts/entrepreneur/make_mistake_in_my_career/</link>
-      <pubDate>Thu, 05 May 2016 10:40:34 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/make_mistake_in_my_career/</guid>
-      <description>
-
-&lt;h2 id=&#34;缘起:0bec89ab718633acb06637029ec3be98&#34;&gt;缘起&lt;/h2&gt;
-
-&lt;p&gt;今天 InfoQ 中文网站发布了我点评的一篇&lt;a href=&#34;http://www.infoq.com/cn/articles/apache-foundation-the-success-of-apache&#34;&gt;文章&lt;/a&gt;。其实刚刚发布时，文章的题目不是这个，而是：“Apache 基金会17岁了！其成功的背后显为人知的“Apache 之道”！”。后来有位读者看到错别字就不爽了，我于是求助于编辑请求帮助。想更改为：“Apache 基金会17岁了！其成功背后独特的“Apache 之道””，（这要感谢&lt;a href=&#34;http://www.infoq.com/cn/author/%E5%A4%8F%E9%9B%AA&#34;&gt;夏雪&lt;/a&gt;的建议。）但是，InfoQ 中国的主编&lt;a href=&#34;http://www.infoq.com/cn/author/%E9%83%AD%E8%95%BE&#34;&gt;郭蕾&lt;/a&gt;大笔一挥，就是现在这个题目了：“17个Apache基金会的运营之道 ”。&lt;/p&gt;
-
-&lt;p&gt;这就是故事的始末，时间是2016年4月26日。我犯了一个很大、很大的错误，在信息爆炸的今天，一篇文章的题目占据一半的重要性。而还有一个明显的错别字！内容已经不再重要，我的点评也不再重要。重要的是我犯错了。于是，我引以为鉴！ 然后，我就回顾了一下我职业生涯中所犯的错误！&lt;/p&gt;
-
-&lt;p&gt;给自己声明一下，以下的错是我自己以为的，不是来自任何人的评价。当然是我记忆非常深刻的那些错，当然记忆有的时候不太靠谱。&lt;/p&gt;
-
-&lt;h2 id=&#34;靠记忆的遍历:0bec89ab718633acb06637029ec3be98&#34;&gt;靠记忆的遍历&lt;/h2&gt;
-
-&lt;p&gt;0、 自己的第一份职业，修改网站的IIS配置，当时对IIS非常的不熟悉，但是胆子很大手很快，删除了一些配置，导致某些站点无法访问。似乎是刚入职不到一个月干的事情，记得我当时很担心被炒鱿鱼，但是主管知道我不熟悉IIS，他修复之后，让我将IIS替换为Apache，除非是ASP的程序。那是2005年，我刚毕业。&lt;/p&gt;
-
-&lt;p&gt;1、 时间再往前推点，大约是2006年的春夏之交，河南报业网的后台CMS系统需要修改一些功能，厂商派过来二名工程师在修改。我主要是配合，他们看到我使用的是 OpenSuSe，具体版本我忘记是多少了，但是那时的OpenSuSe对于Nvidia的驱动是最好的，界面相对非常的酷炫，立方体桌面等。于是，其中一名工程师想将自己的笔记本也装一个OpenSuSe，于是简单整理了一下，就交给我了。我不知道怎么回事，分区的时候，将他的其中一个Windows分区的存放数据的地方给格式化了。完了。OpenSuSe是可以用了，但是他积攒很久的数据资料也随之消失了。他一声叹息，旧的不去、新的不来。我那个纠结、惭愧，可是也无能为力。后来，我专门给他写了一封道歉信，他只是礼貌性的回复了一下。到现在我仍然记忆清晰。&lt;/p&gt;
-
-&lt;p&gt;此后的几年里，一只小心翼翼、战战兢兢。在红旗的售后，虽然是代表公司经常出入客户现场，有时甚至是故障修复。反而没有犯什么错误。直到开始做开发：&lt;/p&gt;
-
-&lt;p&gt;2、 我在红旗做开发，主要是冲着安装程序去的，当时的红旗 Linux 服务器版，是中、日、韩三国联合开发的 Asianux 为基础版的，我也作为关键的代表红旗成为了 Asianux 的一员。既然是多国人，交流基本都是靠英语了，某个开发周期中，有个虚拟化的软件包选项的问题。是测试提出来的，称在裸机安装时虚拟化（xen）相关的包应该显示，在虚拟机中安装 Asianux时，关于虚拟化的选项就不应该显示。似乎是蛮合理的，但是我当时是拒绝修改的。其实，为什么就没有嵌套了呢？但是我的态度是很坚决的，而且不解释原因。导致大家最后对我敬而远之。&lt;/p&gt;
-
-&lt;p&gt;3、 是近几年的事情了，我曾经在云端时代的时候，开除过一位同学，准确点说是一位对Jboss很有研究的同学。因为一些思路的不一致，以及和社区的风格冲突等，其实是我踢出团队中最为可惜的一位。没过两天我就后悔了。天知道，我那几天是怎么回事。&lt;/p&gt;
-
-&lt;p&gt;4、 轮到我做顾问的易云了，我将我花时间搭建的编译环境的虚拟机随手一个“rm －rf”彻底的删除，毫不留情。不是说技术多复杂，每个在境内搭建环境，比如一些Maven的库、rpm的仓库、python、ruby等环境，和糟糕的网络环境是有很大关系的。那绝对是对自己生命的扼杀。&lt;/p&gt;
-
-&lt;p&gt;5、 最近的错误就是过去一年，也是目前为止职业生涯中所犯的最大的错误。我将自己带团队的思路代入为个人，将自己放大！ 结果挖了无数的坑！！！一如 OVDG 没有人响应一样，一个人的战斗！战斗了大半年之后，终于出了问题！&lt;/p&gt;
-
-&lt;p&gt;6、 第5个错误，严格来说不是错误，所以里面的最大、代入等都不成立。因为这条才是，时间要追溯到2012年，我在普华做事情，亲历了一个团队的建设、乃至一个项目从无到有的过程，深刻明白了问题的所在，如招聘、团队文化、项目需求与现实的博弈、乃至政治因素对团队和技术生产力的破坏，于是，我鼓起勇气，走上了所谓的“叛逃”之路，而在云端，我是按照我自己的认识去重新走过上述这样的路，只是除了政治之外我可以把控所有环节，我以为我招聘的全部都是和我一样－－执着、清醒、为结果负责、目光远大等，甚至在和云端的高层破裂之后，我换一家依然是这么想的，直到又一天，我所倡导的团队扁平化被奸诈无比、气量狭小的高层利用了之后，而我依然坚信他们。经历过 OVDG的失败，我仍然没有醒悟；直到 OCSelected 社区在我失去那家公司的政治影响力之后再也没有任何他人贡献的时候，我开始渐渐的懂了。这个错误对我的伤害是蛮大，但是也是庆幸的！&lt;/p&gt;
-
-&lt;h2 id=&#34;简单的总结:0bec89ab718633acb06637029ec3be98&#34;&gt;简单的总结&lt;/h2&gt;
-
-&lt;p&gt;这篇文章是我对于过去的一年的创业历程总结的前哨，我需要正视自己的错误，要将自己急躁的心慢下来，脚踏实地的去慢慢实现自己的梦想！要做长远的打算，而不是冲刺的去立即实现。&lt;/p&gt;
-
-&lt;p&gt;是的！应该找到自己的节奏了，再随波逐流就真的老了！&lt;/p&gt;
 </description>
     </item>
     

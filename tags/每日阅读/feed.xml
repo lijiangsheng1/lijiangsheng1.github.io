@@ -7,8 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 27 May 2016 05:42:40 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 May 2016 06:36:00 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.5.28）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_28/</link>
+      <pubDate>Sat, 28 May 2016 06:36:00 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_28/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:6b7d6675dfceae1cbd8f7bbb4e971d03&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源-vs-专有-请保持各自的思想:6b7d6675dfceae1cbd8f7bbb4e971d03&#34;&gt;开源 vs 专有 —— 请保持各自的思想&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://insidehpc.com/2016/05/open-source-vs-proprietary-keeping-ideology-equation/&#34;&gt;Open-source vs. Proprietary – Keeping Ideology Out of the Equation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;典型的学究式的文章，绕来绕去，绕来绕去。这篇文章从我个人的角度来讲就是乱弹琴，连一点哲学的意义都没有。就是一个技术宅在自己狭小的世界里扯淡。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;emc-开源其基于-unikernel-的工具-unik-目的是云计算和物联网:6b7d6675dfceae1cbd8f7bbb4e971d03&#34;&gt;EMC 开源其基于 UniKernel 的工具—— UniK，目的是云计算和物联网&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/emc-targets-cloud-and-iot-unik-open-source-unikernel-tool&#34;&gt;EMC Targets Cloud and IoT with UniK, an Open Source Unikernel Tool&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;类似的新闻是不想记录的。但是面对接下来该如何的走，我是否仍在技术上坚守？这是个问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.5.27)</title>
