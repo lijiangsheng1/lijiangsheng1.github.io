@@ -7,8 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 28 May 2016 06:36:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 May 2016 08:34:54 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.5.31)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_31/</link>
+      <pubDate>Tue, 31 May 2016 08:34:54 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_31/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-1-2-这就是分布式自治组织的数学公式:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;1 + 1 &amp;gt; 2，这就是分布式自治组织的数学公式&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://cointelegraph.com/news/the-dao-mathematics-11-is-actually-more-than-2&#34;&gt;The DAO Mathematics: 1+1 is Actually More Than 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://backfeed.cc/explore-in-depth&#34;&gt;Backfeed&lt;/a&gt;，这家开源的初创公司，要做的事情是去中心组织的操作系统平台，若将区块链对比于 TCP/IP，那么 Backfeed 的协议就是 HTTP。&lt;/p&gt;
+
+&lt;p&gt;Ants, birds swarms and schools of fish have at least one thing in common: they can organize in highly complex systems and perform collective tasks in a seemingly intelligent fashion, without any kind of centralized stewardship.&lt;/p&gt;
+
+&lt;p&gt;上述的这段描述，是我想当喜欢和向往的。可是事实却是相反的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;作组织的催化剂:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;作组织的催化剂&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/resources/catalyst-in-chief&#34;&gt;Catalyst-In-Chief: Download the PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://opensource.com/open-organization&#34;&gt;The Open Organization&lt;/a&gt; 是去年出版的一本书，在宣扬新的公司管理方式，这个PDF 文件作者一年以来的对话集，就像是一款开源软件，这本书出版以后，引来了很多人的争论和怀疑。那么也会引起作者的反思，从而进一步完善书中的内容。但是就像 Linus 所言，政治这种并没有像技术那样是确定的，必定是仁者见仁的。开放的组织究竟能否在本土实现？答案是至少100年不会实现。所以，暂时得放弃这样的向往和研究。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;oracle-宣称-google-杀死了开源:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;Oracle 宣称，Google 杀死了开源&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.fudzilla.com/media/k2/items/cache/cbe014f0ca9851b8fee9ab29c9d5f6fb_L.jpg&#34; alt=&#34;oracle&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.fudzilla.com/news/40773-oracle-claims-google-has-killed-open-source&#34;&gt;Oracle claims Google has killed Open Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Oracle 在业界打官司的名声是非常狼藉的。但是它确实是开源的杀手，比如 MySQL（mariDB）、Hudson（Jenkins）等等。至于这次输给 Google，他们如此之说，是否准确，但是在很多人的心里是不服气的。&lt;/p&gt;
+
+&lt;p&gt;就我个人而言，这次事件可能会引发类似中国民间文化的“秘方”文化，暂时看起来是大众受益，长期看来却是知识产权失去保护，导致更加长久的知识封锁和滥用。结果的证明，还得交给历史，再过5年看看？ 开源的趋势，将会是一片狼籍。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.5.28）</title>
@@ -1685,6 +1741,14 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 
 &lt;h3 id=&#34;移动设备:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;移动设备&lt;/h3&gt;
 
+&lt;p&gt;在讲述完服务器和 web 技术领域了之后，我们要进入关于移动设备的世界了。在移动设备爆炸的今天，要探究最初，就得追溯到2007年，即最早引入“智能手机”的年头。那年有两个重要的事件发生：Apple 推出基于 iOS 的 iPhone 手机 和Google Android OS 引入移动设备的诞生。到今天， iOS 和 Android 均有各自的支持者，也一直在辩论着哪个“更好”！但是结果非常的明确，那就是开源项目胜出，Android 在手机、平板、和其它设备上跨多个制造商构建了一个强大的生态系统。由于这是一个非常广阔的市场，即使是看起来 Apple 的收入更高些，但是从全球的手机交货量来说，是 Android 胜出：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://d3ansictanv2wj.cloudfront.net/idc-worldwide-smartphone-shipments-181d8f2ca015539d23ff6e7a86cede06.png&#34; alt=&#34;android&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;图片来源：&lt;a href=&#34;http://www.idc.com/getdoc.jsp?containerId=prUS25450615&#34;&gt;IDC 数据&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;鉴于 Android 相比于 iOS 更加的倾向于低成本和入门级市场，这样的数据显示，没有什么令人值得惊讶的，还有更为细粒度的数据显示，在印度、中国等主要市场，iOS 和 Android 的出货量比例是悬殊很大的。&lt;/p&gt;
+
 &lt;h3 id=&#34;虚拟化:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;虚拟化&lt;/h3&gt;
 
 &lt;p&gt;在1999年 VMware WorkStation 出现之前，软件 Hypervisor 早已存在了好多年了，但是是作为那些非常昂贵的企业服务器的一个部分存在的，即那些如 IBM、HP、以及 Sun 的大型机，工作在这里的工程师们从来没有想过有谁能够改变他们的职业生涯。然而，当 VMware WorkStation 出现以后，这一切都改变了。在任意的笔记本或个人电脑上的 Windows 系统中可以看到 BIOS 的启动！这是多么的令人惊奇和兴奋！在接下来的十多年，虚拟化都是炙手可热的技术点：不仅仅是因为它能够轻松的将原来物理服务器转换为虚拟机，使整个的应用更加的容易备份、配置和迁移，还有它能够在同一台服务器上将大型的不同的负载完全的隔离起来的全新方法，而这是数据中心运维模式的巨大转变。&lt;/p&gt;
@@ -1726,19 +1790,31 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 
 &lt;h4 id=&#34;apache-软件基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Apache 软件基金会&lt;/h4&gt;
 
-&lt;p&gt;Apache 基金会（ASF）创立于1999年，创立时主要的工作时围绕 Apache HTTPD web服务的项目进行开发、资金和治理的协调工作。发展到今天，ASF 已经是世界上最为著名和成功的托管开源项目的基金会之一了，在它的管辖下有超过300多个项目。&lt;/p&gt;
+&lt;p&gt;Apache 基金会（ASF）创立于1999年，创立时主要的工作时围绕 Apache HTTPD web服务的项目进行开发、资金和治理的协调工作。发展到今天，ASF 已经是世界上最为著名和成功的托管开源项目的基金会之一了，在它的管辖下有超过300多个项目。ASF 通过定义法律和协作框架来为开源项目托管和协作开发铺平了道路，现在已经是基金会的标杆，很多后期的基金会都在效仿 ASF 的做法。举例来说，Apache 许可证，Apache 旗下所有的项目都是使用的 Apache 许可证，同时也是今天很多项目使用及最受欢迎的许可证之一，当然这不仅仅是指在 ASF 的托管之下的。尽管 ASF 最初是从项目 Apache web 服务起家的，但是经过了这么多年的发展，ASF 已经在项目上覆盖了很多技术，有编程语言、云计算平台、甚至还有办公效率套件。&lt;/p&gt;
+
+&lt;p&gt;ASF 采用的是精英主义路线，所有的事项都是通过受欢迎的社交技术——公开的邮件列表、WIki、代码仓库等来进行的。有一些 ASF 下所开发的项目成为了非常受欢迎的项目，甚至成为了事实上的标准，但是 ASF 本身并非是一个制定标准的组织，而且也不会像 W3C 那样的组织去专门的制定、生产标准。&lt;/p&gt;
 
 &lt;h4 id=&#34;linux-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Linux 基金会&lt;/h4&gt;
 
 &lt;p&gt;Linux 基金会在2007年成立，由原开源开发实验室（OSDL）和 自由标准协会（FSG）合并而成。目的是提供发行版中立的发展和加强 Linux 操作系统及其相关的技术。据其&lt;a href=&#34;http://www.linuxfoundation.org/about&#34;&gt;官方网站&lt;/a&gt;的说法：&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Linux 基金会旨在保护和激励自由的理念，通过 Linux 开发来加强合作。&lt;/p&gt;
+&lt;p&gt;Linux 基金会旨在保护和激励自由的理念，通过 Linux 开发来加强合作。而且要分享这些理念来加强和巩固，目的是让我们生活的地方未来更加的美好。&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;Linux 基金会最初成立的目标之一就是为 Linux 的创始人不受任何厂商的影响保持中立，因为这些厂商可能会影响内核开发的优先级。这个规定在今天仍然生效，即使是有了诸如 Linux 内核维护人 Greg Kroah Hartman 这样受雇于 Linux 基金会的人的参与。除此之外，Linux 还旨在推动 Linux 全球会议的管理、保护 Linux  的商标、以及处理法律和许可证的问题、并且还会在规范上出一把力，如 Linux 标准工作组制定的 Linux 标准接口。&lt;/p&gt;
 
 &lt;h4 id=&#34;linux-基金会合作项目:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Linux 基金会合作项目&lt;/h4&gt;
 
+&lt;p&gt;和 ASF 类似，伴随着 Linux 基金会渐渐的成熟，也开始孵化一些和 Linux 相关的开源项目了，但是项目并不会特定于和 Linux 操作系统开发有关。通过合作项目的促进，已有的 Linux 基金会流程，管理员支持，以及可以直接利用的治理程序，可快速而有效的生成新的合作项目。近年来，Linux 基金会合作项目的名单日益渐长，其中包括开放大型机项目、汽车应用，乃至现在的云计算平台项目诸如 OpenDaylight、OPNFV，以及 Cloud Foundry 基金会、开放容器促进会、云原生计算基金会等。&lt;/p&gt;
+
+&lt;p&gt;为了能够更为透彻的了解在云计算的世界这些合作的项目基金会究竟又何特别之处，让我们来一同探究一下近来进入 Linux 基金会合作项目羽翼之下的四个子基金会。&lt;/p&gt;
+
 &lt;h4 id=&#34;cloud-foundry-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Cloud Foundry 基金会&lt;/h4&gt;
+
+&lt;p&gt;Cloud Foundry 是一款提供 PaaS（平台即服务）环境的开源项目，PaaS 是可以为开发者有效的提高交付应用的能力，而且还是跨范围的运行时环境的，从 Java 到 Node.js 再到 Python、Ruby、PHP、乃至于 基于 Go 的应用。Cloud Foundry 最初是由 VMware 发起的项目，后来交付给了有 VMware、ECM 和 通用电气 联合成立的新公司 Pivotal 软件全权接管。&lt;/p&gt;
+
+&lt;p&gt;当 Cloud Foundry 成为 Pivotal 的一个开源项目时，Pivotal 则基于开源的代码库来为客户提供免费的和商业的产品。很明显，Pivotal 是控制着项目和社区的。为了解决这样的一个单一厂商控制的局面，在2014年12月成立了 Cloud Foundry 基金会，隶属于 Linux 基金会合作项目成员，这个新的组织目的是防止有那个单一的厂商将项目控制，而且将 Cloud Foundry 转变为一个真正的开放治理模式下的项目。&lt;/p&gt;
 
 &lt;h4 id=&#34;开放容器促进会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放容器促进会&lt;/h4&gt;
 
@@ -1747,6 +1823,16 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 &lt;h4 id=&#34;云原生计算基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;云原生计算基金会&lt;/h4&gt;
 
 &lt;h4 id=&#34;openstack-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;OpenStack 基金会&lt;/h4&gt;
+
+&lt;p&gt;OpenStack 项目发起时间是2010年，由 NASA 和 Rackspace 联合，目的是想为数据中心的基础设施管理创建一个可编程的、基于 API 的 IaaS（基础设施即服务）层。在2012年又有很多厂商参与进来，这时并一起创建了 OpenStack 基金会，也就是现在运营着OpenStack项目开发的法律、技术和行政治理。&lt;/p&gt;
+
+&lt;p&gt;OpenStack 项目最初是致力于计算、存储和网络资源的管理，但是随着项目的成长，包含了大范围的 IaaS 相关的项目，每个项目都有特定的名称；最初均是处于孵化，一旦成熟之后就会进入 OpenStack 官方的半年发布一次的版本。目前，2015年发布的 Liberty 版本有 16个独立的子组件交付。&lt;/p&gt;
+
+&lt;p&gt;(N.B.:译者注：翻译本文的时候，OpenStack 已经发布 Mitaka 拥有&lt;a href=&#34;https://www.openstack.org/software/project-navigator/&#34;&gt;19个子项目&lt;/a&gt; 。)&lt;/p&gt;
+
+&lt;p&gt;基金会本身由多个社区组成，有运维、有用户、也有开发者社区，以非常健壮的治理模式快速的成长着，治理模式有各自的章程，用于指导其管理和开发的流程。并由董事会和技术委员会进行监督。OpenStack 现在拥有8家白金赞助商，（对应8位董事会的代表）17家黄金赞助商，以及120家企业赞助商。&lt;/p&gt;
+
+&lt;p&gt;若是没有这样的正式的治理和开发流程，就不会有如此多的云计算供应商一起工作在 IaaS 层和 API。但是有了基金会的结构，一些公司，诸如 IBM、HP、RackSpace、Intel、以及其它共同协作来开发核心的技术，然后再去基于 OpenStack 平台之上创新和差异化自己的产品，我们会在本文后面花笔墨讲解更多的这样的合作，以及“合作竞争”的模式。&lt;/p&gt;
 
 &lt;h4 id=&#34;其它开源的基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;其它开源的基金会&lt;/h4&gt;
 
@@ -2109,52 +2195,6 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 &lt;p&gt;其实，类似这样的大事件式的历史叙事方式，我是非常的不喜欢。而且容易被误解。这要回归到我们中学所学的历史课，尽挑大事说，忽略了每一个活生生的个人史。导致多数人都有宏观视野，这一点可以在夏天的街边地摊，随意找个只要有三、两人聚在一起，你在旁边聆听即可，尽是皇帝视野、宏观叙事、人多无力、历朝历代等等。之所以翻译这篇，是因为看到作者是一名历史学家，竟然写了一本关于自由和开源软件的历史书，只希望从他的脉络中找到一些什么。关于 Christopher Tozzi 的文章，我可能还会翻译几篇。若是能拜读了他的书，他的历史叙事又不同于列举里程碑的话，我希望能够翻译，从中学习一些文化、技术、沟通、管理等细节。&lt;/p&gt;
 
 &lt;p&gt;N.B.：似乎有微博上&lt;a href=&#34;http://weibo.com/u/5242649983&#34;&gt;湾区日报&lt;/a&gt;的风格。这究竟是一种什么样的现象？值得深思！有机会的话，应专门写一篇文章解释为什么这么干。不用管这个世界，表达出自己的内心即可。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>我们无法从开源本身获利</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/you_can%27t_make_money_from_open_source/</link>
-      <pubDate>Sat, 07 May 2016 11:07:40 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/you_can%27t_make_money_from_open_source/</guid>
-      <description>
-
-&lt;h2 id=&#34;开源的商业模式出问题了:2962b7bcff86d3db05fac92919245cc4&#34;&gt;开源的商业模式出问题了？&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/05/money-100659960-primary.idge.jpg&#34; alt=&#34;money&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;在开放网络峰会（ONS）上，来自著名风投公司 Andreessen Horowitz 的合伙人： Peter Levine 说道：&lt;a href=&#34;https://www.linux.com/news/software-eating-networking-facebook-says-yes&#34;&gt;“开源需要商业模式”&lt;/a&gt;。之后在 OpenStack 峰会上，我偶遇了一位和 Levine 持相同观点的顾问，他的原话是：“请你告诉我哪家公司和红帽一样利用 Linux 赚了1亿美元。”&lt;/p&gt;
-
-&lt;p&gt;这是我经常听到的对于开源最为重要的问题：仅仅只有红帽在开源上赚钱了，至今依然没有出现第二家。&lt;/p&gt;
-
-&lt;p&gt;其实，我想写这样一篇文章已经很久了，但是一直没有非常充足的理由去付诸于实践，但是在经历了上述二者的对话以后，我知道是该下笔的时候了，于是就有了此文。&lt;/p&gt;
-
-&lt;h2 id=&#34;开源并非是你想的那样:2962b7bcff86d3db05fac92919245cc4&#34;&gt;开源并非是你想的那样&lt;/h2&gt;
-
-&lt;p&gt;若是有人说你根本无法从开源中获利，那可能是他们对于开源有很大的误解。&lt;/p&gt;
-
-&lt;p&gt;开源是软件开发的一种方式；它并非是一种商业模式。你不能从开源本身获得利润，你只能去围绕着开源去寻找获利的方法。&lt;/p&gt;
-
-&lt;p&gt;红帽接受这样的挑战，并改写了传统上的软件销售模式。通过为用户免费赠送软件，然后提供技术支持的方式来赚取利润。这相对于微软和其它商业公司过去的做法是一种非常大胆的行为。红帽将其所有的一切都构建在开放至上，他们的产品是免费可用的，而且还没有厂商锁定。红帽的成功向世人证明了：围绕开源的盈利模式是可行的。&lt;/p&gt;
-
-&lt;p&gt;但是，也只是红帽盈利了&amp;hellip;&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;也就是说此种模式并非是成功的。就我在 OpenStack 峰会上与那位不愿透露姓名的顾问聊天中，我说到了我在本文开始时的话题。我说会有像红帽一样成功的 Linux 公司出现的，他指出，红帽既是开源商务的开拓者也是终结者！&lt;/p&gt;
-
-&lt;p&gt;他在某种程度上是对的！但是我要求他告诉我，除了微软之外有哪家售卖操作系统软件的公司每年能够赚1亿美金？除了苹果之外有哪家自己既做硬件又做软件的面向消费者的公司每年赚1亿美金？除了 Facebook 之外有哪家社交网络公司拥有超过1亿的用户？除 Adobe 公司之外有哪家图像编辑软件的公司赚钱了？&amp;hellip;&amp;hellip; 聪明的读者，你明白我说什么了吗？&lt;/p&gt;
-
-&lt;p&gt;在每一个细分的行业中都有一个主导者，为何是红帽脱颖而出？&lt;/p&gt;
-
-&lt;p&gt;其实在开源界这样的局面更加的明显，相比于只有一个微软，只有一个苹果，Linux有三家主要的供应商－－红帽、SUSE、以及Canonical。&lt;/p&gt;
-
-&lt;p&gt;还有许多围绕着开源做的非常好的公司，如：Automattic 围绕 WordPress 赚钱了；Acquia 围绕 Drupal 赚钱了；Mirantis 基于 OpenStack 也赚到钱了；Docker 和 CoreOS 基于容器也拉到了投资。（这可以列出一个长长的单子的。）&lt;/p&gt;
-
-&lt;p&gt;再举一个例子来说，你或许不会认为 Facebook 不是一家开源的公司，这很正常，但这也不能抹杀它是这个世界上最大的开源公司之一。他们将其大多数的基础设施软件都开源了。他们甚至基于开放计算项目（Open Compute Project）开源了他们的硬件设计。他们围绕开源创造了卓越的商业模式。&lt;/p&gt;
-
-&lt;p&gt;相信在不久的将来，专家们开始建议你没法从专有软件中赚到钱，你最好是将之开源出来。&lt;/p&gt;
-
-&lt;p&gt;原文链接:&lt;a href=&#34;http://www.cio.com/article/3067352/linux/you-cant-make-money-from-open-source.html&#34;&gt;You can&amp;rsquo;t make money from open source&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

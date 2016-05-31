@@ -7,8 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 28 May 2016 06:36:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 May 2016 08:34:54 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.5.31)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_31/</link>
+      <pubDate>Tue, 31 May 2016 08:34:54 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_31/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-1-2-这就是分布式自治组织的数学公式:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;1 + 1 &amp;gt; 2，这就是分布式自治组织的数学公式&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://cointelegraph.com/news/the-dao-mathematics-11-is-actually-more-than-2&#34;&gt;The DAO Mathematics: 1+1 is Actually More Than 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://backfeed.cc/explore-in-depth&#34;&gt;Backfeed&lt;/a&gt;，这家开源的初创公司，要做的事情是去中心组织的操作系统平台，若将区块链对比于 TCP/IP，那么 Backfeed 的协议就是 HTTP。&lt;/p&gt;
+
+&lt;p&gt;Ants, birds swarms and schools of fish have at least one thing in common: they can organize in highly complex systems and perform collective tasks in a seemingly intelligent fashion, without any kind of centralized stewardship.&lt;/p&gt;
+
+&lt;p&gt;上述的这段描述，是我想当喜欢和向往的。可是事实却是相反的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;作组织的催化剂:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;作组织的催化剂&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/resources/catalyst-in-chief&#34;&gt;Catalyst-In-Chief: Download the PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://opensource.com/open-organization&#34;&gt;The Open Organization&lt;/a&gt; 是去年出版的一本书，在宣扬新的公司管理方式，这个PDF 文件作者一年以来的对话集，就像是一款开源软件，这本书出版以后，引来了很多人的争论和怀疑。那么也会引起作者的反思，从而进一步完善书中的内容。但是就像 Linus 所言，政治这种并没有像技术那样是确定的，必定是仁者见仁的。开放的组织究竟能否在本土实现？答案是至少100年不会实现。所以，暂时得放弃这样的向往和研究。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;oracle-宣称-google-杀死了开源:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;Oracle 宣称，Google 杀死了开源&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.fudzilla.com/media/k2/items/cache/cbe014f0ca9851b8fee9ab29c9d5f6fb_L.jpg&#34; alt=&#34;oracle&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.fudzilla.com/news/40773-oracle-claims-google-has-killed-open-source&#34;&gt;Oracle claims Google has killed Open Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Oracle 在业界打官司的名声是非常狼藉的。但是它确实是开源的杀手，比如 MySQL（mariDB）、Hudson（Jenkins）等等。至于这次输给 Google，他们如此之说，是否准确，但是在很多人的心里是不服气的。&lt;/p&gt;
+
+&lt;p&gt;就我个人而言，这次事件可能会引发类似中国民间文化的“秘方”文化，暂时看起来是大众受益，长期看来却是知识产权失去保护，导致更加长久的知识封锁和滥用。结果的证明，还得交给历史，再过5年看看？ 开源的趋势，将会是一片狼籍。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.5.28）</title>
@@ -915,6 +971,14 @@
 
 &lt;h3 id=&#34;移动设备:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;移动设备&lt;/h3&gt;
 
+&lt;p&gt;在讲述完服务器和 web 技术领域了之后，我们要进入关于移动设备的世界了。在移动设备爆炸的今天，要探究最初，就得追溯到2007年，即最早引入“智能手机”的年头。那年有两个重要的事件发生：Apple 推出基于 iOS 的 iPhone 手机 和Google Android OS 引入移动设备的诞生。到今天， iOS 和 Android 均有各自的支持者，也一直在辩论着哪个“更好”！但是结果非常的明确，那就是开源项目胜出，Android 在手机、平板、和其它设备上跨多个制造商构建了一个强大的生态系统。由于这是一个非常广阔的市场，即使是看起来 Apple 的收入更高些，但是从全球的手机交货量来说，是 Android 胜出：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://d3ansictanv2wj.cloudfront.net/idc-worldwide-smartphone-shipments-181d8f2ca015539d23ff6e7a86cede06.png&#34; alt=&#34;android&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;图片来源：&lt;a href=&#34;http://www.idc.com/getdoc.jsp?containerId=prUS25450615&#34;&gt;IDC 数据&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;鉴于 Android 相比于 iOS 更加的倾向于低成本和入门级市场，这样的数据显示，没有什么令人值得惊讶的，还有更为细粒度的数据显示，在印度、中国等主要市场，iOS 和 Android 的出货量比例是悬殊很大的。&lt;/p&gt;
+
 &lt;h3 id=&#34;虚拟化:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;虚拟化&lt;/h3&gt;
 
 &lt;p&gt;在1999年 VMware WorkStation 出现之前，软件 Hypervisor 早已存在了好多年了，但是是作为那些非常昂贵的企业服务器的一个部分存在的，即那些如 IBM、HP、以及 Sun 的大型机，工作在这里的工程师们从来没有想过有谁能够改变他们的职业生涯。然而，当 VMware WorkStation 出现以后，这一切都改变了。在任意的笔记本或个人电脑上的 Windows 系统中可以看到 BIOS 的启动！这是多么的令人惊奇和兴奋！在接下来的十多年，虚拟化都是炙手可热的技术点：不仅仅是因为它能够轻松的将原来物理服务器转换为虚拟机，使整个的应用更加的容易备份、配置和迁移，还有它能够在同一台服务器上将大型的不同的负载完全的隔离起来的全新方法，而这是数据中心运维模式的巨大转变。&lt;/p&gt;
@@ -956,19 +1020,31 @@
 
 &lt;h4 id=&#34;apache-软件基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Apache 软件基金会&lt;/h4&gt;
 
-&lt;p&gt;Apache 基金会（ASF）创立于1999年，创立时主要的工作时围绕 Apache HTTPD web服务的项目进行开发、资金和治理的协调工作。发展到今天，ASF 已经是世界上最为著名和成功的托管开源项目的基金会之一了，在它的管辖下有超过300多个项目。&lt;/p&gt;
+&lt;p&gt;Apache 基金会（ASF）创立于1999年，创立时主要的工作时围绕 Apache HTTPD web服务的项目进行开发、资金和治理的协调工作。发展到今天，ASF 已经是世界上最为著名和成功的托管开源项目的基金会之一了，在它的管辖下有超过300多个项目。ASF 通过定义法律和协作框架来为开源项目托管和协作开发铺平了道路，现在已经是基金会的标杆，很多后期的基金会都在效仿 ASF 的做法。举例来说，Apache 许可证，Apache 旗下所有的项目都是使用的 Apache 许可证，同时也是今天很多项目使用及最受欢迎的许可证之一，当然这不仅仅是指在 ASF 的托管之下的。尽管 ASF 最初是从项目 Apache web 服务起家的，但是经过了这么多年的发展，ASF 已经在项目上覆盖了很多技术，有编程语言、云计算平台、甚至还有办公效率套件。&lt;/p&gt;
+
+&lt;p&gt;ASF 采用的是精英主义路线，所有的事项都是通过受欢迎的社交技术——公开的邮件列表、WIki、代码仓库等来进行的。有一些 ASF 下所开发的项目成为了非常受欢迎的项目，甚至成为了事实上的标准，但是 ASF 本身并非是一个制定标准的组织，而且也不会像 W3C 那样的组织去专门的制定、生产标准。&lt;/p&gt;
 
 &lt;h4 id=&#34;linux-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Linux 基金会&lt;/h4&gt;
 
 &lt;p&gt;Linux 基金会在2007年成立，由原开源开发实验室（OSDL）和 自由标准协会（FSG）合并而成。目的是提供发行版中立的发展和加强 Linux 操作系统及其相关的技术。据其&lt;a href=&#34;http://www.linuxfoundation.org/about&#34;&gt;官方网站&lt;/a&gt;的说法：&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Linux 基金会旨在保护和激励自由的理念，通过 Linux 开发来加强合作。&lt;/p&gt;
+&lt;p&gt;Linux 基金会旨在保护和激励自由的理念，通过 Linux 开发来加强合作。而且要分享这些理念来加强和巩固，目的是让我们生活的地方未来更加的美好。&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;Linux 基金会最初成立的目标之一就是为 Linux 的创始人不受任何厂商的影响保持中立，因为这些厂商可能会影响内核开发的优先级。这个规定在今天仍然生效，即使是有了诸如 Linux 内核维护人 Greg Kroah Hartman 这样受雇于 Linux 基金会的人的参与。除此之外，Linux 还旨在推动 Linux 全球会议的管理、保护 Linux  的商标、以及处理法律和许可证的问题、并且还会在规范上出一把力，如 Linux 标准工作组制定的 Linux 标准接口。&lt;/p&gt;
 
 &lt;h4 id=&#34;linux-基金会合作项目:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Linux 基金会合作项目&lt;/h4&gt;
 
+&lt;p&gt;和 ASF 类似，伴随着 Linux 基金会渐渐的成熟，也开始孵化一些和 Linux 相关的开源项目了，但是项目并不会特定于和 Linux 操作系统开发有关。通过合作项目的促进，已有的 Linux 基金会流程，管理员支持，以及可以直接利用的治理程序，可快速而有效的生成新的合作项目。近年来，Linux 基金会合作项目的名单日益渐长，其中包括开放大型机项目、汽车应用，乃至现在的云计算平台项目诸如 OpenDaylight、OPNFV，以及 Cloud Foundry 基金会、开放容器促进会、云原生计算基金会等。&lt;/p&gt;
+
+&lt;p&gt;为了能够更为透彻的了解在云计算的世界这些合作的项目基金会究竟又何特别之处，让我们来一同探究一下近来进入 Linux 基金会合作项目羽翼之下的四个子基金会。&lt;/p&gt;
+
 &lt;h4 id=&#34;cloud-foundry-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Cloud Foundry 基金会&lt;/h4&gt;
+
+&lt;p&gt;Cloud Foundry 是一款提供 PaaS（平台即服务）环境的开源项目，PaaS 是可以为开发者有效的提高交付应用的能力，而且还是跨范围的运行时环境的，从 Java 到 Node.js 再到 Python、Ruby、PHP、乃至于 基于 Go 的应用。Cloud Foundry 最初是由 VMware 发起的项目，后来交付给了有 VMware、ECM 和 通用电气 联合成立的新公司 Pivotal 软件全权接管。&lt;/p&gt;
+
+&lt;p&gt;当 Cloud Foundry 成为 Pivotal 的一个开源项目时，Pivotal 则基于开源的代码库来为客户提供免费的和商业的产品。很明显，Pivotal 是控制着项目和社区的。为了解决这样的一个单一厂商控制的局面，在2014年12月成立了 Cloud Foundry 基金会，隶属于 Linux 基金会合作项目成员，这个新的组织目的是防止有那个单一的厂商将项目控制，而且将 Cloud Foundry 转变为一个真正的开放治理模式下的项目。&lt;/p&gt;
 
 &lt;h4 id=&#34;开放容器促进会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放容器促进会&lt;/h4&gt;
 
@@ -977,6 +1053,16 @@
 &lt;h4 id=&#34;云原生计算基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;云原生计算基金会&lt;/h4&gt;
 
 &lt;h4 id=&#34;openstack-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;OpenStack 基金会&lt;/h4&gt;
+
+&lt;p&gt;OpenStack 项目发起时间是2010年，由 NASA 和 Rackspace 联合，目的是想为数据中心的基础设施管理创建一个可编程的、基于 API 的 IaaS（基础设施即服务）层。在2012年又有很多厂商参与进来，这时并一起创建了 OpenStack 基金会，也就是现在运营着OpenStack项目开发的法律、技术和行政治理。&lt;/p&gt;
+
+&lt;p&gt;OpenStack 项目最初是致力于计算、存储和网络资源的管理，但是随着项目的成长，包含了大范围的 IaaS 相关的项目，每个项目都有特定的名称；最初均是处于孵化，一旦成熟之后就会进入 OpenStack 官方的半年发布一次的版本。目前，2015年发布的 Liberty 版本有 16个独立的子组件交付。&lt;/p&gt;
+
+&lt;p&gt;(N.B.:译者注：翻译本文的时候，OpenStack 已经发布 Mitaka 拥有&lt;a href=&#34;https://www.openstack.org/software/project-navigator/&#34;&gt;19个子项目&lt;/a&gt; 。)&lt;/p&gt;
+
+&lt;p&gt;基金会本身由多个社区组成，有运维、有用户、也有开发者社区，以非常健壮的治理模式快速的成长着，治理模式有各自的章程，用于指导其管理和开发的流程。并由董事会和技术委员会进行监督。OpenStack 现在拥有8家白金赞助商，（对应8位董事会的代表）17家黄金赞助商，以及120家企业赞助商。&lt;/p&gt;
+
+&lt;p&gt;若是没有这样的正式的治理和开发流程，就不会有如此多的云计算供应商一起工作在 IaaS 层和 API。但是有了基金会的结构，一些公司，诸如 IBM、HP、RackSpace、Intel、以及其它共同协作来开发核心的技术，然后再去基于 OpenStack 平台之上创新和差异化自己的产品，我们会在本文后面花笔墨讲解更多的这样的合作，以及“合作竞争”的模式。&lt;/p&gt;
 
 &lt;h4 id=&#34;其它开源的基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;其它开源的基金会&lt;/h4&gt;
 
@@ -1404,180 +1490,6 @@
 &lt;p&gt;1、企业降低不了自己的身段，社会主义国企思路，对于自己员工在社区表现没有科学的考核，以及相应的激励机制。&lt;/p&gt;
 
 &lt;p&gt;另外，本文是典型的工程师思维，可能这样的话语很难让非工程师出身的高管们看懂或理解。可能加上管理和营销的角度，会更具说服力。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>创业以来，我的时间都用在了什么地方？</title>
-      <link>http://lijiangsheng1.github.io/posts/entrepreneur/where_the_time_used_since_startup/</link>
-      <pubDate>Thu, 05 May 2016 10:40:34 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/where_the_time_used_since_startup/</guid>
-      <description>
-
-&lt;p&gt;先来整理下我做的事情：&lt;/p&gt;
-
-&lt;p&gt;2014年9月～10月，是我职业生涯中最为狼狈不堪的一段日子，被公司Boss无端猜忌、被兄弟部门诬陷、被我深为信任的团队成员的背叛。不提也罢，我当时做了如下几个决定：&lt;/p&gt;
-
-&lt;p&gt;0、必须攒够3万块钱。
-1、集中精力将ovirt-china开发完善。
-2、练习英语过雅思。
-3、戒烟！
-4、多陪怀孕的老婆和充满阴影的孩子。&lt;/p&gt;
-
-&lt;p&gt;从2014年11月份决定辞职以后，11月份基本就是和易云的占海在纠缠不清。12月份开始作了一些交接的工作，基本就不在北京待了，开始着手忙乎着接下来的打算了，这个时候主要的思路还是集中在社区建设上！在2015年1月基本上做了如下一些内容：&lt;/p&gt;
-
-&lt;p&gt;0、评估CMS系统。
-1、学习 Mediawiki 的管理，准备亲自来管理wiki。
-2、开始着手翻译一些社区的书籍和文档：如Fuel、和OpenStack架构指南。
-3、学习了一些CSS、JS的内容，定制博客聚合。&lt;/p&gt;
-
-&lt;p&gt;注意，这个时候在撰写博客的时候，翻译了一个重要的文档，那就是：&lt;a href=&#34;http://iaaslee.blogspot.com/2015/03/blog-post.html?view=magazine&#34;&gt;通往开放云指南&amp;ndash;开放云项目简短介绍&lt;/a&gt;。 以及反思了自己作出人生重大决定的文章：&lt;a href=&#34;http://iaaslee.blogspot.com/2015/01/blog-post.html&#34;&gt;我为什么停下来&lt;/a&gt; ，我还清楚的记得我读的一本书《商业模式新构思》，于是开始自己大胆的创业之路。&lt;/p&gt;
-
-&lt;p&gt;（人都是在变化中思考并寻求解决问题的办法的。）&lt;/p&gt;
-
-&lt;p&gt;再来看看2015年2月份的流水账：&lt;/p&gt;
-
-&lt;p&gt;0、 Slideshare 上的 CultureCode ，野心是想考察硅谷的文化。这是我停下来，通过&lt;a href=&#34;http://iaaslee.blogspot.com/2015/02/culturecode.html&#34;&gt;意淫来向往一番&lt;/a&gt;。
-1、开始根据开放云、自己的经验、以及团队的臆想，开始整理商业模式的规划。
-2、开始更改维基百科的一些权限等的设置。
-3、基本完成《OpenStack 架构指南》的翻译。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年3月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年3月&lt;/h3&gt;
-
-&lt;p&gt;这个月正好进入农历年完，和易云签署了技术顾问的合同，开始全身心的忙前2个月的计划了：
-0、组织成立 OCSelected.org 社区，并大体的列了一些具体事项和目标。
-1、找一些项目，以及一些所谓的人开始了聊天。（林捷、后来骗我的何总、徐石磊、许峰等）。
-2、敲定图书出版事宜之后，就返回郑州。
-3、社区的几项事情：注册域名、社交账号、社区哲学／主旨、博客聚合、github仓库创建、wiki的页面整理、建立docs.ocselected.org（内容＋站点）。
-4、翻译这件事情：Fuel的文档、POSA的一章、以及 OpenStack 管理员手册的启动。
-5、博客写作和忍不住的好文翻译。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年4月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年4月&lt;/h3&gt;
-
-&lt;p&gt;这个月有着特别的意义，二女儿出生，前半个月基本上是在照顾妻子，但是还是抽空做了一些零碎的事情：&lt;/p&gt;
-
-&lt;p&gt;0、算是独立后，自己谈的第一个项目，即为和信创天做 oVirt 的培训大纲，以及我自己的一天的培训内容。
-1、ocselectd.org 的社区原则的细节考虑、
-2、翻译：（现在回过头来看，翻译将我扯入了巨大的黑洞，时间浪费的太多。）  Fuel文档、POAS还债、OpenStack管理员手册、Blog、ManageIQ、Ceph文档等
-3、商业上的考量：在做找到合伙人的切蛋糕的研究。
-4、OVDG书籍，在准备培训材料的同时，更新了OVDG的一些内容。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年5月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年5月&lt;/h3&gt;
-
-&lt;p&gt;由于有我妈在照顾我的小女儿，于是，我在5月份返回了北京：&lt;/p&gt;
-
-&lt;p&gt;0、整个上旬都在准备培训项目的事情了，讲了一天，但是最终还是被骗了，没有拿到钱。除了自己的知识收获以外，就是教训了。
-1、社区工作：进行 docs.ocselected.org 的建站和内容。wiki的如何参与页面。
-2、约谈一些人。（王嘉楠、陈沙克）后来发现这纯粹是在浪费时间，他们不会和你讲任何的意见。
-3、翻译，已经意识到翻译吞了很多时间，开始将这件事情限定在2小时之内。
-4、图书出版敲定，开始从社区的版本脱离。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年6月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年6月&lt;/h3&gt;
-
-&lt;p&gt;6月份，接受了易云的独立技术顾问的邀请，或许是还对原来的团队存有一丝的希望。&lt;/p&gt;
-
-&lt;p&gt;0、开放云精选社区活动，总结、哲学释义、
-1、图书出版，要更改一些提纲和内容的增加。
-2、翻译：Mesos、Fuel、Blog（Gartner的云计算报告）
-3、开始有易云出现的工作了：Cloudyn.com、Forest report、以及打报告给占海之类的。
-4、线下活动： OpenStack meetup 参与，Mesos Meetup 演讲嘉宾。
-5、.com 网站开始启动建设。wordpress 模版。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年7月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年7月&lt;/h3&gt;
-
-&lt;p&gt;0、由于找的技术人员迟迟没有动手，（“请你拒绝我！”感慨良多啊）自己开始做产品的设计乃至具体的技术实现。
-1、翻译，终于翻出了点样子，在OpenStack Translators Meet Up上给大家分享翻译那点事。
-2、易云的关于Murano平台研究系列开始启动。
-3、一本书的出版果然没有那么的简单。在翻译完毕后，仍然有很多的工作要做。
-4、没有考虑直接购买 wordpress 的模版，而是找原来认识的美工。（这也是件错误的事情）&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年8月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年8月&lt;/h3&gt;
-
-&lt;p&gt;0、易云的一些高层开始怕鼻子上脸了，开始不仅仅是技术顾问角色，这么简单了，期望我继续组建一个开发团队。看喝酒、吃饭的记录就知道是怎么一回事了。
-1、我期望的公司文化。以及社区的文化与理念。
-2、依然没有放弃找技术帮助我实现产品。甚至是和云端的旧同事聊聊销售的事情。
-3、商业产品的各种思考与考量，（由于缺乏最基础的知识，所以空想而已，没有任何的产出。）
-4、翻译：OpenStack 管理员指南，（有望出的下一本书）以及开放云社区的各类文档。
-5、根据易云的业务和boss的意见，撰写、考察 Murano的系列文章。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年9月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年9月&lt;/h3&gt;
-
-&lt;p&gt;0、终于敲定了和易云散伙的事情。但是一个Murano的调研、系列文档撰写就将我拖了半个月。
-1、翻译，应聘 InfoQ的布道师未果，加入了InfoQ 的社区编辑，翻译的任务又多了一项。OpenStack管理员手册（交稿期结束）。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年10月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年10月&lt;/h3&gt;
-
-&lt;p&gt;这个月对于我生命来说是一个颇为关键的转折点。国庆节的时候，突然身体上出现了一些问题，见我在&lt;a href=&#34;http://lijiangsheng1.github.io/posts/karate/mas-oyama-0/&#34;&gt;我要每日努力不懈！&lt;/a&gt;中所描述的那样。开始准备收尾，但是欠下了太多的债，需要还！&lt;/p&gt;
-
-&lt;p&gt;0、OpenStack Murano 系列博客，一次 OpenStack meetup 的分享准备。
-1、翻译，InfoQ 初级翻译审核，开源启示录的卷首语。
-2、OpenStack 峰会东京之行。
-3、商业上的思考，基本上是没有任何的实际行动了。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年11月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年11月&lt;/h3&gt;
-
-&lt;p&gt;0、InfoQ的翻译文章。
-1、《深入浅出云计算》培训课程准备。
-2、中国软件大会演讲准备。&lt;/p&gt;
-
-&lt;h3 id=&#34;2015年12月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2015年12月&lt;/h3&gt;
-
-&lt;p&gt;这个月基本上都是为了一次培训（我创业以来赚取的唯一的一次生意）、一次大会演讲、一次Meetup组织和演讲。
-0、《深入浅出云计算》培训课程准备。意料之外的耗时！
-1、 中国软件大会演讲准备。这是我有生以来面对最多人的一次演讲，200多号人。
-2、 OpenStack Meetup 组织与演讲，开源文化，以及那次自认为最牛的一次分享。&lt;/p&gt;
-
-&lt;p&gt;17号返回郑州之后，就放下了一些事。只有零星的翻译下InfoQ的文章。&lt;/p&gt;
-
-&lt;h3 id=&#34;2016年1月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2016年1月&lt;/h3&gt;
-
-&lt;p&gt;所谓的还债，其实没有还完，也就是自己在开放云精选社区挖了太多的坑。整个的生活都是和孩子、爱人待在一起了。开始了日常的锻炼，戒烟！不过值得一提的是，商业的系统，自己尝试做。还简单的列了些计划，现在看来，除了InfoQ 的翻译之外，均为付诸于实践。&lt;/p&gt;
-
-&lt;h3 id=&#34;2016年2月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2016年2月&lt;/h3&gt;
-
-&lt;p&gt;大女儿放假，几乎什么也没有做。将自己的脑子清空了一下。&lt;/p&gt;
-
-&lt;h3 id=&#34;2016年3月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2016年3月&lt;/h3&gt;
-
-&lt;p&gt;创业的心依然在！但是心有余而力不足。偶尔翻翻，review下自己的想法可以，付诸实践是没了可能。正式的加入了InfoQ的开源栏目社区主编。相比原来要多花点时间。&lt;/p&gt;
-
-&lt;h3 id=&#34;2016年4月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2016年4月&lt;/h3&gt;
-
-&lt;p&gt;和孩子、爱人待在一起的时间，真的好快！ 不知不觉！&lt;/p&gt;
-
-&lt;p&gt;4月底的时候，回来一趟北京，参加了一次 Qcon，采访了PingCAP的CTO，并聆听了自己感兴趣的技术创业主题。&lt;/p&gt;
-
-&lt;h3 id=&#34;2016年5月:2d488a414cffb01385864035dc4cb4a7&#34;&gt;2016年5月&lt;/h3&gt;
-
-&lt;p&gt;上旬还在家里，基本上就是翻译篇文章，之后，一个人返回北京，开始思考自己接下来要走的路。&lt;/p&gt;
-
-&lt;p&gt;0、将博客迁移到github，国内可访问。
-1、暂停了社区的wiki系统。需要重新改版为静态内容。
-2、博客上的文章，写作和翻译占去了一部分时间。
-3、向PingCAP投递简历，希望加入，以 Tech writer 的身份加入。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;总结:2d488a414cffb01385864035dc4cb4a7&#34;&gt;总结&lt;/h2&gt;
-
-&lt;p&gt;其实，整个创业，从我接受易云的技术顾问的前后，没有找到任何的合伙人，也就意味着我这次的失败。更退一步讲，所谓的创业，不过是我那卑微的、可怜的自尊心作崇的缘故。原来团队成员的变化，在关键决策的时候，置我于不顾，乃至江湖的险恶用心。强迫我去思考、去探索自己应该待的位置。也就是说不过是挽回自己那点毫无用处的情面罢了。&lt;/p&gt;
-
-&lt;p&gt;创业，以我的想法而言，以个人的能力，是难以完成的。所以，在招募合伙人上失败，后面的所有做的事情，不过都是在苦苦挣扎罢了。&lt;/p&gt;
-
-&lt;p&gt;回到本文的主题上来：时间！ 再一次验证了我个人对于时间管理的误区。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;团队的思维，一时之间没有转换过来。严重高估自己的能力。&lt;/li&gt;
-&lt;li&gt;同时做的事情太多，翻译、读书、业务等等不一而足。精力分散、效率奇低。&lt;/li&gt;
-&lt;li&gt;贪婪！急躁！总是希望一下子就得到结果。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;这就是我刚刚在过去的一年多的时间里所做的和事业有关的所有事情。时间用在了哪里一目了然，湮没在自己糟糕的规划中了。教训就是教训，要吸取！收获的也许更多！&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;调整自己，继续努力前行！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;多谢 &lt;a href=&#34;https://calendar.google.com/&#34;&gt;Google 日历!&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
