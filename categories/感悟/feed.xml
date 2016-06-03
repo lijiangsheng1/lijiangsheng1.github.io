@@ -7,8 +7,150 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 31 May 2016 08:34:54 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jun 2016 08:59:01 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.3）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_3/</link>
+      <pubDate>Fri, 03 Jun 2016 08:59:01 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_3/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;linux-基金会托管项目新增一员猛将-hpe-的开源交换机操作系统:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;Linux 基金会托管项目新增一员猛将：HPE 的开源交换机操作系统&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.datacenterknowledge.com/archives/2016/06/01/linux-foundation-backs-hpes-open-source-switch-os/&#34;&gt;Linux Foundation Backs HPE’s Open Source Switch OS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源并非那么的简单。仅仅以为是将代码开放出来就OK，相关的生态系统建立才是根本。技术人员通常容易犯错误，尤其是自己的辛勤成果，这么牛逼的东西贡献出来，你们应该蜂拥而至的。要知道，今昔不同往日，开源是因为你自己本身资源不足，玩不转了，需要借助外部的力量。这不，一年多以前惠普都开源这款交换件的操作系统，可是硬是没人搭理。这下好了，给Linux基金会托管了，其实，近来Linux基金会托管的项目太多了点，难免会顾此失彼。社区经营若是失败了，再好的治理流程都没有用。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;北美的一些城市减缓了采用开源软件的进度:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;北美的一些城市减缓了采用开源软件的进度&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://lxer.com/module/newswire/view/230161/&#34;&gt;North American Cities Slow to Adopt Open Source Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇很好的文章，值得相关的从业者读读，尤其是中国政府的那些官员们。别装着照顾“国产”了，为人民做点实事。技术应该和国情无关，也和意识形态无关。&lt;/p&gt;
+
+&lt;p&gt;以上评论只是我个人的意淫。我竟然依然对这个烂到根的政府抱有希望？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;如今的互联网就是开源软件支撑起来的-但是-apache-是什么:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;如今的互联网就是开源软件支撑起来的，但是 Apache 是什么？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/enterprise-it/software/this-open-source-software-dominates-the-web-but-what-is-apache-4909894&#34;&gt;This open source software dominates the web, but what is Apache?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有时候，不经意的会发现国外有些网站仍然发一些类似这样扫盲文，短暂而精准。反观本土的媒体，都玩高大上，似乎都是追逐前沿科技，人人都是全才一样。给这样的科普也好、扫盲也罢，留有一些余地，也是不错的选择。&lt;/p&gt;
+
+&lt;p&gt;哦，差点忘了，本文说的是 Apache 小史，讲述了其在互联网早期阶段的重要作用。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;基于开源软件搭建的在线-tosca-培训:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;基于开源软件搭建的在线 TOSCA 培训&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.businesswire.com/news/home/20160602005521/en/Online-TOSCA-Training-GigaSpaces-Built-Open-Source&#34;&gt;Online TOSCA Training Now Available From GigaSpaces Built on Open Source Infrastructure, Open edX and OpenStack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Cloudify 在线学习系统，构建在 open edx 之上，为培训人们的 OpenStack 和 基础设施云而建设的平台。&lt;/p&gt;
+
+&lt;p&gt;本土做在线教育的也不少，但是做着做着就做成了中、高考辅导，不谈这些。推荐这篇文章主要是因为&lt;a href=&#34;https://www.hastexo.com&#34;&gt;hastexo&lt;/a&gt;这家公司，基于开源项目 OpenStack、Ceph、Open edX而展开的咨询和培训业务，此类商业模式在国内难以实施。究其原因，我依然在探索中。目前国内在各个领域的关键部门，都是红卫兵、下乡的一代，或者稍晚一点。他们对于知识的尊重程度，乃至对于企业和人的理解，都是非常偏激的。比如对于软件的认知仍然停留在工厂模式。然而，这股风气还传给了年轻的一代。和他们做生意似乎很难。再加上千丝万缕的权贵、关系等。非常的难以下手。需要继续努力，寻找突破口。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;什么是开源软件:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;什么是开源软件？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/enterprise-it/software/what-is-open-source-software-4911514&#34;&gt;What is open source software?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;依然是小篇科普文，建议本土的媒体应该去学习一下。另外，即使是从业多年的老油条，猛不丁的问个这样的问题，一时半会还真回答不上来。同样建议阅读。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;自然科学杂志-一份由消费者健康中心发起的开源杂志:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;自然科学杂志：一份由消费者健康中心发起的开源杂志&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.prnewswire.com/news-releases/new-open-source-science-journal-launched-by-consumer-wellness-center-the-natural-science-journal-300278023.html&#34;&gt;New open source science journal launched by Consumer Wellness Center: the Natural Science Journal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源已经决非是软件一个领域的事情。这不，开源的、自由的电子杂志就这么诞生了，由独立的科学家们组成。这对于每个关心自己的饮食健康的人，无疑是多了一份保障和认知。&lt;/p&gt;
+
+&lt;p&gt;以一位生活在充满恐惧和威胁的国度的人，小心的祝愿：希望能够坚持办下去！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;旧金山资助开源的投票系统:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;旧金山资助开源的投票系统&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://gcn.com/articles/2016/06/02/sf-open-source-voting.aspx&#34;&gt;San Francisco funds open source voting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;终于有人，或者说政府意识到了商业系统的不靠谱，然后开始按照自己的逻辑来开发，并且试图利用起来自民众的力量。但是我没有从文章中看到系统的代码仓库地址。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;owncloud-的创始人-撕逼-另起炉灶:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;OwnCloud 的创始人“撕逼”另起炉灶&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/owncloud-founder-forks-popular-open-source-cloud/&#34;&gt;OwnCloud founder forks popular open-source cloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一家名为 “Nextcloud” 的公司，是从 OwnCloud 派生出来的分支，有原 OwnCloud 的CTO 和联合创始人发起。OwnCloud 的创始人是那位创建了20多个站点的open－look的人，刚刚把那些站点卖了，专心经营新创立的公司——OwnCloud，没几天就出现了此事。至于内部纷争究竟是因为什么，我们不得而知。但是在开源的商业模式中，类似的撕逼还比较少见。倒是在BSD、Linux等发行版社区中常见。&lt;/p&gt;
+
+&lt;p&gt;不过可以大胆的猜测一下：CEO 和 CTO 因为是否对技术有所保留而争执不下。乃至于是否真诚的对待社区也有分歧。这是最有可能导致分裂的缘由。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_hammerscrewdriver.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;基于开放文化模式的生鲜服务:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;基于开放文化模式的生鲜服务&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/open-approach-food-service-automation&#34;&gt;Transforming food service in Singapore with an open culture model&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;新加坡是典型的温和的独裁的政治形式，但是其下却能发展出以开放为基础的公司文化，确实不可思议。要知道这是一个华人居多的国家，受儒家的文化影响很深。开放的话就意味着会有人抱怨不公，患寡而不患不均。让我们拭目以待吧。我本人是持怀疑态度的。&lt;/p&gt;
+
+&lt;p&gt;文化杀人！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;wipro-hortonworks-联合起来推动开源:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;Wipro，HortonWorks 联合起来推动开源&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.thehindubusinessline.com/info-tech/wipro-hortonworks-tie-up-to-push-open-source-tech/article8682526.ece&#34;&gt;Wipro, Hortonworks tie up to push open source tech&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Wipro 开源旗下产品：Big Data Ready Enterprise，亦是看到了开源对于大数据的形势。没有数据的开发分析数据工具的公司，该如何吸引有数据公司／政府／企业的青睐？开源 Core ＋ 商业工具 ＋ 实际定制，是他们最好的模式。这点竟然在本土也被接受了。因为 Hortonworks 高管声称在中国赚到钱了，真是不可思议。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源人工智能该如何改变技术产业:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;开源人工智能该如何改变技术产业？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techradar.com/news/world-of-tech/how-will-open-source-ai-change-the-tech-industry--1322242&#34;&gt;How will open source AI change the tech industry?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇试图预测未来IT产品将由什么来主导的文章，无疑人工智能是大家都非常看好的领域。Google、Facebook、SpaceX、IBM、Amazon等都在这块区域角力，展开竞争。大家应该还对Google的机器人 AlphaGo 战胜韩国棋手的事件记忆犹新。我们只能观望，他们即使开源了，如TensorFlow，绝大多数仍然是看不懂的，比如我。未来的“编程”事业将被AI所取代，这里的编程指的是本土那些永远只在外围苟且的“码农”们干的事情。&lt;/p&gt;
+
+&lt;p&gt;常常读读类似的文章，明白自己就是一渣！！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.5.31)</title>
@@ -1879,56 +2021,6 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 &lt;p&gt;1、企业降低不了自己的身段，社会主义国企思路，对于自己员工在社区表现没有科学的考核，以及相应的激励机制。&lt;/p&gt;
 
 &lt;p&gt;另外，本文是典型的工程师思维，可能这样的话语很难让非工程师出身的高管们看懂或理解。可能加上管理和营销的角度，会更具说服力。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>美国队长：内战 观后感</title>
-      <link>http://lijiangsheng1.github.io/posts/moives/captain_america_Civil_War/</link>
-      <pubDate>Fri, 06 May 2016 15:43:46 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/moives/captain_america_Civil_War/</guid>
-      <description>
-
-&lt;h2 id=&#34;有关信念-坚持的故事:ccaa580774c3319a51b77a01f7c566d9&#34;&gt;有关信念、坚持的故事&lt;/h2&gt;
-
-&lt;p&gt;首先需要声明的一点就是，我对漫画一无所知。喜欢上美国队长，还是要从&lt;a href=&#34;http://marvel.com/movies/movie/181/captain_america_the_winter_soldier&#34;&gt;美国队长2：冬兵&lt;/a&gt;算起，一个人有意单挑神盾局，真是让人大呼过瘾！ 尤其喜欢的是那段进入神盾局总部广播的台词：&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;I know I&amp;rsquo;m asking a lot. But the price of freedom is high,it always has been. and it&amp;rsquo;s a price I&amp;rsquo;m will to pay. And if I&amp;rsquo;m the only one,then so be it.But I&amp;rsquo;m willing to bet I&amp;rsquo;m not.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;一付虽千万人，吾往矣，的英雄气概！以自由的名义，不惜任何代价。&lt;/p&gt;
-
-&lt;p&gt;注：这段台词，我也曾经在创建&lt;a href=&#34;http://docs.ocselected.org&#34;&gt;开放云精选&lt;/a&gt;社区时引用过。很不幸，电影就是电影，美国队长依然有盟友和追随者。而社区就只剩下我一个人了。&lt;/p&gt;
-
-&lt;p&gt;可能和人生的视野有关，也与自己的处境有关系。我写这篇所谓的观后感，没有任何对于剧情的设定、人物的取舍、耗资多少、演员颜值多高、技术效果有多好的叙述和探讨。我只想讨论下美国队长的一些品质！或者说人，应该去坚守的东西！大约我可能会对那些说“不就是一场爆米花的电影吗？至于去挖掘什么人性、政治、立场吗？干吗那么认真？”会有所芥蒂或警惕。现实中遇到这样的人，我一般是不会去理他们的。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.movieguide.org/wp-content/uploads/2015/01/Captain-America-Slider.jpg&#34; alt=&#34;not freedom&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;关于坚持立场:ccaa580774c3319a51b77a01f7c566d9&#34;&gt;关于坚持立场&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://i0.wp.com/hipertextual.com/files/2016/03/Captain-America-Civil-War-2-Trailer-I-Could-Do-This-All-Day.jpg&#34; alt=&#34;pick a side&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;人类的政治是不靠谱的，尤其是一个团体去作恶的时候。神盾局被九头蛇渗透以后，美国队长对此更加的坚信不疑。&lt;/p&gt;
-
-&lt;p&gt;能够在任何时候，都坚持自己的立场，始终以正义和自由来衡量。这种品质大概也只能在电影和漫画中出现。只能向往之！&lt;/p&gt;
-
-&lt;p&gt;这时我想到了大山倍达先辈的一句话：&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;** Justice without power is empty, but power without justice is only Violence.**&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;在没有成为超级士兵之前，是位残弱多病、身材矮小的男生，即使胸怀大义，连电影院的小流氓都难以招架。只能以：“I Can Do this all day.” 来自我暗示和吓退对手。但是变为超级士兵之后，就可以伸张正义！并非常明确自己的位置和立场！&lt;/p&gt;
-
-&lt;p&gt;“能妥协处且妥协，无法妥协必抗争。”&lt;/p&gt;
-
-&lt;h2 id=&#34;关于诚信:ccaa580774c3319a51b77a01f7c566d9&#34;&gt;关于诚信&lt;/h2&gt;
-
-&lt;p&gt;不就是一款协议吗？不就是签个名字吗？至于吗？不惜和昔日的战友撕逼！不惜和整个世界的政府对抗！&lt;/p&gt;
-
-&lt;h2 id=&#34;关于信任:ccaa580774c3319a51b77a01f7c566d9&#34;&gt;关于信任&lt;/h2&gt;
 </description>
     </item>
     
