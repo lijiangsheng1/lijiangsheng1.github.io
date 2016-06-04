@@ -7,8 +7,96 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 03 Jun 2016 08:59:01 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jun 2016 09:47:44 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.4）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_4/</link>
+      <pubDate>Sat, 04 Jun 2016 09:47:44 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_4/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;owncloud-关闭美国的办公室-被-nextcloud-羞辱:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;OwnCloud 关闭美国的办公室，被 Nextcloud 羞辱&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/owncloud-closes-us-office/&#34;&gt;OwnCloud closes US office, blames Nextcloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://fortune.com/2016/06/03/what-happened-to-owncloud/&#34;&gt;Why Did File Sharing Startup OwnCloud Shut Down?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;事情越来越引起人们的关注了，甚至连财富这样的媒体都开始报道了。技术人员集体跳槽，是否和基金会成立、商业模式、开源的保留程度等等因素有关，我们不得而知。但是NextCloud的成立距离其创始人从OwnCloud离职的仅仅两个月的时间，确实有些蹊跷。&lt;/p&gt;
+
+&lt;p&gt;我唯一关注这起事件的原因是因为 OwnCloud 走得是开源的背书。一度都走到成立基金会的地步了，还是闹到了另起炉灶的地步。当年 Node.js 因为基金会的成立的解决了此问题。而OwnCloud 却没有逃脱此命运。正如《财富》所指出的“In English, the idea is to make sure that the open-source software is not under the sway of one company or any particular person.” 其实本土目前的两家走开源路线的公司，如&lt;a href=&#34;http://pingcap.com&#34;&gt;PingCAP&lt;/a&gt;和&lt;a href=&#34;http://hyper.sh&#34;&gt;Hyper_&lt;/a&gt;，创始人的观念仍然停留在“工厂模式”下，分裂、碎片化、无法赚钱等问题会接踵而至。他们在犹豫？还是在大环境下无法做到自觉？不得而知，但是OwnCloud 的例子，可以给他们一点启发。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;著名企业家-互联网技术专家-dan-kohn-被任命为云原生计算基金会的执行总监:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;著名企业家、互联网技术专家 Dan Kohn 被任命为云原生计算基金会的执行总监&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/serial-entrepreneur-internet-technologist-dan-kohn-named-executive-director-cloud-native-2131130.htm&#34;&gt;Serial Entrepreneur and Internet Technologist Dan Kohn Named Executive Director of Cloud Native Computing Foundation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;前两天有 Brian Behlendorf，出任 Linux 基金会对于区块链项目的主席，今又有 Dan 出认CNCF 的执行总监。而这二者均是目前来说最为炙手可热的项目。正如《Open by Design》所言，这是一个开放治理下的世界。Linux 基金会明显是在布局，旗下已有30多个项目，超过一半的为举足轻重的基础设施项目。未来属于开源，更加的属于开放治理！拭目以待！&lt;/p&gt;
+
+&lt;p&gt;本土的做法就是成立各种联盟：中国开源云联盟，中国容器联盟。挂靠在电子产业协会，以看似漫不经心的态度来对待这些。伺机而动！该如何处理和看待这些，是我到现在没有完全理解的部分。它们究竟在干什么？为了联盟而联盟？还是未了特色而特色？还是让国际上的这些NGO拜倒在她们的石榴裙下？最近加入了一个他们的微信群，就是一帮公司的销售或所谓的市场在那里乱侃，和标准无关。和生意、技术更无关。这是我难以理解的世界。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;linux-基金会声明启动-2016年度-lift-奖学金计划:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;Linux 基金会声明启动 2016年度 LiFT 奖学金计划&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://betanews.com/2016/06/02/linux-foundation-2016-lift-scholarship-program/&#34;&gt;The Linux Foundation announces the 2016 LiFT Scholarship Program &amp;ndash; here&amp;rsquo;s how to apply&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Linux 基金会真的开始动起来了，野心渐渐的露出了水面，大概是OpenStack 这几年走的过去迅猛，让他们开始觉醒了，NGO 也可以玩的很大。也可以玩抢夺未来的高地。&lt;/p&gt;
+
+&lt;p&gt;看到这样的新闻，我忍不住又要吐槽。你们那些个开放联盟，什么电子协会的，或者说普华开源社区之类的，搞过类似的活动吗？不仅能得到好的名声，还能为自己培养人才。唉。有的时候，我也想和大多数“码农”一样，反正有饭吃，低头写代码就好了。这事我管不了，徒增烦恼而已。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源云让计算机创建下一个蒙娜丽莎成为可能:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;开源云让计算机创建下一个蒙娜丽莎成为可能&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.artsy.net/article/artsy-editorial-open-source-could-let-computers-create-the-next-mona-lisa&#34;&gt;Open Source Could Let Computers Create the Next Mona Lisa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这篇文章讲述了人工智能在艺术创作方面的过去和现在。并乐观的展望了未来！包括从学术界走出，到现在各大IT企业角逐到局面。Google、Facebook、Amazon、Microsoft、IBM等等都在此领域发力。无疑开源＋云计算，以及让所有艺术家民主、平等的参与，是所有这一切落地的现实基础。&lt;/p&gt;
+
+&lt;p&gt;大力推荐阅读此文。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;关于开放组织的5个值得分享的故事:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;关于开放组织的5个值得分享的故事&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/year-stories-about-open-organizations-these-were-most-read&#34;&gt;5 most-read stories about open organizations over the past year&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;《Open Organization》这本书对我的影响是什么？再加上《合一的力量》了呢？一个扁平化的组织、一个团队成员均是自我激励性的、有着共同目标的团队。可惜，现实将我击的粉碎。在本土，严重缺乏培养出这样的成员的文化土壤，甚至包括我自己有这样的想法。&lt;/p&gt;
+
+&lt;p&gt;除非那天让我遇到这样的一个人，否则我非常的难易相信真的有这样的组织存在，别给我故事，给我真实！但是，读读还是很让人神往的！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;建立开放社区的8步法:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;建立开放社区的8步法&lt;/h3&gt;
+
+&lt;p&gt;原文链接: &lt;a href=&#34;https://opensource.com/open-organization/16/6/8-steps-more-open-communications&#34;&gt;8 steps to more open communications&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源，和建立响应的社区是密切相关的，二者是相辅相成的。缺了任何一方，开源就难以成功。opensource.com 上关于建立社区的文章渐渐的多了起来，也是大家都在探索和寻求答案的见证。好吧，谈到本土，我就有种绝望的感觉。大家除了钱之外，不会对任何事物产生兴趣。现在的年轻人会好点？不得而知，希望有机会见识一下。但是方法论还是应该学习一下的，人类毕竟除了各自的文化迥异之外，还有一些共同的东西的，比如希望得到人们的尊重和认可。所以该学习还是得学习。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.3）</title>
@@ -1960,7 +2048,17 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 
 &lt;h4 id=&#34;开放容器促进会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放容器促进会&lt;/h4&gt;
 
+&lt;p&gt;我们将会在开放云的合作一章更加详细的谈论开放容器促进会（OCI），但这里必须提及的一点是OCI是托管在 Linux 基金会合作项目之下的。在2015年6月，OCI 的组建就是为了让应用程序的容器化在两个竞争的运行层面标准化和协调性。众所周知，Linux 容器在过去的几年里可谓是非常火的技术，这一切都得归功于 Docker 在应用程序容器运行时和生态环境的构建和实现。但是这里面，有一个现象值得大家注意下，那就是 Docker 是近年来才出现，并段时间崛起的技术，但是称之为 Linux 的核心技术之一的 “容器”已经出现了十多年了。随着容器技术的不断升温，Docker 也开始有了一些批评的声音甚至出现了强有力的竞争者。在2014年12月，CoreOS，一直以来都是 Docker 的盟友，发布了容器的运行时环境——Rocket。OCI 的设立就是协调这两个竞争者的规范和实现，即 Docker 所提交的 &lt;strong&gt;libcontainer&lt;/strong&gt; ，也就是 Docker 的核心容器运行时组件；和 一个新的用户运行时环境，名称叫做 &lt;strong&gt;runC&lt;/strong&gt; ，基于规范的实现，是 OCI 治理和控制的。&lt;/p&gt;
+
+&lt;p&gt;目前来说，OCI 仍然处于形成阶段，但是不论是 CoreOS 还是 Docker，（甚至是 Google、红帽、IBM、华为、以及其它）均是最初的创始成员。目标都是为最终用户建立一个可移植的、标准化的运行时的规范实现，共同构建容器创新的生态环境。&lt;/p&gt;
+
 &lt;h4 id=&#34;node-js-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Node.js 基金会&lt;/h4&gt;
+
+&lt;p&gt;在2009年由 Ryan Dahl 和他在 Joyent 的工程师团队所发明的 Node.js，在短短的几年证明了这是一个用于 web 应用程序开发的服务端，基于 JavaScripts 语言实现。Node.js 从诞生之日起就是开源的项目，许可证协议采用的是 MIT 许可证。Joyent 引领此项目的开发好多年，从最初的仅支持 Linux 平台下，最后移植到微软的 Windows、Apple 的 OS X、乃至于如 IBM Power 和 Z 系列的架构平台之上。在2014年末，Joyent 的治理下开始出现了一些分歧，有一部分工程师开始以全新的分支——io.js，这对于 Node.js 可谓是一件不好的事情，io.js 的发布周期短时间就拥有了更多的用户。&lt;/p&gt;
+
+&lt;p&gt;在2015年2月的 Node.js 研讨会上，有人提议需要一个厂商中立的基金会。没过多久，在那个夏天来临时，Node.js 和 io.js 两个项目宣布合并，成立 Node.js 基金会，放在 Linux 基金会合作项目之下。就这点来说，Node.js 基金会可谓是开放治理模式的成功典范，是厂商中立的基金会实现。和其它我们讨论到的其它基金会相类似，它会采用业务（董事会）委员会混合技术指导委员会的方式，而后者则是技术决策的精英主义。&lt;/p&gt;
+
+&lt;p&gt;node.js 基金会有6位铂金创始，其中也包括了 node.js 的创始者——Joyent，以及16位黄金和白银成员。Node.js 基金会致力于为其开发提供向导，希望node.js 能够在迅猛的发展道路上稳步前进。&lt;/p&gt;
 
 &lt;h4 id=&#34;云原生计算基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;云原生计算基金会&lt;/h4&gt;
 
@@ -2168,95 +2266,6 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:9fedda20bd274b70d4a929427727e603:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>空手道晋级之橙带杠一日常训练</title>
-      <link>http://lijiangsheng1.github.io/posts/karate/mas-oyama-2/</link>
-      <pubDate>Sat, 14 May 2016 08:01:35 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/karate/mas-oyama-2/</guid>
-      <description>
-
-&lt;h2 id=&#34;啰哩啰嗦:799eb8fd84626613d4b89a4d9d09877b&#34;&gt;啰哩啰嗦&lt;/h2&gt;
-
-&lt;p&gt;我在上一篇文章中谈到了建立大目标固然重要，那些可以努力达到的阶段性的小目标也很重要的，即&lt;a href=&#34;http://lijiangsheng1.github.io/posts/mas-oyama-1/&#34;&gt;不积硅步无以至千里&lt;/a&gt;。其中列出了极真空手道（宗家）的晋级需求，现在我的状态是从无级（白带）到十级（橙带），那么下一个目标就是九级（橙带杠一）。&lt;/p&gt;
-
-&lt;p&gt;没有任何事是轻松的，也没有任何的目标达成是轻而易举的。&lt;/p&gt;
-
-&lt;p&gt;我个人的毛病在于杂念太多，思维跳跃的过于频繁，很少能专注一件事情超过半小时。比如读书，本来是带着无数的疑问和谜题去看的，然而，还想着如何快速而完美的完成工作，将赚钱之道稳定，还有想提高自己的修养，努力的去热爱生活。于是，同时进行阅读的书籍超过6本，一天的情景、思维、知识切换平均在半小时一次。于是，这么多年下来，一事无成，没有那本书的知识和思维是掌握的。其实，我在工作的时候也一样，除非是遇到特别的困难，比如很难找到根源的 Bug，一般会切换非常频繁，那么我的技术也是一塌糊涂，终归于普普通通。&lt;/p&gt;
-
-&lt;p&gt;可是上述的这些都不是我想要的，我犯错，那么希望有机会能够改正。目标是让自己的人生更加的完善！&lt;/p&gt;
-
-&lt;p&gt;空手道的修行，是否能够帮助我了呢？这样带着功利的目的是否本身已违背了原意？是否在这个过程中，仍然会犯欲速则不达的错误？太急？杂念太多？那又该如何处理了呢？&lt;/p&gt;
-
-&lt;h2 id=&#34;热身:799eb8fd84626613d4b89a4d9d09877b&#34;&gt;热身&lt;/h2&gt;
-
-&lt;p&gt;首先会做点让自己体温上升、心跳加速的运动：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;立卧撑 10 x 2&lt;/li&gt;
-&lt;li&gt;高抬腿 30 x 2&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;然后是全身的预备活动：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;头部运动（上下，左右，绕环）&lt;/li&gt;
-&lt;li&gt;肩部运动（正反转，横纵向拉伸）&lt;/li&gt;
-&lt;li&gt;腕关节运动（正反转收回出拳）&lt;/li&gt;
-&lt;li&gt;腰部运动（旋转，绕环）&lt;/li&gt;
-&lt;li&gt;双腿分开手扶地面，搂抱左右脚，手扶膝关节按压下潜，双脚并拢手扶地面，膝向前下蹲，膝正反绕环，&lt;/li&gt;
-&lt;li&gt;前屈立压腿，膝跪地压胯关节，&lt;/li&gt;
-&lt;li&gt;踝关节绕环，小腿绕环，绷脚背，勾脚尖，足刀&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;N.B.：心中默念，均数十下即可，有的数六下。热身要视自己的具体情况而定，天凉的时候就多做一会，如数数翻倍。&lt;/p&gt;
-
-&lt;h2 id=&#34;基本技法:799eb8fd84626613d4b89a4d9d09877b&#34;&gt;基本技法&lt;/h2&gt;
-
-&lt;p&gt;基本手技：&lt;/p&gt;
-
-&lt;p&gt;三站立（正拳胃部头部击打；正拳下巴击打；正面反拳，侧面反拳，下段反拳；上，中外，中内，下格挡）；&lt;/p&gt;
-
-&lt;p&gt;横面马步（灌手，正反手刀，手刀锁骨打，横扫肘，下砸肘，下击拳）；&lt;/p&gt;
-
-&lt;p&gt;基本足技：&lt;/p&gt;
-
-&lt;p&gt;平行站立、双手护下巴（提膝，弹踢，前踢，后踢，下中上旋踢，关节踢）&lt;/p&gt;
-
-&lt;p&gt;目前发现的最完善的视频是：&lt;a href=&#34;http://v.youku.com/v_show/id_XMzE5MTAwNDY4.html?from=s1.8-1-1.2&#34;&gt;极真空手道基本动作&lt;/a&gt;。供参考。多体会、揣摩、感受、默想，即使没有在身体实践，也要在脑海中走几遍。&lt;/p&gt;
-
-&lt;p&gt;前屈立双手下格挡（直腿上踢、外摆踢、里合踢）&lt;/p&gt;
-
-&lt;h2 id=&#34;柔韧拉伸:799eb8fd84626613d4b89a4d9d09877b&#34;&gt;柔韧拉伸&lt;/h2&gt;
-
-&lt;p&gt;下叉、短板桥（下腰）、这里有几个不知道该怎么称呼，如跪坐后背着地、立足跪坐、双脚对立尝试头着脚尖、坐下双腿打开尽量胸着地。&lt;/p&gt;
-
-&lt;h2 id=&#34;型:799eb8fd84626613d4b89a4d9d09877b&#34;&gt;型&lt;/h2&gt;
-
-&lt;p&gt;太极手技2、&lt;a href=&#34;http://v.youku.com/v_show/id_XNjM2MDA0MzQ0.html?from=s1.8-1-1.2&#34;&gt;太极手技3&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://v.youku.com/v_show/id_XNzM2MTg0MTc2.html?from=s1.8-1-1.2&#34;&gt;太极足技1&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;实战技:799eb8fd84626613d4b89a4d9d09877b&#34;&gt;实战技&lt;/h2&gt;
-
-&lt;p&gt;格斗式（后旋踢、前膝前击、移动左右直拳、旋踢）&lt;/p&gt;
-
-&lt;h2 id=&#34;体能:799eb8fd84626613d4b89a4d9d09877b&#34;&gt;体能&lt;/h2&gt;
-
-&lt;p&gt;拳立俯卧撑（与肩同宽、双肘夹紧肋部）25 x 2 ，需在考试前升到 30&lt;/p&gt;
-
-&lt;p&gt;掌力俯卧撑 （手臂成直角、锻炼胸大肌）20 x 2&lt;/p&gt;
-
-&lt;p&gt;卷足仰卧起坐  30 x 2 、空中蹬车 30 x 2&lt;/p&gt;
-
-&lt;p&gt;深蹲踢（前踢、旋踢） 24 x 2 ，需在考试前升到 30&lt;/p&gt;
-
-&lt;p&gt;平衡撑 1分50秒&lt;/p&gt;
-
-&lt;p&gt;跪礼 5分钟，尽可能的让整个世界慢下来。&lt;/p&gt;
 </description>
     </item>
     

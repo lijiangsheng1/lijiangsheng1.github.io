@@ -7,8 +7,96 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 03 Jun 2016 08:59:01 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jun 2016 09:47:44 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.4）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_4/</link>
+      <pubDate>Sat, 04 Jun 2016 09:47:44 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_4/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;owncloud-关闭美国的办公室-被-nextcloud-羞辱:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;OwnCloud 关闭美国的办公室，被 Nextcloud 羞辱&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/owncloud-closes-us-office/&#34;&gt;OwnCloud closes US office, blames Nextcloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://fortune.com/2016/06/03/what-happened-to-owncloud/&#34;&gt;Why Did File Sharing Startup OwnCloud Shut Down?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;事情越来越引起人们的关注了，甚至连财富这样的媒体都开始报道了。技术人员集体跳槽，是否和基金会成立、商业模式、开源的保留程度等等因素有关，我们不得而知。但是NextCloud的成立距离其创始人从OwnCloud离职的仅仅两个月的时间，确实有些蹊跷。&lt;/p&gt;
+
+&lt;p&gt;我唯一关注这起事件的原因是因为 OwnCloud 走得是开源的背书。一度都走到成立基金会的地步了，还是闹到了另起炉灶的地步。当年 Node.js 因为基金会的成立的解决了此问题。而OwnCloud 却没有逃脱此命运。正如《财富》所指出的“In English, the idea is to make sure that the open-source software is not under the sway of one company or any particular person.” 其实本土目前的两家走开源路线的公司，如&lt;a href=&#34;http://pingcap.com&#34;&gt;PingCAP&lt;/a&gt;和&lt;a href=&#34;http://hyper.sh&#34;&gt;Hyper_&lt;/a&gt;，创始人的观念仍然停留在“工厂模式”下，分裂、碎片化、无法赚钱等问题会接踵而至。他们在犹豫？还是在大环境下无法做到自觉？不得而知，但是OwnCloud 的例子，可以给他们一点启发。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;著名企业家-互联网技术专家-dan-kohn-被任命为云原生计算基金会的执行总监:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;著名企业家、互联网技术专家 Dan Kohn 被任命为云原生计算基金会的执行总监&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/serial-entrepreneur-internet-technologist-dan-kohn-named-executive-director-cloud-native-2131130.htm&#34;&gt;Serial Entrepreneur and Internet Technologist Dan Kohn Named Executive Director of Cloud Native Computing Foundation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;前两天有 Brian Behlendorf，出任 Linux 基金会对于区块链项目的主席，今又有 Dan 出认CNCF 的执行总监。而这二者均是目前来说最为炙手可热的项目。正如《Open by Design》所言，这是一个开放治理下的世界。Linux 基金会明显是在布局，旗下已有30多个项目，超过一半的为举足轻重的基础设施项目。未来属于开源，更加的属于开放治理！拭目以待！&lt;/p&gt;
+
+&lt;p&gt;本土的做法就是成立各种联盟：中国开源云联盟，中国容器联盟。挂靠在电子产业协会，以看似漫不经心的态度来对待这些。伺机而动！该如何处理和看待这些，是我到现在没有完全理解的部分。它们究竟在干什么？为了联盟而联盟？还是未了特色而特色？还是让国际上的这些NGO拜倒在她们的石榴裙下？最近加入了一个他们的微信群，就是一帮公司的销售或所谓的市场在那里乱侃，和标准无关。和生意、技术更无关。这是我难以理解的世界。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;linux-基金会声明启动-2016年度-lift-奖学金计划:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;Linux 基金会声明启动 2016年度 LiFT 奖学金计划&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://betanews.com/2016/06/02/linux-foundation-2016-lift-scholarship-program/&#34;&gt;The Linux Foundation announces the 2016 LiFT Scholarship Program &amp;ndash; here&amp;rsquo;s how to apply&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Linux 基金会真的开始动起来了，野心渐渐的露出了水面，大概是OpenStack 这几年走的过去迅猛，让他们开始觉醒了，NGO 也可以玩的很大。也可以玩抢夺未来的高地。&lt;/p&gt;
+
+&lt;p&gt;看到这样的新闻，我忍不住又要吐槽。你们那些个开放联盟，什么电子协会的，或者说普华开源社区之类的，搞过类似的活动吗？不仅能得到好的名声，还能为自己培养人才。唉。有的时候，我也想和大多数“码农”一样，反正有饭吃，低头写代码就好了。这事我管不了，徒增烦恼而已。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源云让计算机创建下一个蒙娜丽莎成为可能:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;开源云让计算机创建下一个蒙娜丽莎成为可能&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.artsy.net/article/artsy-editorial-open-source-could-let-computers-create-the-next-mona-lisa&#34;&gt;Open Source Could Let Computers Create the Next Mona Lisa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这篇文章讲述了人工智能在艺术创作方面的过去和现在。并乐观的展望了未来！包括从学术界走出，到现在各大IT企业角逐到局面。Google、Facebook、Amazon、Microsoft、IBM等等都在此领域发力。无疑开源＋云计算，以及让所有艺术家民主、平等的参与，是所有这一切落地的现实基础。&lt;/p&gt;
+
+&lt;p&gt;大力推荐阅读此文。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;关于开放组织的5个值得分享的故事:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;关于开放组织的5个值得分享的故事&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/year-stories-about-open-organizations-these-were-most-read&#34;&gt;5 most-read stories about open organizations over the past year&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;《Open Organization》这本书对我的影响是什么？再加上《合一的力量》了呢？一个扁平化的组织、一个团队成员均是自我激励性的、有着共同目标的团队。可惜，现实将我击的粉碎。在本土，严重缺乏培养出这样的成员的文化土壤，甚至包括我自己有这样的想法。&lt;/p&gt;
+
+&lt;p&gt;除非那天让我遇到这样的一个人，否则我非常的难易相信真的有这样的组织存在，别给我故事，给我真实！但是，读读还是很让人神往的！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;建立开放社区的8步法:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;建立开放社区的8步法&lt;/h3&gt;
+
+&lt;p&gt;原文链接: &lt;a href=&#34;https://opensource.com/open-organization/16/6/8-steps-more-open-communications&#34;&gt;8 steps to more open communications&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源，和建立响应的社区是密切相关的，二者是相辅相成的。缺了任何一方，开源就难以成功。opensource.com 上关于建立社区的文章渐渐的多了起来，也是大家都在探索和寻求答案的见证。好吧，谈到本土，我就有种绝望的感觉。大家除了钱之外，不会对任何事物产生兴趣。现在的年轻人会好点？不得而知，希望有机会见识一下。但是方法论还是应该学习一下的，人类毕竟除了各自的文化迥异之外，还有一些共同的东西的，比如希望得到人们的尊重和认可。所以该学习还是得学习。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.3）</title>
@@ -1639,7 +1727,17 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 
 &lt;h4 id=&#34;开放容器促进会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放容器促进会&lt;/h4&gt;
 
+&lt;p&gt;我们将会在开放云的合作一章更加详细的谈论开放容器促进会（OCI），但这里必须提及的一点是OCI是托管在 Linux 基金会合作项目之下的。在2015年6月，OCI 的组建就是为了让应用程序的容器化在两个竞争的运行层面标准化和协调性。众所周知，Linux 容器在过去的几年里可谓是非常火的技术，这一切都得归功于 Docker 在应用程序容器运行时和生态环境的构建和实现。但是这里面，有一个现象值得大家注意下，那就是 Docker 是近年来才出现，并段时间崛起的技术，但是称之为 Linux 的核心技术之一的 “容器”已经出现了十多年了。随着容器技术的不断升温，Docker 也开始有了一些批评的声音甚至出现了强有力的竞争者。在2014年12月，CoreOS，一直以来都是 Docker 的盟友，发布了容器的运行时环境——Rocket。OCI 的设立就是协调这两个竞争者的规范和实现，即 Docker 所提交的 &lt;strong&gt;libcontainer&lt;/strong&gt; ，也就是 Docker 的核心容器运行时组件；和 一个新的用户运行时环境，名称叫做 &lt;strong&gt;runC&lt;/strong&gt; ，基于规范的实现，是 OCI 治理和控制的。&lt;/p&gt;
+
+&lt;p&gt;目前来说，OCI 仍然处于形成阶段，但是不论是 CoreOS 还是 Docker，（甚至是 Google、红帽、IBM、华为、以及其它）均是最初的创始成员。目标都是为最终用户建立一个可移植的、标准化的运行时的规范实现，共同构建容器创新的生态环境。&lt;/p&gt;
+
 &lt;h4 id=&#34;node-js-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Node.js 基金会&lt;/h4&gt;
+
+&lt;p&gt;在2009年由 Ryan Dahl 和他在 Joyent 的工程师团队所发明的 Node.js，在短短的几年证明了这是一个用于 web 应用程序开发的服务端，基于 JavaScripts 语言实现。Node.js 从诞生之日起就是开源的项目，许可证协议采用的是 MIT 许可证。Joyent 引领此项目的开发好多年，从最初的仅支持 Linux 平台下，最后移植到微软的 Windows、Apple 的 OS X、乃至于如 IBM Power 和 Z 系列的架构平台之上。在2014年末，Joyent 的治理下开始出现了一些分歧，有一部分工程师开始以全新的分支——io.js，这对于 Node.js 可谓是一件不好的事情，io.js 的发布周期短时间就拥有了更多的用户。&lt;/p&gt;
+
+&lt;p&gt;在2015年2月的 Node.js 研讨会上，有人提议需要一个厂商中立的基金会。没过多久，在那个夏天来临时，Node.js 和 io.js 两个项目宣布合并，成立 Node.js 基金会，放在 Linux 基金会合作项目之下。就这点来说，Node.js 基金会可谓是开放治理模式的成功典范，是厂商中立的基金会实现。和其它我们讨论到的其它基金会相类似，它会采用业务（董事会）委员会混合技术指导委员会的方式，而后者则是技术决策的精英主义。&lt;/p&gt;
+
+&lt;p&gt;node.js 基金会有6位铂金创始，其中也包括了 node.js 的创始者——Joyent，以及16位黄金和白银成员。Node.js 基金会致力于为其开发提供向导，希望node.js 能够在迅猛的发展道路上稳步前进。&lt;/p&gt;
 
 &lt;h4 id=&#34;云原生计算基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;云原生计算基金会&lt;/h4&gt;
 
@@ -1913,114 +2011,6 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 &lt;p&gt;其实，类似这样的大事件式的历史叙事方式，我是非常的不喜欢。而且容易被误解。这要回归到我们中学所学的历史课，尽挑大事说，忽略了每一个活生生的个人史。导致多数人都有宏观视野，这一点可以在夏天的街边地摊，随意找个只要有三、两人聚在一起，你在旁边聆听即可，尽是皇帝视野、宏观叙事、人多无力、历朝历代等等。之所以翻译这篇，是因为看到作者是一名历史学家，竟然写了一本关于自由和开源软件的历史书，只希望从他的脉络中找到一些什么。关于 Christopher Tozzi 的文章，我可能还会翻译几篇。若是能拜读了他的书，他的历史叙事又不同于列举里程碑的话，我希望能够翻译，从中学习一些文化、技术、沟通、管理等细节。&lt;/p&gt;
 
 &lt;p&gt;N.B.：似乎有微博上&lt;a href=&#34;http://weibo.com/u/5242649983&#34;&gt;湾区日报&lt;/a&gt;的风格。这究竟是一种什么样的现象？值得深思！有机会的话，应专门写一篇文章解释为什么这么干。不用管这个世界，表达出自己的内心即可。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>为什么说你的员工应该去为开源做贡献</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/why_employees_should_be_contributing_to_open_source/</link>
-      <pubDate>Fri, 06 May 2016 18:33:47 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/why_employees_should_be_contributing_to_open_source/</guid>
-      <description>
-
-&lt;p&gt;英文原文：&lt;a href=&#34;https://blog.codeship.com/why-your-employees-should-be-contributing-to-open-source/&#34;&gt;Why Your Employees Should Be Contributing to Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;译者写在前面的话:fe751cbe31a214529158a041c9ece16b&#34;&gt;译者写在前面的话&lt;/h2&gt;
-
-&lt;p&gt;就&lt;a href=&#34;http://lijiangsheng1.github.io/about/&#34;&gt;我来说&lt;/a&gt;，在职业生涯中，就说服老板参与到开源社区中是非常失败的，甚至于最后均是不欢而散。那么如果当初我也能像作者一样，以平和的心态、严谨的数据、耐心的说服，结果可能会好点。年少轻狂之时，只注重自己的内心世界，认为不懂的可以通过努力去获取，而忘却了这个世界的复杂，他人是否愿意学习？他人也是有许多经历和接受了许多文化、意识形态的。改变自己可以，想要改变别人是不可能的，哪怕是影响都微乎其微。现在的我，看人要谨慎许多，在头脑充血的那一刻，尽可能的去做深呼吸。然后，再以理服人。&lt;/p&gt;
-
-&lt;p&gt;相信这篇文章对于每个热爱开源，对开源充满美好憧憬的年轻人，依然还在为他人打工的有志者。说服自己的老板、或者是为开源尽一份力。是有一定用处的。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;多数老板是不乐意员工在工作时间去为开源做任何的贡献的，他们想不明白为外部的开源项目做贡献如何能够让他们自身以及他们的客户受益？&lt;/p&gt;
-
-&lt;p&gt;只有为数不多的公司会鼓励他们的开发团队去为开源做贡献。所以有很多做开源项目的开发者都是在白天下班之后，但是这样就会经常的熬夜，会对健康造成严重损害的。 这样的话，就将很大一部分优秀的开发者们排除在外了，如有了孩子的父母、或者是家里有正在上学的孩子，这些开发者们就没有时间参与到开源项目中，即使是对所有人都有好处：他自己、其老板、乃至他的客户。&lt;/p&gt;
-
-&lt;p&gt;非常遗憾，老板、员工、以及客户，都没有意识到自己错过的机会。&lt;/p&gt;
-
-&lt;p&gt;多数雇主或老板仍然将软件的开发视为和在墙上涂鸦是一样的。&lt;strong&gt;如果我增加更多的工人，那么完成工作任务的时间就会线性的减少。&lt;/strong&gt; 在某种程度上，这样做是对的，但是它并不适用于软件项目。打造一款软件产品，在整个技术栈区分多个不同的层次，每个层次都需要不同的技术。驾驭复杂的软件取决于团队掌握的知识以及团队成员的相互协作。&lt;/p&gt;
-
-&lt;p&gt;如果一些经理们对于自己的雇员们在日常工作时间为开源做贡献有所担心的话，他们一定是这么考虑的：“为什么我们花钱雇佣工人为他家的墙上涂鸦了呢？” 本文试图解决经理们的这一疑惑。将探讨为什么说让员工们为开源做贡献好处多多－－即使是在日常的工作时间去做这件事。&lt;/p&gt;
-
-&lt;h2 id=&#34;开源可以留住员工:fe751cbe31a214529158a041c9ece16b&#34;&gt;开源可以留住员工&lt;/h2&gt;
-
-&lt;p&gt;开源是一个学习的绝佳之地。每个项目都有各自的结构、工具、特点、和流程。参与到开源项目是最佳学习其内部机理的方式。&lt;/p&gt;
-
-&lt;p&gt;他们使用哪款工具？其它团队是什么样的流程？通过参与开源，工程师们可以深入了解其它的高端项目，而不是等待某些许可方可进行参与。&lt;/p&gt;
-
-&lt;h2 id=&#34;开源对团队有好处:fe751cbe31a214529158a041c9ece16b&#34;&gt;开源对团队有好处&lt;/h2&gt;
-
-&lt;p&gt;如今，很多的商业项目都严重依赖于开源软件。其中一些 Bug 和特殊用例只能在大型的、巨大流量的部署中发生。在这样的情况下，我们需要专家能够及时的修复问题，问题根源的分析只有让对所使用的技术和程序内部有深刻了解的团队去解决，才能更快。他们毋需依赖其它项目的维护者，就可以自行去解决问题。&lt;/p&gt;
-
-&lt;p&gt;一位贡献者（代码提交者）本身就是解决问题的能手，若是能够在团队内部，做到日常的回答其他工程师的小问题，做到为他人提供指导，这样整个团队就可加速成长，进入一个正循环的高效团队，从公司的角度来讲，可提升业务。&lt;/p&gt;
-
-&lt;h2 id=&#34;有助于员工的培训发展:fe751cbe31a214529158a041c9ece16b&#34;&gt;有助于员工的培训发展&lt;/h2&gt;
-
-&lt;p&gt;每家公司都希望雇佣到市场上那些受过最好的教育、拥有高超技能的工程师。但是现实是非常困难的，大多数的时候是需要自己来培养优秀的工程师的。正如我在上面所提到的，那些参与多个开源项目贡献的卓越的工程师是不会换老板的，他们在开源项目所锻炼出来的技能、知识、以及经验要比仅仅是自己公司那点狭小的空间所积累的要快太多了。开源可以有效的增长工程师的技术和领导力，这是大家都有目共睹的。&lt;/p&gt;
-
-&lt;h2 id=&#34;开源可以作为一个很好的演练场地:fe751cbe31a214529158a041c9ece16b&#34;&gt;开源可以作为一个很好的演练场地&lt;/h2&gt;
-
-&lt;p&gt;一些开发者们拥有自己的、小规模的演练场地，还有一些开发者为大型项目贡献目的“仅仅是为了好玩”，无论是那种情况，对于绝大多数的工程师们来说，开源是他们演练场地的不二之选。那么找一个演练场地究竟有何好处了呢？&lt;/p&gt;
-
-&lt;p&gt;演练场地是尝试新的概念和模式的最佳场地。而往往这个演练场地是开放源代码的话，就可以很容易的获得高手们的反馈，代码就可以在各种沟通的地方，如小型聚会、大型研讨会、乃至在线IRC等。&lt;/p&gt;
-
-&lt;p&gt;来自其它公司的工程师带来不同的背景以及用例，通过这种方式，他们可以获得更深层次的洞见。多样化的组织往往会比一个公司内部单一的团队能够达到更好的效果。&lt;/p&gt;
-
-&lt;h2 id=&#34;开源可以激励士气:fe751cbe31a214529158a041c9ece16b&#34;&gt;开源可以激励士气&lt;/h2&gt;
-
-&lt;p&gt;公司让其员工在工作时间参与到开源项目中，是绝对有益处的：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;我们获得了学习和发展新技能的时间。&lt;/li&gt;
-&lt;li&gt;我们出色的工作，终将会被更广泛的其它公司或个人所了解，而不仅仅限于自己的内部。&lt;/li&gt;
-&lt;li&gt;我们可以很容易的和其它公司的工程师们一起讨论代码、设计思路等。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;在办公时间内让工程师去参与到开源社区中，那就是这个时间段内有大量的社区开发人员们都在线。另外，在当今的竞争激烈的市场中，能够得到免费的宣传非常的不容易了。更何况还能找到优秀的人才。&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;译者注： 此处应特别针对中国的开发者，美国的开发者们依然在开源项目中的占绝大多数。所以时差的关系，中国地区的程序员们，和老板带来的挑战有多了一重障碍。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;对于每个项目都有好处:fe751cbe31a214529158a041c9ece16b&#34;&gt;对于每个项目都有好处&lt;/h2&gt;
-
-&lt;p&gt;一些工程师为某深奥的编程语言实现解析器的功能，原因只是为了好玩。还有一些工程师，实现了一个让人们画 8-bit 的艺术画作的网站。每一位参与到开源的人，都会被开源的积极因素感染以及间接的影响。只是在刚参与的时候，表面上看起来这些积极的影响不够明显罢了。&lt;/p&gt;
-
-&lt;p&gt;我以我的工作为例和大家分享一下，我的工作是开发数据库以及它的管理界面。数据库拥有 HTTP API：如果你将一份文档存入到数据库，随后你可以使用一个独特的 URL 来进行访问。&lt;/p&gt;
-
-&lt;p&gt;在过去的一年里，我们收到了几份关于我们用户界面的一些的 Bug，如用户创建了文档，但是却无法使用 HTTP 来打开它们。当我们自以为解决了这个 Bug 的时候，它却又在意想不到的地方再次发生。最终找到了问题的根源，那就是产生此 Bug 是因为使用了特殊的字符，所以我们假设使用了一个错误的编码。但是，另外一个团队解决了此问题，使用16进制的RFC就可正常工作。&lt;/p&gt;
-
-&lt;p&gt;看起来似乎和我所从事的数据库没有任何关系，但是它影响到了用户，具体表现还是数据库的问题。于是我参与了另外一个开源项目：&lt;a href=&#34;https://whatwg.org/&#34;&gt;WHATWG&lt;/a&gt;，这是一个用户终端标准的编辑器。终端标准则是尝试将不同浏览器中的终端给标准化了。Web 标准可是现代web的基石。&lt;/p&gt;
-
-&lt;p&gt;这对于我本身的有关数据库的工作有何好处？好问题！当我开始做这件事的时候我并没有想过太多的益处，但是在几个星期之后，一个意想不到的效果出现了：我们又接到了同样的问题的报告，此问题是我几个星期前就创建的，而且还链接到了RFC，这次，我则为之增加了更多的细节：验证、算法、实例、 RFC 的部分以及 WHATWG 实现的笔记等。&lt;/p&gt;
-
-&lt;p&gt;一个看起来和我的工作无关的项目，但是却对我的日常工作有着频繁的、间接的影响。这很好的解释了一个完全无关的项目可以让公司产生积极的影响。&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;译者注：开源是一个具有生命力的世界，由无数的细小的项目所组成，需要以生态系统的眼光来看待。举个例子，去年爆发的 heartbleed 安全漏洞，影响的站点何止千万？但是 OpenSSL 在没有爆发之前，又有多少人关注？ Linux 所用到的库，应用基于 Linux 编写，使用到了 Linux 内核的某些功能等等不胜枚举。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;总结:fe751cbe31a214529158a041c9ece16b&#34;&gt;总结&lt;/h2&gt;
-
-&lt;p&gt;支持开源对于雇主来说是好处多多的，项目中所参与的每一位都有益处，不仅仅是指开发者，还包括客户和雇主。目前来说，依然还有很多开发者参与开源是在晚上和周末这个时间段进行的。这其实对于他们的健康来说非常的不好，而且也不可能长期这样下去。这对开源的长远发展来说不是一件好的事情。仅仅只有少数几个公司意识到了花钱雇佣开源的开发者是很有价值的，这些公司会让自己的员工全职为开源做贡献。&lt;/p&gt;
-
-&lt;p&gt;对于你来说，一个想要改变目前困境的好的办法就是去找管理层去谈谈，给他们看看这篇文章，或者是做一些幻灯片的演示。建议以一些小型的实验开始，比如说在你自己的团队设一个有几个月期限的实验，说不定公司看到诸般好处之后，会让大家利用20%的时间去直接参与到开源了呢。当然你要做到不断的提供、有理有据的反馈，尤其是管理者们比较关心的。在你的团队里要分享，无论是那些积极的，还是所谓的消极的影响。&lt;/p&gt;
-
-&lt;p&gt;我非常的肯定，长远来说积极的因素要远远多于消极的因素。管理者会看到这其中的益处的。然后会在整个公司范围内支持你的观点。这样我们就有了改变我们所为之工作的公司的机会，不用担心，我就是刚刚这么干的，而且还很成功。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;译者写在翻译完成之后:fe751cbe31a214529158a041c9ece16b&#34;&gt;译者写在翻译完成之后&lt;/h2&gt;
-
-&lt;p&gt;就国内的情况而言，不容乐观。仍然是文化的问题。大部分的雇主和中、高层经理的思路是：“哦，我花钱培养了两、三年，让其在社区混出个名堂了，然后有人高薪挖走了，公司和我付出的心血全部付之东流。” 这是一个死结，非常的难解：&lt;/p&gt;
-
-&lt;p&gt;0、面对高薪的诱惑，对硅谷文化的曲解，视职业道德为无物。另外国内的环境对于诚信、推荐信之类的机制为空白。&lt;/p&gt;
-
-&lt;p&gt;1、企业降低不了自己的身段，社会主义国企思路，对于自己员工在社区表现没有科学的考核，以及相应的激励机制。&lt;/p&gt;
-
-&lt;p&gt;另外，本文是典型的工程师思维，可能这样的话语很难让非工程师出身的高管们看懂或理解。可能加上管理和营销的角度，会更具说服力。&lt;/p&gt;
 </description>
     </item>
     
