@@ -7,8 +7,112 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 05 Jun 2016 08:11:24 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2016 10:05:26 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.7）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_7/</link>
+      <pubDate>Tue, 07 Jun 2016 10:05:26 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_7/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:e215f3d822e6af17a7a680683dbb8261&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;软件-善良以及你本人:e215f3d822e6af17a7a680683dbb8261&#34;&gt;软件、善良以及你本人&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://medium.com/built-to-adapt/software-and-kindness-and-you-a4dbd23aac30#.k98lm4ql8&#34;&gt;Software and Kindness, and You&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;每家公司都有自己特色的文化，Pivotal 这家由于 Cloud foundry 被人们熟知的公司，比较特别：善良是人类的美德，如果运用得当，可以解决很多棘手的问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开发者们创建了开源的视觉平台-能够让机器人拥有视觉识别功能:e215f3d822e6af17a7a680683dbb8261&#34;&gt;开发者们创建了开源的视觉平台，能够让机器人拥有视觉识别功能&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://tech.firstpost.com/news-analysis/developer-creates-open-source-computer-vision-platform-that-lets-machines-see-318718.html&#34;&gt;Developer creates open source computer vision platform that lets ‘machines see’&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文谈到了两个开源项目：OpenCV 和 Torch，前者是一开源计算的视觉库，后者是开源的科学计算框架。本文有两大看点，0、Google和Facebook合作的成果，能够让两大相互竞争的互联网巨头走在一起的技术。1、 “Google, Facebook and VisionLabs do not consider this a commercial project – its purpose is developing the community and its aim is long-term prospects.” 我直接引用文中的一句话，这就是开源的经济学！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/09/6554314981_7360494444_b-100614748-primary.idge.jpg&#34; alt=&#34;open source&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源的联网-顺势而为:e215f3d822e6af17a7a680683dbb8261&#34;&gt;开源的联网：顺势而为&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3078653/open-source-tools/open-source-networking-the-time-is-now.html&#34;&gt;Open source networking: The time is now&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;文中的观点和言辞蛮夸张的：&lt;strong&gt;“Vendor lock-in is dead. Proprietary specifications are dead. Closed vendor ecosystems are dead.”&lt;/strong&gt; 但是确实倒出了目前网络方面的事实，甚至云计算都瞄准了网络运营商，当然这离不开开源的项目 OpenDayLight 和 OpenNFV。&lt;/p&gt;
+
+&lt;p&gt;依然引用文中的一句话：&lt;strong&gt;“If it’s not open, and if it’s not open source, it’s not happening.”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;物联网与开源-企业界的最佳组合:e215f3d822e6af17a7a680683dbb8261&#34;&gt;物联网与开源：企业界的最佳组合&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3079055/internet-of-things/open-source-and-iot-a-match-made-for-the-enterprise.html&#34;&gt;Open source and IoT: A match made for the enterprise&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;物联网在目前的市场上的竞争可谓是白热化，相应的企业平台也走进了人们的视线。那么利用开源来增加自身的竞争力是不容小视的方法：且看利用开源的5大好处：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;快速的适应变化&lt;/li&gt;
+&lt;li&gt;可扩展&lt;/li&gt;
+&lt;li&gt;适配新的设备制造商&lt;/li&gt;
+&lt;li&gt;开发者社区&lt;/li&gt;
+&lt;li&gt;采用垂直物联网解决方案&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;推荐的5大开源项目：&lt;a href=&#34;http://www.kaaproject.org/&#34;&gt;Kaa 项目&lt;/a&gt;、&lt;a href=&#34;https://www.ge.com/digital/predix&#34;&gt;GE Predix&lt;/a&gt;、&lt;a href=&#34;http://macchina.io/&#34;&gt;Macchina.IO&lt;/a&gt;、&lt;a href=&#34;https://netbeast.co/&#34;&gt;NetBeast&lt;/a&gt;、&lt;a href=&#34;http://nodered.org/&#34;&gt;Node－Red&lt;/a&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;在家办公的技术人员保持生产效率的贴士:e215f3d822e6af17a7a680683dbb8261&#34;&gt;在家办公的技术人员保持生产效率的贴士&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/6/productivity-tips-working-home&#34;&gt;Productivity tips for working from home in tech&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这个只有对于很少的人群适用，远程办公一直是我想实践的，近来应聘PingCAP，也是被他们号称的 remoute所吸引。但是被拒之门外了。这能上升到本土文化的高度，比如自律文化和他律文化、比如工厂模式与知识经济时代的差异等。但是，互联网有时候给人的错觉就是似乎本土是比较前沿的，但是受限于当地的地域，不具有普遍性。&lt;/p&gt;
+
+&lt;p&gt;文中给出的几点建议我是蛮认同的：0、不要在你的办公桌上吃饭，该吃饭的时候最好是能到呼吸新鲜空气的地方去。1、要去运动，或保持运动的习惯。2、要去参加本地的一些用户活动。3、对于办公地点要有“狡兔三窟”的概念。4、至为重要的，和家人沟通好，处理好和他们在一起的时间。在你工作的时候，不要受到他们的干扰。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;一位领导的能力大小决定着其是否会成为组织的瓶颈:e215f3d822e6af17a7a680683dbb8261&#34;&gt;一位领导的能力大小决定着其是否会成为组织的瓶颈&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/concrete-suggestions-running-open-organization&#34;&gt;A leader&amp;rsquo;s ability is the bottleneck of any organization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一位创业者对于《开放的组织》一书的感慨和受教，绝不做自己公司的瓶颈，将决策权交给最擅长的一线人员。本文的作者还举了自己切身体会的例子。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源现在所面临的挑战-云计算-物联网以及闭源的发行版:e215f3d822e6af17a7a680683dbb8261&#34;&gt;开源现在所面临的挑战：云计算、物联网以及闭源的发行版&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/open-sources-big-challenges-today-cloud-iot-and-closed-di&#34;&gt;Open Source&amp;rsquo;s Big Challenges Today: Cloud, IoT and Closed Distributions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;又见&lt;a href=&#34;http://thevarguy.com/author/christopher-tozzi&#34;&gt;Christopher Tozzi&lt;/a&gt;的文章，我唯一关注这位仁兄的理由是他写了一本关于开源软件历史的书籍。但是他毕竟不是计算机科学相关的背景，仅仅是一名历史学家。所以做一些技术的预测和评估就显得不是他所擅长的，有些可笑，但似乎看起来还有理有据。小心，现实中你也要惕防着这些人。我建议本文的作者多读一些关于开源经济学的文章，或者是潜心的研究下技术。至少能够到GitHub或OpenHub上找寻数据来考察。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.5）</title>
@@ -1912,299 +2016,6 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 &lt;p&gt;开源绝非是仅仅将代码开放就可以的，社区的建设是至关重要的一步。以个人的经验来讲，开发者参与到社区的机会，几乎都是1:1的关系的，能力和时间较强的人可能是2或3:1，那么作为社区的角度来讲，其实也就是吸引开发者的过程。本文给出了非常宽阔的视野，来考虑社区建设的方方面面。译者还是受益匪浅的！ 相比之前对于开源的认识，总还是不够的，能力也需要提高。&lt;/p&gt;
 
 &lt;p&gt;作为一名技术出身的人，翻译本篇文章是相当吃力的。但最终在Google翻译、有道翻译的帮助下还是硬着头皮完成了。但是，萌生的念头却是，本土的 NGO 什么时候能发展出来个样子来？或者说能够开一道这样的门缝给大家？不然，国内的开源项目是发展不起来的。靠官僚来支撑，只能养肥那些腐败的人群。走国际化路线的开源，如hyper、Kylin、PingCAP等。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>精心布局的开源</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/open_by_design/</link>
-      <pubDate>Fri, 20 May 2016 19:35:45 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/open_by_design/</guid>
-      <description>
-
-&lt;h2 id=&#34;由开源和开放治理所带来的云计算的转变:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;由开源和开放治理所带来的云计算的转变&lt;/h2&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.oreilly.com/learning/open-by-design&#34;&gt;Open By Design&lt;/a&gt;，作者：&lt;a href=&#34;https://www.oreilly.com/people/6e78b-philip-estes&#34;&gt;Philip Estes&lt;/a&gt;和&lt;a href=&#34;https://www.oreilly.com/people/3ec19-doug-davis&#34;&gt;Doug Davis&lt;/a&gt;，写于2016年1月26日&lt;/p&gt;
-
-&lt;h2 id=&#34;介绍:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;介绍&lt;/h2&gt;
-
-&lt;p&gt;如果说&lt;a href=&#34;http://www.aberdeeninvestment.com/wp-content/uploads/2009/11/Why-Software-Is-Eating-The-World-8-20-111.pdf&#34;&gt;软件正在慢条斯理的将这个世界吃掉&lt;/a&gt;的话，那么我们可以毫不夸张的说开源软件正在吞噬世界。现在的开源可不像十几年前那样——几乎无人问津，现在则到处都在谈论开源（对于入门者来说，看看讲解 Linux 丰富的历史吧），据统计，无论是社区参与、代码提交行数，还是企业参与、乃至金钱的收入，都以惊人的速度上升。举个例子，在2015年8月份举办的北美 LinuxCon 会场，Linux 基金会介绍说，仅仅是旗下的子项目就有六千四百万行代码的提交，这并没有包括 Linux 本身！这些提交来自成百上千的独立的贡献者，从学生到服务于公司的工程师，据粗略的估价，这些代码的软件是已经超过50多亿美元的项目。&lt;/p&gt;
-
-&lt;p&gt;虽然目前开源已经深入人心，但是我们这里要探讨的更加的耐人寻味，因为开源已经不再仅仅是指传统意义上的将代码仓库公开访问，以及以某种开源许可证来分发。开源还意味着由开放治理和合作基金会的管理，使得来自世界各地的开发人员能够协同起来，一起解决来自围绕云计算的挑战：从基础设施服务，到平台、应用的打包，乃至日益扩展的 Web 产品的交付和运维。&lt;/p&gt;
-
-&lt;p&gt;这场开源的革命改变了人们的看法，也让企业开始思考自己的软件产品应该如何开发，尤其是企业为其用户提供云计算的解决方案时，这一影响更加的凸显。我们发现在这个新的开放的时代，它本身就是在培养一种开放的思维以及开放的合作，目标人群是那些在自己的企业中已经习惯于封闭开发的拥有丰富经验的开发者们，而且，我们现在越来越多的软件的设计使用开放的原则，就云计算具体来说，企业传统的做法就是“自己滚起来”。我们称这个新的时代为：精心布局的开源时代。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://d3tdunqjn7n0wj.cloudfront.net/1440x960/openbydesign_73811171-944159280e45ed27a82498fca52eb9ca.jpg&#34; alt=&#34;window&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;开源-历史回顾:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开源：历史回顾&lt;/h2&gt;
-
-&lt;h3 id=&#34;开源是什么:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开源是什么？&lt;/h3&gt;
-
-&lt;p&gt;为了能够充分的讨论开源这个主题，我们首先需要做的是先澄清此一名词的概念。首先我们会定义一个基准，然后，我们回顾开源的历史，它是如何出现的？为什么会出现？在此过程，我们会遵循在多个行业的开发过程和软件领域中，以成熟的、可行的、有一定价值的组件来说明问题。&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;N.B.: Open 这个词，确实是最近几年变化非常大的一个词，近来还读了另外一篇文章&lt;a href=&#34;http://firstmonday.org/ojs/index.php/fm/article/view/6360/5460&#34;&gt;Fifty shades of open&lt;/a&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;首先，开放源代码促进会的&lt;a href=&#34;http://opensource.org/definition&#34;&gt;开源的十个定义&lt;/a&gt;对于我们理解起开源是非常有意义的。其中一个至为重要的真相就是说能够访问源代码是必要的！但是仅仅是源代码开放就说它是开源软件是远远不够的。正如开源促进会所澄清的，能够访问源代码仅仅是入门级，需要进一步的能够再次分发软件，－原有的和修改过的－以及删除了一些代码的情况所造成的不同，乃至于不同的人们，如用户和开发者。最有价值的或者是一文不值的开源项目在多个方面都会有摩擦，如代码访问、代码共享、以及自由的使用和分发，允许任何人和任何组织去轻易使用和修改。&lt;/p&gt;
-
-&lt;p&gt;这就是 OSI 的定义所强调的一个关键的点。虽然有非常多的可用的开源项目，只是简单的将源代码放在了互联网上，其实这是远远不够的。特别注意的一点就是，很多的开源项目所使用的许可证使得很多的商业公司是无法参与进去的。这么做的后果就是限制了一些开发者，因此，项目就需要更长时间来获得增长乃至成功。举例，某个项目要求所有基于其下的源代码也必须再开源，这就意味着此许可证强制商业公司所开发的增值（可能是商业化的）必须是是自由可用的。对于一部分公司来说，显然是接受不了这样的许可证的。那些最为成功的开源项目都是实现了各式各样的人们来参与到项目中来，并且会鼓励采用贡献者到技术，而不是去强制限制什么。&lt;/p&gt;
-
-&lt;p&gt;除了能够访问到软件的源代码以及有权利去修改它之外，其实开源项目真正的价值并非代码库本身，开源项目真正的价值在于能够在更加广阔的范围很多人为了同样的目标一起协作形成的社区。一位形单影只的开发者，即使是一家单一的公司，做了一开源项目，或许还有点实际的用处的，但若是没有更多的参与者来改进他的代码库的话，项目很快就会变黄。众人抬柴火焰高，有更多的人手来投入时间和资源来让软件更好的测试、更好的文档、更加灵活的处理错误、添加更多的功能，从而满足用户的需求。原作者可能没有注意到全部，但是开源真正的力量在于感兴趣的人们花时间和专业技能来共同完善它，使之更快的成熟可用，甚至有些功能会超越原作者的意料。&lt;/p&gt;
-
-&lt;h3 id=&#34;大众化和商业化:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;大众化和商业化&lt;/h3&gt;
-
-&lt;p&gt;虽然我们可以肯定的说，现代的 GNU／Linux 和自由软件基金会是推动着开源时代来临的力量来源，从而让软件从受企业青睐、各种专利、以及过去的闭源的专有系统的反面的转变。但还是有必要回顾一下开源软件在整个计算机历史的时间线上的位置的。&lt;/p&gt;
-
-&lt;p&gt;在20世纪5、60年代，很多早期的计算系统都是来自于IBM、DEC、以及其它一些学术界、研究机构合作开发的，甚至还有一些政府部门的参与。这就导致最初的操作系统软件和其它关键的软件组件假设是可以在用户和开发者之间进行共享的资源，在计算机的历史上，就这一点可谓是惊人的重复。早期的计算机系统供应商交付他们的硬件的时候，会顺带将全部的软件的源代码一起交付，这其中包括了可能需要修改以及构建软件的工具。拿 IBM 701 大型机来说吧，这种特殊的源代码共享的方式，直接导致 SHARE 用户组以及研讨会持续了几十年！SHARE 是一个充满活力的社区，系统程序员和用户一起分享他们各自所遇到的问题，然后共享代码，即那些修复问题之后增加或变更的代码。&lt;/p&gt;
-
-&lt;p&gt;那个时候没有高带宽网络的普及，让人们能够在全世界范围内轻松的沟通，几十年以后才实现了。但是，这就是现在开源运动的根源：一个协作的社区，共享解决方案、源代码、以及专业的知识，而无须考虑专利权、许可收入、各种金钱的收入。&lt;/p&gt;
-
-&lt;p&gt;好吧，让我们还是快进吧，GNU 项目的创立以及自由软件的想法从 Richard Stallman 头脑中出现的时间是20世界80年代，没有过多久，Linus Torvalds 在1991年开始了 Linux 内核的撰写。这些&lt;a href=&#34;http://lijiangsheng1.github.io/posts/opensource/milestones_in_free_and_open_source_software_history/&#34;&gt;里程碑的事件&lt;/a&gt;，究其原因，有连接全球的越来越方便的网络、通过电子邮件来进行大量的沟通、早期的原始网站、放置代码仓库的 FTP 服务器，所有的这些组合在一起，促使新的开发者们加入到开源运动的大潮中来。Linux 和 GNU 项目的各种组件为开源活动提供自由的底层，参与到开源所需要的所有的必要的工具——编译器、编辑器、网络客户端、以及脚本语言，都可以在一个单一的自由使用的操作系统中获得，这一明显的降低门槛的现象，导致只要拥有一台个人电脑就可以加入到开源的事业中来。&lt;/p&gt;
-
-&lt;p&gt;就在90年代中期众多的参与者加入进来之后不久，此草根的开源运动中开始出现了一些尝试盈利的商业公司，如—— RedHat、SuSE、VA Linux、Netscape（很快变为 Mozilla）、以及 MySQL AB等等。不仅仅是这些新成立的开源公司，而且那些大型的企业很快也看到了开源开发模式的价值，并且也积极的参与到开源社区中来，并且鼓励员工全职为“上游”做开源的工作。IBM 就是在早期采用这一策略的大公司之一：在1998年成立了 IBM Linux 技术中心，雇佣 Linux 内核专家，以及培养内部员工积极的参与到 Linux 内核和其它上游的项目中，目标是让 Linux 能够在所有的硬件类型上运行，且能够支撑IBM 中间件产品，IBM 专门为其下受欢迎的企业级产品—— DB2 和 WebSphere 开发了 Linux 的版本，甚至是过去专门面向大型机的软件如 CICS 和 MQSeries。更多的大型企业也纷纷效仿：Oracle、HP、SAP、Intel、以及其它公司也开始直接支持 Linux，让他们等软、硬件开始支持 Linux 操作系统。开源不再仅仅是自由软件运动的“次文化的产物了”（因为他们有时会被人嘲笑）；它现在已经壮大，是几十亿的市场了。&lt;/p&gt;
-
-&lt;p&gt;相比于早期的企业参与到开源的那些日子，人们使用开源软件和专有软件或解决方案的混合，是一个从最初的忐忑不安到慢慢的适应的过程。但是在今天，你很难找到没有使用开源软件的地方，从移动设备、到嵌入式控制系统、再到企业级数据中心解决方案，开源软件的大众化和商业化的浪潮在我们写这篇文章的时候仍然在加速发展。这一点在云计算更加显得特别，Linux 操作系统让 web 扩展的计算资源成为可能，很多的开源项目也是云计算的基石——从 Hypervisor 到基础设施管理，再到部署，乃至应用程序层的框架。这些项目以及其背后的社区都是响当当的角色。其实，它们之中多数是通过基金会的所创建的开放治理社区。但是，在我们要谈开放治理之前，我们还需要交代一件事，那就是开源将业界瓦解的历史。&lt;/p&gt;
-
-&lt;h3 id=&#34;瓦解:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;瓦解&lt;/h3&gt;
-
-&lt;p&gt;不管它们是否能够理解，当下大多数的消费者都在使用开源软件。即使消费者仅有一点点的技术意识，也会在不知不觉中受益于开源。这些最终用户获益的最大的来源就是通过面向消费者的设备实现的，从 GPS 单元、到家庭无线路由器、再到诸如 Roku 和 Chromecast 这样的流设备。作为开源项目最好的案例－Android ，每天全球有几十亿用户通过智能电话和平板电脑在使用它。即使是在个人电脑上的商业操作系统之中，人们也在使用诸如 Firefox 和 Chrome 这样的开源项目，而且是与日俱增。让我们从个人用户往后推点，看看托管供应商，Apache web 服务仍然是 web 服务器的老大，尽管现在有了新的竞争对手－Nginx，但是 Nginx 依然一款开源的项目。在 Web 的内容方面，我们必须得提一下非常流行的内容管理系统 WorkPress，开源的内容管理平台，每天承载着上百万的博客提交和撰写，其中多数的人们对于平台之后运行的开源一无所知。&lt;/p&gt;
-
-&lt;p&gt;基于这样一个常识－开源软件几乎渗透于软、硬件的各个系统的层次！让我们回顾一下在过去的15年，开源是如何逐个瓦解各个关键领域的。&lt;/p&gt;
-
-&lt;h3 id=&#34;服务器操作系统:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;服务器操作系统&lt;/h3&gt;
-
-&lt;p&gt;在 Linux 到来之前，服务器操作系统是被 Windows 和一系列的商业 Unix 所瓜分的。即使是在 Linux 刚诞生后的早期，企业界的客户仍然是不愿意采用这个羽翼未丰的操作系统，那怕它是“免费的”。当然，后来所发生的事情就是，Linux 的生态系统迅猛成长，一些公司开始提供企业级的发行版以及相应的支持，市场的份额也迅速的发生了变化。在2007年底，IDC 调查称，Linux 终于在单一季度内打破了 20亿美元的瓶颈，已经是所有服务器收入的12.7%。在2012年这个数字逼近17%，但是到了2012年第一季度，Linux 已经占据服务器市场的20.7%，这已经超过了 Unix 的18.3%：&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;在八月份举行的 Linux 基金会研讨会上，IBM 副总裁 Brad McCredie 大声疾呼，这是 Linus Torvalds 在20年前创建内核项目是绝对没有想到过的事情：&lt;/p&gt;
-
-&lt;p&gt;他说道&lt;a href=&#34;http://arstechnica.com/information-technology/2013/10/linux-is-king-nix-of-the-data-center-but-unix-may-live-on-forever/&#34;&gt;&amp;ldquo;在服务器操作系统这块市场中，Linux 已经超越了 Unix&amp;rdquo;&lt;/a&gt;！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;让我们将视野调回到超级计算机上，我们可以非常明显的看到这块从 Unix 向 Linux 的转变。如下图所示，请注意，从2000年到2010年 Linux 占有 TOP500 超级计算机的操作系统份额从不到5%增长为接近90%！非常明确的一点就是，开源的操作系统为研究者和硬件设计者们带来强大的力量－对硬件加速功能的快速创新、自我定制设备驱动程序、和加强内核技术以便快速的看到原型、得到基准、然后来提高高性能计算的负载。顺带提及一点的，就是 IBM 也在 Linux 的投入上加大力度，开始让 POWER 架构 和 z system 大型机平台支持 Linux，为其企业用户提供一体的服务，包括传统的强大的硬件以及 Linux 的灵活。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1000px-Operating_systems_used_on_top_500_supercomputers.svg.png&#34; alt=&#34;server os&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;在近期2014年底的报告中，IDC 继续报到了 Linux 每年的收入和服务器出货量。但看 Linux 2014年的世界范围内的出货量一项，Linux 的份额就达到了40%，以每年16.4%的速度增长，比它情况好的仍然是微软的 Windows，占有59％，同比下降4%。比较有趣的一点是，不看世界单看美国在2014年的出货量的话，Linux 的增长率和 Windows 是很接近的。&lt;a href=&#34;http://www.idc.com/getdoc.jsp?containerId=256350&#34;&gt;分别是48.7比50.3%&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;虽然我们看到的是 Linux 在服务器操作系统这块市场的破坏性的成长，但是伴随着它的成功，它同时也打开了其它无数的开源的市场。我们还会看到，值得尊敬和长期坚守的开源项目在世界范围的被广泛使用。&lt;/p&gt;
-
-&lt;h3 id=&#34;web-服务器:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;web 服务器&lt;/h3&gt;
-
-&lt;p&gt;在 Web 的早期阶段，对于 Web 服务器软件的选择非常的少，在公共领域由 Rob McCool 开发的 &lt;a href=&#34;http://www.ncsa.illinois.edu/&#34;&gt;NCSA&lt;/a&gt;其实是事实上的标准。在上世纪90年代中期，微软在其 Windows NT 3.51 上开始提供一款叫做互联网信息服务（IIS）的 Web 服务器，大约在同一时间，Apache 的开源 Web 服务器项目也诞生了。Apache 是基于 NCSA 服务器的基础之上开发的，因为 NCSA 在这个时候已经被叫停开发了，不再维护了。除了公开代码之外，Apache 项目的意图是希望通过有兴趣的人们一些协同开发，随后最初的8位贡献者组成了 Apache Group，没过多久就有了很多的追随者。&lt;/p&gt;
-
-&lt;p&gt;在接下来的几年里，Apache Web 服务器的开发进展良好，功能渐趋完善，可扩展的架构带来更好的移植性，而且可以跨各种 CPU 架构的硬件上以及多种操作系统中运行。在1999年，Apache 软件基金会正式成立，这让早期的开发者们有了可持续的资金收入、治理方式、以及管理和法律等方面的帮助。该基金会很快变发展了很多的开源项目，而不再仅仅是一个 web 服务器了。&lt;/p&gt;
-
-&lt;p&gt;到今天，Apache 已经是托管互联网站点最为流行的 web 服务平台了。下图展示了 Apache 在 web 服务器领域的霸主地位。它已经坚挺了20多年！&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://d3ansictanv2wj.cloudfront.net/market-share-webservers-1995-2012-9f627cffd3c77f0299b9601baec20a96.png&#34; alt=&#34;web server&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;图片来源：&lt;a href=&#34;http://news.netcraft.com/archives/2012/07/03/july-2012-web-server-survey.html&#34;&gt;Netcraft&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;既然谈到了 Web 服务器，笔者认为还是有必要再多说一点，让我们再看一张近几年 web 服务器统计的图片。可以看到在此市场中有了一个新生代的挑战者：nginx！&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://d3ansictanv2wj.cloudfront.net/market-share-top-million-webservers-2008-2015-32e5f7d0e17b60a27dd5f2ec74a3143b.png&#34; alt=&#34;nginx&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;图片来源：&lt;a href=&#34;http://news.netcraft.com/archives/2015/08/13/august-2015-web-server-survey.html&#34;&gt;Netcraft&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;限于篇幅和为了节省大家的时间，我们对于所有的流行的 web 相关开源软件项目是如何成为互联网的核心和灵魂的故事就不铺开来讲了。不过值得一提的是 Linux 和 Apache 的组合是术语 LAMP 软件栈的基础。其中 &lt;strong&gt;M&lt;/strong&gt; 表示的是非常流行的开源数据库 MySQL，而 &lt;strong&gt;P&lt;/strong&gt; 则代表的是 PHP，PHP 是一种用于编写 Web 应用程序的语言，不过最近有被另外一个新崛起的叫做 Node.js 的项目替代的趋势（Node.js 也是一款开源的项目，而且目前也成立的相应的基金会）。&lt;/p&gt;
-
-&lt;h3 id=&#34;移动设备:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;移动设备&lt;/h3&gt;
-
-&lt;p&gt;在讲述完服务器和 web 技术领域了之后，我们要进入关于移动设备的世界了。在移动设备爆炸的今天，要探究最初，就得追溯到2007年，即最早引入“智能手机”的年头。那年有两个重要的事件发生：Apple 推出基于 iOS 的 iPhone 手机 和Google Android OS 引入移动设备的诞生。到今天， iOS 和 Android 均有各自的支持者，也一直在辩论着哪个“更好”！但是结果非常的明确，那就是开源项目胜出，Android 在手机、平板、和其它设备上跨多个制造商构建了一个强大的生态系统。由于这是一个非常广阔的市场，即使是看起来 Apple 的收入更高些，但是从全球的手机交货量来说，是 Android 胜出：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://d3ansictanv2wj.cloudfront.net/idc-worldwide-smartphone-shipments-181d8f2ca015539d23ff6e7a86cede06.png&#34; alt=&#34;android&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;图片来源：&lt;a href=&#34;http://www.idc.com/getdoc.jsp?containerId=prUS25450615&#34;&gt;IDC 数据&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;鉴于 Android 相比于 iOS 更加的倾向于低成本和入门级市场，这样的数据显示，没有什么令人值得惊讶的，还有更为细粒度的数据显示，在印度、中国等主要市场，iOS 和 Android 的出货量比例是悬殊很大的。&lt;/p&gt;
-
-&lt;h3 id=&#34;虚拟化:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;虚拟化&lt;/h3&gt;
-
-&lt;p&gt;在1999年 VMware WorkStation 出现之前，软件 Hypervisor 早已存在了好多年了，但是是作为那些非常昂贵的企业服务器的一个部分存在的，即那些如 IBM、HP、以及 Sun 的大型机，工作在这里的工程师们从来没有想过有谁能够改变他们的职业生涯。然而，当 VMware WorkStation 出现以后，这一切都改变了。在任意的笔记本或个人电脑上的 Windows 系统中可以看到 BIOS 的启动！这是多么的令人惊奇和兴奋！在接下来的十多年，虚拟化都是炙手可热的技术点：不仅仅是因为它能够轻松的将原来物理服务器转换为虚拟机，使整个的应用更加的容易备份、配置和迁移，还有它能够在同一台服务器上将大型的不同的负载完全的隔离起来的全新方法，而这是数据中心运维模式的巨大转变。&lt;/p&gt;
-
-&lt;p&gt;从VMware 发布 WorkStation后，没过多久，开源社区在虚拟化这一领域也有了新的突破。Xen Hypervisor 在2003年横空出世，它为Linux提供了半虚拟化的内核；加上 QEMU 模拟器软件的搭配，形成了完善的虚拟化解决方案，而且它还在不断的发展，新的功能和特性与日俱增，如提供非 X86 架构，例如 Power 架构，如 ARM。或许读者你对老牌的公有云提供商 亚马逊 web 服务（AWS）非常的熟悉，这家公司就是在2006年开始为用户提供虚拟化的计算能力的，但是你可能不会知道，AWS 运行虚拟机使用的技术就是 Xen Hypervisor！&lt;/p&gt;
-
-&lt;p&gt;在开源界还有另外一款 Hypervisor，在十多年前，一家名叫 Qumranet 的以色列创业公司，开发了一款基于硬件虚拟化的 Hypervisor，它就是后来大名鼎鼎的 KVM。利用 Intel VT-x（或 AMD－V）的硬件辅助虚拟化技术。KVM 在2007 被合并到 Linux 内核；2008年红帽又将 Qumranet 收购；在那之后，KVM 迅速崛起，很多发行版都开始支持它，成为了主流的 Hypervisor，而且也是很多企业级 Linux 的虚拟化产品，诸如 红帽企业级虚拟化（RHEV）、IBM 的 PowerKVM等。（PowerKVM 是基于 IBM Open Power 硬件平台的，操作系统为 Linux）。&lt;/p&gt;
-
-&lt;h3 id=&#34;云计算:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;云计算&lt;/h3&gt;
-
-&lt;p&gt;软硬件的虚拟化技术的成熟是云计算之所以能出现的关键，从近几年来看，这是一个快速创新的领域，并且是各种投资市场所青睐的对象。几乎所有的厂商，包括硬件和企业 IT 均竞相在私有云、公有云、以及混合云寻找机会和作出变革。&lt;/p&gt;
-
-&lt;p&gt;尽管在云计算这块依然有专有的厂商，但是我们在今天所看到的是，有无数个开源项目在这个领域扮演着重要的角色，并展开了整个云计算的创新。而且那些专有厂商也开始往开源这边倾斜，有时候在纯粹的开源项目和专有之间并没有那么清晰的界线。正如我们看到一直在 IT 市场上扮演专有厂商的微软近来也开始拥抱 Linux，称他们在 Azure 云中可以托管 Linux 虚拟化，无独有偶，微软近来还投入人力到 Docker 这个开源项目的上游社区中，试图将容器技术带入到 Windows 服务器版和 Azure 云中。&lt;/p&gt;
-
-&lt;p&gt;从本质上说，正如 Cloud Foundry 基金会的执行总监 Sam Ramji 最近的结论：“开源已经赢了！” 现在想从任何一家云计算厂商中找到没有开源项目的组件，那真是太难了。无论是 hypervisor、托管操作系统这个层、还是应用程序的运行层、如 Node.js、PHP、Ruby、Python 等开源项目的例子。&lt;/p&gt;
-
-&lt;p&gt;我们今天所看到是开源的复兴！其中，很多围绕云计算的关键活动和创新都是通过开源社区和它们各自的基金会来进行的。有三个社区值得我们拿出来仔细的研究，因为它们是对大型的 IT 企业的 IaaS 和 PaaS 实现产生了非常大的影响，即 OpenStack、Cloud Foundry、以及 Docker，这三家均拥有庞大的开源社区力量并且仍然在快速的增长，每年所举行的研讨会都有成千上万的人参加，有着足够的聚光度，媒体纷纷报道，而且还有来自所有的大型 IT 企业作为合作伙伴和支持者。在下文的 &lt;strong&gt;开放治理：基金会模式&lt;/strong&gt; 中我们将开始探讨基金会模式作为开源振兴的关键点来切入，看它是如何影响我们前面所提到的这些社区以及历史上大型的开源项目的。&lt;/p&gt;
-
-&lt;h2 id=&#34;开放治理-基金会模式:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放治理： 基金会模式&lt;/h2&gt;
-
-&lt;h3 id=&#34;超越开源:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;超越开源&lt;/h3&gt;
-
-&lt;p&gt;我们已经看到开源不再是被孤立的集体或与世无争的了：开源的商业化和普及化引来了一些公司和大企业的投资和参与。但随之而来的问题就是，在这些项目中商业化和社区的兴趣之间的冲突日益的计划，尽管开源有太多精明的参与者。&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;在开源和商业利益的十字路口，问题日益严峻的是有关权威、真实性和文化的问题。
-&amp;ndash;&lt;a href=&#34;http://www.informationweek.com/strategic-cio/it-strategy/three-pillars-of-open-source-governance/a/d-id/1318585&#34;&gt;Nathen Harvey, Information Week&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nathen Harvey 在 &lt;strong&gt;Information Week&lt;/strong&gt; 中的文章中指出了三个问题：“项目应该由商业的赞助商驱动还是外围的贡献者驱动？商业利益是否应该凌驾于社区的意愿之上？该如何以及在哪里为商业实体和开源社区之间划上一个明确的界线？”&lt;/p&gt;
-
-&lt;p&gt;这三个问题确实是异常的尖锐，回答起来就显得非常的关键，但通过基金会的模式，开放的治理可以解决大多数的问题。&lt;/p&gt;
-
-&lt;p&gt;不过，首先还是让我们来了解一下开源软件世界的基金会的历史和崛起，这将更加的有助于我们的理解。&lt;/p&gt;
-
-&lt;h3 id=&#34;基金会的崛起:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;基金会的崛起&lt;/h3&gt;
-
-&lt;p&gt;让我们先来看几个较为著名的基金会，以及在特定社区所扮演的角色。通过对这些基金会的快速遍历，希望可以更好的理解他们，看他们如何通过开放基金会的模式来分享愿景以及是如何开展工作的。&lt;/p&gt;
-
-&lt;h4 id=&#34;apache-软件基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Apache 软件基金会&lt;/h4&gt;
-
-&lt;p&gt;Apache 基金会（ASF）创立于1999年，创立时主要的工作时围绕 Apache HTTPD web服务的项目进行开发、资金和治理的协调工作。发展到今天，ASF 已经是世界上最为著名和成功的托管开源项目的基金会之一了，在它的管辖下有超过300多个项目。ASF 通过定义法律和协作框架来为开源项目托管和协作开发铺平了道路，现在已经是基金会的标杆，很多后期的基金会都在效仿 ASF 的做法。举例来说，Apache 许可证，Apache 旗下所有的项目都是使用的 Apache 许可证，同时也是今天很多项目使用及最受欢迎的许可证之一，当然这不仅仅是指在 ASF 的托管之下的。尽管 ASF 最初是从项目 Apache web 服务起家的，但是经过了这么多年的发展，ASF 已经在项目上覆盖了很多技术，有编程语言、云计算平台、甚至还有办公效率套件。&lt;/p&gt;
-
-&lt;p&gt;ASF 采用的是精英主义路线，所有的事项都是通过受欢迎的社交技术——公开的邮件列表、WIki、代码仓库等来进行的。有一些 ASF 下所开发的项目成为了非常受欢迎的项目，甚至成为了事实上的标准，但是 ASF 本身并非是一个制定标准的组织，而且也不会像 W3C 那样的组织去专门的制定、生产标准。&lt;/p&gt;
-
-&lt;h4 id=&#34;linux-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Linux 基金会&lt;/h4&gt;
-
-&lt;p&gt;Linux 基金会在2007年成立，由原开源开发实验室（OSDL）和 自由标准协会（FSG）合并而成。目的是提供发行版中立的发展和加强 Linux 操作系统及其相关的技术。据其&lt;a href=&#34;http://www.linuxfoundation.org/about&#34;&gt;官方网站&lt;/a&gt;的说法：&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Linux 基金会旨在保护和激励自由的理念，通过 Linux 开发来加强合作。而且要分享这些理念来加强和巩固，目的是让我们生活的地方未来更加的美好。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Linux 基金会最初成立的目标之一就是为 Linux 的创始人不受任何厂商的影响保持中立，因为这些厂商可能会影响内核开发的优先级。这个规定在今天仍然生效，即使是有了诸如 Linux 内核维护人 Greg Kroah Hartman 这样受雇于 Linux 基金会的人的参与。除此之外，Linux 还旨在推动 Linux 全球会议的管理、保护 Linux  的商标、以及处理法律和许可证的问题、并且还会在规范上出一把力，如 Linux 标准工作组制定的 Linux 标准接口。&lt;/p&gt;
-
-&lt;h4 id=&#34;linux-基金会合作项目:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Linux 基金会合作项目&lt;/h4&gt;
-
-&lt;p&gt;和 ASF 类似，伴随着 Linux 基金会渐渐的成熟，也开始孵化一些和 Linux 相关的开源项目了，但是项目并不会特定于和 Linux 操作系统开发有关。通过合作项目的促进，已有的 Linux 基金会流程，管理员支持，以及可以直接利用的治理程序，可快速而有效的生成新的合作项目。近年来，Linux 基金会合作项目的名单日益渐长，其中包括开放大型机项目、汽车应用，乃至现在的云计算平台项目诸如 OpenDaylight、OPNFV，以及 Cloud Foundry 基金会、开放容器促进会、云原生计算基金会等。&lt;/p&gt;
-
-&lt;p&gt;为了能够更为透彻的了解在云计算的世界这些合作的项目基金会究竟又何特别之处，让我们来一同探究一下近来进入 Linux 基金会合作项目羽翼之下的四个子基金会。&lt;/p&gt;
-
-&lt;h4 id=&#34;cloud-foundry-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Cloud Foundry 基金会&lt;/h4&gt;
-
-&lt;p&gt;Cloud Foundry 是一款提供 PaaS（平台即服务）环境的开源项目，PaaS 是可以为开发者有效的提高交付应用的能力，而且还是跨范围的运行时环境的，从 Java 到 Node.js 再到 Python、Ruby、PHP、乃至于 基于 Go 的应用。Cloud Foundry 最初是由 VMware 发起的项目，后来交付给了有 VMware、ECM 和 通用电气 联合成立的新公司 Pivotal 软件全权接管。&lt;/p&gt;
-
-&lt;p&gt;当 Cloud Foundry 成为 Pivotal 的一个开源项目时，Pivotal 则基于开源的代码库来为客户提供免费的和商业的产品。很明显，Pivotal 是控制着项目和社区的。为了解决这样的一个单一厂商控制的局面，在2014年12月成立了 Cloud Foundry 基金会，隶属于 Linux 基金会合作项目成员，这个新的组织目的是防止有那个单一的厂商将项目控制，而且将 Cloud Foundry 转变为一个真正的开放治理模式下的项目。&lt;/p&gt;
-
-&lt;h4 id=&#34;开放容器促进会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放容器促进会&lt;/h4&gt;
-
-&lt;p&gt;我们将会在开放云的合作一章更加详细的谈论开放容器促进会（OCI），但这里必须提及的一点是OCI是托管在 Linux 基金会合作项目之下的。在2015年6月，OCI 的组建就是为了让应用程序的容器化在两个竞争的运行层面标准化和协调性。众所周知，Linux 容器在过去的几年里可谓是非常火的技术，这一切都得归功于 Docker 在应用程序容器运行时和生态环境的构建和实现。但是这里面，有一个现象值得大家注意下，那就是 Docker 是近年来才出现，并段时间崛起的技术，但是称之为 Linux 的核心技术之一的 “容器”已经出现了十多年了。随着容器技术的不断升温，Docker 也开始有了一些批评的声音甚至出现了强有力的竞争者。在2014年12月，CoreOS，一直以来都是 Docker 的盟友，发布了容器的运行时环境——Rocket。OCI 的设立就是协调这两个竞争者的规范和实现，即 Docker 所提交的 &lt;strong&gt;libcontainer&lt;/strong&gt; ，也就是 Docker 的核心容器运行时组件；和 一个新的用户运行时环境，名称叫做 &lt;strong&gt;runC&lt;/strong&gt; ，基于规范的实现，是 OCI 治理和控制的。&lt;/p&gt;
-
-&lt;p&gt;目前来说，OCI 仍然处于形成阶段，但是不论是 CoreOS 还是 Docker，（甚至是 Google、红帽、IBM、华为、以及其它）均是最初的创始成员。目标都是为最终用户建立一个可移植的、标准化的运行时的规范实现，共同构建容器创新的生态环境。&lt;/p&gt;
-
-&lt;h4 id=&#34;node-js-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Node.js 基金会&lt;/h4&gt;
-
-&lt;p&gt;在2009年由 Ryan Dahl 和他在 Joyent 的工程师团队所发明的 Node.js，在短短的几年证明了这是一个用于 web 应用程序开发的服务端，基于 JavaScripts 语言实现。Node.js 从诞生之日起就是开源的项目，许可证协议采用的是 MIT 许可证。Joyent 引领此项目的开发好多年，从最初的仅支持 Linux 平台下，最后移植到微软的 Windows、Apple 的 OS X、乃至于如 IBM Power 和 Z 系列的架构平台之上。在2014年末，Joyent 的治理下开始出现了一些分歧，有一部分工程师开始以全新的分支——io.js，这对于 Node.js 可谓是一件不好的事情，io.js 的发布周期短时间就拥有了更多的用户。&lt;/p&gt;
-
-&lt;p&gt;在2015年2月的 Node.js 研讨会上，有人提议需要一个厂商中立的基金会。没过多久，在那个夏天来临时，Node.js 和 io.js 两个项目宣布合并，成立 Node.js 基金会，放在 Linux 基金会合作项目之下。就这点来说，Node.js 基金会可谓是开放治理模式的成功典范，是厂商中立的基金会实现。和其它我们讨论到的其它基金会相类似，它会采用业务（董事会）委员会混合技术指导委员会的方式，而后者则是技术决策的精英主义。&lt;/p&gt;
-
-&lt;p&gt;node.js 基金会有6位铂金创始，其中也包括了 node.js 的创始者——Joyent，以及16位黄金和白银成员。Node.js 基金会致力于为其开发提供向导，希望node.js 能够在迅猛的发展道路上稳步前进。&lt;/p&gt;
-
-&lt;h4 id=&#34;云原生计算基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;云原生计算基金会&lt;/h4&gt;
-
-&lt;h4 id=&#34;openstack-基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;OpenStack 基金会&lt;/h4&gt;
-
-&lt;p&gt;OpenStack 项目发起时间是2010年，由 NASA 和 Rackspace 联合，目的是想为数据中心的基础设施管理创建一个可编程的、基于 API 的 IaaS（基础设施即服务）层。在2012年又有很多厂商参与进来，这时并一起创建了 OpenStack 基金会，也就是现在运营着OpenStack项目开发的法律、技术和行政治理。&lt;/p&gt;
-
-&lt;p&gt;OpenStack 项目最初是致力于计算、存储和网络资源的管理，但是随着项目的成长，包含了大范围的 IaaS 相关的项目，每个项目都有特定的名称；最初均是处于孵化，一旦成熟之后就会进入 OpenStack 官方的半年发布一次的版本。目前，2015年发布的 Liberty 版本有 16个独立的子组件交付。&lt;/p&gt;
-
-&lt;p&gt;(N.B.:译者注：翻译本文的时候，OpenStack 已经发布 Mitaka 拥有&lt;a href=&#34;https://www.openstack.org/software/project-navigator/&#34;&gt;19个子项目&lt;/a&gt; 。)&lt;/p&gt;
-
-&lt;p&gt;基金会本身由多个社区组成，有运维、有用户、也有开发者社区，以非常健壮的治理模式快速的成长着，治理模式有各自的章程，用于指导其管理和开发的流程。并由董事会和技术委员会进行监督。OpenStack 现在拥有8家白金赞助商，（对应8位董事会的代表）17家黄金赞助商，以及120家企业赞助商。&lt;/p&gt;
-
-&lt;p&gt;若是没有这样的正式的治理和开发流程，就不会有如此多的云计算供应商一起工作在 IaaS 层和 API。但是有了基金会的结构，一些公司，诸如 IBM、HP、RackSpace、Intel、以及其它共同协作来开发核心的技术，然后再去基于 OpenStack 平台之上创新和差异化自己的产品，我们会在本文后面花笔墨讲解更多的这样的合作，以及“合作竞争”的模式。&lt;/p&gt;
-
-&lt;h4 id=&#34;其它开源的基金会:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;其它开源的基金会&lt;/h4&gt;
-
-&lt;p&gt;限于篇幅和时间关系，我们无法做到涵盖所有的开源基金会，以及他们所支持的开放管理和相关的流程，以及围绕和商业的合作等等。但是，仍然有一些事值得我们为之写上他们的名字的，正式因为他们，才能够让整个的开源更加的健康。他们有：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;自由软件基金会（FSF）&lt;/li&gt;
-&lt;li&gt;Creative Commons&lt;/li&gt;
-&lt;li&gt;Eclipse 基金会&lt;/li&gt;
-&lt;li&gt;Internet Systems Consortium (ISC)&lt;/li&gt;
-&lt;li&gt;Mozilla 基金会&lt;/li&gt;
-&lt;li&gt;开源促进会（OSI）&lt;/li&gt;
-&lt;li&gt;软件自由法律中心（SFLC）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;还有我们无法在这里一一列出的，他们都在相应的开源项目和促进中扮演着各自的角色，尤其是在商业和独立兴趣之间的平衡。&lt;/p&gt;
-
-&lt;h3 id=&#34;其它-的开源-开放标准:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;“其它”的开源：开放标准&lt;/h3&gt;
-
-&lt;h3 id=&#34;开放治理-合作的重要性:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放治理：合作的重要性&lt;/h3&gt;
-
-&lt;h4 id=&#34;开放云的合作:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放云的合作&lt;/h4&gt;
-
-&lt;h4 id=&#34;通过开放治理成功合作:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;通过开放治理成功合作&lt;/h4&gt;
-
-&lt;h3 id=&#34;案例-封闭标准以及私有的api:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;案例：封闭标准以及私有的API&lt;/h3&gt;
-
-&lt;p&gt;在本小结中，我们来简要的看两个反例，这绝对是开源和开放标准治理模式的反其道而行之道典范，也是真正的开放协作的云项目失败的典型。&lt;/p&gt;
-
-&lt;h4 id=&#34;封闭标准-云基础设施管理接口:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;封闭标准：云基础设施管理接口&lt;/h4&gt;
-
-&lt;h4 id=&#34;私有-api-eucalyptus:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;私有 API：Eucalyptus&lt;/h4&gt;
-
-&lt;p&gt;Eucalyptus 是在2008年就发布的一款开源项目，那时还是第一款 IaaS 平台的开源版，在当时的一段时间，还算在云计算社区，获得了一定的发展。但是，现在再看，Eucalyptus 在社区几乎无人问津，在2014年被当时还没有拆分的惠普收购。我们无法得知为何 Eucalyptus 在 IaaS 项目中失败的全部原因，但是我们从一些事情上是可以看出一些端倪的。&lt;/p&gt;
-
-&lt;h3 id=&#34;案例-开源构建的开放云:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;案例：开源构建的开放云&lt;/h3&gt;
-
-&lt;p&gt;在看完两个有关开放协作和开放治理模式的反例之后，我们该重温一下我们在第二章所讨论的基于基金会的三大主要的云计算开源项目了，所有的这三个项目—— OpenStack、Cloud Foundry、以及 Docker——均拥有大型的社区，由众多的参与者，都是开放的生态系统，完全实现或者是正在进行中的开放治理，在现实的世界中影响力正在增长，从创业公司到大型企业，整个如此的跨度都可以提供生产就绪的云计算产品。&lt;/p&gt;
-
-&lt;h4 id=&#34;openstack:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;OpenStack&lt;/h4&gt;
-
-&lt;h4 id=&#34;cloud-foundry:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Cloud Foundry&lt;/h4&gt;
-
-&lt;h4 id=&#34;docker:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;Docker&lt;/h4&gt;
-
-&lt;p&gt;Docker 是一款最新的开源项目，更准确点说是现在站在云计算的“风口”。Docker 的核心，是容器技术，不过其重新发明了轮子，目标是替代已有的容器技术—— LXC。容器技术是一种操作系统级的虚拟化技术，在用户空间的表现是看起来像拥有一套独立的系统一样。Docker 还希望通过改进用户体验，简单而易用的来在任何地方“构建、交付、运行” 应用程序的代码，甚至想取代传统的虚拟机或者是 PaaS 的某些应用场景。如果要对过去两年的 Docker 有什么要说的话，Docker 以非常成功的方式应证了开源！近来，Enterprise Technology Research （ETR）调查了 685家的CIO们，询问他们是否有意在接下来的一年里使用 Docker 相关的付费产品，令人颇为惊奇的结果是：97%的 CIO们说会！这是 ETR 创始以来得分最高的&lt;a href=&#34;https://www.linkedin.com/pulse/docker-scores-best-ever-net-score-etr-history-thomas-delvecchio&#34;&gt;调查&lt;/a&gt;。另外一个可以佐证 Docker 的成功以及其庞大的影响力的是，亚马逊近期通过其 AWS ec2 的容器服务来支持 Docker 的API。尽管亚马逊通过其 AWS 平台支持了很多传统的开发标准，但是采取其它非标准的 API 定义尚属罕见。这就非常明确的承认了 Docker 在容器化世界的领导者地位——正如我们经常所看到的，很多厂商为了迎合 AWS 这个 IaaS 市场领导者地位，将自家的产品做的和 AWS API 兼容。&lt;/p&gt;
-
-&lt;p&gt;一如我们前面所讨论的其它的云计算的开源社区刚刚起步的时候，Docker 这个开源项目当面面临的问题，由一个单一的商业实体发起并控制，且名称都是一样的。Docker 有限责任公司在整个开源项目中是关键角色且是维护的主要力量。Docker 和我们前面讨论过的一样，拥有多个积极有利的一面，几乎所有的 Docker 的开源社区方面的工作、计划、和讨论都是在公共的论坛上进行的。Docker 的员工，也是开源社区的成员，对于新的成员表现出非常好的态度；事实上，我们的经验是他们（很多开源项目均是）到处去招徕新的成员加入，不管他们的经验如何、或是对于项目本身的了解。尽管 Docker 并非是一个理想的开源项目，因为它有着最为致命的——单一厂商的控制，其实正如我们所一路看过来的，这对于一个刚刚创立不久的项目是非常正常的。我们有理由相信，Docker 会在其下一个成熟的周期会确保项目的长期成功，包括如何治理和监督。&lt;/p&gt;
-
-&lt;p&gt;伴随着 Docker 的成功，Docker 也开始承受来自业界其它的角逐者的竞争压力，因为这是云计算应用交付的未来，只渐趋白热化的技术焦点。还有的压力是来自社区的分裂：最为显著的就是 CoreOS ，一直以来都是 Docker 的支持者，其实现了一套容器运行时环境，叫做“Rocket”，是 2014年12月发布的容器运行时规范“appc”的实现，这样公开的撕逼和社区分裂行为让 Docker 项目着实不太好过（希望不会太久）。大家最初的反应都是第一步先找一个就容器技术的开放治理组织，以及解决 Docker 运行时的核心规范。&lt;/p&gt;
-
-&lt;p&gt;在2015年6月，Docker 将其核心的容器运行时代码库贡献出来了，以 Docker 的子项目的形式出现，名称叫做“libcontainer”，以及针对开放容器促进会所要求实现的“runC”的新的容器运行时接口。关于开放容器促进会，我们将会稍后专门进行讨论。随着时间的推移，我们期望容器的开放治理和开放协作逐渐的成熟起来。这将对于商业和开源合作来进行创新和产品提供是有益处的，这对于目前对于消费者的热点技术来说，是消除他们担心厂商锁定，增强可操作性、可移植性的最好契机。&lt;/p&gt;
-
-&lt;h3 id=&#34;案例-开放基金会扩展了云的协作:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;案例：开放基金会扩展了云的协作&lt;/h3&gt;
-
-&lt;h4 id=&#34;开放容器促进会-1:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;开放容器促进会&lt;/h4&gt;
-
-&lt;h4 id=&#34;云原生计算基金会-1:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;云原生计算基金会&lt;/h4&gt;
-
-&lt;h3 id=&#34;请在开放云中站稳您的脚跟:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;请在开放云中站稳您的脚跟&lt;/h3&gt;
-
-&lt;p&gt;到现在为止，我们已经捋过了多个开源项目、多种开放治理方式、以及一些基金会的模式，且可以看到对于云计算的技术来讲，真正的开放才是未来，才是真正有价值的，即协作的创新和合作竞争这条道路。我们也已经注意到了，其中主要的云计算的倡议和项目，越来越明显的感觉到，要完成很多的跨项目的合作才能解决云计算日益临近的挑战。&lt;/p&gt;
-
-&lt;p&gt;我们也可以看到，在运维人员、开发者、生产者和消费者之间的界线越来越模糊，而且代码、社区、和开源文化的性质正在悄然发生着变化，已经超出了传统的涵义。这就必然导致一个任何人只要有兴趣就可以成为开源项目的开发者和贡献者的扁平化时代的到来，至于方式，无论是为最终用户完善文档还是为开发者提出新的特性的建议，已经不是需要特别提醒的常识。&lt;/p&gt;
-
-&lt;p&gt;对于感兴趣的最终用户来说，这意味着再也不是站在纯粹的消费者一边的了：可以投入到自己感兴趣的项目，根据自身的需要在项目未来的发展方向上发出自己的声音。对于开发云计算平台的公司或者是运营云服务的公司来说，投入到开源中来，既可以受益于社区，又可以加速进入市场的准入门槛，以及不仅能够实现自己的利基专长，还能够吸收其它的来自开放社区的能力。参与到围绕关键云计算项目的基金会开放治理中来，还有助于提供公平的竞争环境，作为更为广泛的参与提供发出更多的声音以影响厂商中立的决策制定。&lt;/p&gt;
-
-&lt;p&gt;如果你正在考虑将自己的内部使用的技术开源，又或者是通过创建独立或企业领导引导的新社区项目，请记住，请选择将项目开放，以获得在整个生态系统的长期的生命力。一如我们所看到的那些成功的开源项目一样。你需要让其他各方的人们参与进来，并成为一些领导的角色。由健康的开放治理模式来引导。基于精英主义的技术发展路线，这在开始的时候是蛮困难的——因为没有人乐意将自己的想法或项目放弃控制权的。然而，正如我们所列举出来的，这条途径在云计算中是最为有利的，真正的协作！&lt;/p&gt;
-
-&lt;h3 id=&#34;总结:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;总结&lt;/h3&gt;
-
-&lt;p&gt;我们相信开源软件项目通过健康的开放治理原则的治理下，以及厂商中立的基金会的交付实践，会缔造一个成功的云计算相关技术的未来的！我们已经看到一些大型的项目如 OpenStack、Cloud Foundry、Docker ，以及我们在前面讨论过的围绕它们的每个基金会，强强联手蓄势待发、企业的赞助和参与，引来了一大堆大大小小的厂商参与。这些开源和开放治理的项目，既允许广大社区协作，也允许独特的创新，这就可以让传统的厂商和初创公司基于开放的技术交付云的产品都可受益。&lt;/p&gt;
-
-&lt;p&gt;另外，我们也相信，在不久的将来，开放云的的跨项目合作将是趋势，通过一些基金会的庇护，在云计算的底层和应用层的编排和管理组件寻找一些标准的关键组件。对于 IaaS 或 PaaS 来说，客户最为需要的不是一个项目就能满足所有需求的所谓的产品，而是会覆盖多个潜在开源项目和产品的全面途径。跨多个云基础架构类型的编排、集群管理、以及分布式／部署的标准接口——举例来说，虚拟机和容器——在下一次的变革中，谁将是云计算中的王者？在这些关键的概念上的一些通用性和互操作性都是跨多个厂商和多个相关的开源项目的协作的。这就带来了众多的机会，一个潜在的新的利基厂商的实现，将带来新的收入、新的产品。&lt;/p&gt;
-
-&lt;p&gt;我们深信开放云的未来就是将开源精心的规划。&lt;/p&gt;
-
-&lt;h4 id=&#34;作者简介:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;作者简介：&lt;/h4&gt;
-
-&lt;h5 id=&#34;philip-estes-https-www-oreilly-com-people-6e78b-philip-estes:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;&lt;a href=&#34;https://www.oreilly.com/people/6e78b-philip-estes&#34;&gt;Philip Estes&lt;/a&gt;&lt;/h5&gt;
-
-&lt;p&gt;Philip 在 IBM 开放云技术团队担任高级技术组成员的职位，目前代表 IBM 在 Docker 开源社区，亦是 Docker 的核心维护者。Philip 还和 IBM 的产品团队以及客户管理一起共事过，将开源的云技术转化为实际的产品、解决方案和 IT 项目。Phil 的成员团队均工作在关键的开源云项目的上游，如 OpenStack、Cloud Foundry、Docker等。在 Phil 加入开放云团队之前，Phil 是 IBM Linux 技术中心的首席架构师。&lt;/p&gt;
-
-&lt;h5 id=&#34;doug-davis-https-www-oreilly-com-people-3ec19-doug-davis:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;&lt;a href=&#34;https://www.oreilly.com/people/3ec19-doug-davis&#34;&gt;Doug Davis&lt;/a&gt;&lt;/h5&gt;
-
-&lt;p&gt;Doug Davis 在 IBM 的开源云和标准部门工作。他在开源和标准这个细分的领域内有超过15年的工作经验，曾经参与过过个现下非常流行的研究标准，诸如 Apache SOAP &amp;amp; Axis、围绕 Web 服务／SOAP 的 W3C 和 OASIS 标准、OpenStack、Cloud Foundry、以及最近参与的 Docker、OCI、和 CNCF。他还是 WSTF 的创始人，WSTF 是基于 Web Service 的内部操作机制的实现，地址是&lt;a href=&#34;http://soaphub.org&#34;&gt;http://soaphub.org&lt;/a&gt;，并有多个企业使用此实现来做他们的实时协作。&lt;/p&gt;
-
-&lt;h2 id=&#34;译者写在后面:e7cbdb8eb7d5cfb8927edb6dff899408&#34;&gt;译者写在后面&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://iaaslee.blogspot.com/2015/03/blog-post.html?view=magazine&#34;&gt;通往开放云指南&amp;ndash;开放云项目简短介绍&lt;/a&gt;，这篇文章是我职业生涯的转折点，令我热血沸腾的开始了自己的创业之路；但是本篇将我的创业梦敲醒，让我回到了残酷的现实！我似乎玩大了，&lt;a href=&#34;http://www.ocselected.com&#34;&gt;开放云精选&lt;/a&gt;的野心是 IBM 开放云团队的目标！ 我看起来似乎毫无希望！没有团队、没有钱，有的就是似乎是人家的想法。接下来该如何走？我陷入了深思。。。。。。&lt;/p&gt;
 </description>
     </item>
     
