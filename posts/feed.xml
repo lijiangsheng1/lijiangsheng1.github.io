@@ -7,8 +7,122 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 08 Jun 2016 07:08:48 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jun 2016 09:48:27 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.9）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_9/</link>
+      <pubDate>Thu, 09 Jun 2016 09:48:27 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_9/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;5种开源软件的赚钱之道:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;5种开源软件的赚钱之道&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/5-ways-open-source-programmers-and-companies-make-money&#34;&gt;5 Ways Open Source Programmers and Companies Make Money&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;似乎Tozzi已经彻底进入了自己的世界，难道在写这篇文章的时候没有读过维基百科上的关于开源商业模式的文章吗？&lt;/p&gt;
+
+&lt;p&gt;作者总结了下面几类：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;免费增值模式：举例有ownCloud和MongoDB；&lt;/li&gt;
+&lt;li&gt;重新分发版本：举例：Talend和Mirantis；&lt;/li&gt;
+&lt;li&gt;卖服务：举例：红帽和Canonical；&lt;/li&gt;
+&lt;li&gt;寻求赞助： 举例 上世纪80年代的GNU；&lt;/li&gt;
+&lt;li&gt;成立基金会： 举例：Linux基金会和Apache基金会。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;xenserver-社区经理跳槽-blackduck:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;XenServer 社区经理跳槽 Blackduck&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://osdelivers.blackducksoftware.com/2016/06/08/black-duck-journey-starts-here/&#34;&gt;The Journey Starts Here….&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;回头看他在XenServer发表的博客：&lt;a href=&#34;http://xenserver.org/blog/entry/xenserver-dundee-released.html&#34;&gt;XENSERVER DUNDEE RELEASED&lt;/a&gt;，时间还是上个月24号，没有几天，就开始了在Black Duck的布道：&lt;a href=&#34;http://www.slideshare.net/TimMackey/secure-application-deployment-in-apache-cloudstack&#34;&gt;安全应用的部署&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;让我对Tim产生好奇的原因是他的职业经历，从一名技术人员转到社区经理，然后又成为技术布道师。正如他在博客中所指出的那样，对技术的热爱和坚持始终未变。无论职位如何的变化，但是对于技术的追求是不变的！&lt;/p&gt;
+
+&lt;p&gt;还有就是他对 XenServer 开源的问题无奈：&lt;strong&gt;“One of my primary goals was to ensure that the act of making XenServer “open source” wasn’t simply a marketing stunt, but had some real follow through behind it. ”&lt;/strong&gt;，&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;reactos-意欲替代-windows:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;ReactOS 意欲替代 Windows&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.linuxinsider.com/story/83578.html&#34;&gt;ReactOS Is a Promising Open Source Windows Replacement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;之所以读了下此文，是因为第一次听说这个操作系统，竟然是作了很多年的，一直以来就在实现Windows的开源版本。但是突然之间的出现，是因为Windows10的公关危机？还是微软要搞一个开源的Windows版出来？当新闻看下就好了。注意，它并不是Linux＋高仿windows界面，它是WindowsNT几乎的克隆再现。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;自动种植机器人帮你全程照料菜地:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;自动种植机器人帮你全程照料菜地&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.geeky-gadgets.com/farmbot-open-source-cnc-farming-robot-08-06-2016/&#34;&gt;FarmBot Open Source CNC Farming Robot (video)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如果你喜欢种植，却有没有时间打理，那么这款种菜的机器非常的适合你。最多花半小时学习，然后在自己的手机上操作就可以了。不多说了，想给自己的爱人买一款。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://tr3.cbsistatic.com/hub/i/r/2016/06/08/c00eb188-dca9-426f-a92c-197bedf13a17/resize/620x/ea7f4e130a2d943f4fc5d9482792f32a/cloudapps.jpg&#34; alt=&#34;cloud&#34; /&gt; 图片来源： iStockphoto/outline205&lt;/p&gt;
+
+&lt;h3 id=&#34;whitesource-又一家扫描开源代码漏洞的公司-产品:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;WhiteSource 又一家扫描开源代码漏洞的公司／产品&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://appdevelopermagazine.com/4055/2016/6/8/WhiteSource-Releases-Tool-to-Evaluate-Security-of-Open-Source-Components&#34;&gt;WhiteSource Releases Tool to Evaluate Security of Open Source Components&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;继 Black Duck 之后的又一家了，至少是我听说过的。正如上面Tim总结的开源重大漏洞事件，在开源已经成为当下很多企业的基础设施，漏洞和安全是非常重要的一环了。这大概就是布局的重要性。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;rogue-wave-开始对开源社区-centos-增强支持:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;Rogue Wave 开始对开源社区 CentOS 增强支持&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/rogue-wave-increases-commitment-open-source-community-with-enhanced-support-centos-2132488.htm&#34;&gt;Rogue Wave Increases Commitment to Open Source Community With Enhanced Support for CentOS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;依然是云计算带来的好处。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;vmware-发布开源的物联网网关应用-liota:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;VMware 发布开源的物联网网关应用 Liota&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.infoq.com/news/2016/06/vmware-liota-iot-gateway-sdk&#34;&gt;VMware Releases Liota, an Open Source IoT Gateway Application Framework&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没什么好点评的，每天看着物联网的各种开源以及IT大鳄的布局。但是现实中却一点也没有感觉到，比如招聘、比如产品。运动手环之类的算是物联网的一种应用了，那么其它的呢？我又该如何面对这一技术趋势了呢？ 嗯，先去看下AWS针对物联网的产品，现在就去。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么说aws-lambda对于开源来说是一件糟糕的事:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;为什么说AWS Lambda对于开源来说是一件糟糕的事&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-amazon-lambda-could-be-the-worst-thing-to-happen-to-open-source/&#34;&gt;Why Amazon Lambda could be the worst thing to happen to open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;基于事件驱动的毋需服务器的云计算产品。我喜欢这句话：&lt;strong&gt;&amp;ldquo;Open source is dead. The cloud has killed it.&amp;rdquo;&lt;/strong&gt; 在基础设施领域开源软件彻底将商业软件击溃。但是有了无服务器之后的云服务之后，开源的优势显得就不是那么的明显了。&lt;/p&gt;
+
+&lt;p&gt;这里另外提到的一个产品就是 OpenWhisk，诞生于IBM的Bluemix，基于CloudFoundry的公有云服务。也是开源的serverless的基于事件的平台。拭目以待吧，这个似乎听起来更加的美好和激动人心。尤其是在物联网兴起的今天。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.8）</title>
@@ -1665,104 +1779,6 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 &lt;li&gt;开始一个小型的项目试水。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源点评（2016-05-21）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_21/</link>
-      <pubDate>Sat, 21 May 2016 09:09:48 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_21/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;缘起:ced62852dc1accf054dfc01e21118910&#34;&gt;缘起&lt;/h2&gt;
-
-&lt;p&gt;自从担任&lt;a href=&#34;http://www.infoq.com/cn/author/%E6%9D%8E%E5%BB%BA%E7%9B%9B&#34;&gt; InfoQ 中国的开源专栏社区主编&lt;/a&gt;之后，每日早上都会去查阅一些开源相关的文章和新闻。那么以我贪婪的习惯，以及去年一年所养成的“恶习”－－翻译！很快便将自己的时间淹没在无尽的翻译中。但生命苦短，除了翻译，我还有更多的事情去做，比如陪伴家人、比如读书、比如享受生活。那么必须要找一个方法，将翻译这件事进行分类，什么样的文章或书籍是我该去翻译的？什么样的文章是点评一下即可。目的的考量有二：0、是否值得去传播。1、对于自己的技能或知识获取是否有益？&lt;/p&gt;
-
-&lt;p&gt;于是，翻译这件事情，会做专门的讨论，我会撰写另外一篇文章来总结一下自己去年的翻译。然后，接下来的打算，等等。&lt;/p&gt;
-
-&lt;p&gt;其中一个决定，就是将每天看到的关于开源的文章或新闻，以点评的方式记录到自己的这个博客中。&lt;/p&gt;
-
-&lt;p&gt;以上，是为由。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_ControlNotDesirable.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;文章点评:ced62852dc1accf054dfc01e21118910&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;一家不走寻常路的创业公司-誓要将开源兑换为现金:ced62852dc1accf054dfc01e21118910&#34;&gt;一家不走寻常路的创业公司，誓要将开源兑换为现金&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.wired.com/2016/03/former-open-sourcers-ask-companies-pay-fair-share/&#34;&gt;One Startup’s Heretical Plan to Turn Open Source Code Into Cash&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;是的，开源的商业模式，有无数的人在探索，适兕也是其中之一。看看这家叫做&lt;a href=&#34;https://sourcegraph.com/&#34;&gt;SourceGraph&lt;/a&gt;创业公司，技术上走代码检索和协作工具，但是却在软件的许可证上作文章，即&lt;a href=&#34;https://fair.io/&#34;&gt;公平许可证&lt;/a&gt;，对开源的改进。对阅读代码的人数进行限制。不仅已经有人付费了，而且还找到了盟友，如 GitLab、Data Duck、Codenvy等公司，确实来自 SourceGraph 对于开源有着自己独特的理解，比如看待互联网巨头Google、FaceBook等，或者是传统IT大鳄如微软、Oracle等，的开源并无善意有着深刻的见解。
-是的，推荐仔细阅读。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;为什么苹果会对开发-swift-的开源开发者们示好:ced62852dc1accf054dfc01e21118910&#34;&gt;为什么苹果会对开发 Swift 的开源开发者们示好？&lt;/h3&gt;
-
-&lt;p&gt;文章链接：&lt;a href=&#34;http://www.computerweekly.com/news/450296755/Why-Apple-is-wooing-open-source-developers-with-Swift&#34;&gt;Why Apple is wooing open source developers with Swift&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Apple 是一家最为封闭技术的公司了吧？为何将 Swift 抛出？向开源界的开发者们示好，这似乎不像是 Apple 的一贯做法，Apple 的做法是要么另起炉灶，要么是招安。可以从搞&lt;a href=&#34;https://en.wikipedia.org/wiki/Darwin_%28operating_system%29&#34;&gt;Darwin&lt;/a&gt;就明白了。各大企业在抢夺制高点的战场已经在开源界打响！开源人会是受益者吗？结局最后怎样，让我们拭目以待吧。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;google-和-oracle-的官司之争-仅仅是两家公司的事情吗-它可能对开源有着巨大的影响:ced62852dc1accf054dfc01e21118910&#34;&gt;Google 和 Oracle 的官司之争，仅仅是两家公司的事情吗？它可能对开源有着巨大的影响&lt;/h3&gt;
-
-&lt;p&gt;文章链接： &lt;a href=&#34;http://www.nytimes.com/2016/05/20/technology/oracle-google-dispute-goes-to-heart-of-open-source-software.html?_r=1&#34;&gt;Oracle-Google Dispute Goes to Heart of Open-Source Software
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;古希腊的哲学家说过，人都是有理性的动物。如果这件事情仅仅是软件的事情的话，就好解决了。事情远远比我们所知道的要严重的多。Oracle 对于开源的不够友好，即使它在这次官司中赢了的话，拿到753亿美元的现金的话，这个世界将会怎样？其实，我个人是绝不想看到 Oracle 赢的，这并不是一家值得尊重的公司！ 但是，我对于 Google 的情感而言，确实不希望它输。从Google 获益太多。唉，但是，那是个法制的国家，相信会有公平的判决的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源新形势-钱-协作-个人标识:ced62852dc1accf054dfc01e21118910&#34;&gt;开源新形势：钱、协作、个人标识&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/5/danese-cooper-paypal-oscon&#34;&gt;The new open source: Money, corporations, and identity&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;OSCON 绝对是重量级的会议，有机会一定要参加一次。如果你是真的在搞开源技术、社区相关的，OSCON 肯定是理想之地。阐述此观点的是来自 Paypal 的主管开源的头，Paypal同时也是 InnerSource 的倡导者和始作俑者，可能是搞不下去了，开源的大潮之下，难以抵挡。简单看下她的观点是非常犀利的：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;透明度是不容有任何投机取巧的动作的！必须无条件保持高度透明！&lt;/li&gt;
-&lt;li&gt;开源就是人！&lt;/li&gt;
-&lt;li&gt;开源人是无可替代的。&lt;/li&gt;
-&lt;li&gt;开源和钱是没有任何冲突的，开源对于赚钱这事很友好，没有任何道德的负担。&lt;/li&gt;
-&lt;li&gt;该停止自由软件和开源软件的争论了。现在的新一代人们完全不关心这个。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;2和3我是完全赞同的。所以我个人并不看好华为、360等扛着开源大旗，浑水摸鱼。开源人他就是开源人。你可以学到一些方法论，但永远难以学到精髓。第5条，也是我即将和&lt;a href=&#34;http://www.weibo.com/234826309?is_all=1&#34;&gt;爱开源魅影&lt;/a&gt;要谈论的问题，在大潮中逆水而行，人们是不会驻足听只言片语的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;如何毁掉一个社区:ced62852dc1accf054dfc01e21118910&#34;&gt;如何毁掉一个社区&lt;/h3&gt;
-
-&lt;p&gt;原文链接： &lt;a href=&#34;http://www.infoworld.com/article/2637429/open-source-software/josh-berkus-on-how-to-destroy-a-community.html&#34;&gt;Josh Berkus on how to destroy a community&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一篇旧文了，是看上一篇文章的超链接看过来的。是的，大家都在争相创建社区，但是毁掉一个社区也是有很多的道理的。逆向思考有时候会对正向解决的事情要好处。就如我在到处布道本土过去20年的开源是如何的惨败，谁又会听了呢？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;本土畸形-首届360开源大会-开源社-node-js-live:ced62852dc1accf054dfc01e21118910&#34;&gt;(本土畸形)首届360开源大会、开源社 Node.js live&lt;/h3&gt;
-
-&lt;p&gt;我连链接都懒得给，自己在这里吐吐槽而已。360这家流氓起家的公司也开始玩起了开源，华为赞助OSCON讲个KeyNote就属正常了。但是总觉的哪里不对劲，别扭。开源大会搞成市场宣传活动、大型人才招徕、销售见面会、或者是自己的宣誓大会。总而言之，就是在骗一骗新晋的大学毕业生、心智未成熟的年轻人而已。本土文化中玩带谎言的真理、欺世盗名之流者不在少数！明明是一场小型的meetup，开源社凑什么热闹？不过这点还好。Node.js 新晋的社区经理正踌躇满志！可能也想靠靠巨人的臂弯的吧。&lt;/p&gt;
-
-&lt;p&gt;正如我想表达的，所有的问题最后都能归到某个个体，如果你不去做恶，这个恶就会少一个人的参与。本土难以形成社区文化，不仅仅是开源，是有政治体制、意识形态、传统文化等因素，但是作为个人，你能保证不被利用、坚持自我，这些总还是在自己手里的。&lt;/p&gt;
 </description>
     </item>
     

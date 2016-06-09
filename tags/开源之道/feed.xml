@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>开源之道 on 适兕的博客</title>
+    <link>http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/</link>
+    <description>Recent content in 开源之道 on 适兕的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2016. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 09 Jun 2016 09:48:27 +0800</lastBuildDate>
+    <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.9）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_9/</link>
+      <pubDate>Thu, 09 Jun 2016 09:48:27 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_9/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;5种开源软件的赚钱之道:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;5种开源软件的赚钱之道&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/5-ways-open-source-programmers-and-companies-make-money&#34;&gt;5 Ways Open Source Programmers and Companies Make Money&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;似乎Tozzi已经彻底进入了自己的世界，难道在写这篇文章的时候没有读过维基百科上的关于开源商业模式的文章吗？&lt;/p&gt;
+
+&lt;p&gt;作者总结了下面几类：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;免费增值模式：举例有ownCloud和MongoDB；&lt;/li&gt;
+&lt;li&gt;重新分发版本：举例：Talend和Mirantis；&lt;/li&gt;
+&lt;li&gt;卖服务：举例：红帽和Canonical；&lt;/li&gt;
+&lt;li&gt;寻求赞助： 举例 上世纪80年代的GNU；&lt;/li&gt;
+&lt;li&gt;成立基金会： 举例：Linux基金会和Apache基金会。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;xenserver-社区经理跳槽-blackduck:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;XenServer 社区经理跳槽 Blackduck&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://osdelivers.blackducksoftware.com/2016/06/08/black-duck-journey-starts-here/&#34;&gt;The Journey Starts Here….&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;回头看他在XenServer发表的博客：&lt;a href=&#34;http://xenserver.org/blog/entry/xenserver-dundee-released.html&#34;&gt;XENSERVER DUNDEE RELEASED&lt;/a&gt;，时间还是上个月24号，没有几天，就开始了在Black Duck的布道：&lt;a href=&#34;http://www.slideshare.net/TimMackey/secure-application-deployment-in-apache-cloudstack&#34;&gt;安全应用的部署&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;让我对Tim产生好奇的原因是他的职业经历，从一名技术人员转到社区经理，然后又成为技术布道师。正如他在博客中所指出的那样，对技术的热爱和坚持始终未变。无论职位如何的变化，但是对于技术的追求是不变的！&lt;/p&gt;
+
+&lt;p&gt;还有就是他对 XenServer 开源的问题无奈：&lt;strong&gt;“One of my primary goals was to ensure that the act of making XenServer “open source” wasn’t simply a marketing stunt, but had some real follow through behind it. ”&lt;/strong&gt;，&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;reactos-意欲替代-windows:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;ReactOS 意欲替代 Windows&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.linuxinsider.com/story/83578.html&#34;&gt;ReactOS Is a Promising Open Source Windows Replacement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;之所以读了下此文，是因为第一次听说这个操作系统，竟然是作了很多年的，一直以来就在实现Windows的开源版本。但是突然之间的出现，是因为Windows10的公关危机？还是微软要搞一个开源的Windows版出来？当新闻看下就好了。注意，它并不是Linux＋高仿windows界面，它是WindowsNT几乎的克隆再现。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;自动种植机器人帮你全程照料菜地:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;自动种植机器人帮你全程照料菜地&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.geeky-gadgets.com/farmbot-open-source-cnc-farming-robot-08-06-2016/&#34;&gt;FarmBot Open Source CNC Farming Robot (video)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如果你喜欢种植，却有没有时间打理，那么这款种菜的机器非常的适合你。最多花半小时学习，然后在自己的手机上操作就可以了。不多说了，想给自己的爱人买一款。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://tr3.cbsistatic.com/hub/i/r/2016/06/08/c00eb188-dca9-426f-a92c-197bedf13a17/resize/620x/ea7f4e130a2d943f4fc5d9482792f32a/cloudapps.jpg&#34; alt=&#34;cloud&#34; /&gt; 图片来源： iStockphoto/outline205&lt;/p&gt;
+
+&lt;h3 id=&#34;whitesource-又一家扫描开源代码漏洞的公司-产品:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;WhiteSource 又一家扫描开源代码漏洞的公司／产品&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://appdevelopermagazine.com/4055/2016/6/8/WhiteSource-Releases-Tool-to-Evaluate-Security-of-Open-Source-Components&#34;&gt;WhiteSource Releases Tool to Evaluate Security of Open Source Components&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;继 Black Duck 之后的又一家了，至少是我听说过的。正如上面Tim总结的开源重大漏洞事件，在开源已经成为当下很多企业的基础设施，漏洞和安全是非常重要的一环了。这大概就是布局的重要性。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;rogue-wave-开始对开源社区-centos-增强支持:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;Rogue Wave 开始对开源社区 CentOS 增强支持&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/rogue-wave-increases-commitment-open-source-community-with-enhanced-support-centos-2132488.htm&#34;&gt;Rogue Wave Increases Commitment to Open Source Community With Enhanced Support for CentOS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;依然是云计算带来的好处。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;vmware-发布开源的物联网网关应用-liota:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;VMware 发布开源的物联网网关应用 Liota&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.infoq.com/news/2016/06/vmware-liota-iot-gateway-sdk&#34;&gt;VMware Releases Liota, an Open Source IoT Gateway Application Framework&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没什么好点评的，每天看着物联网的各种开源以及IT大鳄的布局。但是现实中却一点也没有感觉到，比如招聘、比如产品。运动手环之类的算是物联网的一种应用了，那么其它的呢？我又该如何面对这一技术趋势了呢？ 嗯，先去看下AWS针对物联网的产品，现在就去。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么说aws-lambda对于开源来说是一件糟糕的事:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;为什么说AWS Lambda对于开源来说是一件糟糕的事&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-amazon-lambda-could-be-the-worst-thing-to-happen-to-open-source/&#34;&gt;Why Amazon Lambda could be the worst thing to happen to open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;基于事件驱动的毋需服务器的云计算产品。我喜欢这句话：&lt;strong&gt;&amp;ldquo;Open source is dead. The cloud has killed it.&amp;rdquo;&lt;/strong&gt; 在基础设施领域开源软件彻底将商业软件击溃。但是有了无服务器之后的云服务之后，开源的优势显得就不是那么的明显了。&lt;/p&gt;
+
+&lt;p&gt;这里另外提到的一个产品就是 OpenWhisk，诞生于IBM的Bluemix，基于CloudFoundry的公有云服务。也是开源的serverless的基于事件的平台。拭目以待吧，这个似乎听起来更加的美好和激动人心。尤其是在物联网兴起的今天。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
