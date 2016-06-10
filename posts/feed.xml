@@ -7,8 +7,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 09 Jun 2016 09:48:27 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jun 2016 08:49:43 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.10）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_10/</link>
+      <pubDate>Fri, 10 Jun 2016 08:49:43 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_10/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;微软在其azure的虚拟机镜像中将流行的开源操作系统freebsd列入支持列表:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;微软在其Azure的虚拟机镜像中将流行的开源操作系统FreeBSD列入支持列表&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.geekwire.com/2016/microsoft-supports-popular-freebsd-open-source-os-new-azure-virtual-machine-image/&#34;&gt;Microsoft supports popular FreeBSD open-source OS with new Azure virtual-machine image&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这就一篇新闻，有两个看点：0、微软是以客户为中心的策略，不能自大到唯我独尊。FreeBSD 仍然有其固有的市场份额。1、此次镜像并非是FreeBSD社区所支持，而是由微软自己来维护和提供支持的。这说明微软招徕了大量FreeBSD的人才？还是早已布局FreeBSD？ 只要你有胆识，支持就支持。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;mozilla-启动新的资金资助-致力于帮助避免下一个-heartbleed:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;Mozilla 启动新的资金资助，致力于帮助避免下一个 Heartbleed&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://techcrunch.com/2016/06/09/mozilla-launches-new-fund-to-help-prevent-the-next-heartbleed/&#34;&gt;Mozilla launches new fund to help prevent the next Heartbleed&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源的安全性，越来越受到人们的关注了。就我所知道的BlackDuck、WhiteSource、以及本土的绿盟之类的，都开始转移注意力了。Mozilla 自掏腰包$500,000 来资助这件事，背后究竟是什么原因？为何选的三个项目分别是：PCRE, libjpeg-turbo and phpMyAdmin 难道是随机挑选的？这块的市场竞争将很快进入白热化状态，或者在这个领域的已经是白热化的了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/edu_rcos.png&#34; alt=&#34;process&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;写作的力量-影响了苹果-脸书和airbnb-等ceo的作家:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;写作的力量：影响了苹果、脸书和AirBnB 等CEO的作家&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://medium.com/life-learning/the-power-of-writing-the-one-author-that-influenced-the-ceos-of-apple-facebook-and-airbnb-5cd40055e51#.tzhy9ufek&#34;&gt;The Power of Writing: The One Author that influenced the CEO’s of Apple, Facebook and AirBnB.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇打鸡血的文章，相信最近的一段时间，我也在反思自己。本文的作者蛮有趣的，他一开始是关注比尔盖茨、咋克伯格之类的阅读列表，然后从中找出哪个作家是这些有钱的、成功的CEO们都会看到的。然后总结出了安迪格鲁夫，的两本书，《只有偏执狂才能生存》《High Output Management》。然后，给自己总结了一句：“ While learning how to code may help you build a scalable technology, learning how to write gives you an infinitely more scalable tool to influence the world.” 然后就开始练习写作。写作是需要大量的练习的。&lt;/p&gt;
+
+&lt;p&gt;自我的洗脑很重要！要无时无刻的给自己洗脑！即强大的心理暗示。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;容器和微服务的神话-来自红帽的洞见:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;容器和微服务的神话：来自红帽的洞见&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/container-and-microservices-myths-red-hat-perspective&#34;&gt;Container and Microservices Myths: The Red Hat Perspective&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;确实是，容器仿佛一夜之间就火了起来，成为了无所不能的全能王。尤其在国内，各种基于容器的云平台甚嚣尘上，DaoCloud、灵雀云、数人云等等不一而足，一会号称取代虚拟机；一会又干掉OpenStack；一会又Docker是最新等技术。说实话，真的该有人来给他们泼泼冷水了，让他们冷静下来，再吹的话连自己都信了。这就是这篇文章要说明的：打破容器和微服务的5个神话。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;容器是新技术？&lt;/li&gt;
+&lt;li&gt;容器是完全自我包含的实体？&lt;/li&gt;
+&lt;li&gt;容器可以替代虚拟机？&lt;/li&gt;
+&lt;li&gt;容器的移植性是通用的？&lt;/li&gt;
+&lt;li&gt;容器默认是安全的？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;你是不是应该低头考虑一下了？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;针对发现你核心价值的开放流程:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;针对发现你核心价值的开放流程&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values&#34;&gt;An open process for discovering your core values&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;又是《The Open Organization》这本书的读后感。越来越多的人开始认同书中所阐述的价值观和做事风格了。诸如做决策、信任等。我依然向往这样的公司和环境，现实中仍然难以找到，自己想开一家这样的公司，虽然困难重重，但是还可以克服，重要的是在路上，发现自己的核心价值。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.9）</title>
@@ -1704,80 +1784,6 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 
 &lt;blockquote&gt;
 &lt;p&gt;开源如此成功的今天，IBM 的贡献功不可没，但是 IBM 是这个良好的生态系统的倡导者和建设者，现在将开放的治理提到了理论、哲学的高度，各种基金会的参与，Apache、Eclipse、Linux、Node.js、Docker、OpenStack，甚至包括新晋的 Blockchain 项目 Hyperledger。好吧，看到这篇文章也看到了 IBM 要大换血的新闻，Open By Design，大象跳舞的目的是希望走的更远一些！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源点评（2016-05-22）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_22/</link>
-      <pubDate>Sun, 22 May 2016 07:44:50 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_22/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:986d4da48157f895308ad4bdcaafe191&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;南非的世界级的开源公司-snapt-ceo-专访:986d4da48157f895308ad4bdcaafe191&#34;&gt;南非的世界级的开源公司 Snapt CEO 专访&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.htxt.co.za/2016/05/20/interview-with-snapt-ceo-dave-blakey-a-south-african-company-spreading-across-the-world/&#34;&gt;INTERVIEW WITH SNAPT CEO DAVE BLAKEY: A SOUTH AFRICAN COMPANY SPREADING ACROSS THE WORLD&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;基于开源项目之上，做增值的功能和服务，但其本身并不开源，但是与常见的许可证不一样的是，没有过期这么一说。现在已经从南非走出来，在美国有 Office，正在进军 HongKong。依然是互联网！似乎开源的成功，总是难以和互联网脱了干系！是相辅相成、水乳胶隔的！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;algorithmia-新支持四种语言-python-3-ruby-rust-以及-javascript:986d4da48157f895308ad4bdcaafe191&#34;&gt;Algorithmia 新支持四种语言：Python 3、Ruby、Rust、以及 JavaScript&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3073124/open-source-tools/python-3-ruby-rust-and-javascript-algorithms-are-now-welcome-on-algorithmia.html&#34;&gt;Python 3, Ruby, Rust, and JavaScript algorithms are now welcome on Algorithmia&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Algorithmia，我从来没有听说过这么一个公司，将算法 API 话，只需要5行代码就可以实现高效的算法，如文本分析、机器学习、数据处理，不一而足。这也给算法的开发者们一个赚钱和解决问题的新途径。非常棒！ 这个新闻看来就像是是 Algorithmia 的新版本发布记要一样。新增了4种开源语言的支持。这里要强调一下 Rust 这门新起之秀，从2014年开始，简直是跳跃式的成长！关注下&lt;a href=&#34;https://en.wikipedia.org/wiki/Rust_(programming_language&#34;&gt;维基百科页面&lt;/a&gt;)。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;apache-紧盯着-odpi-在担心什么:986d4da48157f895308ad4bdcaafe191&#34;&gt;Apache 紧盯着 ODPi，在担心什么？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.datanami.com/2016/05/20/apache-foundation-keeps-eyes-wide-open-odpi/&#34;&gt;Apache Foundation Keeps Eyes Wide Open with ODPi&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;曾道听途说，（准确点说是李明宇，OStorage的创始人）Apache若没有 Hadoop 早已湮没于江湖。话虽然说的很夸张，但是某种程度上说明了 Hadoop 在 Apache 社区中的重要位置。ODPi 也是 ASF 的黄金赞助商。好吧，哪里都有竞争！重要的是要将事情做好，赢取用户的信任才是王道。光担忧没有用，得有所作为。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;asf-骨灰级元老-behlendorf-加入-linux-基金会-掌柜区块链项目-hyperledger:986d4da48157f895308ad4bdcaafe191&#34;&gt;ASF 骨灰级元老 Behlendorf 加入 Linux 基金会，掌柜区块链项目 Hyperledger&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.linuxinsider.com/story/83530.html&#34;&gt;Apache Guru Behlendorf to Helm Hyperledger Project&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Blockchain 最近非常的火，又是被华尔街炒的概念？不清楚是怎么回事。对于我，关注的重点是 Behlendorf ，曾经是 ASF 的创始人之一，加入 Linux 基金会。开放的治理，看来还是颇有门道的，中间还是有很多值得去挖掘和思考的内容的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;劝说你的经理加入到开源的阵营的可实践的方法:986d4da48157f895308ad4bdcaafe191&#34;&gt;劝说你的经理加入到开源的阵营的可实践的方法！&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/5/christian-grail-oscon&#34;&gt;Open source at your company? 6 questions your manager will ask&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;又是 OSCON 的演讲，这次是 Christian Grail ，谈到了当作为普通开发者或员工的你，混在开源社区中，从开源社区获益很多，然后想劝说经理去参与到开源中来。那么经理常问的几个问题，如会提高产品质量吗？能吸引到人吗？等等，你该如何回答？ 不用担忧，Christian Grail 给出了非常完善的答案，另外回答完经理们的问题远远不够，还得做点工作：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;你自己要开始为开源项目做贡献。&lt;/li&gt;
-&lt;li&gt;尽可能的讨论一些业务上的案例。&lt;/li&gt;
-&lt;li&gt;做一张好处、坏处的列表清单。&lt;/li&gt;
-&lt;li&gt;Don&amp;rsquo;t pick the cash cow of your company。&lt;/li&gt;
-&lt;li&gt;开始一个小型的项目试水。&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
