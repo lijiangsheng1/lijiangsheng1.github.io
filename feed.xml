@@ -7,8 +7,78 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 10 Jun 2016 08:49:43 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jun 2016 10:37:24 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.11）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_11/</link>
+      <pubDate>Sat, 11 Jun 2016 10:37:24 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_11/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:cdd73099e42bf94b14650d9360e94276&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;freebsd-还是-linux-微软到底爱宠哪个:cdd73099e42bf94b14650d9360e94276&#34;&gt;FreeBSD 还是 Linux：微软到底爱宠哪个？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/freebsd-vs-linux-which-open-source-os-does-microsoft-now-&#34;&gt;FreeBSD vs. Linux: Which Open Source OS Does Microsoft Now Love More?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;昨天我们看到微软在其云有云平台Azure上开始一厢情愿的支持FreeBSD了。今天 Varguy 就出评论了，不过专栏的文章好处就是能够自圆其说。看过去的一篇文章 &lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/062615/open-source-history-why-didnt-bsd-beat-out-gnu-and-linux&#34;&gt;FreeBSD 一直是躲在GNU和 Linux的阴影下&lt;/a&gt;，说虽然说的有点夸张，但是也不无道理。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/law/LAW_vaguepatent_520x292.png&#34; alt=&#34;blackbox&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;google-和-oracle-的官司-对于软件开发者意味着什么:cdd73099e42bf94b14650d9360e94276&#34;&gt;Google 和 Oracle 的官司：对于软件开发者意味着什么？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/law/16/6/outcome-google-v-oracle-good-open-source&#34;&gt;Oracle v. Google: What it means for software developers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;来自红帽的律师发言了，但是我也没有看出个所以然来，是不是律师说话都是如此？最后一句和我们差不多：&lt;strong&gt;We will have to wait and see how this area of the law develops.&lt;/strong&gt; 简单讲了讲这场官司的历史。唉，标题党。不过还是看看。开源软件的世界相比于过去已经变化了，但是究竟变了什么地方？还需要我们洞若观火、细致入微的去观察和思考，不放过任何的细节。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;遇见-mycroft-一款比肩于siri-cortana-alexa的开源人工智能套件:cdd73099e42bf94b14650d9360e94276&#34;&gt;遇见 Mycroft，一款比肩于Siri、Cortana、Alexa的开源人工智能套件&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/meet-mycroft-the-open-source-ai-who-wants-to-rival-siri-cortana-and-alexa/&#34;&gt;Meet Mycroft, the open source AI who wants to rival Siri, Cortana, and Alexa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;家庭助手，人工智能，灵感来源于钢铁侠里的 Jarvis，硬件基于 Raspberry Pi 3 和 Arduino。代码地址：&lt;a href=&#34;https://github.com/MycroftAI/mycroft-core&#34;&gt;在GitHub&lt;/a&gt;，即使开源，你是自己动手DIY一个了，还是买一个了？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为-prometheus-贡献-开源的教程:cdd73099e42bf94b14650d9360e94276&#34;&gt;为 Prometheus 贡献：开源的教程&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/contributing-prometheus-open-source-tutorial&#34;&gt;Contributing to Prometheus: An Open Source Tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;题目有些别扭，但是还可以看， Prometheus 是一款专注于容器的监控和预警的套件。开源项目实在是太多了。能够有一个好的贡献入门指南确实是非常重要的。我自己的脑海里，被某些精英主义所占据，也可能是某种民间文化的渗透，那就是所谓的工匠，专注于技艺，而不关心传承；以伟大天才的艺术风格，而忽略严谨的科学记录。我的创业之路，必须要走出这条死胡同。文档、教程、手册真的不重要吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/06/0609.sdt-sourceclear.png&#34; alt=&#34;ice&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;sourceclear-开源工具-commit-watcher:cdd73099e42bf94b14650d9360e94276&#34;&gt;SourceClear 开源工具 Commit Watcher&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/sourceclear-open-sources-commit-watcher-detect-vulnerabilities-commits/&#34;&gt;SourceClear open-sources Commit Watcher to detect vulnerabilities in commits&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;近来对于开源的安全扫描越来越多了，可以回顾下我仅一周内的点评，Mozilla的出钱、BlackDuck高调宣传、WhiteSource开源漏洞扫描工具。。。。。。等等不一而足。基础设施，开源现在的地盘，随意爆出的漏洞都可能是致命的，但是大型的互联网公司还未见重视此问题。难道heartblood、shellshock之类的对他们没有影响吗？ 正如本文的配图一样，所暴露出来的只是冰山一角，更多的看不见的、潜在的威胁还在后面了。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.10）</title>
@@ -1736,54 +1806,6 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 
 &lt;blockquote&gt;
 &lt;p&gt;2013年出版的书籍，作者 E. GABRIELLA COLEMAN。值得一读？请等待我的读后感。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源点评（2016-05-23）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_23/</link>
-      <pubDate>Mon, 23 May 2016 07:44:50 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_23/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:b22807fdfe72b00c50bfcb49275cec73&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;7-种让新人感到受欢迎的方法:b22807fdfe72b00c50bfcb49275cec73&#34;&gt;7 种让新人感到受欢迎的方法&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/5/sumana-harihareswara-maria-naggaga-oscon&#34;&gt;7 ways to make new contributors feel welcome&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;又是 OSCON 上的精彩演讲，我能说什么了？有机会一定要参加！！！ 开源，各大企业、厂商、互联网巨头已经将战争的硝烟带进了这里，开源不仅仅是将代码开放，当然 Alibaba 这么干，也不妨碍别人什么事。其实，也就是人才的抢夺战，知识经济时代，人就是一切。Apple 开源 Swift 就是最为显著的标志性事件。那么，IBM 在提倡开放治理，LinkedIn 在开源社区的经验分享，Google 隔三差五开源AI、机器学习的项目。唉，好吧。还是回到实用的场景吧，你开源了之后，如何招徕新人，犹如走进当年的中关村，各种销售代表嘘寒问暖，而人们只是买一台笔记本电脑而已。现在开源社区就是当年的中关村，这些社区经理就是销售代表，而新人就是客户。（这样的比喻，损失了很多层涵义。）好吧，一定有方法论的！其实个人觉得这不是根本，属于锦上添花的东西，不要过度的解读，容易让人产生本末倒置的想法。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;open-的50个意思:b22807fdfe72b00c50bfcb49275cec73&#34;&gt;Open 的50个意思&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://firstmonday.org/ojs/index.php/fm/article/view/6360/5460&#34;&gt;Fifty shades of open&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一篇论文，也是我在翻译完&lt;a href=&#34;http://lijiangsheng1.github.io/posts/opensource/open_by_design/&#34;&gt;精心布局的开源&lt;/a&gt;之后的一篇内容，日后的翻译，确实需要给自己定一个标杆了。&lt;/p&gt;
-
-&lt;p&gt;Open 现在是个被滥用的词汇，各种Open，如开放的访问、开放源代码、开放的社会、开放的知识、开放的政府、乃至于开放的食物。。。这篇论文试图理清 Open 的各种来源和解读。让人们更加的清晰、明了的看待这个词。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;来自-ibm-的开放技术:b22807fdfe72b00c50bfcb49275cec73&#34;&gt;来自 IBM 的开放技术&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.ibm.com/developerworks/cloud/library/cl-open-architecture-update/cl-open-architecture-update-pdf.pdf&#34;&gt;IBM&amp;rsquo;s approach to open technology&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源如此成功的今天，IBM 的贡献功不可没，但是 IBM 是这个良好的生态系统的倡导者和建设者，现在将开放的治理提到了理论、哲学的高度，各种基金会的参与，Apache、Eclipse、Linux、Node.js、Docker、OpenStack，甚至包括新晋的 Blockchain 项目 Hyperledger。好吧，看到这篇文章也看到了 IBM 要大换血的新闻，Open By Design，大象跳舞的目的是希望走的更远一些！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
