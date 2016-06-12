@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 适兕的博客</title>
+    <link>http://lijiangsheng1.github.io/posts/</link>
+    <description>Recent content in Posts on 适兕的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright (c) 2016. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 12 Jun 2016 07:21:54 +0800</lastBuildDate>
+    <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.12）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_12/</link>
+      <pubDate>Sun, 12 Jun 2016 07:21:54 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_12/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;异构的存储难以聚合的困境:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;异构的存储难以聚合的困境&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://storageswiss.com/2016/05/24/heterogeneous-storage-analytics-difficult-to-gather/&#34;&gt;Heterogeneous Storage Analytics Difficult to Gather&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开明宗义，&lt;strong&gt;知识就是力量，但是当你的知识是碎片化、东拼西凑出来的话，就很难成为力量。&lt;/strong&gt; 这篇文章谈到了现在存储的症结——多样化的异构：混合着软件定义存储、传统的商业存储、flash或混合的盘阵、再加上流行的云存储，以及采用的不同类型的存储网络。带来的挑战：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;如何能够简化管理，从这些设备上收集统计数据。&lt;/li&gt;
+&lt;li&gt;从中收集有价值的信息。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;举例而言，第一种情况如不同的网络协议：Fibre Channel, iSCSI, FCoE, NFS, SMB,或者是基于云的存储服务，如AWS的S3；第二种情况如不同的数据格式： CSV, HTML or XML,Json，以及SQL，NoSQL等。&lt;/p&gt;
+
+&lt;p&gt;Storage Switzerland 分析师最后并没有给出解决这个问题的答案，只是说都是要付出代价的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://3.bp.blogspot.com/-wUxOkLmfdPY/V1uPT8Y9fYI/AAAAAAAAKu0/u8kiBrspAoMWSycSP4WEkJRKYX9T3ddcACLcB/s640/Pictures2.jpg&#34; alt=&#34;foss&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;报告-印度政府采用自由和开源软件的经济影响:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;报告：印度政府采用自由和开源软件的经济影响&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.indrastra.com/2016/06/REPORT-Assessment-Economic-Impact-of-usage-FOSS-by-GOI-002-06-2016-0015.html&#34;&gt;Economic Impact of Free and Open Source Software Usage in Indian Government&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;阅读如此的报告，会难免和自己所在的地方作对比，比如本土竟是披着国产、民族大旗的“开源软件”公司，让你啼笑皆非。不谈也罢。&lt;/p&gt;
+
+&lt;p&gt;看报告就会想到年轻的自己，冲动的自己，以数据说话本应是一名工程师应有的能力，但是往往拍案而起，最后造成Boss的误解。应该深刻反思自己写报告和说服人的能力，尤其是看到华为的&lt;a href=&#34;http://www.ccf.org.cn/resources/1190201776262/2016/02/16/7.pdf&#34;&gt;企业视角看到的开源 ——华为开源5年实践经验&lt;/a&gt;，更加的应该汗颜。要有耐心的以理服人。不要冲动！&lt;/p&gt;
+
+&lt;p&gt;哦，对了，文中谈到世界各国政府都以各种理由采用FOSS，如增进电子政务的效率、避免厂商锁定，提倡创业精神;促进民主和社会技术联盟;和ICT技能转移到未得到服务的人口。我想这话一定是没有谈到它东边的邻国。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;微软的人工智能工具包可利用多gpu性能:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;微软的人工智能工具包可利用多GPU性能&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.eweek.com/enterprise-apps/microsofts-ai-toolkit-gains-multi-gpu-performance-jump.html&#34;&gt;Microsoft&amp;rsquo;s AI Toolkit Gains Multi-GPU Performance Jump&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;又是深度学习的内容，微软开源的工具：&lt;a href=&#34;https://www.cntk.ai&#34;&gt; Computational Network Toolkit&lt;/a&gt;又发布了新的版本，可以使用诸如Nvidia的多GPU的能力。又是GitHub上的开源。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>论“回馈社区”的荒诞</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/why_said_feedback_is_wrong_business/</link>
+      <pubDate>Sat, 11 Jun 2016 16:47:20 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/why_said_feedback_is_wrong_business/</guid>
+      <description>
+
+&lt;p&gt;在2008年的Google中国大会上，我参加了一个关于GFS的演讲，在末尾的提问环节，有人问什么时候开源？演讲嘉宾的回答是：“Google还是一家非常年轻的公司，面的很残酷的竞争对手，我们会在未来适当的时候开源的，因为Google本身的构建就使用了很多开源的成果。” 大致是这样，后来在豆瓣等场合也听到类似的回答。这是互联网公司回答利用开源的最为主流的方式。我也一直认同这样的回答，但是近来遇到的几件事，使我再次思考这样的回答在何种情况下是成立的？以及“回馈社区”这个词如何的被滥用？&lt;/p&gt;
+
+&lt;p&gt;首先得从项目本身说起，是否是基于开源项目的改进或二次开发，亦或是像Google那样投入科学家和工程师先从理论入手，然后原创实现。这完全是两种不同的方式。但是无论哪种方式，以“回馈社区”这样的方式称都是不妥当的，前者荒唐，后者牵强。&lt;/p&gt;
+
+&lt;h2 id=&#34;我们通常在什么场合下会看到-回馈社区:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;我们通常在什么场合下会看到“回馈社区”&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;其实，我写这篇文章和本土的文化有关，我是能够感觉到本土的错位而有所感慨的&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;笔者遇到的情况是：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;某大型国企老总，在某大会上做“报告”，言称其为社区回馈了多少个补丁。&lt;/li&gt;
+&lt;li&gt;某基于开源项目的二次发行版本的公司，在其产品宣传上以“回馈社区”的名义称自己的技术实力。如&lt;a href=&#34;http://hihuron.com/?p=45&amp;amp;a=view&amp;amp;r=35&#34;&gt;这样的&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;某民族品牌，国产的骄傲，在被问到开源时，会以本文的开头搪塞。完成偷换概念的华丽转身。&lt;/li&gt;
+&lt;li&gt;某位程序员，对开源有情结，称自己一直受益于开源社区良多，想有机会“回馈社区”。&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;相信大家也经常的听到这个词汇。&lt;/p&gt;
+
+&lt;p&gt;笔者在此申明一下，我论及此四个字的本意是想告诉大家，去融入开源社区，将开发、测试、文档、运维、设计等软件项目的开发是一种正常的参与，不需要过分的强调自己的”付出”——“回馈”！&lt;/p&gt;
+
+&lt;p&gt;这里给大家举个例子，国内著名厂商华为的开源总结：&lt;a href=&#34;http://www.ccf.org.cn/resources/1190201776262/2016/02/16/7.pdf&#34;&gt;企业视角看到的开源
+——华为开源5年实践经验&lt;/a&gt;，有没有觉得不对劲的地方？它为什么也在使用“回馈”这个词汇？&lt;/p&gt;
+
+&lt;h2 id=&#34;这么说的背后是何种文化和心理:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;这么说的背后是何种文化和心理？&lt;/h2&gt;
+
+&lt;p&gt;这是一种很正常的心理反应，或者说文化现象。尤其是儒家文化造就的孝顺。知恩图报是本土的一个极为习惯的思维方式。但是，这中间有参合了其它的因素。即民间文化的“秘方”、上世纪8、90年代盗版的泛滥引起的恶果、乃至于面对强大的意识形态灌输的反感等。&lt;/p&gt;
+
+&lt;p&gt;由于开源项目的特殊性，超越国家、地理位置等。但是还是有本土文化、时区、技术水平差异、市场环境等不同而有所偏颇。导致等结果就是，本土基本上就是在使用，没有话语权，提出的需求或反馈不被重视等等。导致有下面几个心理状态：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;知恩图报&lt;/li&gt;
+&lt;li&gt;希望得到承认&lt;/li&gt;
+&lt;li&gt;夺取话语权，以权力斗争思维渗透进入开源社区&lt;/li&gt;
+&lt;li&gt;赚取市场口碑&lt;/li&gt;
+&lt;li&gt;拿到更高的Offer&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;开源项目本身就是一个良好的生态系统:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;开源项目本身就是一个良好的生态系统&lt;/h2&gt;
+
+&lt;p&gt;先来看张图：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cdn.idc.com/images/maps/opensourcesw_ecosystem2.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这是一个健康的、良性循环的系统。想象一下你的回馈该放在哪里？俨然是在这个圈子的外部意图硬生生的插入你的反馈？回馈？&lt;/p&gt;
+
+&lt;h2 id=&#34;你的回馈对于社区是多余的-对于你自己是浪费时间:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;你的回馈对于社区是多余的，对于你自己是浪费时间&lt;/h2&gt;
+
+&lt;p&gt;如果你没有想过进入到这个生态系统的话，就回馈吧！开源，尤其是现在的开放基金会模式治理下的开源项目，均有自己的开发流程、决策议程，比如OpenStack、Apache的孵化项目。简单的回馈会遇到很多的困难，你的代码该如何提交？项目在设计阶段给如何提出需求？又该如何审核通过？你的测试结果该如何展示？撰写的文档是否一致？等等，&lt;/p&gt;
+
+&lt;p&gt;开源发展到今天已经不是上世纪90年代初，以Ftp、邮件列表提交补丁就可以是贡献者到时代了。现在开源软件吞噬世界的时代，你的回馈会被淹没，你必须想办法去融入。&lt;/p&gt;
+
+&lt;h2 id=&#34;何种-回馈社区-是为自己的商业模式争取亮点:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;何种“回馈社区”是为自己的商业模式争取亮点&lt;/h2&gt;
+
+&lt;p&gt;本土总是非常的奇葩，所以一些开源软件或自由软件的原教旨主义者非常的痛苦和不理解。拿OpenStack为例，OpenStack基金会会以Git的代码提交做一些排名，而本土有些公司的做法，为了争取到某个项目的core，将一整个小组的人的代码都以某个人的名义提交。仅仅在一些开源的研讨会或用户开发峰会上夸夸其词的。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道（2016.6.11）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_11/</link>
+      <pubDate>Sat, 11 Jun 2016 10:37:24 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_11/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:cdd73099e42bf94b14650d9360e94276&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;freebsd-还是-linux-微软到底爱宠哪个:cdd73099e42bf94b14650d9360e94276&#34;&gt;FreeBSD 还是 Linux：微软到底爱宠哪个？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/freebsd-vs-linux-which-open-source-os-does-microsoft-now-&#34;&gt;FreeBSD vs. Linux: Which Open Source OS Does Microsoft Now Love More?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;昨天我们看到微软在其云有云平台Azure上开始一厢情愿的支持FreeBSD了。今天 Varguy 就出评论了，不过专栏的文章好处就是能够自圆其说。看过去的一篇文章 &lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/062615/open-source-history-why-didnt-bsd-beat-out-gnu-and-linux&#34;&gt;FreeBSD 一直是躲在GNU和 Linux的阴影下&lt;/a&gt;，说虽然说的有点夸张，但是也不无道理。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/law/LAW_vaguepatent_520x292.png&#34; alt=&#34;blackbox&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;google-和-oracle-的官司-对于软件开发者意味着什么:cdd73099e42bf94b14650d9360e94276&#34;&gt;Google 和 Oracle 的官司：对于软件开发者意味着什么？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/law/16/6/outcome-google-v-oracle-good-open-source&#34;&gt;Oracle v. Google: What it means for software developers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;来自红帽的律师发言了，但是我也没有看出个所以然来，是不是律师说话都是如此？最后一句和我们差不多：&lt;strong&gt;We will have to wait and see how this area of the law develops.&lt;/strong&gt; 简单讲了讲这场官司的历史。唉，标题党。不过还是看看。开源软件的世界相比于过去已经变化了，但是究竟变了什么地方？还需要我们洞若观火、细致入微的去观察和思考，不放过任何的细节。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;遇见-mycroft-一款比肩于siri-cortana-alexa的开源人工智能套件:cdd73099e42bf94b14650d9360e94276&#34;&gt;遇见 Mycroft，一款比肩于Siri、Cortana、Alexa的开源人工智能套件&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/meet-mycroft-the-open-source-ai-who-wants-to-rival-siri-cortana-and-alexa/&#34;&gt;Meet Mycroft, the open source AI who wants to rival Siri, Cortana, and Alexa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;家庭助手，人工智能，灵感来源于钢铁侠里的 Jarvis，硬件基于 Raspberry Pi 3 和 Arduino。代码地址：&lt;a href=&#34;https://github.com/MycroftAI/mycroft-core&#34;&gt;在GitHub&lt;/a&gt;，即使开源，你是自己动手DIY一个了，还是买一个了？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为-prometheus-贡献-开源的教程:cdd73099e42bf94b14650d9360e94276&#34;&gt;为 Prometheus 贡献：开源的教程&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/contributing-prometheus-open-source-tutorial&#34;&gt;Contributing to Prometheus: An Open Source Tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;题目有些别扭，但是还可以看， Prometheus 是一款专注于容器的监控和预警的套件。开源项目实在是太多了。能够有一个好的贡献入门指南确实是非常重要的。我自己的脑海里，被某些精英主义所占据，也可能是某种民间文化的渗透，那就是所谓的工匠，专注于技艺，而不关心传承；以伟大天才的艺术风格，而忽略严谨的科学记录。我的创业之路，必须要走出这条死胡同。文档、教程、手册真的不重要吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/06/0609.sdt-sourceclear.png&#34; alt=&#34;ice&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;sourceclear-开源工具-commit-watcher:cdd73099e42bf94b14650d9360e94276&#34;&gt;SourceClear 开源工具 Commit Watcher&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/sourceclear-open-sources-commit-watcher-detect-vulnerabilities-commits/&#34;&gt;SourceClear open-sources Commit Watcher to detect vulnerabilities in commits&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;近来对于开源的安全扫描越来越多了，可以回顾下我仅一周内的点评，Mozilla的出钱、BlackDuck高调宣传、WhiteSource开源漏洞扫描工具。。。。。。等等不一而足。基础设施，开源现在的地盘，随意爆出的漏洞都可能是致命的，但是大型的互联网公司还未见重视此问题。难道heartblood、shellshock之类的对他们没有影响吗？ 正如本文的配图一样，所暴露出来的只是冰山一角，更多的看不见的、潜在的威胁还在后面了。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道（2016.6.10）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_10/</link>
+      <pubDate>Fri, 10 Jun 2016 08:49:43 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_10/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;微软在其azure的虚拟机镜像中将流行的开源操作系统freebsd列入支持列表:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;微软在其Azure的虚拟机镜像中将流行的开源操作系统FreeBSD列入支持列表&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.geekwire.com/2016/microsoft-supports-popular-freebsd-open-source-os-new-azure-virtual-machine-image/&#34;&gt;Microsoft supports popular FreeBSD open-source OS with new Azure virtual-machine image&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这就一篇新闻，有两个看点：0、微软是以客户为中心的策略，不能自大到唯我独尊。FreeBSD 仍然有其固有的市场份额。1、此次镜像并非是FreeBSD社区所支持，而是由微软自己来维护和提供支持的。这说明微软招徕了大量FreeBSD的人才？还是早已布局FreeBSD？ 只要你有胆识，支持就支持。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;mozilla-启动新的资金资助-致力于帮助避免下一个-heartbleed:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;Mozilla 启动新的资金资助，致力于帮助避免下一个 Heartbleed&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://techcrunch.com/2016/06/09/mozilla-launches-new-fund-to-help-prevent-the-next-heartbleed/&#34;&gt;Mozilla launches new fund to help prevent the next Heartbleed&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源的安全性，越来越受到人们的关注了。就我所知道的BlackDuck、WhiteSource、以及本土的绿盟之类的，都开始转移注意力了。Mozilla 自掏腰包$500,000 来资助这件事，背后究竟是什么原因？为何选的三个项目分别是：PCRE, libjpeg-turbo and phpMyAdmin 难道是随机挑选的？这块的市场竞争将很快进入白热化状态，或者在这个领域的已经是白热化的了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/edu_rcos.png&#34; alt=&#34;process&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;写作的力量-影响了苹果-脸书和airbnb-等ceo的作家:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;写作的力量：影响了苹果、脸书和AirBnB 等CEO的作家&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://medium.com/life-learning/the-power-of-writing-the-one-author-that-influenced-the-ceos-of-apple-facebook-and-airbnb-5cd40055e51#.tzhy9ufek&#34;&gt;The Power of Writing: The One Author that influenced the CEO’s of Apple, Facebook and AirBnB.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇打鸡血的文章，相信最近的一段时间，我也在反思自己。本文的作者蛮有趣的，他一开始是关注比尔盖茨、咋克伯格之类的阅读列表，然后从中找出哪个作家是这些有钱的、成功的CEO们都会看到的。然后总结出了安迪格鲁夫，的两本书，《只有偏执狂才能生存》《High Output Management》。然后，给自己总结了一句：“ While learning how to code may help you build a scalable technology, learning how to write gives you an infinitely more scalable tool to influence the world.” 然后就开始练习写作。写作是需要大量的练习的。&lt;/p&gt;
+
+&lt;p&gt;自我的洗脑很重要！要无时无刻的给自己洗脑！即强大的心理暗示。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;容器和微服务的神话-来自红帽的洞见:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;容器和微服务的神话：来自红帽的洞见&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/container-and-microservices-myths-red-hat-perspective&#34;&gt;Container and Microservices Myths: The Red Hat Perspective&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;确实是，容器仿佛一夜之间就火了起来，成为了无所不能的全能王。尤其在国内，各种基于容器的云平台甚嚣尘上，DaoCloud、灵雀云、数人云等等不一而足，一会号称取代虚拟机；一会又干掉OpenStack；一会又Docker是最新等技术。说实话，真的该有人来给他们泼泼冷水了，让他们冷静下来，再吹的话连自己都信了。这就是这篇文章要说明的：打破容器和微服务的5个神话。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;容器是新技术？&lt;/li&gt;
+&lt;li&gt;容器是完全自我包含的实体？&lt;/li&gt;
+&lt;li&gt;容器可以替代虚拟机？&lt;/li&gt;
+&lt;li&gt;容器的移植性是通用的？&lt;/li&gt;
+&lt;li&gt;容器默认是安全的？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;你是不是应该低头考虑一下了？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;针对发现你核心价值的开放流程:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;针对发现你核心价值的开放流程&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values&#34;&gt;An open process for discovering your core values&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;又是《The Open Organization》这本书的读后感。越来越多的人开始认同书中所阐述的价值观和做事风格了。诸如做决策、信任等。我依然向往这样的公司和环境，现实中仍然难以找到，自己想开一家这样的公司，虽然困难重重，但是还可以克服，重要的是在路上，发现自己的核心价值。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道（2016.6.9）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_9/</link>
+      <pubDate>Thu, 09 Jun 2016 09:48:27 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_9/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;5种开源软件的赚钱之道:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;5种开源软件的赚钱之道&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/5-ways-open-source-programmers-and-companies-make-money&#34;&gt;5 Ways Open Source Programmers and Companies Make Money&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;似乎Tozzi已经彻底进入了自己的世界，难道在写这篇文章的时候没有读过维基百科上的关于开源商业模式的文章吗？&lt;/p&gt;
+
+&lt;p&gt;作者总结了下面几类：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;免费增值模式：举例有ownCloud和MongoDB；&lt;/li&gt;
+&lt;li&gt;重新分发版本：举例：Talend和Mirantis；&lt;/li&gt;
+&lt;li&gt;卖服务：举例：红帽和Canonical；&lt;/li&gt;
+&lt;li&gt;寻求赞助： 举例 上世纪80年代的GNU；&lt;/li&gt;
+&lt;li&gt;成立基金会： 举例：Linux基金会和Apache基金会。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;xenserver-社区经理跳槽-blackduck:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;XenServer 社区经理跳槽 Blackduck&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://osdelivers.blackducksoftware.com/2016/06/08/black-duck-journey-starts-here/&#34;&gt;The Journey Starts Here….&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;回头看他在XenServer发表的博客：&lt;a href=&#34;http://xenserver.org/blog/entry/xenserver-dundee-released.html&#34;&gt;XENSERVER DUNDEE RELEASED&lt;/a&gt;，时间还是上个月24号，没有几天，就开始了在Black Duck的布道：&lt;a href=&#34;http://www.slideshare.net/TimMackey/secure-application-deployment-in-apache-cloudstack&#34;&gt;安全应用的部署&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;让我对Tim产生好奇的原因是他的职业经历，从一名技术人员转到社区经理，然后又成为技术布道师。正如他在博客中所指出的那样，对技术的热爱和坚持始终未变。无论职位如何的变化，但是对于技术的追求是不变的！&lt;/p&gt;
+
+&lt;p&gt;还有就是他对 XenServer 开源的问题无奈：&lt;strong&gt;“One of my primary goals was to ensure that the act of making XenServer “open source” wasn’t simply a marketing stunt, but had some real follow through behind it. ”&lt;/strong&gt;，&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;reactos-意欲替代-windows:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;ReactOS 意欲替代 Windows&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.linuxinsider.com/story/83578.html&#34;&gt;ReactOS Is a Promising Open Source Windows Replacement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;之所以读了下此文，是因为第一次听说这个操作系统，竟然是作了很多年的，一直以来就在实现Windows的开源版本。但是突然之间的出现，是因为Windows10的公关危机？还是微软要搞一个开源的Windows版出来？当新闻看下就好了。注意，它并不是Linux＋高仿windows界面，它是WindowsNT几乎的克隆再现。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;自动种植机器人帮你全程照料菜地:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;自动种植机器人帮你全程照料菜地&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.geeky-gadgets.com/farmbot-open-source-cnc-farming-robot-08-06-2016/&#34;&gt;FarmBot Open Source CNC Farming Robot (video)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如果你喜欢种植，却有没有时间打理，那么这款种菜的机器非常的适合你。最多花半小时学习，然后在自己的手机上操作就可以了。不多说了，想给自己的爱人买一款。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://tr3.cbsistatic.com/hub/i/r/2016/06/08/c00eb188-dca9-426f-a92c-197bedf13a17/resize/620x/ea7f4e130a2d943f4fc5d9482792f32a/cloudapps.jpg&#34; alt=&#34;cloud&#34; /&gt; 图片来源： iStockphoto/outline205&lt;/p&gt;
+
+&lt;h3 id=&#34;whitesource-又一家扫描开源代码漏洞的公司-产品:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;WhiteSource 又一家扫描开源代码漏洞的公司／产品&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://appdevelopermagazine.com/4055/2016/6/8/WhiteSource-Releases-Tool-to-Evaluate-Security-of-Open-Source-Components&#34;&gt;WhiteSource Releases Tool to Evaluate Security of Open Source Components&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;继 Black Duck 之后的又一家了，至少是我听说过的。正如上面Tim总结的开源重大漏洞事件，在开源已经成为当下很多企业的基础设施，漏洞和安全是非常重要的一环了。这大概就是布局的重要性。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;rogue-wave-开始对开源社区-centos-增强支持:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;Rogue Wave 开始对开源社区 CentOS 增强支持&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/rogue-wave-increases-commitment-open-source-community-with-enhanced-support-centos-2132488.htm&#34;&gt;Rogue Wave Increases Commitment to Open Source Community With Enhanced Support for CentOS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;依然是云计算带来的好处。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;vmware-发布开源的物联网网关应用-liota:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;VMware 发布开源的物联网网关应用 Liota&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.infoq.com/news/2016/06/vmware-liota-iot-gateway-sdk&#34;&gt;VMware Releases Liota, an Open Source IoT Gateway Application Framework&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没什么好点评的，每天看着物联网的各种开源以及IT大鳄的布局。但是现实中却一点也没有感觉到，比如招聘、比如产品。运动手环之类的算是物联网的一种应用了，那么其它的呢？我又该如何面对这一技术趋势了呢？ 嗯，先去看下AWS针对物联网的产品，现在就去。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么说aws-lambda对于开源来说是一件糟糕的事:29d3f9ce7a7a4c3634492383e69db100&#34;&gt;为什么说AWS Lambda对于开源来说是一件糟糕的事&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-amazon-lambda-could-be-the-worst-thing-to-happen-to-open-source/&#34;&gt;Why Amazon Lambda could be the worst thing to happen to open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;基于事件驱动的毋需服务器的云计算产品。我喜欢这句话：&lt;strong&gt;&amp;ldquo;Open source is dead. The cloud has killed it.&amp;rdquo;&lt;/strong&gt; 在基础设施领域开源软件彻底将商业软件击溃。但是有了无服务器之后的云服务之后，开源的优势显得就不是那么的明显了。&lt;/p&gt;
+
+&lt;p&gt;这里另外提到的一个产品就是 OpenWhisk，诞生于IBM的Bluemix，基于CloudFoundry的公有云服务。也是开源的serverless的基于事件的平台。拭目以待吧，这个似乎听起来更加的美好和激动人心。尤其是在物联网兴起的今天。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道（2016.6.8）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_8/</link>
+      <pubDate>Wed, 08 Jun 2016 07:08:48 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_8/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;如何吸引顶级的云计算开发人才:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;如何吸引顶级的云计算开发人才&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.informationweek.com/cloud/how-to-attract-top-cloud-dev-talent/a/d-id/1325657&#34;&gt;How To Attract Top Cloud Dev Talent&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文来自于IBM的高层，主管云计算，可以视为IBM对于开源的认识和态度。开源乃时代必然，正如其最后总结的，开源是数字时代、适应快速变化的创新首选，也是招徕顶级人才的不二道路。作者不断的感慨，和他早期制定XML标准时的上世纪90年代已经发生了天翻地覆的变化！新的一代，默认就是开源。并总结了开放治理与社区，得出结论，最重要的是文化的改变。&lt;/p&gt;
+
+&lt;p&gt;文摘好句：&lt;strong&gt;“A developer without access to open source is like an artist without a palette. ”&lt;/strong&gt; &lt;strong&gt;开放的技术意味着代码、社区和文化&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;惠普企业邀请开源开发者加入其下一代计算-the-machine:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;惠普企业邀请开源开发者加入其下一代计算‘The Machine’&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworld.com/article/3079982/hpe-invites-open-source-developers-to-pitch-in-on-the-machine.html&#34;&gt;HPE invites open-source developers to pitch in on &amp;lsquo;The Machine&amp;rsquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;IT大鳄都在开源的世界跑马圈地。随着他们的进入，这片土地的文化也在改变。真正领略开源的人才又有多少？时代在变，反思一下自己，当开源是一种默认的状态时，自己该如何适从？莫非是叶公好龙式的逃避？有的时候，是否开源在其次，真正能够解决实际问题才是王道。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;红帽将其内部的如何做决策向大众开放:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;红帽将其内部的如何做决策向大众开放&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/red-hat-open-sources-how-it-makes-decisions/&#34;&gt;​Red Hat open sources how it makes decisions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;红帽的&lt;a href=&#34;https://github.com/opensourceway/open-decision-framework/blob/master/Open_Decision_Framework-community.md&#34;&gt;开放决策框架&lt;/a&gt;，在GitHub上发布了。看起来似乎没什么：open exchange, participation, meritocracy, community, and release early and often 。能做到的又有几人？ 这个框架值得去研究。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;利用开源来提高你的编程技巧:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;利用开源来提高你的编程技巧&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://dzone.com/articles/use-open-source-to-hone-your-programming-skills&#34;&gt;Use Open Source to Hone Your Programming Skills&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文是一位具有多年编程经验的开发者的肺腑之言，开源的项目和代码能够提高程序员的编码能力。比如如何去阅读代码，如何对待烂代码。最后给出了一些学习开源的URL，比如开源社会大学项目。很好的一篇文章，值得阅读。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;终于有一个替代ms-office开源办公套件了:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;终于有一个替代MS Office开源办公套件了&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/finally-theres-an-open-source-drop-in-replacement-for-ms-office/&#34;&gt;Finally there&amp;rsquo;s an open source drop-in replacement for MS Office&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;烦不烦？&lt;a href=&#34;http://www.softmaker.com/&#34;&gt;SoftMaker&lt;/a&gt;和永中Office有何区别？和LibreOffice了呢？或者是金山了呢？办公套件哪家强？ 这是一家创立了接近20年的德国公司。唉，如果你有空的话，就去了解下吧。我对于红旗中文2000、中标普华办公套件之类的已经烦透了。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道（2016.6.7）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_7/</link>
+      <pubDate>Tue, 07 Jun 2016 10:05:26 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_7/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:e215f3d822e6af17a7a680683dbb8261&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;软件-善良以及你本人:e215f3d822e6af17a7a680683dbb8261&#34;&gt;软件、善良以及你本人&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://medium.com/built-to-adapt/software-and-kindness-and-you-a4dbd23aac30#.k98lm4ql8&#34;&gt;Software and Kindness, and You&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;每家公司都有自己特色的文化，Pivotal 这家由于 Cloud foundry 被人们熟知的公司，比较特别：善良是人类的美德，如果运用得当，可以解决很多棘手的问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开发者们创建了开源的视觉平台-能够让机器人拥有视觉识别功能:e215f3d822e6af17a7a680683dbb8261&#34;&gt;开发者们创建了开源的视觉平台，能够让机器人拥有视觉识别功能&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://tech.firstpost.com/news-analysis/developer-creates-open-source-computer-vision-platform-that-lets-machines-see-318718.html&#34;&gt;Developer creates open source computer vision platform that lets ‘machines see’&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文谈到了两个开源项目：OpenCV 和 Torch，前者是一开源计算的视觉库，后者是开源的科学计算框架。本文有两大看点，0、Google和Facebook合作的成果，能够让两大相互竞争的互联网巨头走在一起的技术。1、 “Google, Facebook and VisionLabs do not consider this a commercial project – its purpose is developing the community and its aim is long-term prospects.” 我直接引用文中的一句话，这就是开源的经济学！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/09/6554314981_7360494444_b-100614748-primary.idge.jpg&#34; alt=&#34;open source&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源的联网-顺势而为:e215f3d822e6af17a7a680683dbb8261&#34;&gt;开源的联网：顺势而为&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3078653/open-source-tools/open-source-networking-the-time-is-now.html&#34;&gt;Open source networking: The time is now&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;文中的观点和言辞蛮夸张的：&lt;strong&gt;“Vendor lock-in is dead. Proprietary specifications are dead. Closed vendor ecosystems are dead.”&lt;/strong&gt; 但是确实倒出了目前网络方面的事实，甚至云计算都瞄准了网络运营商，当然这离不开开源的项目 OpenDayLight 和 OpenNFV。&lt;/p&gt;
+
+&lt;p&gt;依然引用文中的一句话：&lt;strong&gt;“If it’s not open, and if it’s not open source, it’s not happening.”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;物联网与开源-企业界的最佳组合:e215f3d822e6af17a7a680683dbb8261&#34;&gt;物联网与开源：企业界的最佳组合&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3079055/internet-of-things/open-source-and-iot-a-match-made-for-the-enterprise.html&#34;&gt;Open source and IoT: A match made for the enterprise&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;物联网在目前的市场上的竞争可谓是白热化，相应的企业平台也走进了人们的视线。那么利用开源来增加自身的竞争力是不容小视的方法：且看利用开源的5大好处：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;快速的适应变化&lt;/li&gt;
+&lt;li&gt;可扩展&lt;/li&gt;
+&lt;li&gt;适配新的设备制造商&lt;/li&gt;
+&lt;li&gt;开发者社区&lt;/li&gt;
+&lt;li&gt;采用垂直物联网解决方案&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;推荐的5大开源项目：&lt;a href=&#34;http://www.kaaproject.org/&#34;&gt;Kaa 项目&lt;/a&gt;、&lt;a href=&#34;https://www.ge.com/digital/predix&#34;&gt;GE Predix&lt;/a&gt;、&lt;a href=&#34;http://macchina.io/&#34;&gt;Macchina.IO&lt;/a&gt;、&lt;a href=&#34;https://netbeast.co/&#34;&gt;NetBeast&lt;/a&gt;、&lt;a href=&#34;http://nodered.org/&#34;&gt;Node－Red&lt;/a&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;在家办公的技术人员保持生产效率的贴士:e215f3d822e6af17a7a680683dbb8261&#34;&gt;在家办公的技术人员保持生产效率的贴士&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/6/productivity-tips-working-home&#34;&gt;Productivity tips for working from home in tech&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这个只有对于很少的人群适用，远程办公一直是我想实践的，近来应聘PingCAP，也是被他们号称的 remoute所吸引。但是被拒之门外了。这能上升到本土文化的高度，比如自律文化和他律文化、比如工厂模式与知识经济时代的差异等。但是，互联网有时候给人的错觉就是似乎本土是比较前沿的，但是受限于当地的地域，不具有普遍性。&lt;/p&gt;
+
+&lt;p&gt;文中给出的几点建议我是蛮认同的：0、不要在你的办公桌上吃饭，该吃饭的时候最好是能到呼吸新鲜空气的地方去。1、要去运动，或保持运动的习惯。2、要去参加本地的一些用户活动。3、对于办公地点要有“狡兔三窟”的概念。4、至为重要的，和家人沟通好，处理好和他们在一起的时间。在你工作的时候，不要受到他们的干扰。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;一位领导的能力大小决定着其是否会成为组织的瓶颈:e215f3d822e6af17a7a680683dbb8261&#34;&gt;一位领导的能力大小决定着其是否会成为组织的瓶颈&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/concrete-suggestions-running-open-organization&#34;&gt;A leader&amp;rsquo;s ability is the bottleneck of any organization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一位创业者对于《开放的组织》一书的感慨和受教，绝不做自己公司的瓶颈，将决策权交给最擅长的一线人员。本文的作者还举了自己切身体会的例子。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源现在所面临的挑战-云计算-物联网以及闭源的发行版:e215f3d822e6af17a7a680683dbb8261&#34;&gt;开源现在所面临的挑战：云计算、物联网以及闭源的发行版&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/open-sources-big-challenges-today-cloud-iot-and-closed-di&#34;&gt;Open Source&amp;rsquo;s Big Challenges Today: Cloud, IoT and Closed Distributions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;又见&lt;a href=&#34;http://thevarguy.com/author/christopher-tozzi&#34;&gt;Christopher Tozzi&lt;/a&gt;的文章，我唯一关注这位仁兄的理由是他写了一本关于开源软件历史的书籍。但是他毕竟不是计算机科学相关的背景，仅仅是一名历史学家。所以做一些技术的预测和评估就显得不是他所擅长的，有些可笑，但似乎看起来还有理有据。小心，现实中你也要惕防着这些人。我建议本文的作者多读一些关于开源经济学的文章，或者是潜心的研究下技术。至少能够到GitHub或OpenHub上找寻数据来考察。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道（2016.6.5）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_5/</link>
+      <pubDate>Sun, 05 Jun 2016 08:11:24 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_5/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:c5b2991b5a18a6cc35388b440b01a3ac&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;对于开源来说-软件基金会就是新的教堂:c5b2991b5a18a6cc35388b440b01a3ac&#34;&gt;对于开源来说，软件基金会就是新的教堂&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thenewstack.io/for-open-source-software-foundations-are-the-new-cathedrals/&#34;&gt;For Open Source, Software Foundations are the New Cathedrals&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;19年前，Eric Raymond 的论文——&lt;a href=&#34;http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain&#34;&gt;大教堂与集市&lt;/a&gt; 横空出世，从理论上说明了开源的成功是怎么一回事，并成功的预言了开源将会是未来软件创新和开发的重要力量。今天看来，他所有的预言已经成为了现实！&lt;/p&gt;
+
+&lt;p&gt;但是，现在的状况是各种软件基金会的成立，尤其是红帽这样已经利用开源赚到钱的公司，也会去占领理论界。本文阐述的虽然是 OpenShift 一家之见。但是红帽有很多这样的项目，他首先是收购一家商业公司，然后过一阵子将其开源，但是这些项目都基本上是红帽一家公司在玩，即使有一些合作伙伴，那也是它商业上的伙伴。比如&lt;a href=&#34;http://www.ovirt.org&#34;&gt;oVirt&lt;/a&gt;、&lt;a href=&#34;https://github.com/openshift&#34;&gt;Open Shift origin&lt;/a&gt;、&lt;a href=&#34;http://manageiq.org/&#34;&gt;ManageIQ&lt;/a&gt;等，更多信息请参考&lt;a href=&#34;https://www.redhat.com/en/open-source/communities&#34;&gt;红帽发布的社区&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;总结一下，本文虽然是 OpenShift 在为自己辩护，但是基金会目前发展的势头确实也不好，尤其是OpenStack这样的势利的基金会。适兕还需要一定的时间来思考和观察，暂时无法下结论。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开放的社区-商业成功的关键:c5b2991b5a18a6cc35388b440b01a3ac&#34;&gt;开放的社区：商业成功的关键&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.amanet.org/training/articles/Open-Communication-Vital-to-Business-Success.aspx&#34;&gt;Open Communication: Vital to Business Success&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;社区就是一种文化现象，诸如信任、鼓励、沟通等。方法论也就是人类美好的部分，尊重、荣耀、知恩图报等。当你遇到人类糟糕的大的制度之时，或者叫做传统的政治的时候，乃至于根深蒂固的文化。发现社区建设几乎是一件不可能的事，当然除了另外一个，那就是钱！如何将钱演示在逼格之后，这才是在本土做社区要去思考的内容。本土的民间文化是仇视这样一种外在的，再加上近半个世纪的社会主义高尚情怀，乃至于经济改革之后的暴发和唯利是图。你必须去将这些捋清楚了。彻底的去了解的国人的心态之后。再去拿方法论来套。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道（2016.6.4）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_4/</link>
+      <pubDate>Sat, 04 Jun 2016 09:47:44 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_4/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;owncloud-关闭美国的办公室-被-nextcloud-羞辱:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;OwnCloud 关闭美国的办公室，被 Nextcloud 羞辱&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/owncloud-closes-us-office/&#34;&gt;OwnCloud closes US office, blames Nextcloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://fortune.com/2016/06/03/what-happened-to-owncloud/&#34;&gt;Why Did File Sharing Startup OwnCloud Shut Down?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;事情越来越引起人们的关注了，甚至连财富这样的媒体都开始报道了。技术人员集体跳槽，是否和基金会成立、商业模式、开源的保留程度等等因素有关，我们不得而知。但是NextCloud的成立距离其创始人从OwnCloud离职的仅仅两个月的时间，确实有些蹊跷。&lt;/p&gt;
+
+&lt;p&gt;我唯一关注这起事件的原因是因为 OwnCloud 走得是开源的背书。一度都走到成立基金会的地步了，还是闹到了另起炉灶的地步。当年 Node.js 因为基金会的成立的解决了此问题。而OwnCloud 却没有逃脱此命运。正如《财富》所指出的“In English, the idea is to make sure that the open-source software is not under the sway of one company or any particular person.” 其实本土目前的两家走开源路线的公司，如&lt;a href=&#34;http://pingcap.com&#34;&gt;PingCAP&lt;/a&gt;和&lt;a href=&#34;http://hyper.sh&#34;&gt;Hyper_&lt;/a&gt;，创始人的观念仍然停留在“工厂模式”下，分裂、碎片化、无法赚钱等问题会接踵而至。他们在犹豫？还是在大环境下无法做到自觉？不得而知，但是OwnCloud 的例子，可以给他们一点启发。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;著名企业家-互联网技术专家-dan-kohn-被任命为云原生计算基金会的执行总监:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;著名企业家、互联网技术专家 Dan Kohn 被任命为云原生计算基金会的执行总监&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/serial-entrepreneur-internet-technologist-dan-kohn-named-executive-director-cloud-native-2131130.htm&#34;&gt;Serial Entrepreneur and Internet Technologist Dan Kohn Named Executive Director of Cloud Native Computing Foundation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;前两天有 Brian Behlendorf，出任 Linux 基金会对于区块链项目的主席，今又有 Dan 出认CNCF 的执行总监。而这二者均是目前来说最为炙手可热的项目。正如《Open by Design》所言，这是一个开放治理下的世界。Linux 基金会明显是在布局，旗下已有30多个项目，超过一半的为举足轻重的基础设施项目。未来属于开源，更加的属于开放治理！拭目以待！&lt;/p&gt;
+
+&lt;p&gt;本土的做法就是成立各种联盟：中国开源云联盟，中国容器联盟。挂靠在电子产业协会，以看似漫不经心的态度来对待这些。伺机而动！该如何处理和看待这些，是我到现在没有完全理解的部分。它们究竟在干什么？为了联盟而联盟？还是未了特色而特色？还是让国际上的这些NGO拜倒在她们的石榴裙下？最近加入了一个他们的微信群，就是一帮公司的销售或所谓的市场在那里乱侃，和标准无关。和生意、技术更无关。这是我难以理解的世界。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/bus-networking.png&#34; alt=&#34;open&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;linux-基金会声明启动-2016年度-lift-奖学金计划:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;Linux 基金会声明启动 2016年度 LiFT 奖学金计划&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://betanews.com/2016/06/02/linux-foundation-2016-lift-scholarship-program/&#34;&gt;The Linux Foundation announces the 2016 LiFT Scholarship Program &amp;ndash; here&amp;rsquo;s how to apply&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Linux 基金会真的开始动起来了，野心渐渐的露出了水面，大概是OpenStack 这几年走的过去迅猛，让他们开始觉醒了，NGO 也可以玩的很大。也可以玩抢夺未来的高地。&lt;/p&gt;
+
+&lt;p&gt;看到这样的新闻，我忍不住又要吐槽。你们那些个开放联盟，什么电子协会的，或者说普华开源社区之类的，搞过类似的活动吗？不仅能得到好的名声，还能为自己培养人才。唉。有的时候，我也想和大多数“码农”一样，反正有饭吃，低头写代码就好了。这事我管不了，徒增烦恼而已。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源云让计算机创建下一个蒙娜丽莎成为可能:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;开源云让计算机创建下一个蒙娜丽莎成为可能&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.artsy.net/article/artsy-editorial-open-source-could-let-computers-create-the-next-mona-lisa&#34;&gt;Open Source Could Let Computers Create the Next Mona Lisa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这篇文章讲述了人工智能在艺术创作方面的过去和现在。并乐观的展望了未来！包括从学术界走出，到现在各大IT企业角逐到局面。Google、Facebook、Amazon、Microsoft、IBM等等都在此领域发力。无疑开源＋云计算，以及让所有艺术家民主、平等的参与，是所有这一切落地的现实基础。&lt;/p&gt;
+
+&lt;p&gt;大力推荐阅读此文。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;关于开放组织的5个值得分享的故事:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;关于开放组织的5个值得分享的故事&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/year-stories-about-open-organizations-these-were-most-read&#34;&gt;5 most-read stories about open organizations over the past year&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;《Open Organization》这本书对我的影响是什么？再加上《合一的力量》了呢？一个扁平化的组织、一个团队成员均是自我激励性的、有着共同目标的团队。可惜，现实将我击的粉碎。在本土，严重缺乏培养出这样的成员的文化土壤，甚至包括我自己有这样的想法。&lt;/p&gt;
+
+&lt;p&gt;除非那天让我遇到这样的一个人，否则我非常的难易相信真的有这样的组织存在，别给我故事，给我真实！但是，读读还是很让人神往的！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;建立开放社区的8步法:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;建立开放社区的8步法&lt;/h3&gt;
+
+&lt;p&gt;原文链接: &lt;a href=&#34;https://opensource.com/open-organization/16/6/8-steps-more-open-communications&#34;&gt;8 steps to more open communications&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源，和建立响应的社区是密切相关的，二者是相辅相成的。缺了任何一方，开源就难以成功。opensource.com 上关于建立社区的文章渐渐的多了起来，也是大家都在探索和寻求答案的见证。好吧，谈到本土，我就有种绝望的感觉。大家除了钱之外，不会对任何事物产生兴趣。现在的年轻人会好点？不得而知，希望有机会见识一下。但是方法论还是应该学习一下的，人类毕竟除了各自的文化迥异之外，还有一些共同的东西的，比如希望得到人们的尊重和认可。所以该学习还是得学习。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道（2016.6.3）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_3/</link>
+      <pubDate>Fri, 03 Jun 2016 08:59:01 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_3/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;linux-基金会托管项目新增一员猛将-hpe-的开源交换机操作系统:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;Linux 基金会托管项目新增一员猛将：HPE 的开源交换机操作系统&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.datacenterknowledge.com/archives/2016/06/01/linux-foundation-backs-hpes-open-source-switch-os/&#34;&gt;Linux Foundation Backs HPE’s Open Source Switch OS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源并非那么的简单。仅仅以为是将代码开放出来就OK，相关的生态系统建立才是根本。技术人员通常容易犯错误，尤其是自己的辛勤成果，这么牛逼的东西贡献出来，你们应该蜂拥而至的。要知道，今昔不同往日，开源是因为你自己本身资源不足，玩不转了，需要借助外部的力量。这不，一年多以前惠普都开源这款交换件的操作系统，可是硬是没人搭理。这下好了，给Linux基金会托管了，其实，近来Linux基金会托管的项目太多了点，难免会顾此失彼。社区经营若是失败了，再好的治理流程都没有用。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;北美的一些城市减缓了采用开源软件的进度:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;北美的一些城市减缓了采用开源软件的进度&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://lxer.com/module/newswire/view/230161/&#34;&gt;North American Cities Slow to Adopt Open Source Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇很好的文章，值得相关的从业者读读，尤其是中国政府的那些官员们。别装着照顾“国产”了，为人民做点实事。技术应该和国情无关，也和意识形态无关。&lt;/p&gt;
+
+&lt;p&gt;以上评论只是我个人的意淫。我竟然依然对这个烂到根的政府抱有希望？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;如今的互联网就是开源软件支撑起来的-但是-apache-是什么:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;如今的互联网就是开源软件支撑起来的，但是 Apache 是什么？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/enterprise-it/software/this-open-source-software-dominates-the-web-but-what-is-apache-4909894&#34;&gt;This open source software dominates the web, but what is Apache?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有时候，不经意的会发现国外有些网站仍然发一些类似这样扫盲文，短暂而精准。反观本土的媒体，都玩高大上，似乎都是追逐前沿科技，人人都是全才一样。给这样的科普也好、扫盲也罢，留有一些余地，也是不错的选择。&lt;/p&gt;
+
+&lt;p&gt;哦，差点忘了，本文说的是 Apache 小史，讲述了其在互联网早期阶段的重要作用。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;基于开源软件搭建的在线-tosca-培训:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;基于开源软件搭建的在线 TOSCA 培训&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.businesswire.com/news/home/20160602005521/en/Online-TOSCA-Training-GigaSpaces-Built-Open-Source&#34;&gt;Online TOSCA Training Now Available From GigaSpaces Built on Open Source Infrastructure, Open edX and OpenStack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Cloudify 在线学习系统，构建在 open edx 之上，为培训人们的 OpenStack 和 基础设施云而建设的平台。&lt;/p&gt;
+
+&lt;p&gt;本土做在线教育的也不少，但是做着做着就做成了中、高考辅导，不谈这些。推荐这篇文章主要是因为&lt;a href=&#34;https://www.hastexo.com&#34;&gt;hastexo&lt;/a&gt;这家公司，基于开源项目 OpenStack、Ceph、Open edX而展开的咨询和培训业务，此类商业模式在国内难以实施。究其原因，我依然在探索中。目前国内在各个领域的关键部门，都是红卫兵、下乡的一代，或者稍晚一点。他们对于知识的尊重程度，乃至对于企业和人的理解，都是非常偏激的。比如对于软件的认知仍然停留在工厂模式。然而，这股风气还传给了年轻的一代。和他们做生意似乎很难。再加上千丝万缕的权贵、关系等。非常的难以下手。需要继续努力，寻找突破口。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;什么是开源软件:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;什么是开源软件？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/enterprise-it/software/what-is-open-source-software-4911514&#34;&gt;What is open source software?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;依然是小篇科普文，建议本土的媒体应该去学习一下。另外，即使是从业多年的老油条，猛不丁的问个这样的问题，一时半会还真回答不上来。同样建议阅读。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;自然科学杂志-一份由消费者健康中心发起的开源杂志:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;自然科学杂志：一份由消费者健康中心发起的开源杂志&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.prnewswire.com/news-releases/new-open-source-science-journal-launched-by-consumer-wellness-center-the-natural-science-journal-300278023.html&#34;&gt;New open source science journal launched by Consumer Wellness Center: the Natural Science Journal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源已经决非是软件一个领域的事情。这不，开源的、自由的电子杂志就这么诞生了，由独立的科学家们组成。这对于每个关心自己的饮食健康的人，无疑是多了一份保障和认知。&lt;/p&gt;
+
+&lt;p&gt;以一位生活在充满恐惧和威胁的国度的人，小心的祝愿：希望能够坚持办下去！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;旧金山资助开源的投票系统:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;旧金山资助开源的投票系统&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://gcn.com/articles/2016/06/02/sf-open-source-voting.aspx&#34;&gt;San Francisco funds open source voting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;终于有人，或者说政府意识到了商业系统的不靠谱，然后开始按照自己的逻辑来开发，并且试图利用起来自民众的力量。但是我没有从文章中看到系统的代码仓库地址。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;owncloud-的创始人-撕逼-另起炉灶:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;OwnCloud 的创始人“撕逼”另起炉灶&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/owncloud-founder-forks-popular-open-source-cloud/&#34;&gt;OwnCloud founder forks popular open-source cloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一家名为 “Nextcloud” 的公司，是从 OwnCloud 派生出来的分支，有原 OwnCloud 的CTO 和联合创始人发起。OwnCloud 的创始人是那位创建了20多个站点的open－look的人，刚刚把那些站点卖了，专心经营新创立的公司——OwnCloud，没几天就出现了此事。至于内部纷争究竟是因为什么，我们不得而知。但是在开源的商业模式中，类似的撕逼还比较少见。倒是在BSD、Linux等发行版社区中常见。&lt;/p&gt;
+
+&lt;p&gt;不过可以大胆的猜测一下：CEO 和 CTO 因为是否对技术有所保留而争执不下。乃至于是否真诚的对待社区也有分歧。这是最有可能导致分裂的缘由。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_hammerscrewdriver.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;基于开放文化模式的生鲜服务:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;基于开放文化模式的生鲜服务&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/open-approach-food-service-automation&#34;&gt;Transforming food service in Singapore with an open culture model&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;新加坡是典型的温和的独裁的政治形式，但是其下却能发展出以开放为基础的公司文化，确实不可思议。要知道这是一个华人居多的国家，受儒家的文化影响很深。开放的话就意味着会有人抱怨不公，患寡而不患不均。让我们拭目以待吧。我本人是持怀疑态度的。&lt;/p&gt;
+
+&lt;p&gt;文化杀人！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;wipro-hortonworks-联合起来推动开源:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;Wipro，HortonWorks 联合起来推动开源&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.thehindubusinessline.com/info-tech/wipro-hortonworks-tie-up-to-push-open-source-tech/article8682526.ece&#34;&gt;Wipro, Hortonworks tie up to push open source tech&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Wipro 开源旗下产品：Big Data Ready Enterprise，亦是看到了开源对于大数据的形势。没有数据的开发分析数据工具的公司，该如何吸引有数据公司／政府／企业的青睐？开源 Core ＋ 商业工具 ＋ 实际定制，是他们最好的模式。这点竟然在本土也被接受了。因为 Hortonworks 高管声称在中国赚到钱了，真是不可思议。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源人工智能该如何改变技术产业:4195a26c11349e215c8b8f9cc5d62b8a&#34;&gt;开源人工智能该如何改变技术产业？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techradar.com/news/world-of-tech/how-will-open-source-ai-change-the-tech-industry--1322242&#34;&gt;How will open source AI change the tech industry?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇试图预测未来IT产品将由什么来主导的文章，无疑人工智能是大家都非常看好的领域。Google、Facebook、SpaceX、IBM、Amazon等都在这块区域角力，展开竞争。大家应该还对Google的机器人 AlphaGo 战胜韩国棋手的事件记忆犹新。我们只能观望，他们即使开源了，如TensorFlow，绝大多数仍然是看不懂的，比如我。未来的“编程”事业将被AI所取代，这里的编程指的是本土那些永远只在外围苟且的“码农”们干的事情。&lt;/p&gt;
+
+&lt;p&gt;常常读读类似的文章，明白自己就是一渣！！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道（2016.5.31)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_31/</link>
+      <pubDate>Tue, 31 May 2016 08:34:54 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_31/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-1-2-这就是分布式自治组织的数学公式:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;1 + 1 &amp;gt; 2，这就是分布式自治组织的数学公式&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://cointelegraph.com/news/the-dao-mathematics-11-is-actually-more-than-2&#34;&gt;The DAO Mathematics: 1+1 is Actually More Than 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://backfeed.cc/explore-in-depth&#34;&gt;Backfeed&lt;/a&gt;，这家开源的初创公司，要做的事情是去中心组织的操作系统平台，若将区块链对比于 TCP/IP，那么 Backfeed 的协议就是 HTTP。&lt;/p&gt;
+
+&lt;p&gt;Ants, birds swarms and schools of fish have at least one thing in common: they can organize in highly complex systems and perform collective tasks in a seemingly intelligent fashion, without any kind of centralized stewardship.&lt;/p&gt;
+
+&lt;p&gt;上述的这段描述，是我想当喜欢和向往的。可是事实却是相反的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;作组织的催化剂:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;作组织的催化剂&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/resources/catalyst-in-chief&#34;&gt;Catalyst-In-Chief: Download the PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://opensource.com/open-organization&#34;&gt;The Open Organization&lt;/a&gt; 是去年出版的一本书，在宣扬新的公司管理方式，这个PDF 文件作者一年以来的对话集，就像是一款开源软件，这本书出版以后，引来了很多人的争论和怀疑。那么也会引起作者的反思，从而进一步完善书中的内容。但是就像 Linus 所言，政治这种并没有像技术那样是确定的，必定是仁者见仁的。开放的组织究竟能否在本土实现？答案是至少100年不会实现。所以，暂时得放弃这样的向往和研究。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;oracle-宣称-google-杀死了开源:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;Oracle 宣称，Google 杀死了开源&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.fudzilla.com/media/k2/items/cache/cbe014f0ca9851b8fee9ab29c9d5f6fb_L.jpg&#34; alt=&#34;oracle&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.fudzilla.com/news/40773-oracle-claims-google-has-killed-open-source&#34;&gt;Oracle claims Google has killed Open Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Oracle 在业界打官司的名声是非常狼藉的。但是它确实是开源的杀手，比如 MySQL（mariDB）、Hudson（Jenkins）等等。至于这次输给 Google，他们如此之说，是否准确，但是在很多人的心里是不服气的。&lt;/p&gt;
+
+&lt;p&gt;就我个人而言，这次事件可能会引发类似中国民间文化的“秘方”文化，暂时看起来是大众受益，长期看来却是知识产权失去保护，导致更加长久的知识封锁和滥用。结果的证明，还得交给历史，再过5年看看？ 开源的趋势，将会是一片狼籍。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道（2016.5.28）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_28/</link>
+      <pubDate>Sat, 28 May 2016 06:36:00 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_28/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:6b7d6675dfceae1cbd8f7bbb4e971d03&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源-vs-专有-请保持各自的思想:6b7d6675dfceae1cbd8f7bbb4e971d03&#34;&gt;开源 vs 专有 —— 请保持各自的思想&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://insidehpc.com/2016/05/open-source-vs-proprietary-keeping-ideology-equation/&#34;&gt;Open-source vs. Proprietary – Keeping Ideology Out of the Equation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;典型的学究式的文章，绕来绕去，绕来绕去。这篇文章从我个人的角度来讲就是乱弹琴，连一点哲学的意义都没有。就是一个技术宅在自己狭小的世界里扯淡。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;emc-开源其基于-unikernel-的工具-unik-目的是云计算和物联网:6b7d6675dfceae1cbd8f7bbb4e971d03&#34;&gt;EMC 开源其基于 UniKernel 的工具—— UniK，目的是云计算和物联网&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/emc-targets-cloud-and-iot-unik-open-source-unikernel-tool&#34;&gt;EMC Targets Cloud and IoT with UniK, an Open Source Unikernel Tool&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;类似的新闻是不想记录的。但是面对接下来该如何的走，我是否仍在技术上坚守？这是个问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道（2016.5.27)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_27/</link>
+      <pubDate>Fri, 27 May 2016 05:42:40 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_27/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;图书推荐:c1eecffdfe8c52495eb327ad9eb96eb8&#34;&gt;图书推荐&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-art-of-community-http-artofcommunityonline-org-art-of-community-second-edition-pdf:c1eecffdfe8c52495eb327ad9eb96eb8&#34;&gt;&lt;a href=&#34;http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf&#34;&gt;《The art of Community》&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;是的，开源不仅仅是将代码开放出来，让大家能够访问而已，（虽然现在很多公司都是这么做的），开源，无论出发点是什么，都是希望有回报的。尤其是商业的年代！其实某些公司开源的目的就是社区的文化，不外乎两个目的：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;在市场上树立口碑，与自己的用户形成很好的互动。&lt;/li&gt;
+&lt;li&gt;拉拢开发者，知识经济时代，最抢到了最优秀的人才，就进一步多了一些在残酷竞争中获得胜利的筹码。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;那么就该读读这本书，作者是大名鼎鼎的：&lt;a href=&#34;http://www.jonobacon.org/&#34;&gt;Jono Bacon&lt;/a&gt;，见以下介绍：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/profile_pictures/public/jonob_2_sq.jpg&#34; alt=&#34;Image of author 1&#34; /&gt;Jono Bacon 是卓越的社区的经理、演说家、作家。他目前担任 GitHub 的社区总监，曾经担任过的职位有：在 Canonical 担任社区团队的经理、XPRIZE 基金会的社区经理。Bacon 是一名很有特点的作家，就社区管理的布道师和实践者，并且是畅销书《社区的艺术》（O&amp;rsquo;Reilly）的作者。并且是社区领导力峰会（主要定位于社区管理者和领导者的年度会议）的创始人，也是社区领导力论坛的创始人。经常在各种大型的会议就社区管理、领导力、以及最佳实践发表主题演讲。Bacon 还为各种组织和公司提供社区管理的咨询顾问工作，无论社区是公司内部还是外部的，这其中包括有：德国银行、Intel、SAP、索尼移动、三星、开放计算项目、IBM、戴森、Mozilla、全国整理承包商协会、AlienVault等。除了是《社区的艺术》的作者之外，Bacon 还是多本书籍的合著者，如《Linux 桌面 Hacks》（O&amp;rsquo;Reilly）、《官方 Ubuntu 手册》（Prentice Hall）、《PHP 和 MySQL 实践》（Prentice Hall），同时还在超过12家不同的媒体上发布超过500篇的文章，此外，Bacon 还为杂志定期撰写文章。Bacon 也是著名流行的播客 LugRadio 的联合创始人，LugRadio 运营了4年，超过2百万的下载，以及15，000名忠实听众，并在英国和美国均做过5次的现场直播。同时也是播客 Shot Of Jaq 的联合创始人，以及播客 Bad Voltage 的联合创始人，Bad Voltage 是一个关于技术、开源、政治的蛮流行的播客。Bacon 还创建过很多的项目，如Ubuntu Accomplishments、Jokosher、Acire、Python Snippets、 Lernid 软件等。他和他的妻子 Erica、以及儿子 Jack 幸福的生活在加州的旧金山湾区。&lt;/p&gt;
+
+&lt;p&gt;至于图书内容，绝对是填写业界空白的扛鼎之作。注意，有《长尾理论》的作者作序！&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:c1eecffdfe8c52495eb327ad9eb96eb8&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源软件公司尝试新的商业模式:c1eecffdfe8c52495eb327ad9eb96eb8&#34;&gt;开源软件公司尝试新的商业模式&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://blogs.wsj.com/cio/2016/05/25/open-source-software-companies-try-a-new-business-model/&#34;&gt;Open-Source Software Companies Try a New Business Model&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;注意文中提到的三个人物：Tom Reilly of Cloudera; Sysdig&amp;rsquo;s Loris Degioanni; 以及 Spencer Kimbal of Cockroach Labs. 最后这个前 Google 员工所创办的公司和国内的[PingCAP]()产品类似。Cloudera 的观点中特别提到中国，我们的模式在中国都生效了！！！&lt;/p&gt;
+
+&lt;p&gt;开源软件的商业模式，第一代除红帽以外，都没有让人意外的成功。那么日后还有没有机会了？这样的 Open Core 模式，真的能够生效吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;linuxcon-containercon-日本-大咖云集:c1eecffdfe8c52495eb327ad9eb96eb8&#34;&gt;LinuxCon ＋ ContainerCon 日本，大咖云集！&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://news.sys-con.com/node/3830981&#34;&gt;LinuxCon + ContainerCon Japan Schedule Announced, Featuring Top Experts Advancing Open Source Technologies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我只想说的是，什么时候国内有这样的会议和规模？Linus 和 Greg Kroah-Hartman 什么时候能来？ 或者说为什么他们来不了？这点值得思考！ 是否觉得 LinuxCon China 又是一场市场活动？&lt;/p&gt;
+
+&lt;p&gt;现在想想 UnitedStack 程辉说，目前中国的赞助文化还没有形成！ 好吧。可能只能解答上述问题的5%的答案。剩下的原因，尚待大伙挖掘！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;红帽在金融业收获又一条-大鱼:c1eecffdfe8c52495eb327ad9eb96eb8&#34;&gt;红帽在金融业收获又一条“大鱼”&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.bizjournals.com/triangle/blog/techflash/2016/05/deal-affirms-red-hats-financial-sector-push.html&#34;&gt;Deal affirms Red Hat&amp;rsquo;s financial sector push&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;红帽俨然是一位正在崛起的巨人！ 这不又拿下了西班牙的第二大银行的战略合作伙伴的业务。这和开源有关吗？红帽现在的模式已经是巨无霸了，几乎是全套的解决方案。订阅模式！不仅仅是抛售服务这么简单。&lt;/p&gt;
+
+&lt;p&gt;其实，我更为担心的是随着红帽的崛起，其在开源的霸主地位越来的越明显。除了以文化和社区以及金钱来吸引开发者之外，这家公司正在悄然改变着什么。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道（2016.5.26）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_26/</link>
+      <pubDate>Thu, 26 May 2016 06:20:58 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_26/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;5个急需的开源技能:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;5个急需的开源技能&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3074859/hiring/demand-for-open-source-talent-booming.html&#34;&gt;5 open source skills in high demand&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;每年 Linux 基金会都会做一个关于开源工作的调查（过去是Linux），现在Linux已经是常态、默认的系统了。这个可能在美国是相对准确的，而在本土就成为了可以把握的趋势罢了。今年的几个技能🈶️：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Linux、Hadoop、OpenStack等开源项目的开发者&lt;/li&gt;
+&lt;li&gt;DevOps,这是数据中心未来的趋势，在企业的系统管理员们面临一次严峻的技术变革。&lt;/li&gt;
+&lt;li&gt;云技术&lt;/li&gt;
+&lt;li&gt;网络 NFV，SDN等&lt;/li&gt;
+&lt;li&gt;分布式存储&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;N.B.: 作者的思路不知道是怎么想的。角色、技术本身放到一起归类，确实是够酸爽的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源监控研讨会开始召集演讲者了:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;开源监控研讨会开始召集演讲者了！&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.openpr.com/news/342299/Open-Source-Monitoring-Conference-starts-Call-for-Papers-and-Early-Bird-Phase.html&#34;&gt;Open Source Monitoring Conference starts Call for Papers and Early Bird Phase&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;其实，每次看到 FOSS、OSCON、Linux Conf 北美等开源盛会召集 Paper 的时候，心里就会和国内的场景对照一下，很少有在一个会之前放出消息的。而是依靠会议组织者的个人关系或所谓的业内来找的。这反映了文化的差异。包括我自己去年在组织12月份的 OpenStack Meetup 的时候，虽然提早两个月，最后找的演讲者也是靠圈子找的。当然，这个可能有一些差异。值得去反思！&lt;/p&gt;
+
+&lt;p&gt;其实，这篇新闻本身价值不大。OSCON 每年的 call paper，我都非常的心动。刚刚完成的这次，虽然技术偏弱一点，但是大多是我感兴趣的开源文化。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;市场每天都在变化-但有些事情是不变的:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;市场每天都在变化，但有些事情是不变的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/5/marketing-changes-some-things-never-will&#34;&gt;As marketing changes, some things never will&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;社区驱动的市场，有些东西是不变的：品牌，以及分享！ 是的，令人眼花缭乱的世界，什么才是根本，才是我们应该去追寻的。&lt;/p&gt;
+
+&lt;p&gt;Trust、Emotion、Reputation ，人类的有些东西是不会变的。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>时间，你真的能管理好自己的时间吗？</title>
+      <link>http://lijiangsheng1.github.io/posts/reading/the_effective_executive/</link>
+      <pubDate>Wed, 25 May 2016 13:57:13 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/reading/the_effective_executive/</guid>
+      <description>
+
+&lt;p&gt;我突然变成了被无数事情撕成碎片的机械式的、茫然不知所终的怪物，整天似乎看起来忙忙碌碌，然而却在原地打转。我贪得无厌，我恨不能将所有感兴趣的知识都装进自己的脑子。似乎一停下来，又茫然四顾、踌躇满志，一时之间又不知道该干些什么。&lt;/p&gt;
+
+&lt;p&gt;看完《卓有成效的管理者》之后，尤其是对于时间的论述，我跺脚之余，唯有感叹。感叹这几年所做的傻事。&lt;/p&gt;
+
+&lt;h2 id=&#34;废话:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;废话&lt;/h2&gt;
+
+&lt;p&gt;这本书是在 Kindle 上断断续续看完的，差不多花了一个月的时间。是参加 QCon北京2016 的会议时听徐凯强的演讲时，所强烈的推荐的两本书之一，另外一本《营销管理》正在阅读中。在读的过程中，我完全失去了思考能力的傻子一样的读了下来，如芒在背！书中的卓有成效跟我一点边都不沾。多年以来我所学、所努力的，效率如此之低，全和我自身有关。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://img3.doubanio.com/lpic/s1441092.jpg&#34; alt=&#34;image of book&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;书中摘抄以及我的笔记笔记:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;书中摘抄以及我的笔记笔记&lt;/h2&gt;
+
+&lt;h3 id=&#34;推荐序:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;推荐序&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没有完美无缺的人，一个人无论多么有才，十全十美，比起整个人类拥有的知识和能力，比起组织拥有的力量来，都无足挂齿。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这大约就是人们喜欢去大公司历练的原因。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一次只做一件事，所谓“一心不可二用”，或”不同时捕捉两只兔子”，忙忙碌碌，一事无成的人，往往低估做成一件事情所需要的时间，其喜欢同时做几件事；所谓“眉毛胡子一把抓”，乱了章法，乱了方寸，乱了阵脚。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这明明就是在说我吗！我必须把这个人生中最大的错误毛病改正。focus 到某点上。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如果考虑到我们的“能力”有限，事情更是这样。必须把自己的所有长处，集中于成败的关键或机会上，这是唯一能够产生成果的办法。不能几件事情齐头并进。只有莫扎特这样的天才，才能同时作曲数首，且都是杰作。而其他一流的作曲家，甚至如巴赫、韩德尔、海顿和威尔第，都只能专心于一曲，完成后再做另一曲。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;承认自己是个白痴！请做好一件事。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;只有弄清事实真相，才能把握事情的性质，形成正确的思想、观念或认识，才能做出正确的决策。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我的疑问：What is Truth?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;前言:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;前言&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;管理者能否管理好别人从来就没有被真正验证过，但管理者却完全可以管理好自己。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;悦人者先悦己。
+N.B.: 我不知道我当时看到这段话是怎么想的，现在看起来评价的有点走神。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么需要卓有成效的管理者:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;为什么需要卓有成效的管理者&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我们无法对知识工作者进行严密和细致的督导，我们只能协助他们。知识工作者本人必须自己管理自己，自觉地完成任务，自觉地作出贡献，自觉地追求工作效益。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;但以我目前所经历的公司和所谓的管理者而言，均为达到如此的境界。
+N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这样的。要自我激励！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;的确，谁也不知道一位知识工作者在想些什么，然而，思考却正是他的本分，他既然是在思考，他就是在工作。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是否有一天，能够量化思考，那可是独裁者们梦寐以求的！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;美国是这方面的典型，美国今天占优势的资源当首推教育。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;教育是根本！对比国内的教育，那叫一个惨，愚民教育。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;管理者必须面对的现实:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;管理者必须面对的现实&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一位管理者如果不能致力于使工作卓有成效，现实必将迫使他一事无成。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我个人的例子也就不过如此。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;每一位知识工作者都有各自的专长，各自的志趣。有人热衷于税务会计，有人热衷于细菌学，也有人热衷于培训市政人员。而就在隔壁办公的另外一个人也许只对成本会计重的一些细节感兴趣，或只注意医院的经营情况，要不就是只关注市政的法律问题。他们每个人都需要使用别人的成果。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;要善于去协助，以及利用他人的成果。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;人数越少，规模越小，内部的工作越轻，组织就越接近于完美，就越有存在的理由，而组织存在的唯一理由，就是为外部环境提供良好的服务。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;存在的正当性。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;对有效性的认知:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;对有效性的认知&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;过不多久我们就会发现，我们正在勉强做哪些根本不可能办到的事，或原本就无利可图的事。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;而我所犯的错误却是没有清楚的认识自己，过于高估自己的能力，以及糟糕的时间安排。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;卓有成效可以学会吗:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;卓有成效可以学会吗？&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;学习习惯就非得反复地实践不可。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;三年方能熟练一个最简单的动作。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没有任何理由不让普通人通过练习来获得胜任某项工作的能力。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我那篇 Training 的文章中重要的理论支柱之一。&lt;/p&gt;
+
+&lt;p&gt;N.B.：这篇文章不知道什么时候能够写完，立论太大，以现有的能力收拾不回来。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;第二章-掌握自己的时间:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;第二章 掌握自己的时间&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;时间的供给，丝毫没有弹性。不管时间的需求有多大，供给绝不可能增加。时间的供需没有价格可资调节，也无法绘制边际效用曲线。而且时间稍纵即逝，根本无法储存。昨天的时间过去了，永远不再回来。所以，时间永远是最短缺的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;逝者如斯夫！不舍昼夜！更何况人还需要还斯宾诺莎称之为本金的东西——死亡，以及利息——睡眠。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如果完全靠记忆，我们恐怕说不清楚自己的时间是怎样打发的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这一点有很多的哲学家和艺术家都表达过，记忆是最为靠不住的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有效的管理者知道，如果要管理好自己的时间，首先应该了解自己的时间实际上是怎么耗用的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是我目前必须去努力学习掌握的！我的时间都用在了哪里？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;时间对管理者的压力:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;时间对管理者的压力&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;但是，即使是只想获得最低程度的有效性，管理者的绝大部份任务也需要相当多的整块时间，如果每一次所花的时间少于这个极限，事情就做不好。所花的时间就是浪费，再做就得从头做起。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;尽最大可能将自己的时间连成块。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如果你真想影响别人，那至少需要一个小时以上，如果你想和别人建立良好的人际关系，就需要更多的时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;与人相处是最为浪费时间的。所以要省出来哪些没有必要的社交的时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;原因很简单：上帝创造人时并没有想到他们将来要管理组织。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;社会的非自然属性。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;东欧的斯拉夫人有句谚语：“用脚走不通的路，用头可以走得通。”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;不要去蛮干！！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如果时间短促，一个人就只能考虑他已经熟悉的事，只能做他曾经做过的事。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;相应的创新活动就非常的少了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;如何诊断自己的时间:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;如何诊断自己的时间&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;但是管理时间必须持之以恒，才能避免再回到浪费的状态上去。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;任何事情要出现结果就必须经过时间的验证。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;其实，对付这类事情，只要审度一下对于组织有无贡献，对于他本人有无贡献，或是对于对方的组织有无贡献。如果都没有，只要谢绝就得了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这样作者就忽略了一个非常重要的因素！文化与习俗。&lt;/p&gt;
+
+&lt;p&gt;N.B.: 在本土的文化中，尤其是民间的文化，无用功，说话、做事绕来绕去，不知道何时奔主题。唉。。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;消除浪费时间的活动:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;消除浪费时间的活动&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;管理好的工厂，总是单调无味，没有任何刺激动人的事件，那是因为凡是可能发生的危机都早已预见，且已将解决办法变成例行工作了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这和常见的创业理论，大公司的形象是有出入的！以后需小心留意。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;在精干的组织里，人的活动空间较大，不至于互相冲突，工作时也不用每次都向别人说明。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;似乎在颇先进的信息技术行业也适用。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;用一个人，应该是每天的工作都需要用他，偶尔才有需要的专家，必要时才需向他请教的专家，就不该正式聘用。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这个现代管理应该在（本土）推广。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;统一安排可以自由支配的时间:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;统一安排可以自由支配的时间&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有效的管理者知道他必须集中他的自由时间，他知道他需要集中整块时间，时间分割成许多段，等于没有时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我必须将这个毛病改掉。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;人们以为可以晚上加班，因此反倒没有抓紧白天的工作时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这点大概就是社会主义常常犯的错误。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;总而言之，时间时最稀有的资源，若不将时间管理好，要想管理好其他事情就只是空谈。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;贪婪的心理和高估自己的精力。导致我一事无成的最为直接的理由。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“认识你自己”&lt;/strong&gt;，这句充满智慧的哲言，对我们一般人来说，真是太难理解了，可是，&lt;strong&gt;“认识你的时间”&lt;/strong&gt;，却是任何人只要肯做就能做到的，这是通向贡献和有效性之路。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;自己的时间仅仅是自己众多属性中的一点而已，我还没能了解。实在是太对不起自己了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;管理者的承诺:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;管理者的承诺&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;事实上一个组织之所以存在，不论其产品是商品，是政府的服务，还是健康医疗服务，最终的目的总是为了顾客，为了服务对象，为了病人。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;真理，好好想想我能够为人提供什么？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;不管怎样，如果连管理者自己都弄不清楚应有什么直接成果，那就别想有任何成果了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我的直接成果是什么？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;组织如果不能持续存在，就是失败。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没有组织就什么也不是。（是在说自己目前创业的状态了吗？）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;正确的人际关系:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;正确的人际关系&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;各路英雄的合作，贵在自动自发，贵在能依靠情势的逻辑和任务的需要，而非仅依赖正式的组织结构。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;但是二千年的教条必须是有政治组织。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一般人都是根据自己设定的目标和要求成长起来的，知识工作者更是如此，他们自己认为应有怎样的成就，就会有怎样的成长。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;你的目标究竟是什么？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;要用人所长:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;要用人所长&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有效的管理者知道他们之所以用人，是用人来做事，而不是用人来投主管之所好。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;上钢上线，该如何处置？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;能建立起第一流经营体制的管理者，通常不会与周围的同事及下属保持过分亲密的关系。不能根据个人的好恶来挑选人才，而应当看他们能干些什么，看他们的工作表现，绝不能看他们是否顺从自己。因此，为了确保能够选用适当的人选，管理者应该与直接的同事或下属保持适当的距离。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这大概是我学会的第一课。（付出了惨痛的教训。）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;凡是最能充分发挥其长处，而且最受到挑战的人，他的工作肯定最起劲，也肯定最能有所成就。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;恰如其分。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;正直的品格本身并不一定能成就什么，但是一个人如果缺乏正直和诚实，则足以败事。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;三观是必须考查的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;任何一项人事任命都是一个赌注，但是，只要能抓住某人的长处是什么，这至少是合理的赌注。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;眼睛整天盯着短处，处处设防。何以成气候？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;用人所长是卓有成效的管理者必须具备的一种素质，是一个组织工作是否有效的关键，也是知识工作者和社会不可或缺的素质。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;道义责任！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;要事优先:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;要事优先&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;卓有成效的管理者总是把重要的事情放在签名先做（first things first），而且一次只做好一件事（do one thing at a time）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;反观自己仍然是非常的 Low。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;决策的5个要素:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;决策的5个要素&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;社会生活及政治生活中最显著的一项事实是：暂时性的事物往往具有永久性。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;最显著如我，总是贪婪的做着各式各样的事情。要作出选择，然后义无反顾的去做。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;人总有采取折中办法的倾向，如果我们不知道符合规范及边界条件的“正确”决策是什么。就无法辨别正确的折中和错误的折中之间的区别。最终不免走到错误的折中的方向去。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;中庸之道并非是中国文化之独创，而是人类的人性弱点罢了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;个人见解和决策的关系1:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;个人见解和决策的关系1&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有效的决策人通常必先假定传统的衡量方法并非适当的衡量方法。否则，他就用不着做决策了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;人类历史。（是的，引经据典者必无良方。但是会以年轻为借口，然而又尾大不掉。）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;管理者的决策不是从“众口一词”中得来的。好的决策，应以互相冲突的意见为基础。从不同的观点和不同的判断中选择。所以，除非有不同的见解，否则就不可能有决策。这是决策的第一条原则。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;对于我来说，从没有见过如此的管理者。多数都是热衷于权威和权力的好手。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;看似简单的道理，操作起来还真是颇为复杂。尤其是本土的情面文化。需要深入思考。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;决策与电脑:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;决策与电脑&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;工具不会是任何结果的原因。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;工具是可以加速结果的输出。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;第六章-结论-管理者必须卓有成效:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;第六章，结论：管理者必须卓有成效&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;所谓的“领导力”，并不是指智慧和天赋，而是指人人皆可达成的专心、决心和目标。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，专心、决心和目标。是可以通过努力获取到的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;今天的组织，需要的是由平凡人来做不平凡的事业。这正是有效的管理者所应自勉的目标。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;体现团队的力量。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;写在最后:5011b3242c1aa0cec70e9823d7a56aa0&#34;&gt;写在最后&lt;/h2&gt;
+
+&lt;p&gt;很久没有写书评了，总是在计较着每本书的是否看完，已经忘记了，为什么要看书？看书是要获取什么？ 我是不是应该打自己几个耳光，好好的吸取一下这个浪费时间的教训？&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
