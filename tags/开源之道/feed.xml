@@ -7,8 +7,71 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 11 Jun 2016 10:37:24 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2016 07:21:54 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.12）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_12/</link>
+      <pubDate>Sun, 12 Jun 2016 07:21:54 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_12/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;异构的存储难以聚合的困境:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;异构的存储难以聚合的困境&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://storageswiss.com/2016/05/24/heterogeneous-storage-analytics-difficult-to-gather/&#34;&gt;Heterogeneous Storage Analytics Difficult to Gather&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开明宗义，&lt;strong&gt;知识就是力量，但是当你的知识是碎片化、东拼西凑出来的话，就很难成为力量。&lt;/strong&gt; 这篇文章谈到了现在存储的症结——多样化的异构：混合着软件定义存储、传统的商业存储、flash或混合的盘阵、再加上流行的云存储，以及采用的不同类型的存储网络。带来的挑战：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;如何能够简化管理，从这些设备上收集统计数据。&lt;/li&gt;
+&lt;li&gt;从中收集有价值的信息。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;举例而言，第一种情况如不同的网络协议：Fibre Channel, iSCSI, FCoE, NFS, SMB,或者是基于云的存储服务，如AWS的S3；第二种情况如不同的数据格式： CSV, HTML or XML,Json，以及SQL，NoSQL等。&lt;/p&gt;
+
+&lt;p&gt;Storage Switzerland 分析师最后并没有给出解决这个问题的答案，只是说都是要付出代价的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://3.bp.blogspot.com/-wUxOkLmfdPY/V1uPT8Y9fYI/AAAAAAAAKu0/u8kiBrspAoMWSycSP4WEkJRKYX9T3ddcACLcB/s640/Pictures2.jpg&#34; alt=&#34;foss&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;报告-印度政府采用自由和开源软件的经济影响:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;报告：印度政府采用自由和开源软件的经济影响&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.indrastra.com/2016/06/REPORT-Assessment-Economic-Impact-of-usage-FOSS-by-GOI-002-06-2016-0015.html&#34;&gt;Economic Impact of Free and Open Source Software Usage in Indian Government&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;阅读如此的报告，会难免和自己所在的地方作对比，比如本土竟是披着国产、民族大旗的“开源软件”公司，让你啼笑皆非。不谈也罢。&lt;/p&gt;
+
+&lt;p&gt;看报告就会想到年轻的自己，冲动的自己，以数据说话本应是一名工程师应有的能力，但是往往拍案而起，最后造成Boss的误解。应该深刻反思自己写报告和说服人的能力，尤其是看到华为的&lt;a href=&#34;http://www.ccf.org.cn/resources/1190201776262/2016/02/16/7.pdf&#34;&gt;企业视角看到的开源 ——华为开源5年实践经验&lt;/a&gt;，更加的应该汗颜。要有耐心的以理服人。不要冲动！&lt;/p&gt;
+
+&lt;p&gt;哦，对了，文中谈到世界各国政府都以各种理由采用FOSS，如增进电子政务的效率、避免厂商锁定，提倡创业精神;促进民主和社会技术联盟;和ICT技能转移到未得到服务的人口。我想这话一定是没有谈到它东边的邻国。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;微软的人工智能工具包可利用多gpu性能:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;微软的人工智能工具包可利用多GPU性能&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.eweek.com/enterprise-apps/microsofts-ai-toolkit-gains-multi-gpu-performance-jump.html&#34;&gt;Microsoft&amp;rsquo;s AI Toolkit Gains Multi-GPU Performance Jump&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;又是深度学习的内容，微软开源的工具：&lt;a href=&#34;https://www.cntk.ai&#34;&gt; Computational Network Toolkit&lt;/a&gt;又发布了新的版本，可以使用诸如Nvidia的多GPU的能力。又是GitHub上的开源。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.11）</title>

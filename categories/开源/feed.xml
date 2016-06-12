@@ -7,8 +7,71 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 11 Jun 2016 16:47:20 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2016 07:21:54 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.12）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_12/</link>
+      <pubDate>Sun, 12 Jun 2016 07:21:54 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_12/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;异构的存储难以聚合的困境:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;异构的存储难以聚合的困境&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://storageswiss.com/2016/05/24/heterogeneous-storage-analytics-difficult-to-gather/&#34;&gt;Heterogeneous Storage Analytics Difficult to Gather&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开明宗义，&lt;strong&gt;知识就是力量，但是当你的知识是碎片化、东拼西凑出来的话，就很难成为力量。&lt;/strong&gt; 这篇文章谈到了现在存储的症结——多样化的异构：混合着软件定义存储、传统的商业存储、flash或混合的盘阵、再加上流行的云存储，以及采用的不同类型的存储网络。带来的挑战：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;如何能够简化管理，从这些设备上收集统计数据。&lt;/li&gt;
+&lt;li&gt;从中收集有价值的信息。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;举例而言，第一种情况如不同的网络协议：Fibre Channel, iSCSI, FCoE, NFS, SMB,或者是基于云的存储服务，如AWS的S3；第二种情况如不同的数据格式： CSV, HTML or XML,Json，以及SQL，NoSQL等。&lt;/p&gt;
+
+&lt;p&gt;Storage Switzerland 分析师最后并没有给出解决这个问题的答案，只是说都是要付出代价的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://3.bp.blogspot.com/-wUxOkLmfdPY/V1uPT8Y9fYI/AAAAAAAAKu0/u8kiBrspAoMWSycSP4WEkJRKYX9T3ddcACLcB/s640/Pictures2.jpg&#34; alt=&#34;foss&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;报告-印度政府采用自由和开源软件的经济影响:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;报告：印度政府采用自由和开源软件的经济影响&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.indrastra.com/2016/06/REPORT-Assessment-Economic-Impact-of-usage-FOSS-by-GOI-002-06-2016-0015.html&#34;&gt;Economic Impact of Free and Open Source Software Usage in Indian Government&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;阅读如此的报告，会难免和自己所在的地方作对比，比如本土竟是披着国产、民族大旗的“开源软件”公司，让你啼笑皆非。不谈也罢。&lt;/p&gt;
+
+&lt;p&gt;看报告就会想到年轻的自己，冲动的自己，以数据说话本应是一名工程师应有的能力，但是往往拍案而起，最后造成Boss的误解。应该深刻反思自己写报告和说服人的能力，尤其是看到华为的&lt;a href=&#34;http://www.ccf.org.cn/resources/1190201776262/2016/02/16/7.pdf&#34;&gt;企业视角看到的开源 ——华为开源5年实践经验&lt;/a&gt;，更加的应该汗颜。要有耐心的以理服人。不要冲动！&lt;/p&gt;
+
+&lt;p&gt;哦，对了，文中谈到世界各国政府都以各种理由采用FOSS，如增进电子政务的效率、避免厂商锁定，提倡创业精神;促进民主和社会技术联盟;和ICT技能转移到未得到服务的人口。我想这话一定是没有谈到它东边的邻国。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;微软的人工智能工具包可利用多gpu性能:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;微软的人工智能工具包可利用多GPU性能&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.eweek.com/enterprise-apps/microsofts-ai-toolkit-gains-multi-gpu-performance-jump.html&#34;&gt;Microsoft&amp;rsquo;s AI Toolkit Gains Multi-GPU Performance Jump&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;又是深度学习的内容，微软开源的工具：&lt;a href=&#34;https://www.cntk.ai&#34;&gt; Computational Network Toolkit&lt;/a&gt;又发布了新的版本，可以使用诸如Nvidia的多GPU的能力。又是GitHub上的开源。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>论“回馈社区”的荒诞</title>
@@ -1039,72 +1102,6 @@
 &lt;p&gt;这是值得一读的故事，由电影和音乐电台的故事，然后想到开源。这个思维跳跃是非常棒的！ 用人们熟悉的故事来解释抽象的事情。&lt;/p&gt;
 
 &lt;p&gt;你必须为市场提供价值！ 需要耐心的布局。没有任何事可以一蹴而就的。《火星救援》里的 Andy、Cloud Foundry 在商业化之前经过了多年的修炼、Radiohead花了近10年的时间做他们的专辑。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.05.24）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_24/</link>
-      <pubDate>Tue, 24 May 2016 06:12:10 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_24/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:f8904db22139ac2379db127d3e78ef34&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;有关-dc-os-开源项目的释疑:f8904db22139ac2379db127d3e78ef34&#34;&gt;有关 DC/OS 开源项目的释疑&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/all-about-dcos-open-source-project&#34;&gt;All About the DC/OS Open Source Project&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;遴选此文，完全是我个人的意思，不顾读者的。DC/OS 开源这件事情，在4月份算是一件开源的热点盛事了。Mesosphere 将他们的商业产品开源了，其实，他们在这方面做得蛮好的，因为按照这年头玩 Open Core 的模式，Mesos 项目已经非常的不错了。好吧，看看来自Mesosphere 产品经理的解释，我只关注以下两点：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1,000 dual-core servers become 1 computer with 2,000 cores。这绝对是对于新时代数据中心的新思维方式。&lt;/li&gt;
-&lt;li&gt;开源能够带来更好的创新和以及更多的用户，形成更加良好的生态系统。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;大教堂与集市-19年以来-影响深远:f8904db22139ac2379db127d3e78ef34&#34;&gt;《大教堂与集市》19年以来，影响深远&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/5/19-years-later-cathedral-and-bazaar-still-moves-us&#34;&gt;19 years later, The Cathedral and the Bazaar still moves us&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Eric Raymond ，开源运动的发起者和领袖，其作品《大教堂与集市》，从社会学家的角度试图阐释 Linux 等开源项目成功的原因，虽然自从出版以来一直争议不断。但是这本书本身却又进一步影响到了开源本身，比如 Mozilla 的出现等等。
-文中观点：《大教堂与集市》是每一位 Coding Freedom 的开发者的必修课，“成人礼”！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;是时候该抉择了-要不要在开源上投资:f8904db22139ac2379db127d3e78ef34&#34;&gt;是时候该抉择了：要不要在开源上投资？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/5/its-time-to-invest-in-open-source&#34;&gt;Time to choose: Are you investing in open source or not?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这篇更像是到使用软件的公司、政府、或其它组织推销开源的软文，搞市场和产品的人们可以学习一下，逻辑就是：开源已经这么流行了，你看大公司天天都在开源项目，你不使用开源就错过了这个时代最美好的事情。 好吧！ 其实，我的直觉是商业早晚会把开源毁掉，正如 Richard Stallman 所担心的一样。我现在下这个结论可能为时尚早，但是，看每天的新闻、软文、理论界等，大体上有这么一个趋势。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;图书推荐:f8904db22139ac2379db127d3e78ef34&#34;&gt;图书推荐&lt;/h2&gt;
-
-&lt;h3 id=&#34;自由编码-黑客的伦理与美学:f8904db22139ac2379db127d3e78ef34&#34;&gt;自由编码：黑客的伦理与美学&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://gabriellacoleman.org/Coleman-Coding-Freedom.pdf&#34;&gt;Coding Freedom：THE ETHICS AND AESTHETICS OF HACKING&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;2013年出版的书籍，作者 E. GABRIELLA COLEMAN。值得一读？请等待我的读后感。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
