@@ -7,8 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 Jun 2016 08:13:21 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jun 2016 07:24:11 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.14)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_14/</link>
+      <pubDate>Tue, 14 Jun 2016 07:24:11 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_14/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:2526d2722fc3509a696c1be35570b940&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;在开源中获取成功需要一支提交者大军吗:2526d2722fc3509a696c1be35570b940&#34;&gt;在开源中获取成功需要一支提交者大军吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://ostatic.com/blog/do-you-need-an-army-of-committers-to-succeed-in-open-source&#34;&gt;Do You Need An Army of Committers to Succeed in Open Source?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;该文是对一篇旧文——2013年的分析文章：&lt;a href=&#34;http://redmonk.com/dberkholz/2013/04/22/the-size-of-open-source-communities-and-its-impact-upon-activity-licensing-and-hosting/&#34;&gt;The size of open-source communities and its impact upon activity, licensing, and hosting&lt;/a&gt;——的结论的总结性文章。其实引起我兴趣的是原文，正如华为的欧建深想使用大数据来分析开源，制造模型，从过去的数据中去分析试图看出未来的趋势。此文我将会深度阅读。另外，要关注这家Redmonk的站点，前两天还看到他们对于开源的未来的论断。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源是赢了-接下来干点什么:2526d2722fc3509a696c1be35570b940&#34;&gt;开源是赢了：接下来干点什么？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://adtmag.com/blogs/watersworks/2016/06/open-source-wins.aspx&#34;&gt;Open Source Wins: Now What?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文可能道出了所有过去开源界人士的心声，本文所描述的是开源界的元老，Debian 最早的开发者之一，Bdale Garbee，在惠普工作了20年，退休之后，又重新回到惠普实验室，以下引用两句精彩的英语：&lt;strong&gt;It&amp;rsquo;s just different today. I&amp;rsquo;m no longer beating on people&amp;rsquo;s doors to get them to open up and listen.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I&amp;rsquo;ve had this conversation with some of my peers in the industry who have also been involved with free and open source for a very long time, where we look at each other and say, &amp;lsquo;Oh my god, we won! Now what?&amp;rsquo;&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/openocean.jpg&#34; alt=&#34;pirate&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;使用海盗指标来衡量开源项目的成功:2526d2722fc3509a696c1be35570b940&#34;&gt;使用海盗指标来衡量开源项目的成功&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/6/pirate-metrics&#34;&gt;Using Pirate Metrics to measure success of open source projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;无独有偶，本文也提到了RedMonk 的哪篇分析文章。是不是错过了什么？&lt;/p&gt;
+
+&lt;p&gt;先来看海盗指标：一图胜千言&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/success1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;然后，照猫画虎——往里套就可以了。Cloudslang 是这么做的：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/success2.png&#34; alt=&#34;cloudslang&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;9家it界科技巨头拥抱开源浪潮:2526d2722fc3509a696c1be35570b940&#34;&gt;9家IT界科技巨头拥抱开源浪潮&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.informationweek.com/big-data/software-platforms/9-tech-giants-embracing-the-open-source-revolution/d/d-id/1325872?_mc=RSS%5FIWK%5FEDT&#34;&gt;9 Tech Giants Embracing The Open Source Revolution&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;其实从昨天开始只剩下8家了，因为 Linkedin 卖给了微软。本文是常见的配图＋说明，一张图一个故事或一个公司。个人以为本文的立论还是蛮好的，虽然整体看来有点虎头蛇尾，开始文章称：15年过去了，拿微软为例，15年他称开源是癌症，15年后称微软爱Linux。&lt;/p&gt;
+
+&lt;p&gt;规则变了，就得重新洗牌：&lt;strong&gt;Technology vendors are recognizing that by putting some technology into open source, they gain collaboration from other great minds to help the project mature more quickly.&lt;/strong&gt; 谁在这个浪潮中能赢了呢？让我们拭目以待。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.13）</title>
@@ -1064,72 +1136,6 @@
 &lt;p&gt;社区驱动的市场，有些东西是不变的：品牌，以及分享！ 是的，令人眼花缭乱的世界，什么才是根本，才是我们应该去追寻的。&lt;/p&gt;
 
 &lt;p&gt;Trust、Emotion、Reputation ，人类的有些东西是不会变的。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.05.24）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_24/</link>
-      <pubDate>Tue, 24 May 2016 06:12:10 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_24/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:f8904db22139ac2379db127d3e78ef34&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;有关-dc-os-开源项目的释疑:f8904db22139ac2379db127d3e78ef34&#34;&gt;有关 DC/OS 开源项目的释疑&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/all-about-dcos-open-source-project&#34;&gt;All About the DC/OS Open Source Project&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;遴选此文，完全是我个人的意思，不顾读者的。DC/OS 开源这件事情，在4月份算是一件开源的热点盛事了。Mesosphere 将他们的商业产品开源了，其实，他们在这方面做得蛮好的，因为按照这年头玩 Open Core 的模式，Mesos 项目已经非常的不错了。好吧，看看来自Mesosphere 产品经理的解释，我只关注以下两点：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1,000 dual-core servers become 1 computer with 2,000 cores。这绝对是对于新时代数据中心的新思维方式。&lt;/li&gt;
-&lt;li&gt;开源能够带来更好的创新和以及更多的用户，形成更加良好的生态系统。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;大教堂与集市-19年以来-影响深远:f8904db22139ac2379db127d3e78ef34&#34;&gt;《大教堂与集市》19年以来，影响深远&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/5/19-years-later-cathedral-and-bazaar-still-moves-us&#34;&gt;19 years later, The Cathedral and the Bazaar still moves us&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Eric Raymond ，开源运动的发起者和领袖，其作品《大教堂与集市》，从社会学家的角度试图阐释 Linux 等开源项目成功的原因，虽然自从出版以来一直争议不断。但是这本书本身却又进一步影响到了开源本身，比如 Mozilla 的出现等等。
-文中观点：《大教堂与集市》是每一位 Coding Freedom 的开发者的必修课，“成人礼”！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;是时候该抉择了-要不要在开源上投资:f8904db22139ac2379db127d3e78ef34&#34;&gt;是时候该抉择了：要不要在开源上投资？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/5/its-time-to-invest-in-open-source&#34;&gt;Time to choose: Are you investing in open source or not?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这篇更像是到使用软件的公司、政府、或其它组织推销开源的软文，搞市场和产品的人们可以学习一下，逻辑就是：开源已经这么流行了，你看大公司天天都在开源项目，你不使用开源就错过了这个时代最美好的事情。 好吧！ 其实，我的直觉是商业早晚会把开源毁掉，正如 Richard Stallman 所担心的一样。我现在下这个结论可能为时尚早，但是，看每天的新闻、软文、理论界等，大体上有这么一个趋势。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;图书推荐:f8904db22139ac2379db127d3e78ef34&#34;&gt;图书推荐&lt;/h2&gt;
-
-&lt;h3 id=&#34;自由编码-黑客的伦理与美学:f8904db22139ac2379db127d3e78ef34&#34;&gt;自由编码：黑客的伦理与美学&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://gabriellacoleman.org/Coleman-Coding-Freedom.pdf&#34;&gt;Coding Freedom：THE ETHICS AND AESTHETICS OF HACKING&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;2013年出版的书籍，作者 E. GABRIELLA COLEMAN。值得一读？请等待我的读后感。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

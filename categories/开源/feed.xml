@@ -7,8 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 Jun 2016 08:13:21 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jun 2016 07:24:11 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.14)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_14/</link>
+      <pubDate>Tue, 14 Jun 2016 07:24:11 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_14/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:2526d2722fc3509a696c1be35570b940&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;在开源中获取成功需要一支提交者大军吗:2526d2722fc3509a696c1be35570b940&#34;&gt;在开源中获取成功需要一支提交者大军吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://ostatic.com/blog/do-you-need-an-army-of-committers-to-succeed-in-open-source&#34;&gt;Do You Need An Army of Committers to Succeed in Open Source?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;该文是对一篇旧文——2013年的分析文章：&lt;a href=&#34;http://redmonk.com/dberkholz/2013/04/22/the-size-of-open-source-communities-and-its-impact-upon-activity-licensing-and-hosting/&#34;&gt;The size of open-source communities and its impact upon activity, licensing, and hosting&lt;/a&gt;——的结论的总结性文章。其实引起我兴趣的是原文，正如华为的欧建深想使用大数据来分析开源，制造模型，从过去的数据中去分析试图看出未来的趋势。此文我将会深度阅读。另外，要关注这家Redmonk的站点，前两天还看到他们对于开源的未来的论断。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源是赢了-接下来干点什么:2526d2722fc3509a696c1be35570b940&#34;&gt;开源是赢了：接下来干点什么？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://adtmag.com/blogs/watersworks/2016/06/open-source-wins.aspx&#34;&gt;Open Source Wins: Now What?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文可能道出了所有过去开源界人士的心声，本文所描述的是开源界的元老，Debian 最早的开发者之一，Bdale Garbee，在惠普工作了20年，退休之后，又重新回到惠普实验室，以下引用两句精彩的英语：&lt;strong&gt;It&amp;rsquo;s just different today. I&amp;rsquo;m no longer beating on people&amp;rsquo;s doors to get them to open up and listen.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I&amp;rsquo;ve had this conversation with some of my peers in the industry who have also been involved with free and open source for a very long time, where we look at each other and say, &amp;lsquo;Oh my god, we won! Now what?&amp;rsquo;&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/openocean.jpg&#34; alt=&#34;pirate&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;使用海盗指标来衡量开源项目的成功:2526d2722fc3509a696c1be35570b940&#34;&gt;使用海盗指标来衡量开源项目的成功&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/6/pirate-metrics&#34;&gt;Using Pirate Metrics to measure success of open source projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;无独有偶，本文也提到了RedMonk 的哪篇分析文章。是不是错过了什么？&lt;/p&gt;
+
+&lt;p&gt;先来看海盗指标：一图胜千言&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/success1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;然后，照猫画虎——往里套就可以了。Cloudslang 是这么做的：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/success2.png&#34; alt=&#34;cloudslang&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;9家it界科技巨头拥抱开源浪潮:2526d2722fc3509a696c1be35570b940&#34;&gt;9家IT界科技巨头拥抱开源浪潮&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.informationweek.com/big-data/software-platforms/9-tech-giants-embracing-the-open-source-revolution/d/d-id/1325872?_mc=RSS%5FIWK%5FEDT&#34;&gt;9 Tech Giants Embracing The Open Source Revolution&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;其实从昨天开始只剩下8家了，因为 Linkedin 卖给了微软。本文是常见的配图＋说明，一张图一个故事或一个公司。个人以为本文的立论还是蛮好的，虽然整体看来有点虎头蛇尾，开始文章称：15年过去了，拿微软为例，15年他称开源是癌症，15年后称微软爱Linux。&lt;/p&gt;
+
+&lt;p&gt;规则变了，就得重新洗牌：&lt;strong&gt;Technology vendors are recognizing that by putting some technology into open source, they gain collaboration from other great minds to help the project mature more quickly.&lt;/strong&gt; 谁在这个浪潮中能赢了呢？让我们拭目以待。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.13）</title>
@@ -1071,68 +1143,6 @@
 &lt;p&gt;红帽俨然是一位正在崛起的巨人！ 这不又拿下了西班牙的第二大银行的战略合作伙伴的业务。这和开源有关吗？红帽现在的模式已经是巨无霸了，几乎是全套的解决方案。订阅模式！不仅仅是抛售服务这么简单。&lt;/p&gt;
 
 &lt;p&gt;其实，我更为担心的是随着红帽的崛起，其在开源的霸主地位越来的越明显。除了以文化和社区以及金钱来吸引开发者之外，这家公司正在悄然改变着什么。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.5.26）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_26/</link>
-      <pubDate>Thu, 26 May 2016 06:20:58 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_26/</guid>
-      <description>
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;5个急需的开源技能:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;5个急需的开源技能&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3074859/hiring/demand-for-open-source-talent-booming.html&#34;&gt;5 open source skills in high demand&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;每年 Linux 基金会都会做一个关于开源工作的调查（过去是Linux），现在Linux已经是常态、默认的系统了。这个可能在美国是相对准确的，而在本土就成为了可以把握的趋势罢了。今年的几个技能🈶️：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Linux、Hadoop、OpenStack等开源项目的开发者&lt;/li&gt;
-&lt;li&gt;DevOps,这是数据中心未来的趋势，在企业的系统管理员们面临一次严峻的技术变革。&lt;/li&gt;
-&lt;li&gt;云技术&lt;/li&gt;
-&lt;li&gt;网络 NFV，SDN等&lt;/li&gt;
-&lt;li&gt;分布式存储&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;N.B.: 作者的思路不知道是怎么想的。角色、技术本身放到一起归类，确实是够酸爽的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源监控研讨会开始召集演讲者了:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;开源监控研讨会开始召集演讲者了！&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.openpr.com/news/342299/Open-Source-Monitoring-Conference-starts-Call-for-Papers-and-Early-Bird-Phase.html&#34;&gt;Open Source Monitoring Conference starts Call for Papers and Early Bird Phase&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;其实，每次看到 FOSS、OSCON、Linux Conf 北美等开源盛会召集 Paper 的时候，心里就会和国内的场景对照一下，很少有在一个会之前放出消息的。而是依靠会议组织者的个人关系或所谓的业内来找的。这反映了文化的差异。包括我自己去年在组织12月份的 OpenStack Meetup 的时候，虽然提早两个月，最后找的演讲者也是靠圈子找的。当然，这个可能有一些差异。值得去反思！&lt;/p&gt;
-
-&lt;p&gt;其实，这篇新闻本身价值不大。OSCON 每年的 call paper，我都非常的心动。刚刚完成的这次，虽然技术偏弱一点，但是大多是我感兴趣的开源文化。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;市场每天都在变化-但有些事情是不变的:7c2a44df8105b7896c5d9feb9c29d524&#34;&gt;市场每天都在变化，但有些事情是不变的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/5/marketing-changes-some-things-never-will&#34;&gt;As marketing changes, some things never will&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;社区驱动的市场，有些东西是不变的：品牌，以及分享！ 是的，令人眼花缭乱的世界，什么才是根本，才是我们应该去追寻的。&lt;/p&gt;
-
-&lt;p&gt;Trust、Emotion、Reputation ，人类的有些东西是不会变的。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
