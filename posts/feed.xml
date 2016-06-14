@@ -7,8 +7,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 14 Jun 2016 07:24:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jun 2016 06:41:45 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.15）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_15/</link>
+      <pubDate>Wed, 15 Jun 2016 06:41:45 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_15/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:9dc0e5a48a6be796fceb466cde7c7ffd&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源和商业软件的新秩序:9dc0e5a48a6be796fceb466cde7c7ffd&#34;&gt;开源和商业软件的新秩序&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://techcrunch.com/2016/06/13/the-new-world-order-for-open-source-and-commercial-software/&#34;&gt;The new world order for open-source and commercial software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;世道是变了，若是你不考虑任何的道德因素，关于人类的自由的话。开源确实不过是软件的一个特性罢了，正如现在泛滥的开源软件一样。本文作者从云计算带给软件的冲击和变革、商业模式，甚至将开源和商业软件对比为百事可乐和可口可乐、还举了个例子微软的ASP.net的开源是谁赢了？开源和商业软件都赢了。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open source is not a philosophy or a business model: open source is a software feature. Whether the feature of modifying source code is important to you depends on your requirements.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;作者是一名实用主义者，我才不关心你是否开源，我要的是能够解决我的问题：&lt;strong&gt;Let’s stop the myths. There are wonderful commercial and open-source software options. Simply choose the software that works best for your organization and enjoy the peace.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我最近受到的冲击太大了，开源的流行正在颠覆我对开源这件事情本身的思考。包括每日晨读的题目。而我也看到了，这些实用主义们的胜利，不仅推动着世界的进步，还换取了经济的利益。最后还是为本文点赞。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;微软能够保持领英的开源文化吗:9dc0e5a48a6be796fceb466cde7c7ffd&#34;&gt;微软能够保持领英的开源文化吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.informationweek.com/big-data/software-platforms/will-microsoft-keep-linkedins-commitment-to-open-source/a/d-id/1325902&#34;&gt;Will Microsoft Keep LinkedIn&amp;rsquo;s Commitment To Open Source?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;文中作者回顾了 Linkedin 不仅仅是一家社交网站，他更加是 &lt;strong&gt;LinkedIn&amp;rsquo;s development DNA is very much about big data and open source.&lt;/strong&gt; 并列举了 Linkedin 对于开源社区的贡献项目，如：Kafka、Photon ML等。大家都在担心微软收购了会变得怎么样？按照惯例微软只会将收购的公司毁掉。但是微软在收购的声明中指出，Linkedin 将会保持自己独立的品牌和文化，当然大家最为关心的还是 Linkedin 继续保持其在开源的贡献上！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;在-github-上创建新项目时的-10-个实用的技巧:9dc0e5a48a6be796fceb466cde7c7ffd&#34;&gt;在 GitHub 上创建新项目时的 10 个实用的技巧&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/6/10-tips-new-github-projects&#34;&gt;10 tips for new GitHub projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Jono Bacon 的新文，至于 Jono Bacon，我们知道他是社区经营的积极倡导者，而且也曾经是Ubuntu的开源社区经理，现在担任 GitHub 的社区总监。现在的 GitHub 就是开源项目的集散地，开源世界的中心。如果你要在 GitHub 上创建项目，请记住下面10个实用的提醒：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;请设置许可证文件。&lt;/li&gt;
+&lt;li&gt;创建 README.md&lt;/li&gt;
+&lt;li&gt;创建 CONTRIBUTING.md （昨天的阅读里有一篇模版，非常值得借鉴）&lt;/li&gt;
+&lt;li&gt;为一些 bug 贴上‘Bitesize’的标签&lt;/li&gt;
+&lt;li&gt;为特性列表使用复选框&lt;/li&gt;
+&lt;li&gt;问题的模版&lt;/li&gt;
+&lt;li&gt;使用 Wiki&lt;/li&gt;
+&lt;li&gt;构建 GitHub page 的站点&lt;/li&gt;
+&lt;li&gt;使用第三方工具 Waffle.io/ZenHub&lt;/li&gt;
+&lt;li&gt;使用 Travis CI 作为持续集成工具&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;相信很多的个人项目，都不会这么做。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;chef-甘冒-巨大风险-发布应用程序管理开源项目-habitat:9dc0e5a48a6be796fceb466cde7c7ffd&#34;&gt;Chef 甘冒‘巨大风险’发布应用程序管理开源项目——Habitat&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.geekwire.com/2016/chef-releases-habitat-open-source-project-application-management/&#34;&gt;Chef takes ‘big risk’ with release of Habitat, an open-source project for application management
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;标题党，该软件的适用场景是容器、PaaS，也就是说使用了&lt;a href=&#34;https://www.habitat.sh/&#34;&gt;Habitat&lt;/a&gt;之后，我就毋需关心任何的目标平台。前提应用程序要经过Habitat的封装。支持的平台有：Docker、rkt、Kubernetes、Mesosphere等。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.14)</title>
@@ -1106,42 +1186,6 @@
 &lt;p&gt;Oracle 在业界打官司的名声是非常狼藉的。但是它确实是开源的杀手，比如 MySQL（mariDB）、Hudson（Jenkins）等等。至于这次输给 Google，他们如此之说，是否准确，但是在很多人的心里是不服气的。&lt;/p&gt;
 
 &lt;p&gt;就我个人而言，这次事件可能会引发类似中国民间文化的“秘方”文化，暂时看起来是大众受益，长期看来却是知识产权失去保护，导致更加长久的知识封锁和滥用。结果的证明，还得交给历史，再过5年看看？ 开源的趋势，将会是一片狼籍。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.5.28）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_28/</link>
-      <pubDate>Sat, 28 May 2016 06:36:00 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_28/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:6b7d6675dfceae1cbd8f7bbb4e971d03&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;开源-vs-专有-请保持各自的思想:6b7d6675dfceae1cbd8f7bbb4e971d03&#34;&gt;开源 vs 专有 —— 请保持各自的思想&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://insidehpc.com/2016/05/open-source-vs-proprietary-keeping-ideology-equation/&#34;&gt;Open-source vs. Proprietary – Keeping Ideology Out of the Equation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;典型的学究式的文章，绕来绕去，绕来绕去。这篇文章从我个人的角度来讲就是乱弹琴，连一点哲学的意义都没有。就是一个技术宅在自己狭小的世界里扯淡。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;emc-开源其基于-unikernel-的工具-unik-目的是云计算和物联网:6b7d6675dfceae1cbd8f7bbb4e971d03&#34;&gt;EMC 开源其基于 UniKernel 的工具—— UniK，目的是云计算和物联网&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/emc-targets-cloud-and-iot-unik-open-source-unikernel-tool&#34;&gt;EMC Targets Cloud and IoT with UniK, an Open Source Unikernel Tool&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;类似的新闻是不想记录的。但是面对接下来该如何的走，我是否仍在技术上坚守？这是个问题。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
