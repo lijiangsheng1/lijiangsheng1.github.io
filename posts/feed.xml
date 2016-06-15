@@ -7,8 +7,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 15 Jun 2016 06:41:45 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jun 2016 06:26:47 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.16）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_16/</link>
+      <pubDate>Thu, 16 Jun 2016 06:26:47 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_16/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:9663d11d25966d5c3c72e91ec62ac0e9&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;自由和开源软件许可证简史:9663d11d25966d5c3c72e91ec62ac0e9&#34;&gt;自由和开源软件许可证简史&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/brief-history-free-and-open-source-software-licensing&#34;&gt;A Brief History of Free and Open Source Software Licensing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这大概不是国人所关注的对象，只要是开源就拿来当免费用。完全无视知识产权和法律的存在。再不行就和你上纲上线，美帝国灭我之心不死，搞技术垄断。这是个不讲规则的世界，但依然能够运行。只是不知是否会重蹈200多年前的覆辙。不管这些，看下自由软件和开源软件许可证的简史：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;那是最为美好的年代，在软件商业化之前。没有许可证之说。&lt;/li&gt;
+&lt;li&gt;1983年，一切都开始了变化。Unix开始收费，Apple打赢了官司，Richard Stallman 声明了要搞GNU&lt;/li&gt;
+&lt;li&gt;Emacs 保留权利&lt;/li&gt;
+&lt;li&gt;GNU  GPL 诞生&lt;/li&gt;
+&lt;li&gt;Linux 采用 GPL&lt;/li&gt;
+&lt;li&gt;新的挑战，开源的世界，许可证怎么处理？Google 赢了 Oracle。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;大学上课不需要课本-让我们探访下这些学校:9663d11d25966d5c3c72e91ec62ac0e9&#34;&gt;大学上课不需要课本？让我们探访下这些学校&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.washingtonpost.com/news/grade-point/wp/2016/06/15/college-courses-without-textbooks-these-schools-are-giving-it-a-shot/#&#34;&gt;College courses without textbooks? These schools are giving it a shot.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;在美国的一些社区大学，开始试探使用无课本的授课方式，据说每年可以省不少钱了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源软件在公共部门中尝到了甜头:9663d11d25966d5c3c72e91ec62ac0e9&#34;&gt;开源软件在公共部门中尝到了甜头&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.publicsectorexecutive.com/Public-Sector-News/open-source-software-finds-its-sweet-spot-in-the-public-sector-&#34;&gt;Open Source Software Finds its Sweet Spot in the Public Sector&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;政府采用开源软件，可以大大节省纳税人的钱。请记住这家公司：&lt;a href=&#34;http://www.foehn.co.uk/?utm_source=public%20sector%20executive&amp;amp;utm_medium=editorial&amp;amp;utm_campaign=better%20for%20less&#34;&gt;Foehn&lt;/a&gt;，关于文中阐述的开源软件的优点，我就不再重复了。 省钱、高质量、还具有无与伦比的创新性，为什么不采用了呢？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;lindsey-bieda-https-twitter-com-lindseybieda-访谈:9663d11d25966d5c3c72e91ec62ac0e9&#34;&gt;&lt;a href=&#34;https://twitter.com/lindseybieda&#34;&gt;Lindsey Bieda&lt;/a&gt;访谈&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/6/interview-lindsey-bieda&#34;&gt;Flow is a mental state of intense focus for programming&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文我关注两点内容：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://opensourcebridge.org/&#34;&gt;Open Source Bridge&lt;/a&gt;会议，是我第一次听到的，它聚焦于开源社区和 citizenship，连续4天，形式有技术讨论、hacking环节、协作等。需要了解一下。国内做社区还是非常非常落后的。信任的缺失？制度的缺失？&lt;/li&gt;
+&lt;li&gt;Lindsey 从9岁就开始写程序了，12岁自学C语言，一发不可收拾，Ruby、JavaScript、Lua信手拈来。让人佩服之极。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;开源的数字未来连接物联网-移动设备和云计算:9663d11d25966d5c3c72e91ec62ac0e9&#34;&gt;开源的数字未来连接物联网、移动设备和云计算&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerdealernews.com/news/open-sources-digital-future-linked-to-iot-mobility-and-cloud/48551&#34;&gt;Open Source’s digital future linked to IoT, mobility and cloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是篇糟糕的文章，完全没有逻辑性可言，举的例子牵强附会。 铁路工业转到数字媒体？红帽的产品经理也太扯淡了一点，举的例子竟然是共享经济的Uber、Airbnb、的例子，然后和Facebook、Alibaba扯到了一起。而且除题目之外，和开源毛关系没有。建议大家一定不要看，红帽的这个人一定也会被干掉，否则红帽会有巨大损失。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.15）</title>
@@ -1130,62 +1210,6 @@
 &lt;p&gt;这是一篇试图预测未来IT产品将由什么来主导的文章，无疑人工智能是大家都非常看好的领域。Google、Facebook、SpaceX、IBM、Amazon等都在这块区域角力，展开竞争。大家应该还对Google的机器人 AlphaGo 战胜韩国棋手的事件记忆犹新。我们只能观望，他们即使开源了，如TensorFlow，绝大多数仍然是看不懂的，比如我。未来的“编程”事业将被AI所取代，这里的编程指的是本土那些永远只在外围苟且的“码农”们干的事情。&lt;/p&gt;
 
 &lt;p&gt;常常读读类似的文章，明白自己就是一渣！！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.5.31)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_31/</link>
-      <pubDate>Tue, 31 May 2016 08:34:54 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_31/</guid>
-      <description>
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;1-1-2-这就是分布式自治组织的数学公式:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;1 + 1 &amp;gt; 2，这就是分布式自治组织的数学公式&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://cointelegraph.com/news/the-dao-mathematics-11-is-actually-more-than-2&#34;&gt;The DAO Mathematics: 1+1 is Actually More Than 2&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://backfeed.cc/explore-in-depth&#34;&gt;Backfeed&lt;/a&gt;，这家开源的初创公司，要做的事情是去中心组织的操作系统平台，若将区块链对比于 TCP/IP，那么 Backfeed 的协议就是 HTTP。&lt;/p&gt;
-
-&lt;p&gt;Ants, birds swarms and schools of fish have at least one thing in common: they can organize in highly complex systems and perform collective tasks in a seemingly intelligent fashion, without any kind of centralized stewardship.&lt;/p&gt;
-
-&lt;p&gt;上述的这段描述，是我想当喜欢和向往的。可是事实却是相反的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;作组织的催化剂:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;作组织的催化剂&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/resources/catalyst-in-chief&#34;&gt;Catalyst-In-Chief: Download the PDF&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://opensource.com/open-organization&#34;&gt;The Open Organization&lt;/a&gt; 是去年出版的一本书，在宣扬新的公司管理方式，这个PDF 文件作者一年以来的对话集，就像是一款开源软件，这本书出版以后，引来了很多人的争论和怀疑。那么也会引起作者的反思，从而进一步完善书中的内容。但是就像 Linus 所言，政治这种并没有像技术那样是确定的，必定是仁者见仁的。开放的组织究竟能否在本土实现？答案是至少100年不会实现。所以，暂时得放弃这样的向往和研究。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;oracle-宣称-google-杀死了开源:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;Oracle 宣称，Google 杀死了开源&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.fudzilla.com/media/k2/items/cache/cbe014f0ca9851b8fee9ab29c9d5f6fb_L.jpg&#34; alt=&#34;oracle&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.fudzilla.com/news/40773-oracle-claims-google-has-killed-open-source&#34;&gt;Oracle claims Google has killed Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Oracle 在业界打官司的名声是非常狼藉的。但是它确实是开源的杀手，比如 MySQL（mariDB）、Hudson（Jenkins）等等。至于这次输给 Google，他们如此之说，是否准确，但是在很多人的心里是不服气的。&lt;/p&gt;
-
-&lt;p&gt;就我个人而言，这次事件可能会引发类似中国民间文化的“秘方”文化，暂时看起来是大众受益，长期看来却是知识产权失去保护，导致更加长久的知识封锁和滥用。结果的证明，还得交给历史，再过5年看看？ 开源的趋势，将会是一片狼籍。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
