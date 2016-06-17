@@ -7,8 +7,72 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 16 Jun 2016 06:26:47 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jun 2016 07:29:07 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.17）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_17/</link>
+      <pubDate>Fri, 17 Jun 2016 07:29:07 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_17/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:2e26403e6e25edee9122ca32e497c7fa&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;为什么苹果发布的-photos-是不怎么讨人欢心的:2e26403e6e25edee9122ca32e497c7fa&#34;&gt;为什么苹果发布的 Photos 是不怎么讨人欢心的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3083278/ios/why-apple-s-photos-announcement-should-offend-you.html&#34;&gt;Why Apple’s Photos announcement should offend you&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;该文是声讨 Apple 的吗！ 就人工智能方面，Apple 使用了开源项目Torch，以及多年以来都是自己搞自己的，要么就有本事不要借鉴他人的，借鉴了就应该有所反馈。我对这事不想议论多少，也不想参与什么声讨之类的事情。下面就翻译一小段Nicholas Negroponte （MIT 媒体实验室联合创始人，每个儿童一台笔记本发起人）&lt;a href=&#34;http://mashable.com/2016/06/10/apple-negroponte-australia/?utm_cid=mash-com-fb-tech-link#FwUSvJG4Uqqz&#34;&gt;所说的&lt;/a&gt;：&lt;/p&gt;
+
+&lt;p&gt;[Apple] 没有发表过一篇研究论文，也不参加任何的学术会议，诸如 Working Group，政府资助的 WorkShop，等，也不会自己举办允许外部科学家们参与的学术会议。而这些都是Google、微软、脸书经常做的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源的-coreos-linux-现在在中国境内可用了:2e26403e6e25edee9122ca32e497c7fa&#34;&gt;开源的 CoreOS Linux 现在在中国境内可用了&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.prnewswire.com/news-releases/open-source-coreos-linux-now-available-in-china-delivering-secure-automatic-software-updates-300285574.html&#34;&gt;Open Source CoreOS Linux Now Available in China, Delivering Secure, Automatic Software Updates&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我们是不是应该普大喜奔？ 以 21Vianet 所经营的微软的 Azure，现在提供 CoreOS了，多么的不容易啊！ 我说点什么？好技术落地中国，确实难度很大！ 无论是 GFW 自己给自己铸就的高墙，还是趋之若鹜的容器云，都是诸如优秀的技术如Docker、CoreOS、Mesos／DCOS，落地中国的障碍，更不用说高冷的Kubernetes（Google）了。&lt;/p&gt;
+
+&lt;p&gt;作为一名技术人员，你能做什么？心里暗暗诅咒。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;你毋需设计思考-gitlab-是如何做到开源他们的管理风格的:2e26403e6e25edee9122ca32e497c7fa&#34;&gt;“你毋需设计思考”—— GitLab 是如何做到开源他们的管理风格的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://diginomica.com/2016/06/16/you-dont-need-design-thinking-how-gitlab-made-open-source-their-management-style/&#34;&gt;“You don’t need design thinking” – How GitLab made open source their management style&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这绝对是扁平化、倡导Remote、开放一切的人工作的天堂！！！从开发路线、市场策略、到员工手册、面试问题统统都是开源的！引用一句话：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For GitLab, open source isn’t just a product strategy. It’s a culture&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;文化！决定你思考方式和做出决策的力量！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;参与开源是毕业生能够成功就业的清晰道路吗:2e26403e6e25edee9122ca32e497c7fa&#34;&gt;参与开源是毕业生能够成功就业的清晰道路吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3084888/it-skills-training/is-open-source-a-clear-path-to-success-for-new-grads.html&#34;&gt;Is open source a clear path to success for new grads?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;最近一段的刷招聘信息告诉我，所有的使用开源的或利用开源的公司都会在加分项里填上一句：对开源项目有过贡献者优先考虑。要知道这还是在中国！是的，虽然本文的标题给的是一个疑问句，但是现实的情况是它就是。当然还要归功于 GitHub 这样的开源托管平台。希望开源能够在大学的校园生根发芽！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.16）</title>
