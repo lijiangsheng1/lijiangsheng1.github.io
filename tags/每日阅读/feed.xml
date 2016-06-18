@@ -7,8 +7,76 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 17 Jun 2016 07:29:07 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jun 2016 07:15:15 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.18）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_18/</link>
+      <pubDate>Sat, 18 Jun 2016 07:15:15 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_18/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:90e4abe561959713d1b56d72ebb45ac1&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;企业采用容器正如火如荼:90e4abe561959713d1b56d72ebb45ac1&#34;&gt;企业采用容器正如火如荼&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/containers-are-fire-enterprises-ramp-adoption&#34;&gt;Containers Are on Fire as Enterprises Ramp Up Adoption&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Cloud Foundry 搞的一个调查报告。数字化转型过程中采用容器技术来进行持续交付确实是未来的方向。“软件正在吞噬世界” 马克安德森这句话被无数次使用，它可以用在软件的任何角落。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;使用go语言写aws-lambda-程序:90e4abe561959713d1b56d72ebb45ac1&#34;&gt;使用Go语言写AWS lambda 程序&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.avitzurel.com/blog/2016/06/17/writing-an-aws-lambda-function-with-golang/&#34;&gt;Writing an AWS lambda function with Golang&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;第一次阅读中出现实际技术的点评，不过以后可以多尝试一些。Serverless 是一项更为神奇的技术，如果你的程序可以以事件来触发的话，一切将变得美好！Go 也是我今年学习的语言，所以就阅读一段程序。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/Collaboration%20for%20health%20innovation.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;作为一名印度的学生是如何开始开源之旅的:90e4abe561959713d1b56d72ebb45ac1&#34;&gt;作为一名印度的学生是如何开始开源之旅的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/6/how-community-taught-me-code&#34;&gt;How a student in India got started with open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;正如我最近读到的一篇文章，&lt;a href=&#34;https://byrslf.co/the-ultimate-guide-to-writing-your-first-book-a0748ceaa9a6#.1bhpa79po&#34;&gt;开启撰写你生命中第一本书之旅&lt;/a&gt;中所言：大概我们的人群中有81%的人都希望能够写一本书，但是只有之中的1%的人做到了。相信很多写程序的人，都希望自己能够为开源写程序，但是做到的人很少。是纯粹技术原因吗？答案是肯定的，但是所占的比例却是微乎其微。是文化的氛围！占有很大的比例。好好的读下这位印度学生的经历吧！非常的有借鉴意义，包括我自己！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;昂贵世界的免费文化:90e4abe561959713d1b56d72ebb45ac1&#34;&gt;昂贵世界的免费文化&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/6/open-source-bridge-interview-shauna-gordon-mckeon&#34;&gt;Free culture in an expensive world&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇的采访，给我两个感慨。第一就是国外的社区环境的氛围，这个是没法比的。自我结社的社会环境。第二，就是被采访者对于自己的描述：“As a developer and user of software, I care strongly about FOSS. As a scientist and user of scientific research, I care about open science. As a citizen and activist, I care about government transparency. And as a consumer and creator of media, I care about fan communities.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;在新的管理方式下-sourceforge-开始渐有起色:90e4abe561959713d1b56d72ebb45ac1&#34;&gt;在新的管理方式下，SourceForge 开始渐有起色&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://arstechnica.com/information-technology/2016/06/under-new-management-sourceforge-moves-to-put-badness-in-past/&#34;&gt;Under new management, SourceForge moves to put badness in past&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;SourceForge能否继续走下去？是否会重新获得用户的信任和认可？难啊！信任这种事情，一旦失去再也难以找回。更何况现在有更为优秀的GitHub的强大存在。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.17）</title>
@@ -1135,62 +1203,6 @@
 &lt;p&gt;这是一篇试图预测未来IT产品将由什么来主导的文章，无疑人工智能是大家都非常看好的领域。Google、Facebook、SpaceX、IBM、Amazon等都在这块区域角力，展开竞争。大家应该还对Google的机器人 AlphaGo 战胜韩国棋手的事件记忆犹新。我们只能观望，他们即使开源了，如TensorFlow，绝大多数仍然是看不懂的，比如我。未来的“编程”事业将被AI所取代，这里的编程指的是本土那些永远只在外围苟且的“码农”们干的事情。&lt;/p&gt;
 
 &lt;p&gt;常常读读类似的文章，明白自己就是一渣！！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.5.31)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_31/</link>
-      <pubDate>Tue, 31 May 2016 08:34:54 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5_31/</guid>
-      <description>
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;1-1-2-这就是分布式自治组织的数学公式:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;1 + 1 &amp;gt; 2，这就是分布式自治组织的数学公式&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://cointelegraph.com/news/the-dao-mathematics-11-is-actually-more-than-2&#34;&gt;The DAO Mathematics: 1+1 is Actually More Than 2&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://backfeed.cc/explore-in-depth&#34;&gt;Backfeed&lt;/a&gt;，这家开源的初创公司，要做的事情是去中心组织的操作系统平台，若将区块链对比于 TCP/IP，那么 Backfeed 的协议就是 HTTP。&lt;/p&gt;
-
-&lt;p&gt;Ants, birds swarms and schools of fish have at least one thing in common: they can organize in highly complex systems and perform collective tasks in a seemingly intelligent fashion, without any kind of centralized stewardship.&lt;/p&gt;
-
-&lt;p&gt;上述的这段描述，是我想当喜欢和向往的。可是事实却是相反的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;作组织的催化剂:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;作组织的催化剂&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/resources/catalyst-in-chief&#34;&gt;Catalyst-In-Chief: Download the PDF&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://opensource.com/open-organization&#34;&gt;The Open Organization&lt;/a&gt; 是去年出版的一本书，在宣扬新的公司管理方式，这个PDF 文件作者一年以来的对话集，就像是一款开源软件，这本书出版以后，引来了很多人的争论和怀疑。那么也会引起作者的反思，从而进一步完善书中的内容。但是就像 Linus 所言，政治这种并没有像技术那样是确定的，必定是仁者见仁的。开放的组织究竟能否在本土实现？答案是至少100年不会实现。所以，暂时得放弃这样的向往和研究。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;oracle-宣称-google-杀死了开源:c6f365d88fcb8d91c5f5aacefe5f345c&#34;&gt;Oracle 宣称，Google 杀死了开源&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.fudzilla.com/media/k2/items/cache/cbe014f0ca9851b8fee9ab29c9d5f6fb_L.jpg&#34; alt=&#34;oracle&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.fudzilla.com/news/40773-oracle-claims-google-has-killed-open-source&#34;&gt;Oracle claims Google has killed Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Oracle 在业界打官司的名声是非常狼藉的。但是它确实是开源的杀手，比如 MySQL（mariDB）、Hudson（Jenkins）等等。至于这次输给 Google，他们如此之说，是否准确，但是在很多人的心里是不服气的。&lt;/p&gt;
-
-&lt;p&gt;就我个人而言，这次事件可能会引发类似中国民间文化的“秘方”文化，暂时看起来是大众受益，长期看来却是知识产权失去保护，导致更加长久的知识封锁和滥用。结果的证明，还得交给历史，再过5年看看？ 开源的趋势，将会是一片狼籍。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

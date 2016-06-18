@@ -7,8 +7,76 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 17 Jun 2016 07:29:07 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jun 2016 07:15:15 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.18）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_18/</link>
+      <pubDate>Sat, 18 Jun 2016 07:15:15 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_18/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:90e4abe561959713d1b56d72ebb45ac1&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;企业采用容器正如火如荼:90e4abe561959713d1b56d72ebb45ac1&#34;&gt;企业采用容器正如火如荼&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/containers-are-fire-enterprises-ramp-adoption&#34;&gt;Containers Are on Fire as Enterprises Ramp Up Adoption&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Cloud Foundry 搞的一个调查报告。数字化转型过程中采用容器技术来进行持续交付确实是未来的方向。“软件正在吞噬世界” 马克安德森这句话被无数次使用，它可以用在软件的任何角落。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;使用go语言写aws-lambda-程序:90e4abe561959713d1b56d72ebb45ac1&#34;&gt;使用Go语言写AWS lambda 程序&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.avitzurel.com/blog/2016/06/17/writing-an-aws-lambda-function-with-golang/&#34;&gt;Writing an AWS lambda function with Golang&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;第一次阅读中出现实际技术的点评，不过以后可以多尝试一些。Serverless 是一项更为神奇的技术，如果你的程序可以以事件来触发的话，一切将变得美好！Go 也是我今年学习的语言，所以就阅读一段程序。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/Collaboration%20for%20health%20innovation.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;作为一名印度的学生是如何开始开源之旅的:90e4abe561959713d1b56d72ebb45ac1&#34;&gt;作为一名印度的学生是如何开始开源之旅的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/6/how-community-taught-me-code&#34;&gt;How a student in India got started with open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;正如我最近读到的一篇文章，&lt;a href=&#34;https://byrslf.co/the-ultimate-guide-to-writing-your-first-book-a0748ceaa9a6#.1bhpa79po&#34;&gt;开启撰写你生命中第一本书之旅&lt;/a&gt;中所言：大概我们的人群中有81%的人都希望能够写一本书，但是只有之中的1%的人做到了。相信很多写程序的人，都希望自己能够为开源写程序，但是做到的人很少。是纯粹技术原因吗？答案是肯定的，但是所占的比例却是微乎其微。是文化的氛围！占有很大的比例。好好的读下这位印度学生的经历吧！非常的有借鉴意义，包括我自己！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;昂贵世界的免费文化:90e4abe561959713d1b56d72ebb45ac1&#34;&gt;昂贵世界的免费文化&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/6/open-source-bridge-interview-shauna-gordon-mckeon&#34;&gt;Free culture in an expensive world&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇的采访，给我两个感慨。第一就是国外的社区环境的氛围，这个是没法比的。自我结社的社会环境。第二，就是被采访者对于自己的描述：“As a developer and user of software, I care strongly about FOSS. As a scientist and user of scientific research, I care about open science. As a citizen and activist, I care about government transparency. And as a consumer and creator of media, I care about fan communities.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;在新的管理方式下-sourceforge-开始渐有起色:90e4abe561959713d1b56d72ebb45ac1&#34;&gt;在新的管理方式下，SourceForge 开始渐有起色&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://arstechnica.com/information-technology/2016/06/under-new-management-sourceforge-moves-to-put-badness-in-past/&#34;&gt;Under new management, SourceForge moves to put badness in past&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;SourceForge能否继续走下去？是否会重新获得用户的信任和认可？难啊！信任这种事情，一旦失去再也难以找回。更何况现在有更为优秀的GitHub的强大存在。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.17）</title>
@@ -1042,96 +1110,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;社区就是一种文化现象，诸如信任、鼓励、沟通等。方法论也就是人类美好的部分，尊重、荣耀、知恩图报等。当你遇到人类糟糕的大的制度之时，或者叫做传统的政治的时候，乃至于根深蒂固的文化。发现社区建设几乎是一件不可能的事，当然除了另外一个，那就是钱！如何将钱演示在逼格之后，这才是在本土做社区要去思考的内容。本土的民间文化是仇视这样一种外在的，再加上近半个世纪的社会主义高尚情怀，乃至于经济改革之后的暴发和唯利是图。你必须去将这些捋清楚了。彻底的去了解的国人的心态之后。再去拿方法论来套。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.6.4）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_4/</link>
-      <pubDate>Sat, 04 Jun 2016 09:47:44 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_4/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;owncloud-关闭美国的办公室-被-nextcloud-羞辱:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;OwnCloud 关闭美国的办公室，被 Nextcloud 羞辱&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/owncloud-closes-us-office/&#34;&gt;OwnCloud closes US office, blames Nextcloud&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://fortune.com/2016/06/03/what-happened-to-owncloud/&#34;&gt;Why Did File Sharing Startup OwnCloud Shut Down?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;事情越来越引起人们的关注了，甚至连财富这样的媒体都开始报道了。技术人员集体跳槽，是否和基金会成立、商业模式、开源的保留程度等等因素有关，我们不得而知。但是NextCloud的成立距离其创始人从OwnCloud离职的仅仅两个月的时间，确实有些蹊跷。&lt;/p&gt;
-
-&lt;p&gt;我唯一关注这起事件的原因是因为 OwnCloud 走得是开源的背书。一度都走到成立基金会的地步了，还是闹到了另起炉灶的地步。当年 Node.js 因为基金会的成立的解决了此问题。而OwnCloud 却没有逃脱此命运。正如《财富》所指出的“In English, the idea is to make sure that the open-source software is not under the sway of one company or any particular person.” 其实本土目前的两家走开源路线的公司，如&lt;a href=&#34;http://pingcap.com&#34;&gt;PingCAP&lt;/a&gt;和&lt;a href=&#34;http://hyper.sh&#34;&gt;Hyper_&lt;/a&gt;，创始人的观念仍然停留在“工厂模式”下，分裂、碎片化、无法赚钱等问题会接踵而至。他们在犹豫？还是在大环境下无法做到自觉？不得而知，但是OwnCloud 的例子，可以给他们一点启发。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;著名企业家-互联网技术专家-dan-kohn-被任命为云原生计算基金会的执行总监:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;著名企业家、互联网技术专家 Dan Kohn 被任命为云原生计算基金会的执行总监&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/serial-entrepreneur-internet-technologist-dan-kohn-named-executive-director-cloud-native-2131130.htm&#34;&gt;Serial Entrepreneur and Internet Technologist Dan Kohn Named Executive Director of Cloud Native Computing Foundation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;前两天有 Brian Behlendorf，出任 Linux 基金会对于区块链项目的主席，今又有 Dan 出认CNCF 的执行总监。而这二者均是目前来说最为炙手可热的项目。正如《Open by Design》所言，这是一个开放治理下的世界。Linux 基金会明显是在布局，旗下已有30多个项目，超过一半的为举足轻重的基础设施项目。未来属于开源，更加的属于开放治理！拭目以待！&lt;/p&gt;
-
-&lt;p&gt;本土的做法就是成立各种联盟：中国开源云联盟，中国容器联盟。挂靠在电子产业协会，以看似漫不经心的态度来对待这些。伺机而动！该如何处理和看待这些，是我到现在没有完全理解的部分。它们究竟在干什么？为了联盟而联盟？还是未了特色而特色？还是让国际上的这些NGO拜倒在她们的石榴裙下？最近加入了一个他们的微信群，就是一帮公司的销售或所谓的市场在那里乱侃，和标准无关。和生意、技术更无关。这是我难以理解的世界。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/bus-networking.png&#34; alt=&#34;open&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;linux-基金会声明启动-2016年度-lift-奖学金计划:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;Linux 基金会声明启动 2016年度 LiFT 奖学金计划&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://betanews.com/2016/06/02/linux-foundation-2016-lift-scholarship-program/&#34;&gt;The Linux Foundation announces the 2016 LiFT Scholarship Program &amp;ndash; here&amp;rsquo;s how to apply&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Linux 基金会真的开始动起来了，野心渐渐的露出了水面，大概是OpenStack 这几年走的过去迅猛，让他们开始觉醒了，NGO 也可以玩的很大。也可以玩抢夺未来的高地。&lt;/p&gt;
-
-&lt;p&gt;看到这样的新闻，我忍不住又要吐槽。你们那些个开放联盟，什么电子协会的，或者说普华开源社区之类的，搞过类似的活动吗？不仅能得到好的名声，还能为自己培养人才。唉。有的时候，我也想和大多数“码农”一样，反正有饭吃，低头写代码就好了。这事我管不了，徒增烦恼而已。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源云让计算机创建下一个蒙娜丽莎成为可能:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;开源云让计算机创建下一个蒙娜丽莎成为可能&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.artsy.net/article/artsy-editorial-open-source-could-let-computers-create-the-next-mona-lisa&#34;&gt;Open Source Could Let Computers Create the Next Mona Lisa&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这篇文章讲述了人工智能在艺术创作方面的过去和现在。并乐观的展望了未来！包括从学术界走出，到现在各大IT企业角逐到局面。Google、Facebook、Amazon、Microsoft、IBM等等都在此领域发力。无疑开源＋云计算，以及让所有艺术家民主、平等的参与，是所有这一切落地的现实基础。&lt;/p&gt;
-
-&lt;p&gt;大力推荐阅读此文。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;关于开放组织的5个值得分享的故事:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;关于开放组织的5个值得分享的故事&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/year-stories-about-open-organizations-these-were-most-read&#34;&gt;5 most-read stories about open organizations over the past year&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;《Open Organization》这本书对我的影响是什么？再加上《合一的力量》了呢？一个扁平化的组织、一个团队成员均是自我激励性的、有着共同目标的团队。可惜，现实将我击的粉碎。在本土，严重缺乏培养出这样的成员的文化土壤，甚至包括我自己有这样的想法。&lt;/p&gt;
-
-&lt;p&gt;除非那天让我遇到这样的一个人，否则我非常的难易相信真的有这样的组织存在，别给我故事，给我真实！但是，读读还是很让人神往的！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;建立开放社区的8步法:9efd651712fdf5d1b4bfb99f21e81066&#34;&gt;建立开放社区的8步法&lt;/h3&gt;
-
-&lt;p&gt;原文链接: &lt;a href=&#34;https://opensource.com/open-organization/16/6/8-steps-more-open-communications&#34;&gt;8 steps to more open communications&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源，和建立响应的社区是密切相关的，二者是相辅相成的。缺了任何一方，开源就难以成功。opensource.com 上关于建立社区的文章渐渐的多了起来，也是大家都在探索和寻求答案的见证。好吧，谈到本土，我就有种绝望的感觉。大家除了钱之外，不会对任何事物产生兴趣。现在的年轻人会好点？不得而知，希望有机会见识一下。但是方法论还是应该学习一下的，人类毕竟除了各自的文化迥异之外，还有一些共同的东西的，比如希望得到人们的尊重和认可。所以该学习还是得学习。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
