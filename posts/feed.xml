@@ -7,8 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 19 Jun 2016 07:08:57 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jun 2016 06:25:22 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.6.20）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_20/</link>
+      <pubDate>Mon, 20 Jun 2016 06:25:22 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_20/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:85b19d4e9db51860a91805ffd5a66066&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;c语言编程实践的演变-unix-1973-2015:85b19d4e9db51860a91805ffd5a66066&#34;&gt;C语言编程实践的演变—— Unix 1973～2015&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://kristerw.blogspot.com/2016/06/evolution-of-c-programming-practices.html&#34;&gt;Evolution of C programming practices – Unix 1973–2015
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;注：本文需要自备梯子。&lt;/p&gt;
+
+&lt;p&gt;一门编程语言，加上与其一起诞生的操作系统，看事物的演变。这确实是每一位热衷于历史的人都希望回顾，然后寄希望于得出某种规律。虽然无法目睹论文的全貌，但是可以看出论文的严谨，比如代码的变迁。以及使用 volatile 的嬗变。&lt;/p&gt;
+
+&lt;p&gt;我有时候很想去写一步关于本土的开源变异史，诸如国产化、披上民族主义外衣欺世盗名等，该如何下笔？哪怕是以论文的形式，又该如何从实际的例子中提取？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;使用开源设计-以应对气候变化:85b19d4e9db51860a91805ffd5a66066&#34;&gt;使用开源设计，以应对气候变化&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.shareable.net/blog/the-sustainability-commons-using-open-source-design-to-address-climate-change&#34;&gt;The Sustainability Commons: Using Open Source Design to Address Climate Change&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文是对&lt;a href=&#34;http://www.poc21.cc/&#34;&gt;POC21&lt;/a&gt;这个国际的创新社区，来自世界各地的设计师、开发者、工程师共同为一些环保等设施提供灵感。开放硬件、开放的设计对于可持续性是有利的。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.19）</title>
@@ -1021,110 +1062,6 @@ lower operations costs and vendor lock-in&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;烦不烦？&lt;a href=&#34;http://www.softmaker.com/&#34;&gt;SoftMaker&lt;/a&gt;和永中Office有何区别？和LibreOffice了呢？或者是金山了呢？办公套件哪家强？ 这是一家创立了接近20年的德国公司。唉，如果你有空的话，就去了解下吧。我对于红旗中文2000、中标普华办公套件之类的已经烦透了。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.6.7）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_7/</link>
-      <pubDate>Tue, 07 Jun 2016 10:05:26 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_7/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:e215f3d822e6af17a7a680683dbb8261&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;软件-善良以及你本人:e215f3d822e6af17a7a680683dbb8261&#34;&gt;软件、善良以及你本人&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://medium.com/built-to-adapt/software-and-kindness-and-you-a4dbd23aac30#.k98lm4ql8&#34;&gt;Software and Kindness, and You&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;每家公司都有自己特色的文化，Pivotal 这家由于 Cloud foundry 被人们熟知的公司，比较特别：善良是人类的美德，如果运用得当，可以解决很多棘手的问题。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开发者们创建了开源的视觉平台-能够让机器人拥有视觉识别功能:e215f3d822e6af17a7a680683dbb8261&#34;&gt;开发者们创建了开源的视觉平台，能够让机器人拥有视觉识别功能&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://tech.firstpost.com/news-analysis/developer-creates-open-source-computer-vision-platform-that-lets-machines-see-318718.html&#34;&gt;Developer creates open source computer vision platform that lets ‘machines see’&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文谈到了两个开源项目：OpenCV 和 Torch，前者是一开源计算的视觉库，后者是开源的科学计算框架。本文有两大看点，0、Google和Facebook合作的成果，能够让两大相互竞争的互联网巨头走在一起的技术。1、 “Google, Facebook and VisionLabs do not consider this a commercial project – its purpose is developing the community and its aim is long-term prospects.” 我直接引用文中的一句话，这就是开源的经济学！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/09/6554314981_7360494444_b-100614748-primary.idge.jpg&#34; alt=&#34;open source&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源的联网-顺势而为:e215f3d822e6af17a7a680683dbb8261&#34;&gt;开源的联网：顺势而为&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3078653/open-source-tools/open-source-networking-the-time-is-now.html&#34;&gt;Open source networking: The time is now&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;文中的观点和言辞蛮夸张的：&lt;strong&gt;“Vendor lock-in is dead. Proprietary specifications are dead. Closed vendor ecosystems are dead.”&lt;/strong&gt; 但是确实倒出了目前网络方面的事实，甚至云计算都瞄准了网络运营商，当然这离不开开源的项目 OpenDayLight 和 OpenNFV。&lt;/p&gt;
-
-&lt;p&gt;依然引用文中的一句话：&lt;strong&gt;“If it’s not open, and if it’s not open source, it’s not happening.”&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;物联网与开源-企业界的最佳组合:e215f3d822e6af17a7a680683dbb8261&#34;&gt;物联网与开源：企业界的最佳组合&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3079055/internet-of-things/open-source-and-iot-a-match-made-for-the-enterprise.html&#34;&gt;Open source and IoT: A match made for the enterprise&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;物联网在目前的市场上的竞争可谓是白热化，相应的企业平台也走进了人们的视线。那么利用开源来增加自身的竞争力是不容小视的方法：且看利用开源的5大好处：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;快速的适应变化&lt;/li&gt;
-&lt;li&gt;可扩展&lt;/li&gt;
-&lt;li&gt;适配新的设备制造商&lt;/li&gt;
-&lt;li&gt;开发者社区&lt;/li&gt;
-&lt;li&gt;采用垂直物联网解决方案&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;推荐的5大开源项目：&lt;a href=&#34;http://www.kaaproject.org/&#34;&gt;Kaa 项目&lt;/a&gt;、&lt;a href=&#34;https://www.ge.com/digital/predix&#34;&gt;GE Predix&lt;/a&gt;、&lt;a href=&#34;http://macchina.io/&#34;&gt;Macchina.IO&lt;/a&gt;、&lt;a href=&#34;https://netbeast.co/&#34;&gt;NetBeast&lt;/a&gt;、&lt;a href=&#34;http://nodered.org/&#34;&gt;Node－Red&lt;/a&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;在家办公的技术人员保持生产效率的贴士:e215f3d822e6af17a7a680683dbb8261&#34;&gt;在家办公的技术人员保持生产效率的贴士&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/6/productivity-tips-working-home&#34;&gt;Productivity tips for working from home in tech&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这个只有对于很少的人群适用，远程办公一直是我想实践的，近来应聘PingCAP，也是被他们号称的 remoute所吸引。但是被拒之门外了。这能上升到本土文化的高度，比如自律文化和他律文化、比如工厂模式与知识经济时代的差异等。但是，互联网有时候给人的错觉就是似乎本土是比较前沿的，但是受限于当地的地域，不具有普遍性。&lt;/p&gt;
-
-&lt;p&gt;文中给出的几点建议我是蛮认同的：0、不要在你的办公桌上吃饭，该吃饭的时候最好是能到呼吸新鲜空气的地方去。1、要去运动，或保持运动的习惯。2、要去参加本地的一些用户活动。3、对于办公地点要有“狡兔三窟”的概念。4、至为重要的，和家人沟通好，处理好和他们在一起的时间。在你工作的时候，不要受到他们的干扰。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;一位领导的能力大小决定着其是否会成为组织的瓶颈:e215f3d822e6af17a7a680683dbb8261&#34;&gt;一位领导的能力大小决定着其是否会成为组织的瓶颈&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/concrete-suggestions-running-open-organization&#34;&gt;A leader&amp;rsquo;s ability is the bottleneck of any organization&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;一位创业者对于《开放的组织》一书的感慨和受教，绝不做自己公司的瓶颈，将决策权交给最擅长的一线人员。本文的作者还举了自己切身体会的例子。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源现在所面临的挑战-云计算-物联网以及闭源的发行版:e215f3d822e6af17a7a680683dbb8261&#34;&gt;开源现在所面临的挑战：云计算、物联网以及闭源的发行版&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/open-sources-big-challenges-today-cloud-iot-and-closed-di&#34;&gt;Open Source&amp;rsquo;s Big Challenges Today: Cloud, IoT and Closed Distributions&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;又见&lt;a href=&#34;http://thevarguy.com/author/christopher-tozzi&#34;&gt;Christopher Tozzi&lt;/a&gt;的文章，我唯一关注这位仁兄的理由是他写了一本关于开源软件历史的书籍。但是他毕竟不是计算机科学相关的背景，仅仅是一名历史学家。所以做一些技术的预测和评估就显得不是他所擅长的，有些可笑，但似乎看起来还有理有据。小心，现实中你也要惕防着这些人。我建议本文的作者多读一些关于开源经济学的文章，或者是潜心的研究下技术。至少能够到GitHub或OpenHub上找寻数据来考察。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

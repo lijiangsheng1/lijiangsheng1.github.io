@@ -7,8 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 19 Jun 2016 07:08:57 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jun 2016 06:25:22 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.6.20）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_20/</link>
+      <pubDate>Mon, 20 Jun 2016 06:25:22 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_20/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:85b19d4e9db51860a91805ffd5a66066&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;c语言编程实践的演变-unix-1973-2015:85b19d4e9db51860a91805ffd5a66066&#34;&gt;C语言编程实践的演变—— Unix 1973～2015&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://kristerw.blogspot.com/2016/06/evolution-of-c-programming-practices.html&#34;&gt;Evolution of C programming practices – Unix 1973–2015
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;注：本文需要自备梯子。&lt;/p&gt;
+
+&lt;p&gt;一门编程语言，加上与其一起诞生的操作系统，看事物的演变。这确实是每一位热衷于历史的人都希望回顾，然后寄希望于得出某种规律。虽然无法目睹论文的全貌，但是可以看出论文的严谨，比如代码的变迁。以及使用 volatile 的嬗变。&lt;/p&gt;
+
+&lt;p&gt;我有时候很想去写一步关于本土的开源变异史，诸如国产化、披上民族主义外衣欺世盗名等，该如何下笔？哪怕是以论文的形式，又该如何从实际的例子中提取？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;使用开源设计-以应对气候变化:85b19d4e9db51860a91805ffd5a66066&#34;&gt;使用开源设计，以应对气候变化&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.shareable.net/blog/the-sustainability-commons-using-open-source-design-to-address-climate-change&#34;&gt;The Sustainability Commons: Using Open Source Design to Address Climate Change&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文是对&lt;a href=&#34;http://www.poc21.cc/&#34;&gt;POC21&lt;/a&gt;这个国际的创新社区，来自世界各地的设计师、开发者、工程师共同为一些环保等设施提供灵感。开放硬件、开放的设计对于可持续性是有利的。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.19）</title>
