@@ -7,8 +7,95 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 20 Jun 2016 06:25:22 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jun 2016 06:15:05 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.6.21）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_21/</link>
+      <pubDate>Tue, 21 Jun 2016 06:15:05 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_21/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:a4fe4f20cd6ee5bcbb930213a3ebb7d3&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;来自idc-加拿大-的消息称-开源的创新对it市场产生了明显的影响:a4fe4f20cd6ee5bcbb930213a3ebb7d3&#34;&gt;来自IDC（加拿大）的消息称：开源的创新对IT市场产生了明显的影响&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://business.financialpost.com/fp-tech-desk/cio/open-source-innovation-is-significantly-impacting-the-it-marketplace-idc-canada?__lsa=d1e7-5174&#34;&gt;Open source innovation is significantly impacting the IT marketplace: IDC Canada&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是大势所趋，人人都可以看到的方向，开源会成为未来的主流，包括其和公有云的战争。问题在于如何在此处找到商业的机会，或者是创新的机会。开源文化本身是无法做到盈利的，这是我认同过的观点。另外，对于开源的认同没有什么新鲜的例子可以列举的了？大数据平台的生态体系；OpenStack IaaS 云平台；Android 的成功；微软爱上了开源等等，难道就不能举点新鲜的例子出来？为什么红帽能够搞个opensource.com出来，每日都有新观点？值得思考。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;云计算-开源是如何激活数字体验的政府的:a4fe4f20cd6ee5bcbb930213a3ebb7d3&#34;&gt;云计算、开源是如何激活数字体验的政府的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://federalnewsradio.com/commentary/2016/06/cloud-open-source-enable-new-digital-experience-government/&#34;&gt;How cloud, open source enable new digital experience government&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这篇文章更像是Acquia的软广告，谈着谈着就扯到内容管理系统上了。不过他最后强调的那两点是比较亮的：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;不要去重复制造轮子了。&lt;/li&gt;
+&lt;li&gt;决定好了是谁实现和维护你的开源代码了吗？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://dataconomy.com/wp-content/uploads/2016/06/pexels-photo-1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;大数据的未来就是开源:a4fe4f20cd6ee5bcbb930213a3ebb7d3&#34;&gt;大数据的未来就是开源&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://dataconomy.com/the-future-of-big-data-is-open-source/&#34;&gt;THE FUTURE OF BIG DATA IS OPEN SOURCE&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这个议题是有目共睹的了，火爆的大数据技术框架：Hadoop、Spark、Kafka、RapidMiner等等不一而足。构建起了完整的生态系统，在这个领域，闭源的公司如Oracle就显得非常的不明智，采用对抗而不是参与的策略。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The past, present, and future of big data is strongly rooted in open source tech, and that will be one of its greatest strengths.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/top-app-developer-skills.jpg&#34; alt=&#34;job&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;那些开源应用程序的开发者是雇主们想要的:a4fe4f20cd6ee5bcbb930213a3ebb7d3&#34;&gt;那些开源应用程序的开发者是雇主们想要的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/what-employers-want-open-source-applications-developer&#34;&gt;What Employers Want in an Open Source Applications Developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这篇依然是Linux基金会做的2016年&lt;a href=&#34;http://go.linuxfoundation.org/download-2016-open-source-jobs-report&#34;&gt;开源工作机会报告&lt;/a&gt;的总结。云计算就只有 OpenStack？大数据、移动开发，可以让人理解，为什么 JavaScript 这么流行？是因为中国的程序员们参与了调查了吗？根据前一阵子人们对GitHub国人的调查结果，绝大多数的国人都是搞前端的。所以这个我表示严重怀疑。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://thevarguy.com/site-files/thevarguy.com/files/imagecache/medium_img/uploads/2016/06/arrow-abstract-innovation.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;微服务-意味着什么以及如何影响世界:a4fe4f20cd6ee5bcbb930213a3ebb7d3&#34;&gt;微服务：意味着什么以及如何影响世界&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/microservices-what-they-mean-and-how-they-impact-channel&#34;&gt;Microservices: What They Mean and How They Impact the Channel&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我一再告诫 &lt;a href=&#34;http://thevarguy.com/author/christopher-tozzi&#34;&gt;Tozzi&lt;/a&gt;，做自己擅长的事情，比如历史叙述和点评。不要过多的涉及技术，除非你能看懂代码并去实践。微服务，是新的架构，是云计算、IoT、容器、RESTapi等技术发展的创新结果，不是一蹴而就的。看看作者总结的三条微服务的优点：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;软件的通用性增强&lt;/li&gt;
+&lt;li&gt;更加快速的软件交付&lt;/li&gt;
+&lt;li&gt;对于合作伙伴更多的选择&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;聪明的你是否会和&lt;a href=&#34;http://12factor.net/&#34;&gt;12 factor&lt;/a&gt;以及&lt;a href=&#34;http://thenewstack.io/&#34;&gt;thenewstack.io/&lt;/a&gt;作比较了呢？学历史的弱爆了，还是搞技术的人牛多了。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.6.20）</title>
