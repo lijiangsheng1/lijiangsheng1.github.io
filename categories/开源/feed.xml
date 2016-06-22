@@ -7,8 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 21 Jun 2016 06:15:05 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jun 2016 06:20:31 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.22）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_22/</link>
+      <pubDate>Wed, 22 Jun 2016 06:20:31 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_22/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:ea019dae04cc0f364578666e9ff304f7&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;fedora-24-发布:ea019dae04cc0f364578666e9ff304f7&#34;&gt;Fedora 24 发布&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://fedoramagazine.org/fedora-24-released/&#34;&gt;Fedora 24 released!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;据Fedora中国区大使tonghui称，未来的Fedora方向会有所调整，红帽正在放弃其往服务器方向的开发和发展。那么可以从这个版本验证一下，workstation确实有很多的改进。其它也不能说是没有改进，如云平台打包OpenShift Origin。拭目以待吧。Fedora如果从服务器消失或支持减弱，对于我的选择就很明朗了，PC上的发行版该换了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/06/7047941495_7e934b62fa_k.jpg&#34; alt=&#34;redhat&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;红帽下个阶段的财务目标是5亿-linux并非其手中唯一的王牌:ea019dae04cc0f364578666e9ff304f7&#34;&gt;红帽下个阶段的财务目标是5亿，Linux并非其手中唯一的王牌&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/06/21/as-red-hat-aims-for-5-billion-in-revenue-linux-wont-be-only-driver/?ncid=rss&#34;&gt;As Red Hat aims for $5 billion in revenue, Linux won’t be only driver&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;红帽要在下个5年的营业额达到5亿，也就是说比现在翻1.5番，那么Linux只能是其中的一部分，有可能让公有云？不得而知。但是OpenShift肯定是其收入的重大来源。OpenStack，红帽是否依然能够笑到最后，似乎还未可知，就目前而言，OpenStack的发行版中，RDO并不怎么样。而且技术支持也是出了名的糟糕至极。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;有关开源的新闻容易获得信任:ea019dae04cc0f364578666e9ff304f7&#34;&gt;有关开源的新闻容易获得信任&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3086264/open-source-tools/the-press-will-believe-anything-about-open-source.html&#34;&gt;The press will believe anything about open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Ubuntu 要脱离社区搞自己的包管理器，这是否会引起众多人们的不满？但是标题起的确实别扭。&lt;/p&gt;
+
+&lt;p&gt;另外需要注意的是，机会主义者、破坏规则的人永远会存在，所以需要一些明眼人的透彻分析，诸如本文所提到的几篇对于Canonical的声明的分析。正如文中最后所总结的：&lt;strong&gt;But this isn&amp;rsquo;t really Canonical&amp;rsquo;s fault. It&amp;rsquo;s doing what most companies do: painting a big picture and hoping enough partners/customers will believe.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;No, really the problem is with a fawning tech press that accepts anything that sounds like &amp;ldquo;open source community&amp;rdquo; as gospel truth, when a more critical analysis is needed.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.6.21）</title>
@@ -1011,74 +1063,6 @@ lower operations costs and vendor lock-in&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;基于事件驱动的毋需服务器的云计算产品。我喜欢这句话：&lt;strong&gt;&amp;ldquo;Open source is dead. The cloud has killed it.&amp;rdquo;&lt;/strong&gt; 在基础设施领域开源软件彻底将商业软件击溃。但是有了无服务器之后的云服务之后，开源的优势显得就不是那么的明显了。&lt;/p&gt;
 
 &lt;p&gt;这里另外提到的一个产品就是 OpenWhisk，诞生于IBM的Bluemix，基于CloudFoundry的公有云服务。也是开源的serverless的基于事件的平台。拭目以待吧，这个似乎听起来更加的美好和激动人心。尤其是在物联网兴起的今天。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.6.8）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_8/</link>
-      <pubDate>Wed, 08 Jun 2016 07:08:48 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_8/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;如何吸引顶级的云计算开发人才:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;如何吸引顶级的云计算开发人才&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.informationweek.com/cloud/how-to-attract-top-cloud-dev-talent/a/d-id/1325657&#34;&gt;How To Attract Top Cloud Dev Talent&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文来自于IBM的高层，主管云计算，可以视为IBM对于开源的认识和态度。开源乃时代必然，正如其最后总结的，开源是数字时代、适应快速变化的创新首选，也是招徕顶级人才的不二道路。作者不断的感慨，和他早期制定XML标准时的上世纪90年代已经发生了天翻地覆的变化！新的一代，默认就是开源。并总结了开放治理与社区，得出结论，最重要的是文化的改变。&lt;/p&gt;
-
-&lt;p&gt;文摘好句：&lt;strong&gt;“A developer without access to open source is like an artist without a palette. ”&lt;/strong&gt; &lt;strong&gt;开放的技术意味着代码、社区和文化&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;惠普企业邀请开源开发者加入其下一代计算-the-machine:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;惠普企业邀请开源开发者加入其下一代计算‘The Machine’&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworld.com/article/3079982/hpe-invites-open-source-developers-to-pitch-in-on-the-machine.html&#34;&gt;HPE invites open-source developers to pitch in on &amp;lsquo;The Machine&amp;rsquo;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;IT大鳄都在开源的世界跑马圈地。随着他们的进入，这片土地的文化也在改变。真正领略开源的人才又有多少？时代在变，反思一下自己，当开源是一种默认的状态时，自己该如何适从？莫非是叶公好龙式的逃避？有的时候，是否开源在其次，真正能够解决实际问题才是王道。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;红帽将其内部的如何做决策向大众开放:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;红帽将其内部的如何做决策向大众开放&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/red-hat-open-sources-how-it-makes-decisions/&#34;&gt;​Red Hat open sources how it makes decisions&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;红帽的&lt;a href=&#34;https://github.com/opensourceway/open-decision-framework/blob/master/Open_Decision_Framework-community.md&#34;&gt;开放决策框架&lt;/a&gt;，在GitHub上发布了。看起来似乎没什么：open exchange, participation, meritocracy, community, and release early and often 。能做到的又有几人？ 这个框架值得去研究。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;利用开源来提高你的编程技巧:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;利用开源来提高你的编程技巧&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://dzone.com/articles/use-open-source-to-hone-your-programming-skills&#34;&gt;Use Open Source to Hone Your Programming Skills&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是一位具有多年编程经验的开发者的肺腑之言，开源的项目和代码能够提高程序员的编码能力。比如如何去阅读代码，如何对待烂代码。最后给出了一些学习开源的URL，比如开源社会大学项目。很好的一篇文章，值得阅读。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;终于有一个替代ms-office开源办公套件了:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;终于有一个替代MS Office开源办公套件了&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/finally-theres-an-open-source-drop-in-replacement-for-ms-office/&#34;&gt;Finally there&amp;rsquo;s an open source drop-in replacement for MS Office&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;烦不烦？&lt;a href=&#34;http://www.softmaker.com/&#34;&gt;SoftMaker&lt;/a&gt;和永中Office有何区别？和LibreOffice了呢？或者是金山了呢？办公套件哪家强？ 这是一家创立了接近20年的德国公司。唉，如果你有空的话，就去了解下吧。我对于红旗中文2000、中标普华办公套件之类的已经烦透了。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
