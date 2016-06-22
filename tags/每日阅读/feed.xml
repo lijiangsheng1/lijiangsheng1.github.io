@@ -7,8 +7,81 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 Jun 2016 06:20:31 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jun 2016 06:36:13 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.23）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_23/</link>
+      <pubDate>Thu, 23 Jun 2016 06:36:13 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_23/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:6679fae9e1098df731a36185874a0e85&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;clusterhq-的-mohit-bhatnagar-谈了对于-flocker-docker-以及开源的崛起:6679fae9e1098df731a36185874a0e85&#34;&gt;ClusterHQ 的 Mohit Bhatnagar 谈了对于 Flocker、Docker、以及开源的崛起&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/clusterhqs-mohit-bhatnagar-talks-about-flocker-docker-and-rise-open-source&#34;&gt;ClusterHQ’s Mohit Bhatnagar Talks Flocker, Docker, and the Rise of Open Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;DockerCon 应该是刚刚进行完毕。Docker 商业化的野心越来越大，其实它一直都在铺垫。但是这次做的比如在Docker Engine中整合编排的能力。说明Docker 社区的角逐还是很厉害的。Docker 如此下去会是一个巨无霸，那么替代它的 CoreOS的 rkt和 ClusterHQ 的Flocker都是有力的竞争者。没有人希望一家独大，除非你是极权主义爱好者。&lt;/p&gt;
+
+&lt;p&gt;开源是在崛起，没错，从开发方式到软件项目，再到生态系统。一切都决定最后最终用户在业务中采用的架构和组件。常态时该如何寻找位置？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_barnraising.png&#34; alt=&#34;opensourceway&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;构建坚实的开源商业模式:6679fae9e1098df731a36185874a0e85&#34;&gt;构建坚实的开源商业模式&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/6/building-business-solid-open-source-model&#34;&gt;Building a business on a solid open source model&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文的作者来自于刚刚成立的NextCloud，我已经脑补出来和原来的ownCloud之间的矛盾了。可以充分证明ownCloud原来的CEO是位机会主义者，典型的伪开源。看看他过去经营的opensourcedesktop.org就明白是怎么一回事了。在现实中一定要认清这些人，他们是最大的破坏者，尽管表面非常的难以察觉。&lt;/p&gt;
+
+&lt;p&gt;另外本文的特点在于以生态系统的眼光来看待开源，大家兼受益。并在文中说来在开源之路上会遇到那些“拦路虎”，该如何一一将之清扫。并解释了常见的误解。告诉你如何识别真假开源，比如PingCAP、Citrix、Hyper等做法，将开源视为一种市场营销，这是企业常犯的错误。最后引用几句好的英文：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;no matter who you are, most of the smartest people work for someone else,&amp;rdquo;&lt;/strong&gt; 还有对于开源的总结:&lt;strong&gt;However, in all cases, transparency and open collaboration are key to open source project health.&lt;/strong&gt; 有些事情无论怎么变，都有最为根本的原则。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://betanews.com/wp-content/uploads/2016/06/MoneyRainLaptopDev.jpg&#34; alt=&#34;money&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;mozilla-moss-之-mission-partners-为开源项目开发者捐赠-385-000:6679fae9e1098df731a36185874a0e85&#34;&gt;Mozilla MOSS 之“Mission Partners” 为开源项目开发者捐赠 $385,000&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://betanews.com/2016/06/22/mozilla-open-source-developers-money/&#34;&gt;Mozilla MOSS &amp;lsquo;Mission Partners&amp;rsquo; makes it rain $385,000 on open source project developers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Mozilla 长期以来一直是开源的佼佼者，不仅仅体现在话语上，在资源的贡献上也是。也就是说它不仅仅是开发流行的浏览器 Firefox，而且也会捐赠和赞助一些开源项目。比如现在的“Mission Partners”，而且这个计划还是一个持续的项目，计划出资125万美金。相信很多开源项目都会从中受益。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://betanews.com/wp-content/uploads/2016/06/moz-love-open.jpg&#34; alt=&#34;mozloveopen&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;简单遍历下都有哪些项目是Mozilla这次捐赠的：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tor&lt;/li&gt;
+&lt;li&gt;Tails&lt;/li&gt;
+&lt;li&gt;Caddy&lt;/li&gt;
+&lt;li&gt;Mio&lt;/li&gt;
+&lt;li&gt;DNSSEC/DANE Chain Stapling&lt;/li&gt;
+&lt;li&gt;Godot Engine&lt;/li&gt;
+&lt;li&gt;PeARS&lt;/li&gt;
+&lt;li&gt;NVDA 读取Windows桌面屏幕的。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;从项目上看还是比较符合firefox这个生态圈的，基本是点对点协议实现、一些重要的网络库等。几乎没有服务器相关的项目。还是那句话：无利不起早！但总归是件好事！&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.22）</title>
@@ -994,74 +1067,6 @@ lower operations costs and vendor lock-in&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;基于事件驱动的毋需服务器的云计算产品。我喜欢这句话：&lt;strong&gt;&amp;ldquo;Open source is dead. The cloud has killed it.&amp;rdquo;&lt;/strong&gt; 在基础设施领域开源软件彻底将商业软件击溃。但是有了无服务器之后的云服务之后，开源的优势显得就不是那么的明显了。&lt;/p&gt;
 
 &lt;p&gt;这里另外提到的一个产品就是 OpenWhisk，诞生于IBM的Bluemix，基于CloudFoundry的公有云服务。也是开源的serverless的基于事件的平台。拭目以待吧，这个似乎听起来更加的美好和激动人心。尤其是在物联网兴起的今天。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.6.8）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_8/</link>
-      <pubDate>Wed, 08 Jun 2016 07:08:48 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_8/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;如何吸引顶级的云计算开发人才:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;如何吸引顶级的云计算开发人才&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.informationweek.com/cloud/how-to-attract-top-cloud-dev-talent/a/d-id/1325657&#34;&gt;How To Attract Top Cloud Dev Talent&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文来自于IBM的高层，主管云计算，可以视为IBM对于开源的认识和态度。开源乃时代必然，正如其最后总结的，开源是数字时代、适应快速变化的创新首选，也是招徕顶级人才的不二道路。作者不断的感慨，和他早期制定XML标准时的上世纪90年代已经发生了天翻地覆的变化！新的一代，默认就是开源。并总结了开放治理与社区，得出结论，最重要的是文化的改变。&lt;/p&gt;
-
-&lt;p&gt;文摘好句：&lt;strong&gt;“A developer without access to open source is like an artist without a palette. ”&lt;/strong&gt; &lt;strong&gt;开放的技术意味着代码、社区和文化&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;惠普企业邀请开源开发者加入其下一代计算-the-machine:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;惠普企业邀请开源开发者加入其下一代计算‘The Machine’&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworld.com/article/3079982/hpe-invites-open-source-developers-to-pitch-in-on-the-machine.html&#34;&gt;HPE invites open-source developers to pitch in on &amp;lsquo;The Machine&amp;rsquo;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;IT大鳄都在开源的世界跑马圈地。随着他们的进入，这片土地的文化也在改变。真正领略开源的人才又有多少？时代在变，反思一下自己，当开源是一种默认的状态时，自己该如何适从？莫非是叶公好龙式的逃避？有的时候，是否开源在其次，真正能够解决实际问题才是王道。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;红帽将其内部的如何做决策向大众开放:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;红帽将其内部的如何做决策向大众开放&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/red-hat-open-sources-how-it-makes-decisions/&#34;&gt;​Red Hat open sources how it makes decisions&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;红帽的&lt;a href=&#34;https://github.com/opensourceway/open-decision-framework/blob/master/Open_Decision_Framework-community.md&#34;&gt;开放决策框架&lt;/a&gt;，在GitHub上发布了。看起来似乎没什么：open exchange, participation, meritocracy, community, and release early and often 。能做到的又有几人？ 这个框架值得去研究。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;利用开源来提高你的编程技巧:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;利用开源来提高你的编程技巧&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://dzone.com/articles/use-open-source-to-hone-your-programming-skills&#34;&gt;Use Open Source to Hone Your Programming Skills&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是一位具有多年编程经验的开发者的肺腑之言，开源的项目和代码能够提高程序员的编码能力。比如如何去阅读代码，如何对待烂代码。最后给出了一些学习开源的URL，比如开源社会大学项目。很好的一篇文章，值得阅读。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;终于有一个替代ms-office开源办公套件了:0a9e82ce1edbdde7ae519841d610584a&#34;&gt;终于有一个替代MS Office开源办公套件了&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/finally-theres-an-open-source-drop-in-replacement-for-ms-office/&#34;&gt;Finally there&amp;rsquo;s an open source drop-in replacement for MS Office&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;烦不烦？&lt;a href=&#34;http://www.softmaker.com/&#34;&gt;SoftMaker&lt;/a&gt;和永中Office有何区别？和LibreOffice了呢？或者是金山了呢？办公套件哪家强？ 这是一家创立了接近20年的德国公司。唉，如果你有空的话，就去了解下吧。我对于红旗中文2000、中标普华办公套件之类的已经烦透了。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

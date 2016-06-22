@@ -7,8 +7,81 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 Jun 2016 06:20:31 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jun 2016 06:36:13 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.23）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_23/</link>
+      <pubDate>Thu, 23 Jun 2016 06:36:13 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_23/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:6679fae9e1098df731a36185874a0e85&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;clusterhq-的-mohit-bhatnagar-谈了对于-flocker-docker-以及开源的崛起:6679fae9e1098df731a36185874a0e85&#34;&gt;ClusterHQ 的 Mohit Bhatnagar 谈了对于 Flocker、Docker、以及开源的崛起&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/clusterhqs-mohit-bhatnagar-talks-about-flocker-docker-and-rise-open-source&#34;&gt;ClusterHQ’s Mohit Bhatnagar Talks Flocker, Docker, and the Rise of Open Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;DockerCon 应该是刚刚进行完毕。Docker 商业化的野心越来越大，其实它一直都在铺垫。但是这次做的比如在Docker Engine中整合编排的能力。说明Docker 社区的角逐还是很厉害的。Docker 如此下去会是一个巨无霸，那么替代它的 CoreOS的 rkt和 ClusterHQ 的Flocker都是有力的竞争者。没有人希望一家独大，除非你是极权主义爱好者。&lt;/p&gt;
+
+&lt;p&gt;开源是在崛起，没错，从开发方式到软件项目，再到生态系统。一切都决定最后最终用户在业务中采用的架构和组件。常态时该如何寻找位置？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_barnraising.png&#34; alt=&#34;opensourceway&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;构建坚实的开源商业模式:6679fae9e1098df731a36185874a0e85&#34;&gt;构建坚实的开源商业模式&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/6/building-business-solid-open-source-model&#34;&gt;Building a business on a solid open source model&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文的作者来自于刚刚成立的NextCloud，我已经脑补出来和原来的ownCloud之间的矛盾了。可以充分证明ownCloud原来的CEO是位机会主义者，典型的伪开源。看看他过去经营的opensourcedesktop.org就明白是怎么一回事了。在现实中一定要认清这些人，他们是最大的破坏者，尽管表面非常的难以察觉。&lt;/p&gt;
+
+&lt;p&gt;另外本文的特点在于以生态系统的眼光来看待开源，大家兼受益。并在文中说来在开源之路上会遇到那些“拦路虎”，该如何一一将之清扫。并解释了常见的误解。告诉你如何识别真假开源，比如PingCAP、Citrix、Hyper等做法，将开源视为一种市场营销，这是企业常犯的错误。最后引用几句好的英文：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;no matter who you are, most of the smartest people work for someone else,&amp;rdquo;&lt;/strong&gt; 还有对于开源的总结:&lt;strong&gt;However, in all cases, transparency and open collaboration are key to open source project health.&lt;/strong&gt; 有些事情无论怎么变，都有最为根本的原则。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://betanews.com/wp-content/uploads/2016/06/MoneyRainLaptopDev.jpg&#34; alt=&#34;money&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;mozilla-moss-之-mission-partners-为开源项目开发者捐赠-385-000:6679fae9e1098df731a36185874a0e85&#34;&gt;Mozilla MOSS 之“Mission Partners” 为开源项目开发者捐赠 $385,000&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://betanews.com/2016/06/22/mozilla-open-source-developers-money/&#34;&gt;Mozilla MOSS &amp;lsquo;Mission Partners&amp;rsquo; makes it rain $385,000 on open source project developers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Mozilla 长期以来一直是开源的佼佼者，不仅仅体现在话语上，在资源的贡献上也是。也就是说它不仅仅是开发流行的浏览器 Firefox，而且也会捐赠和赞助一些开源项目。比如现在的“Mission Partners”，而且这个计划还是一个持续的项目，计划出资125万美金。相信很多开源项目都会从中受益。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://betanews.com/wp-content/uploads/2016/06/moz-love-open.jpg&#34; alt=&#34;mozloveopen&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;简单遍历下都有哪些项目是Mozilla这次捐赠的：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tor&lt;/li&gt;
+&lt;li&gt;Tails&lt;/li&gt;
+&lt;li&gt;Caddy&lt;/li&gt;
+&lt;li&gt;Mio&lt;/li&gt;
+&lt;li&gt;DNSSEC/DANE Chain Stapling&lt;/li&gt;
+&lt;li&gt;Godot Engine&lt;/li&gt;
+&lt;li&gt;PeARS&lt;/li&gt;
+&lt;li&gt;NVDA 读取Windows桌面屏幕的。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;从项目上看还是比较符合firefox这个生态圈的，基本是点对点协议实现、一些重要的网络库等。几乎没有服务器相关的项目。还是那句话：无利不起早！但总归是件好事！&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.22）</title>
@@ -939,86 +1012,6 @@ lower operations costs and vendor lock-in&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;近来对于开源的安全扫描越来越多了，可以回顾下我仅一周内的点评，Mozilla的出钱、BlackDuck高调宣传、WhiteSource开源漏洞扫描工具。。。。。。等等不一而足。基础设施，开源现在的地盘，随意爆出的漏洞都可能是致命的，但是大型的互联网公司还未见重视此问题。难道heartblood、shellshock之类的对他们没有影响吗？ 正如本文的配图一样，所暴露出来的只是冰山一角，更多的看不见的、潜在的威胁还在后面了。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.6.10）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_10/</link>
-      <pubDate>Fri, 10 Jun 2016 08:49:43 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_10/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;微软在其azure的虚拟机镜像中将流行的开源操作系统freebsd列入支持列表:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;微软在其Azure的虚拟机镜像中将流行的开源操作系统FreeBSD列入支持列表&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.geekwire.com/2016/microsoft-supports-popular-freebsd-open-source-os-new-azure-virtual-machine-image/&#34;&gt;Microsoft supports popular FreeBSD open-source OS with new Azure virtual-machine image&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这就一篇新闻，有两个看点：0、微软是以客户为中心的策略，不能自大到唯我独尊。FreeBSD 仍然有其固有的市场份额。1、此次镜像并非是FreeBSD社区所支持，而是由微软自己来维护和提供支持的。这说明微软招徕了大量FreeBSD的人才？还是早已布局FreeBSD？ 只要你有胆识，支持就支持。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;mozilla-启动新的资金资助-致力于帮助避免下一个-heartbleed:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;Mozilla 启动新的资金资助，致力于帮助避免下一个 Heartbleed&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://techcrunch.com/2016/06/09/mozilla-launches-new-fund-to-help-prevent-the-next-heartbleed/&#34;&gt;Mozilla launches new fund to help prevent the next Heartbleed&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源的安全性，越来越受到人们的关注了。就我所知道的BlackDuck、WhiteSource、以及本土的绿盟之类的，都开始转移注意力了。Mozilla 自掏腰包$500,000 来资助这件事，背后究竟是什么原因？为何选的三个项目分别是：PCRE, libjpeg-turbo and phpMyAdmin 难道是随机挑选的？这块的市场竞争将很快进入白热化状态，或者在这个领域的已经是白热化的了。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/edu_rcos.png&#34; alt=&#34;process&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;写作的力量-影响了苹果-脸书和airbnb-等ceo的作家:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;写作的力量：影响了苹果、脸书和AirBnB 等CEO的作家&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://medium.com/life-learning/the-power-of-writing-the-one-author-that-influenced-the-ceos-of-apple-facebook-and-airbnb-5cd40055e51#.tzhy9ufek&#34;&gt;The Power of Writing: The One Author that influenced the CEO’s of Apple, Facebook and AirBnB.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一篇打鸡血的文章，相信最近的一段时间，我也在反思自己。本文的作者蛮有趣的，他一开始是关注比尔盖茨、咋克伯格之类的阅读列表，然后从中找出哪个作家是这些有钱的、成功的CEO们都会看到的。然后总结出了安迪格鲁夫，的两本书，《只有偏执狂才能生存》《High Output Management》。然后，给自己总结了一句：“ While learning how to code may help you build a scalable technology, learning how to write gives you an infinitely more scalable tool to influence the world.” 然后就开始练习写作。写作是需要大量的练习的。&lt;/p&gt;
-
-&lt;p&gt;自我的洗脑很重要！要无时无刻的给自己洗脑！即强大的心理暗示。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;容器和微服务的神话-来自红帽的洞见:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;容器和微服务的神话：来自红帽的洞见&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/container-and-microservices-myths-red-hat-perspective&#34;&gt;Container and Microservices Myths: The Red Hat Perspective&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;确实是，容器仿佛一夜之间就火了起来，成为了无所不能的全能王。尤其在国内，各种基于容器的云平台甚嚣尘上，DaoCloud、灵雀云、数人云等等不一而足，一会号称取代虚拟机；一会又干掉OpenStack；一会又Docker是最新等技术。说实话，真的该有人来给他们泼泼冷水了，让他们冷静下来，再吹的话连自己都信了。这就是这篇文章要说明的：打破容器和微服务的5个神话。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;容器是新技术？&lt;/li&gt;
-&lt;li&gt;容器是完全自我包含的实体？&lt;/li&gt;
-&lt;li&gt;容器可以替代虚拟机？&lt;/li&gt;
-&lt;li&gt;容器的移植性是通用的？&lt;/li&gt;
-&lt;li&gt;容器默认是安全的？&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;你是不是应该低头考虑一下了？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;针对发现你核心价值的开放流程:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;针对发现你核心价值的开放流程&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values&#34;&gt;An open process for discovering your core values&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;又是《The Open Organization》这本书的读后感。越来越多的人开始认同书中所阐述的价值观和做事风格了。诸如做决策、信任等。我依然向往这样的公司和环境，现实中仍然难以找到，自己想开一家这样的公司，虽然困难重重，但是还可以克服，重要的是在路上，发现自己的核心价值。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
