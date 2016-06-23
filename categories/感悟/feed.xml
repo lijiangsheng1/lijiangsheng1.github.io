@@ -7,8 +7,63 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 Jun 2016 06:36:13 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jun 2016 06:39:40 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.24）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_24/</link>
+      <pubDate>Fri, 24 Jun 2016 06:39:40 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_24/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:e890e79113d4b5dfa45ce2af7208d11e&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;从开放到开源-vmware-创建新的业务类别:e890e79113d4b5dfa45ce2af7208d11e&#34;&gt;从开放到开源，VMWare 创建新的业务类别&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/06/22/being-open-to-open-source-and-creating-a-new-business-category-at-vmware/&#34;&gt;Being open to open source and creating a new business category at VMWare&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;大势所趋之下，没有人愿意错过这次机会。这是一个开发者定义基础设施的时代，开源已经用自己的实力证明了能够快速的进入市场。开发者永远都在寻找新的技术去改进生产效率。以下是采访者的两条我颇认可的言论：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;若项目是开源的，开发者总能在第一时间发现它、采用它，如果它是有价值的话。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“It’s a big rock to push up the hill because you’re motivating not just yourself but also an ecosystem of partners that are outside of your control.”&lt;/strong&gt; 这个相比国内的大一统思维，实在是智慧之言。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;一个来自7个国家的成员组成的团度正在构建能够在twitter上帮助验证索赔的开源工具:e890e79113d4b5dfa45ce2af7208d11e&#34;&gt;一个来自7个国家的成员组成的团度正在构建能够在Twitter上帮助验证索赔的开源工具&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.journalism.co.uk/news/researchers-building-an-open-source-tool-to-help-verify-claims-on-twitter/s2/a649488/&#34;&gt;A team of researchers from 7 countries is building an open-source tool to help verify claims on Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;说实话，我没有看懂这个项目是要干嘛？可能更多的是法律、文化等因素，微博就没有这种情况，直接删除而已。还使用了自然语言处理、以及预测趋势的先进算法。好吧。看他们明年初是否能够成功。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2016/06/22/image-524208166.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源巨头红帽收购了-3scale:e890e79113d4b5dfa45ce2af7208d11e&#34;&gt;开源巨头红帽收购了 3scale&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.ibtimes.com/open-source-software-maker-red-hat-incs-stock-buyback-deal-buy-3scale-api-manager-2385625&#34;&gt;Open Source Software Maker Red Hat Inc.’s Stock Buyback, Deal To Buy 3scale API Manager Sends Shares Plunging&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;前两日评价了红帽的野心，号称其营业额要赶超5亿美金，这就是给人们看的效果，又收购了一家颇具潜力的公司，专做 API 管理的公司，本文主要讲的是经济方面的内容，大家可以转移到红帽的&lt;a href=&#34;https://www.redhat.com/en/about/press-releases/red-hat-acquire-api-management-leader-3scale&#34;&gt;官方申明&lt;/a&gt;中，技术主要是帮助OpenShift、Jboss、MBaaS等对于API和微服务的加强。&lt;/p&gt;
+
+&lt;p&gt;开源是默认的时代，作为商业上最为成功的红帽，正在一步步走向衰落，其收购的哪些闭源公司，然后在独自一家玩的例子很多，如oVirt、ManageIQ、甚至后来干脆就不开源了。如此快速的收购策略，文化上难以消化，品牌打的再好，终有暴露的哪一天。也就是从某天起，发现自己的业绩没有意料中那么快。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.23）</title>
@@ -943,76 +998,6 @@ lower operations costs and vendor lock-in&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;何种-回馈社区-是为自己的商业模式争取亮点:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;何种“回馈社区”是为自己的商业模式争取亮点&lt;/h2&gt;
 
 &lt;p&gt;本土总是非常的奇葩，所以一些开源软件或自由软件的原教旨主义者非常的痛苦和不理解。拿OpenStack为例，OpenStack基金会会以Git的代码提交做一些排名，而本土有些公司的做法，为了争取到某个项目的core，将一整个小组的人的代码都以某个人的名义提交。仅仅在一些开源的研讨会或用户开发峰会上夸夸其词的。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.6.11）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_11/</link>
-      <pubDate>Sat, 11 Jun 2016 10:37:24 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_11/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:cdd73099e42bf94b14650d9360e94276&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;freebsd-还是-linux-微软到底爱宠哪个:cdd73099e42bf94b14650d9360e94276&#34;&gt;FreeBSD 还是 Linux：微软到底爱宠哪个？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/freebsd-vs-linux-which-open-source-os-does-microsoft-now-&#34;&gt;FreeBSD vs. Linux: Which Open Source OS Does Microsoft Now Love More?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;昨天我们看到微软在其云有云平台Azure上开始一厢情愿的支持FreeBSD了。今天 Varguy 就出评论了，不过专栏的文章好处就是能够自圆其说。看过去的一篇文章 &lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/062615/open-source-history-why-didnt-bsd-beat-out-gnu-and-linux&#34;&gt;FreeBSD 一直是躲在GNU和 Linux的阴影下&lt;/a&gt;，说虽然说的有点夸张，但是也不无道理。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/law/LAW_vaguepatent_520x292.png&#34; alt=&#34;blackbox&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;google-和-oracle-的官司-对于软件开发者意味着什么:cdd73099e42bf94b14650d9360e94276&#34;&gt;Google 和 Oracle 的官司：对于软件开发者意味着什么？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/law/16/6/outcome-google-v-oracle-good-open-source&#34;&gt;Oracle v. Google: What it means for software developers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;来自红帽的律师发言了，但是我也没有看出个所以然来，是不是律师说话都是如此？最后一句和我们差不多：&lt;strong&gt;We will have to wait and see how this area of the law develops.&lt;/strong&gt; 简单讲了讲这场官司的历史。唉，标题党。不过还是看看。开源软件的世界相比于过去已经变化了，但是究竟变了什么地方？还需要我们洞若观火、细致入微的去观察和思考，不放过任何的细节。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;遇见-mycroft-一款比肩于siri-cortana-alexa的开源人工智能套件:cdd73099e42bf94b14650d9360e94276&#34;&gt;遇见 Mycroft，一款比肩于Siri、Cortana、Alexa的开源人工智能套件&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/meet-mycroft-the-open-source-ai-who-wants-to-rival-siri-cortana-and-alexa/&#34;&gt;Meet Mycroft, the open source AI who wants to rival Siri, Cortana, and Alexa&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;家庭助手，人工智能，灵感来源于钢铁侠里的 Jarvis，硬件基于 Raspberry Pi 3 和 Arduino。代码地址：&lt;a href=&#34;https://github.com/MycroftAI/mycroft-core&#34;&gt;在GitHub&lt;/a&gt;，即使开源，你是自己动手DIY一个了，还是买一个了？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;为-prometheus-贡献-开源的教程:cdd73099e42bf94b14650d9360e94276&#34;&gt;为 Prometheus 贡献：开源的教程&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/contributing-prometheus-open-source-tutorial&#34;&gt;Contributing to Prometheus: An Open Source Tutorial&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;题目有些别扭，但是还可以看， Prometheus 是一款专注于容器的监控和预警的套件。开源项目实在是太多了。能够有一个好的贡献入门指南确实是非常重要的。我自己的脑海里，被某些精英主义所占据，也可能是某种民间文化的渗透，那就是所谓的工匠，专注于技艺，而不关心传承；以伟大天才的艺术风格，而忽略严谨的科学记录。我的创业之路，必须要走出这条死胡同。文档、教程、手册真的不重要吗？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/06/0609.sdt-sourceclear.png&#34; alt=&#34;ice&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;sourceclear-开源工具-commit-watcher:cdd73099e42bf94b14650d9360e94276&#34;&gt;SourceClear 开源工具 Commit Watcher&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/sourceclear-open-sources-commit-watcher-detect-vulnerabilities-commits/&#34;&gt;SourceClear open-sources Commit Watcher to detect vulnerabilities in commits&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;近来对于开源的安全扫描越来越多了，可以回顾下我仅一周内的点评，Mozilla的出钱、BlackDuck高调宣传、WhiteSource开源漏洞扫描工具。。。。。。等等不一而足。基础设施，开源现在的地盘，随意爆出的漏洞都可能是致命的，但是大型的互联网公司还未见重视此问题。难道heartblood、shellshock之类的对他们没有影响吗？ 正如本文的配图一样，所暴露出来的只是冰山一角，更多的看不见的、潜在的威胁还在后面了。&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     

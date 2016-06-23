@@ -7,8 +7,63 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 Jun 2016 06:36:13 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jun 2016 06:39:40 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.24）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_24/</link>
+      <pubDate>Fri, 24 Jun 2016 06:39:40 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_24/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:e890e79113d4b5dfa45ce2af7208d11e&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;从开放到开源-vmware-创建新的业务类别:e890e79113d4b5dfa45ce2af7208d11e&#34;&gt;从开放到开源，VMWare 创建新的业务类别&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/06/22/being-open-to-open-source-and-creating-a-new-business-category-at-vmware/&#34;&gt;Being open to open source and creating a new business category at VMWare&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;大势所趋之下，没有人愿意错过这次机会。这是一个开发者定义基础设施的时代，开源已经用自己的实力证明了能够快速的进入市场。开发者永远都在寻找新的技术去改进生产效率。以下是采访者的两条我颇认可的言论：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;若项目是开源的，开发者总能在第一时间发现它、采用它，如果它是有价值的话。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“It’s a big rock to push up the hill because you’re motivating not just yourself but also an ecosystem of partners that are outside of your control.”&lt;/strong&gt; 这个相比国内的大一统思维，实在是智慧之言。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;一个来自7个国家的成员组成的团度正在构建能够在twitter上帮助验证索赔的开源工具:e890e79113d4b5dfa45ce2af7208d11e&#34;&gt;一个来自7个国家的成员组成的团度正在构建能够在Twitter上帮助验证索赔的开源工具&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.journalism.co.uk/news/researchers-building-an-open-source-tool-to-help-verify-claims-on-twitter/s2/a649488/&#34;&gt;A team of researchers from 7 countries is building an open-source tool to help verify claims on Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;说实话，我没有看懂这个项目是要干嘛？可能更多的是法律、文化等因素，微博就没有这种情况，直接删除而已。还使用了自然语言处理、以及预测趋势的先进算法。好吧。看他们明年初是否能够成功。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2016/06/22/image-524208166.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源巨头红帽收购了-3scale:e890e79113d4b5dfa45ce2af7208d11e&#34;&gt;开源巨头红帽收购了 3scale&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.ibtimes.com/open-source-software-maker-red-hat-incs-stock-buyback-deal-buy-3scale-api-manager-2385625&#34;&gt;Open Source Software Maker Red Hat Inc.’s Stock Buyback, Deal To Buy 3scale API Manager Sends Shares Plunging&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;前两日评价了红帽的野心，号称其营业额要赶超5亿美金，这就是给人们看的效果，又收购了一家颇具潜力的公司，专做 API 管理的公司，本文主要讲的是经济方面的内容，大家可以转移到红帽的&lt;a href=&#34;https://www.redhat.com/en/about/press-releases/red-hat-acquire-api-management-leader-3scale&#34;&gt;官方申明&lt;/a&gt;中，技术主要是帮助OpenShift、Jboss、MBaaS等对于API和微服务的加强。&lt;/p&gt;
+
+&lt;p&gt;开源是默认的时代，作为商业上最为成功的红帽，正在一步步走向衰落，其收购的哪些闭源公司，然后在独自一家玩的例子很多，如oVirt、ManageIQ、甚至后来干脆就不开源了。如此快速的收购策略，文化上难以消化，品牌打的再好，终有暴露的哪一天。也就是从某天起，发现自己的业绩没有意料中那么快。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.23）</title>
@@ -942,86 +997,6 @@ lower operations costs and vendor lock-in&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;近来对于开源的安全扫描越来越多了，可以回顾下我仅一周内的点评，Mozilla的出钱、BlackDuck高调宣传、WhiteSource开源漏洞扫描工具。。。。。。等等不一而足。基础设施，开源现在的地盘，随意爆出的漏洞都可能是致命的，但是大型的互联网公司还未见重视此问题。难道heartblood、shellshock之类的对他们没有影响吗？ 正如本文的配图一样，所暴露出来的只是冰山一角，更多的看不见的、潜在的威胁还在后面了。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.6.10）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_10/</link>
-      <pubDate>Fri, 10 Jun 2016 08:49:43 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_10/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;微软在其azure的虚拟机镜像中将流行的开源操作系统freebsd列入支持列表:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;微软在其Azure的虚拟机镜像中将流行的开源操作系统FreeBSD列入支持列表&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.geekwire.com/2016/microsoft-supports-popular-freebsd-open-source-os-new-azure-virtual-machine-image/&#34;&gt;Microsoft supports popular FreeBSD open-source OS with new Azure virtual-machine image&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这就一篇新闻，有两个看点：0、微软是以客户为中心的策略，不能自大到唯我独尊。FreeBSD 仍然有其固有的市场份额。1、此次镜像并非是FreeBSD社区所支持，而是由微软自己来维护和提供支持的。这说明微软招徕了大量FreeBSD的人才？还是早已布局FreeBSD？ 只要你有胆识，支持就支持。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;mozilla-启动新的资金资助-致力于帮助避免下一个-heartbleed:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;Mozilla 启动新的资金资助，致力于帮助避免下一个 Heartbleed&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://techcrunch.com/2016/06/09/mozilla-launches-new-fund-to-help-prevent-the-next-heartbleed/&#34;&gt;Mozilla launches new fund to help prevent the next Heartbleed&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源的安全性，越来越受到人们的关注了。就我所知道的BlackDuck、WhiteSource、以及本土的绿盟之类的，都开始转移注意力了。Mozilla 自掏腰包$500,000 来资助这件事，背后究竟是什么原因？为何选的三个项目分别是：PCRE, libjpeg-turbo and phpMyAdmin 难道是随机挑选的？这块的市场竞争将很快进入白热化状态，或者在这个领域的已经是白热化的了。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/edu_rcos.png&#34; alt=&#34;process&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;写作的力量-影响了苹果-脸书和airbnb-等ceo的作家:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;写作的力量：影响了苹果、脸书和AirBnB 等CEO的作家&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://medium.com/life-learning/the-power-of-writing-the-one-author-that-influenced-the-ceos-of-apple-facebook-and-airbnb-5cd40055e51#.tzhy9ufek&#34;&gt;The Power of Writing: The One Author that influenced the CEO’s of Apple, Facebook and AirBnB.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一篇打鸡血的文章，相信最近的一段时间，我也在反思自己。本文的作者蛮有趣的，他一开始是关注比尔盖茨、咋克伯格之类的阅读列表，然后从中找出哪个作家是这些有钱的、成功的CEO们都会看到的。然后总结出了安迪格鲁夫，的两本书，《只有偏执狂才能生存》《High Output Management》。然后，给自己总结了一句：“ While learning how to code may help you build a scalable technology, learning how to write gives you an infinitely more scalable tool to influence the world.” 然后就开始练习写作。写作是需要大量的练习的。&lt;/p&gt;
-
-&lt;p&gt;自我的洗脑很重要！要无时无刻的给自己洗脑！即强大的心理暗示。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;容器和微服务的神话-来自红帽的洞见:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;容器和微服务的神话：来自红帽的洞见&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/container-and-microservices-myths-red-hat-perspective&#34;&gt;Container and Microservices Myths: The Red Hat Perspective&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;确实是，容器仿佛一夜之间就火了起来，成为了无所不能的全能王。尤其在国内，各种基于容器的云平台甚嚣尘上，DaoCloud、灵雀云、数人云等等不一而足，一会号称取代虚拟机；一会又干掉OpenStack；一会又Docker是最新等技术。说实话，真的该有人来给他们泼泼冷水了，让他们冷静下来，再吹的话连自己都信了。这就是这篇文章要说明的：打破容器和微服务的5个神话。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;容器是新技术？&lt;/li&gt;
-&lt;li&gt;容器是完全自我包含的实体？&lt;/li&gt;
-&lt;li&gt;容器可以替代虚拟机？&lt;/li&gt;
-&lt;li&gt;容器的移植性是通用的？&lt;/li&gt;
-&lt;li&gt;容器默认是安全的？&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;你是不是应该低头考虑一下了？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;针对发现你核心价值的开放流程:2ae2660a4f9e51ea6ad1be074e5ee341&#34;&gt;针对发现你核心价值的开放流程&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/opening-discover-education-centers-core-values&#34;&gt;An open process for discovering your core values&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;又是《The Open Organization》这本书的读后感。越来越多的人开始认同书中所阐述的价值观和做事风格了。诸如做决策、信任等。我依然向往这样的公司和环境，现实中仍然难以找到，自己想开一家这样的公司，虽然困难重重，但是还可以克服，重要的是在路上，发现自己的核心价值。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
