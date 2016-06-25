@@ -7,8 +7,56 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 25 Jun 2016 07:20:26 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jun 2016 06:38:33 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.26）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_26/</link>
+      <pubDate>Sun, 26 Jun 2016 06:38:33 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_26/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:b669f91ea47f8d40f7d01946c9b964ba&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;github-的分析数字能告诉我们什么:b669f91ea47f8d40f7d01946c9b964ba&#34;&gt;GitHub 的分析数字能告诉我们什么&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/githubs-numbers-say-projects/&#34;&gt;What GitHub’s numbers say about its projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这篇文章其实蛮差劲的，它不过是 GitHub 的官方博客&lt;a href=&#34;https://github.com/blog/2195-the-shape-of-open-source&#34;&gt;开源的形态&lt;/a&gt;一文的再诠释而已，基本是照抄，这也是国内新闻的一贯做法。不吐槽。由于作者是一名数据科学家，用了可视化的图表形式来表达了一些内容，比如 Atom 从闭源到开源中间所经历的低谷与高峰是一个值得注意的主题。&lt;/p&gt;
+
+&lt;p&gt;我非同一般的认可作者的结论：&lt;strong&gt;非常明显，开源并不意味着仅仅是代码。成功的开源项目同时包括代码和文档的提交，且关于变动的讨论均很活跃。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;树莓派3的竞争对手拥有-ssd-存储的插槽:b669f91ea47f8d40f7d01946c9b964ba&#34;&gt;树莓派3的竞争对手拥有 SSD 存储的插槽&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.pcworld.com/article/3088535/internet-of-things/a-raspberry-pi-3-competitor-will-boast-an-ssd-storage-slot.html&#34;&gt;This Raspberry Pi 3 rival will boast an SSD storage slot&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;说实话，我开始是以为讲树莓派3支持SSD插槽的，就开始阅读此文，后来发现内容完全是另外一回事。是PC架构的开放硬件&lt;a href=&#34;http://wiki.minnowboard.org/MinnowBoard_Wiki_Home&#34;&gt;MinnowBoard&lt;/a&gt;的新动作。好吧，我从来不知道树莓派还有竞争对手了，如果没有记错的话（懒得确认），这是ARM与X86之间的竞争。对于我来说，就当时扫盲了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;it-运行在云中-云运行-linux-有问题吗:b669f91ea47f8d40f7d01946c9b964ba&#34;&gt;IT 运行在云中，云运行 Linux。有问题吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/it-runs-on-the-cloud-and-the-cloud-runs-on-linux-any-questions/&#34;&gt;IT runs on the cloud, and the cloud runs on Linux. Any questions?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文作者从技术的角度剖析了 Linux 在云平台的重要性！基石、核心等词就不提了，甚至提到了 Docker 在Mac和Windows 10的实际情况。哎，对于我个人来说又如何？Linux 是一款成功的操作系统。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.25）</title>
@@ -944,69 +992,6 @@ lower operations costs and vendor lock-in&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;就当下各个公司的HR水平，或者是一些人的用人观念，我是非常难以适配的。既不能成为螺丝钉，又不能成为全能者。而且我又不想和熟人说起我在找工作，那会又陷入我努力逃离、厌恶环境中，我迈出创业这步，很大程度上就是能够希望改变现状。&lt;/p&gt;
 
 &lt;p&gt;我现在就是处于这么一个非常之尴尬的状态，创业举步维艰，毫无进展；找工作又一时半会难以找到。唯一能做的就是努力的学习，超着预定的目标一小步、一小步的蹒跚前进！&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.6.12）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_12/</link>
-      <pubDate>Sun, 12 Jun 2016 07:21:54 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_12/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;异构的存储难以聚合的困境:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;异构的存储难以聚合的困境&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://storageswiss.com/2016/05/24/heterogeneous-storage-analytics-difficult-to-gather/&#34;&gt;Heterogeneous Storage Analytics Difficult to Gather&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开明宗义，&lt;strong&gt;知识就是力量，但是当你的知识是碎片化、东拼西凑出来的话，就很难成为力量。&lt;/strong&gt; 这篇文章谈到了现在存储的症结——多样化的异构：混合着软件定义存储、传统的商业存储、flash或混合的盘阵、再加上流行的云存储，以及采用的不同类型的存储网络。带来的挑战：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;如何能够简化管理，从这些设备上收集统计数据。&lt;/li&gt;
-&lt;li&gt;从中收集有价值的信息。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;举例而言，第一种情况如不同的网络协议：Fibre Channel, iSCSI, FCoE, NFS, SMB,或者是基于云的存储服务，如AWS的S3；第二种情况如不同的数据格式： CSV, HTML or XML,Json，以及SQL，NoSQL等。&lt;/p&gt;
-
-&lt;p&gt;Storage Switzerland 分析师最后并没有给出解决这个问题的答案，只是说都是要付出代价的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://3.bp.blogspot.com/-wUxOkLmfdPY/V1uPT8Y9fYI/AAAAAAAAKu0/u8kiBrspAoMWSycSP4WEkJRKYX9T3ddcACLcB/s640/Pictures2.jpg&#34; alt=&#34;foss&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;报告-印度政府采用自由和开源软件的经济影响:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;报告：印度政府采用自由和开源软件的经济影响&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.indrastra.com/2016/06/REPORT-Assessment-Economic-Impact-of-usage-FOSS-by-GOI-002-06-2016-0015.html&#34;&gt;Economic Impact of Free and Open Source Software Usage in Indian Government&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;阅读如此的报告，会难免和自己所在的地方作对比，比如本土竟是披着国产、民族大旗的“开源软件”公司，让你啼笑皆非。不谈也罢。&lt;/p&gt;
-
-&lt;p&gt;看报告就会想到年轻的自己，冲动的自己，以数据说话本应是一名工程师应有的能力，但是往往拍案而起，最后造成Boss的误解。应该深刻反思自己写报告和说服人的能力，尤其是看到华为的&lt;a href=&#34;http://www.ccf.org.cn/resources/1190201776262/2016/02/16/7.pdf&#34;&gt;企业视角看到的开源 ——华为开源5年实践经验&lt;/a&gt;，更加的应该汗颜。要有耐心的以理服人。不要冲动！&lt;/p&gt;
-
-&lt;p&gt;哦，对了，文中谈到世界各国政府都以各种理由采用FOSS，如增进电子政务的效率、避免厂商锁定，提倡创业精神;促进民主和社会技术联盟;和ICT技能转移到未得到服务的人口。我想这话一定是没有谈到它东边的邻国。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;微软的人工智能工具包可利用多gpu性能:c776c43d4bf3088baff62bf02e03f49c&#34;&gt;微软的人工智能工具包可利用多GPU性能&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.eweek.com/enterprise-apps/microsofts-ai-toolkit-gains-multi-gpu-performance-jump.html&#34;&gt;Microsoft&amp;rsquo;s AI Toolkit Gains Multi-GPU Performance Jump&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;又是深度学习的内容，微软开源的工具：&lt;a href=&#34;https://www.cntk.ai&#34;&gt; Computational Network Toolkit&lt;/a&gt;又发布了新的版本，可以使用诸如Nvidia的多GPU的能力。又是GitHub上的开源。&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     

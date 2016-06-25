@@ -7,8 +7,56 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 25 Jun 2016 07:20:26 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jun 2016 06:38:33 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.26）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_26/</link>
+      <pubDate>Sun, 26 Jun 2016 06:38:33 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_26/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:b669f91ea47f8d40f7d01946c9b964ba&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;github-的分析数字能告诉我们什么:b669f91ea47f8d40f7d01946c9b964ba&#34;&gt;GitHub 的分析数字能告诉我们什么&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/githubs-numbers-say-projects/&#34;&gt;What GitHub’s numbers say about its projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这篇文章其实蛮差劲的，它不过是 GitHub 的官方博客&lt;a href=&#34;https://github.com/blog/2195-the-shape-of-open-source&#34;&gt;开源的形态&lt;/a&gt;一文的再诠释而已，基本是照抄，这也是国内新闻的一贯做法。不吐槽。由于作者是一名数据科学家，用了可视化的图表形式来表达了一些内容，比如 Atom 从闭源到开源中间所经历的低谷与高峰是一个值得注意的主题。&lt;/p&gt;
+
+&lt;p&gt;我非同一般的认可作者的结论：&lt;strong&gt;非常明显，开源并不意味着仅仅是代码。成功的开源项目同时包括代码和文档的提交，且关于变动的讨论均很活跃。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;树莓派3的竞争对手拥有-ssd-存储的插槽:b669f91ea47f8d40f7d01946c9b964ba&#34;&gt;树莓派3的竞争对手拥有 SSD 存储的插槽&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.pcworld.com/article/3088535/internet-of-things/a-raspberry-pi-3-competitor-will-boast-an-ssd-storage-slot.html&#34;&gt;This Raspberry Pi 3 rival will boast an SSD storage slot&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;说实话，我开始是以为讲树莓派3支持SSD插槽的，就开始阅读此文，后来发现内容完全是另外一回事。是PC架构的开放硬件&lt;a href=&#34;http://wiki.minnowboard.org/MinnowBoard_Wiki_Home&#34;&gt;MinnowBoard&lt;/a&gt;的新动作。好吧，我从来不知道树莓派还有竞争对手了，如果没有记错的话（懒得确认），这是ARM与X86之间的竞争。对于我来说，就当时扫盲了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;it-运行在云中-云运行-linux-有问题吗:b669f91ea47f8d40f7d01946c9b964ba&#34;&gt;IT 运行在云中，云运行 Linux。有问题吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/it-runs-on-the-cloud-and-the-cloud-runs-on-linux-any-questions/&#34;&gt;IT runs on the cloud, and the cloud runs on Linux. Any questions?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文作者从技术的角度剖析了 Linux 在云平台的重要性！基石、核心等词就不提了，甚至提到了 Docker 在Mac和Windows 10的实际情况。哎，对于我个人来说又如何？Linux 是一款成功的操作系统。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.25）</title>
@@ -937,75 +985,6 @@ lower operations costs and vendor lock-in&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;又是深度学习的内容，微软开源的工具：&lt;a href=&#34;https://www.cntk.ai&#34;&gt; Computational Network Toolkit&lt;/a&gt;又发布了新的版本，可以使用诸如Nvidia的多GPU的能力。又是GitHub上的开源。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>论“回馈社区”的荒诞</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/why_said_feedback_is_wrong_business/</link>
-      <pubDate>Sat, 11 Jun 2016 16:47:20 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/why_said_feedback_is_wrong_business/</guid>
-      <description>
-
-&lt;p&gt;在2008年的Google中国大会上，我参加了一个关于GFS的演讲，在末尾的提问环节，有人问什么时候开源？演讲嘉宾的回答是：“Google还是一家非常年轻的公司，面的很残酷的竞争对手，我们会在未来适当的时候开源的，因为Google本身的构建就使用了很多开源的成果。” 大致是这样，后来在豆瓣等场合也听到类似的回答。这是互联网公司回答利用开源的最为主流的方式。我也一直认同这样的回答，但是近来遇到的几件事，使我再次思考这样的回答在何种情况下是成立的？以及“回馈社区”这个词如何的被滥用？&lt;/p&gt;
-
-&lt;p&gt;首先得从项目本身说起，是否是基于开源项目的改进或二次开发，亦或是像Google那样投入科学家和工程师先从理论入手，然后原创实现。这完全是两种不同的方式。但是无论哪种方式，以“回馈社区”这样的方式称都是不妥当的，前者荒唐，后者牵强。&lt;/p&gt;
-
-&lt;h2 id=&#34;我们通常在什么场合下会看到-回馈社区:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;我们通常在什么场合下会看到“回馈社区”&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;其实，我写这篇文章和本土的文化有关，我是能够感觉到本土的错位而有所感慨的&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;笔者遇到的情况是：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;某大型国企老总，在某大会上做“报告”，言称其为社区回馈了多少个补丁。&lt;/li&gt;
-&lt;li&gt;某基于开源项目的二次发行版本的公司，在其产品宣传上以“回馈社区”的名义称自己的技术实力。如&lt;a href=&#34;http://hihuron.com/?p=45&amp;amp;a=view&amp;amp;r=35&#34;&gt;这样的&lt;/a&gt;。&lt;/li&gt;
-&lt;li&gt;某民族品牌，国产的骄傲，在被问到开源时，会以本文的开头搪塞。完成偷换概念的华丽转身。&lt;/li&gt;
-&lt;li&gt;某位程序员，对开源有情结，称自己一直受益于开源社区良多，想有机会“回馈社区”。&lt;/li&gt;
-&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;相信大家也经常的听到这个词汇。&lt;/p&gt;
-
-&lt;p&gt;笔者在此申明一下，我论及此四个字的本意是想告诉大家，去融入开源社区，将开发、测试、文档、运维、设计等软件项目的开发是一种正常的参与，不需要过分的强调自己的”付出”——“回馈”！&lt;/p&gt;
-
-&lt;p&gt;这里给大家举个例子，国内著名厂商华为的开源总结：&lt;a href=&#34;http://www.ccf.org.cn/resources/1190201776262/2016/02/16/7.pdf&#34;&gt;企业视角看到的开源
-——华为开源5年实践经验&lt;/a&gt;，有没有觉得不对劲的地方？它为什么也在使用“回馈”这个词汇？&lt;/p&gt;
-
-&lt;h2 id=&#34;这么说的背后是何种文化和心理:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;这么说的背后是何种文化和心理？&lt;/h2&gt;
-
-&lt;p&gt;这是一种很正常的心理反应，或者说文化现象。尤其是儒家文化造就的孝顺。知恩图报是本土的一个极为习惯的思维方式。但是，这中间有参合了其它的因素。即民间文化的“秘方”、上世纪8、90年代盗版的泛滥引起的恶果、乃至于面对强大的意识形态灌输的反感等。&lt;/p&gt;
-
-&lt;p&gt;由于开源项目的特殊性，超越国家、地理位置等。但是还是有本土文化、时区、技术水平差异、市场环境等不同而有所偏颇。导致等结果就是，本土基本上就是在使用，没有话语权，提出的需求或反馈不被重视等等。导致有下面几个心理状态：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;知恩图报&lt;/li&gt;
-&lt;li&gt;希望得到承认&lt;/li&gt;
-&lt;li&gt;夺取话语权，以权力斗争思维渗透进入开源社区&lt;/li&gt;
-&lt;li&gt;赚取市场口碑&lt;/li&gt;
-&lt;li&gt;拿到更高的Offer&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;开源项目本身就是一个良好的生态系统:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;开源项目本身就是一个良好的生态系统&lt;/h2&gt;
-
-&lt;p&gt;先来看张图：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://cdn.idc.com/images/maps/opensourcesw_ecosystem2.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这是一个健康的、良性循环的系统。想象一下你的回馈该放在哪里？俨然是在这个圈子的外部意图硬生生的插入你的反馈？回馈？&lt;/p&gt;
-
-&lt;h2 id=&#34;你的回馈对于社区是多余的-对于你自己是浪费时间:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;你的回馈对于社区是多余的，对于你自己是浪费时间&lt;/h2&gt;
-
-&lt;p&gt;如果你没有想过进入到这个生态系统的话，就回馈吧！开源，尤其是现在的开放基金会模式治理下的开源项目，均有自己的开发流程、决策议程，比如OpenStack、Apache的孵化项目。简单的回馈会遇到很多的困难，你的代码该如何提交？项目在设计阶段给如何提出需求？又该如何审核通过？你的测试结果该如何展示？撰写的文档是否一致？等等，&lt;/p&gt;
-
-&lt;p&gt;开源发展到今天已经不是上世纪90年代初，以Ftp、邮件列表提交补丁就可以是贡献者到时代了。现在开源软件吞噬世界的时代，你的回馈会被淹没，你必须想办法去融入。&lt;/p&gt;
-
-&lt;h2 id=&#34;何种-回馈社区-是为自己的商业模式争取亮点:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;何种“回馈社区”是为自己的商业模式争取亮点&lt;/h2&gt;
-
-&lt;p&gt;本土总是非常的奇葩，所以一些开源软件或自由软件的原教旨主义者非常的痛苦和不理解。拿OpenStack为例，OpenStack基金会会以Git的代码提交做一些排名，而本土有些公司的做法，为了争取到某个项目的core，将一整个小组的人的代码都以某个人的名义提交。仅仅在一些开源的研讨会或用户开发峰会上夸夸其词的。&lt;/p&gt;
 </description>
     </item>
     
