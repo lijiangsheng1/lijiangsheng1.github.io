@@ -7,8 +7,86 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 24 Jun 2016 06:39:40 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jun 2016 07:20:26 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.6.25）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_25/</link>
+      <pubDate>Sat, 25 Jun 2016 07:20:26 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6_25/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:8e9de65bc9e45c0736347004d3072c3d&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/09/thinkstockphotos-168730645-100611709-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;红帽为银行带来应用的开发:8e9de65bc9e45c0736347004d3072c3d&#34;&gt;红帽为银行带来应用的开发&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3087811/open-source-tools/red-hat-takes-application-development-to-the-bank.html&#34;&gt;Red Hat takes application development to the bank&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;标题和内容不搭，又是分析红帽第一季度的财务报告的。其中有一句话这么说的：&lt;strong&gt;The world is increasingly composed of software, and most of that software is open source.&lt;/strong&gt; 大势所趋的时候，不能光是看到趋势，而是要融入，借势而为、而动。能够找到合适的商业模式才是王道。红帽真的很完美吗？如果你接触过他们中国的团队的话，你会非常的失望。&lt;/p&gt;
+
+&lt;p&gt;另外一个的看点就是红帽的 Linux 所赚得钱已经没有什么可增长的了，新增长的是云计算平台，OpenShift PaaS 公有云和 OpenStack IaaS 私有云。而后者远远没有达到赚钱的程度。是的，OpenStack 的赚钱之路将异常的艰难，尤其是在中国，战场上硝烟未尽，已又在厮杀！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;微软和红帽进一步拓展他们之间的合作:8e9de65bc9e45c0736347004d3072c3d&#34;&gt;微软和红帽进一步拓展他们之间的合作&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerdealernews.com/news/microsoftred-hat-broaden-partnership/48750&#34;&gt;Microsoft/Red Hat broaden partnership&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没错，又是红帽，谈开源，很难绕开红帽，尤其是关注企业级和商业模式。 时代在变，原来的竞争对手可以联姻，一切都要归功于云计算平台。在云中，你中有我、我中有你！ 似乎看起来一抖是为用户着想。托管的服务就是如此，很难做到迁移。所以它和开源在根本上是对立的。也就是说公有云最后将成为开源的敌人。&lt;/p&gt;
+
+&lt;p&gt;下面的这个红帽的T恤很蹊跷，值得玩味。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://d2z178pveyogmv.cloudfront.net/wp-content/uploads/2016/06/RedHatMSTShirt2-620x250.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源在数字化改造中是重要的连接点:8e9de65bc9e45c0736347004d3072c3d&#34;&gt;开源在数字化改造中是重要的连接点&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.channelpro.co.uk/opinion/10015/open-source-connects-the-dots-in-the-digital-transformation&#34;&gt;Open source connects the dots in the digital transformation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这篇文章重点说的是数字化改造这个趋势，而开源则是一笔带过，不过其使用的句子是蛮精辟的：&lt;strong&gt;Placing open source at the heart of the digital transformation&lt;/strong&gt; 以及文中的最后提到开源是连接过去的旧世界和新的数字化世界的点。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;基于透明合作的方式构建开源公司所学到的:8e9de65bc9e45c0736347004d3072c3d&#34;&gt;基于透明合作的方式构建开源公司所学到的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/6/lessons-learned-open-company&#34;&gt;Lessons learned for building an open company with transparent collaboration&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源社区需要去支持其背后的公司更加的透明，但是项目的背后是一家商业公司的话，很多人还是保持戒心的，作者也列举了 Android 对于Google这样的例子。作者也尝试向大家解释开源社区必须要做到的三点：开放的合作、积极主动、决策透明。&lt;/p&gt;
+
+&lt;p&gt;必须说明的一点是本文的作者是前几日从ownCloud分离出来的NextCloud的社区经理写的，不得不说抱着投机的心态来经营社区的，包括这篇无处不在体现NextCloud的软文。我只想对他说，开源的时代，仅仅这个是不够的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;什么是网络功能虚拟化:8e9de65bc9e45c0736347004d3072c3d&#34;&gt;什么是网络功能虚拟化？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thenewstack.io/de-ossify-the-network-with-function-virtualization/&#34;&gt;What is Network Functions Virtualization?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇纯粹的技术文章了，之所以贴在这里是因为和大家介绍下 NewStack 这个网站。新的技术架构，如微服务、无服务等，有很多不错的文章。其经营的方式也是我所关注的。发布新闻和分析文章，再加上一些电子刊物，就可以很好的生存。&lt;/p&gt;
+
+&lt;p&gt;至于这篇网络功能虚拟化的文章，我不由的想起了我的《深入浅出IaaS云》哪篇文章，真正做到了浅出了吗？有够深入吗？一大堆架构、组件的内容，你能用比喻吗？想刘黎明那样将OpenStack 的工程师比喻为建筑对的工程师？又回到了《禅与摩托车维修的艺术》一书中所探讨的问题了。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.6.24）</title>
@@ -929,75 +1007,6 @@ lower operations costs and vendor lock-in&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;又是深度学习的内容，微软开源的工具：&lt;a href=&#34;https://www.cntk.ai&#34;&gt; Computational Network Toolkit&lt;/a&gt;又发布了新的版本，可以使用诸如Nvidia的多GPU的能力。又是GitHub上的开源。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>论“回馈社区”的荒诞</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/why_said_feedback_is_wrong_business/</link>
-      <pubDate>Sat, 11 Jun 2016 16:47:20 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/why_said_feedback_is_wrong_business/</guid>
-      <description>
-
-&lt;p&gt;在2008年的Google中国大会上，我参加了一个关于GFS的演讲，在末尾的提问环节，有人问什么时候开源？演讲嘉宾的回答是：“Google还是一家非常年轻的公司，面的很残酷的竞争对手，我们会在未来适当的时候开源的，因为Google本身的构建就使用了很多开源的成果。” 大致是这样，后来在豆瓣等场合也听到类似的回答。这是互联网公司回答利用开源的最为主流的方式。我也一直认同这样的回答，但是近来遇到的几件事，使我再次思考这样的回答在何种情况下是成立的？以及“回馈社区”这个词如何的被滥用？&lt;/p&gt;
-
-&lt;p&gt;首先得从项目本身说起，是否是基于开源项目的改进或二次开发，亦或是像Google那样投入科学家和工程师先从理论入手，然后原创实现。这完全是两种不同的方式。但是无论哪种方式，以“回馈社区”这样的方式称都是不妥当的，前者荒唐，后者牵强。&lt;/p&gt;
-
-&lt;h2 id=&#34;我们通常在什么场合下会看到-回馈社区:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;我们通常在什么场合下会看到“回馈社区”&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;其实，我写这篇文章和本土的文化有关，我是能够感觉到本土的错位而有所感慨的&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;笔者遇到的情况是：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;某大型国企老总，在某大会上做“报告”，言称其为社区回馈了多少个补丁。&lt;/li&gt;
-&lt;li&gt;某基于开源项目的二次发行版本的公司，在其产品宣传上以“回馈社区”的名义称自己的技术实力。如&lt;a href=&#34;http://hihuron.com/?p=45&amp;amp;a=view&amp;amp;r=35&#34;&gt;这样的&lt;/a&gt;。&lt;/li&gt;
-&lt;li&gt;某民族品牌，国产的骄傲，在被问到开源时，会以本文的开头搪塞。完成偷换概念的华丽转身。&lt;/li&gt;
-&lt;li&gt;某位程序员，对开源有情结，称自己一直受益于开源社区良多，想有机会“回馈社区”。&lt;/li&gt;
-&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;相信大家也经常的听到这个词汇。&lt;/p&gt;
-
-&lt;p&gt;笔者在此申明一下，我论及此四个字的本意是想告诉大家，去融入开源社区，将开发、测试、文档、运维、设计等软件项目的开发是一种正常的参与，不需要过分的强调自己的”付出”——“回馈”！&lt;/p&gt;
-
-&lt;p&gt;这里给大家举个例子，国内著名厂商华为的开源总结：&lt;a href=&#34;http://www.ccf.org.cn/resources/1190201776262/2016/02/16/7.pdf&#34;&gt;企业视角看到的开源
-——华为开源5年实践经验&lt;/a&gt;，有没有觉得不对劲的地方？它为什么也在使用“回馈”这个词汇？&lt;/p&gt;
-
-&lt;h2 id=&#34;这么说的背后是何种文化和心理:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;这么说的背后是何种文化和心理？&lt;/h2&gt;
-
-&lt;p&gt;这是一种很正常的心理反应，或者说文化现象。尤其是儒家文化造就的孝顺。知恩图报是本土的一个极为习惯的思维方式。但是，这中间有参合了其它的因素。即民间文化的“秘方”、上世纪8、90年代盗版的泛滥引起的恶果、乃至于面对强大的意识形态灌输的反感等。&lt;/p&gt;
-
-&lt;p&gt;由于开源项目的特殊性，超越国家、地理位置等。但是还是有本土文化、时区、技术水平差异、市场环境等不同而有所偏颇。导致等结果就是，本土基本上就是在使用，没有话语权，提出的需求或反馈不被重视等等。导致有下面几个心理状态：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;知恩图报&lt;/li&gt;
-&lt;li&gt;希望得到承认&lt;/li&gt;
-&lt;li&gt;夺取话语权，以权力斗争思维渗透进入开源社区&lt;/li&gt;
-&lt;li&gt;赚取市场口碑&lt;/li&gt;
-&lt;li&gt;拿到更高的Offer&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;开源项目本身就是一个良好的生态系统:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;开源项目本身就是一个良好的生态系统&lt;/h2&gt;
-
-&lt;p&gt;先来看张图：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://cdn.idc.com/images/maps/opensourcesw_ecosystem2.gif&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这是一个健康的、良性循环的系统。想象一下你的回馈该放在哪里？俨然是在这个圈子的外部意图硬生生的插入你的反馈？回馈？&lt;/p&gt;
-
-&lt;h2 id=&#34;你的回馈对于社区是多余的-对于你自己是浪费时间:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;你的回馈对于社区是多余的，对于你自己是浪费时间&lt;/h2&gt;
-
-&lt;p&gt;如果你没有想过进入到这个生态系统的话，就回馈吧！开源，尤其是现在的开放基金会模式治理下的开源项目，均有自己的开发流程、决策议程，比如OpenStack、Apache的孵化项目。简单的回馈会遇到很多的困难，你的代码该如何提交？项目在设计阶段给如何提出需求？又该如何审核通过？你的测试结果该如何展示？撰写的文档是否一致？等等，&lt;/p&gt;
-
-&lt;p&gt;开源发展到今天已经不是上世纪90年代初，以Ftp、邮件列表提交补丁就可以是贡献者到时代了。现在开源软件吞噬世界的时代，你的回馈会被淹没，你必须想办法去融入。&lt;/p&gt;
-
-&lt;h2 id=&#34;何种-回馈社区-是为自己的商业模式争取亮点:f384b71a452ae47ca5228d3ab5c4a82d&#34;&gt;何种“回馈社区”是为自己的商业模式争取亮点&lt;/h2&gt;
-
-&lt;p&gt;本土总是非常的奇葩，所以一些开源软件或自由软件的原教旨主义者非常的痛苦和不理解。拿OpenStack为例，OpenStack基金会会以Git的代码提交做一些排名，而本土有些公司的做法，为了争取到某个项目的core，将一整个小组的人的代码都以某个人的名义提交。仅仅在一些开源的研讨会或用户开发峰会上夸夸其词的。&lt;/p&gt;
 </description>
     </item>
     
