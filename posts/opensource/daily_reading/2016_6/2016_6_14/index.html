@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="http://lijiangsheng1.github.io/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>开源之道（2016.6.14) - 适兕的博客</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="Open Source,Culture,Reading,News,">
+<meta name="description" content="你确定开源项目一定需要一支大军方能成功？开源是赢了：接下来干点什么？使用海盗指标来衡量开源项目的成功；9家IT界科技巨头拥抱开源浪潮">
+<meta name="author" content="lijiansheng">
+<meta name="publisher" content="lijiansheng">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="开源之道（2016.6.14) - 适兕的博客">
+<meta itemprop="description" content="你确定开源项目一定需要一支大军方能成功？开源是赢了：接下来干点什么？使用海盗指标来衡量开源项目的成功；9家IT界科技巨头拥抱开源浪潮">
+<meta itemprop="image" content="http://lijiangsheng1.github.io/public/lijiansheng.jpg">
+
+<meta property="og:title" content="开源之道（2016.6.14) - 适兕的博客" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_14/" />
+<meta property="og:image" content="http://lijiangsheng1.github.io/public/lijiansheng.jpg" />
+<meta property="og:description" content="你确定开源项目一定需要一支大军方能成功？开源是赢了：接下来干点什么？使用海盗指标来衡量开源项目的成功；9家IT界科技巨头拥抱开源浪潮">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@lijiangsheng1">
+<meta name="twitter:title" content="开源之道（2016.6.14) - 适兕的博客">
+<meta name="twitter:description" content="你确定开源项目一定需要一支大军方能成功？开源是赢了：接下来干点什么？使用海盗指标来衡量开源项目的成功；9家IT界科技巨头拥抱开源浪潮">
+<meta name="twitter:creator" content="@lijiangsheng1">
+<meta name="twitter:image" content="http://lijiangsheng1.github.io/public/lijiansheng.jpg">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_14/">
+  <link rel='shortlink' href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_14/"/>
+  <link rel="shortcut icon" href="http://lijiangsheng1.github.io/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="http://lijiangsheng1.github.io/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="http://lijiangsheng1.github.io/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="http://lijiangsheng1.github.io/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="http://lijiangsheng1.github.io/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="http://lijiangsheng1.github.io/public/highlight/styles/github.css">
+<script src="http://lijiangsheng1.github.io/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="http://lijiangsheng1.github.io/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="http://lijiangsheng1.github.io/" class="nav-cs-icon">
+        <img width="40" height="40" src="http://lijiangsheng1.github.io/public/lijiansheng.jpg" alt="lijiansheng" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/">开源</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/">感悟</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E5%88%9B%E4%B8%9A/">创业</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E6%95%99%E8%82%B2/">教育</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E5%81%A5%E5%BA%B7/">健康</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E8%AF%BB%E4%B9%A6/">读书</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E7%94%B5%E5%BD%B1/">电影</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/about/">关于</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="http://lijiangsheng1.github.io/" rel="home">
+              <img style="border-radius: 50%;width:72px;height:72px;margin:0 auto;" alt="lijiansheng" src="http://lijiangsheng1.github.io/public/lijiansheng.jpg"></img>
+              适兕的博客
+            </a>
+          </h1>
+          <p class="site-description"> 一切都是扯淡！ </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/" rel="category tag">开源</a>
+                </li>
+                
+                <li class="category">
+                  <a href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/" rel="category tag">感悟</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">开源之道（2016.6.14)</h1>
+
+                  <p class="post-byline">
+                    作/译者：适兕 | 2016年06月14日 | 字数：747  |
+                    可能会花费您2分钟来阅读 | 
+                    
+                  </p>
+
+<div class="jiathis_style">
+	<a class="jiathis_button_tsina"></a>
+	<a class="jiathis_button_weixin"></a>
+	<a class="jiathis_button_twitter"></a>
+	<a class="jiathis_button_linkedin"></a>
+	<a class="jiathis_button_googleplus"></a>
+	<a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+	<a class="jiathis_counter_style"></a>
+</div>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+
+
+                  <div class="clear"></div>
+
+                  
+                  <hr style="border:1px dashed #00CC66" width="90%" size="1" />
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <p class="post-description">你确定开源项目一定需要一支大军方能成功？开源是赢了：接下来干点什么？使用海盗指标来衡量开源项目的成功；9家IT界科技巨头拥抱开源浪潮</p>
+                      
+                      
+                      <hr style="border:1px dashed #00CC66" width="90%" size="1" />
+                      
+                      
+
+<p><strong>声明：本博客言论，仅代表我自己，不管任何其它！</strong></p>
+
+<hr />
+
+<h2 id="文章点评:2526d2722fc3509a696c1be35570b940">文章点评</h2>
+
+<h3 id="在开源中获取成功需要一支提交者大军吗:2526d2722fc3509a696c1be35570b940">在开源中获取成功需要一支提交者大军吗？</h3>
+
+<p>原文链接：<a href="http://ostatic.com/blog/do-you-need-an-army-of-committers-to-succeed-in-open-source">Do You Need An Army of Committers to Succeed in Open Source?</a></p>
+
+<p><strong>适兕点评：</strong></p>
+
+<blockquote>
+<p>该文是对一篇旧文——2013年的分析文章：<a href="http://redmonk.com/dberkholz/2013/04/22/the-size-of-open-source-communities-and-its-impact-upon-activity-licensing-and-hosting/">The size of open-source communities and its impact upon activity, licensing, and hosting</a>——的结论的总结性文章。其实引起我兴趣的是原文，正如华为的欧建深想使用大数据来分析开源，制造模型，从过去的数据中去分析试图看出未来的趋势。此文我将会深度阅读。另外，要关注这家Redmonk的站点，前两天还看到他们对于开源的未来的论断。</p>
+</blockquote>
+
+<h3 id="开源是赢了-接下来干点什么:2526d2722fc3509a696c1be35570b940">开源是赢了：接下来干点什么？</h3>
+
+<p>原文链接：<a href="https://adtmag.com/blogs/watersworks/2016/06/open-source-wins.aspx">Open Source Wins: Now What?</a></p>
+
+<p><strong>适兕点评：</strong></p>
+
+<blockquote>
+<p>本文可能道出了所有过去开源界人士的心声，本文所描述的是开源界的元老，Debian 最早的开发者之一，Bdale Garbee，在惠普工作了20年，退休之后，又重新回到惠普实验室，以下引用两句精彩的英语：<strong>It&rsquo;s just different today. I&rsquo;m no longer beating on people&rsquo;s doors to get them to open up and listen.</strong></p>
+
+<p><strong>I&rsquo;ve had this conversation with some of my peers in the industry who have also been involved with free and open source for a very long time, where we look at each other and say, &lsquo;Oh my god, we won! Now what?&rsquo;&rdquo;</strong></p>
+</blockquote>
+
+<p><img src="https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/openocean.jpg" alt="pirate" /></p>
+
+<h3 id="使用海盗指标来衡量开源项目的成功:2526d2722fc3509a696c1be35570b940">使用海盗指标来衡量开源项目的成功</h3>
+
+<p>原文链接：<a href="https://opensource.com/business/16/6/pirate-metrics">Using Pirate Metrics to measure success of open source projects</a></p>
+
+<p><strong>适兕点评：</strong></p>
+
+<blockquote>
+<p>无独有偶，本文也提到了RedMonk 的哪篇分析文章。是不是错过了什么？</p>
+
+<p>先来看海盗指标：一图胜千言</p>
+</blockquote>
+
+<p><img src="https://opensource.com/sites/default/files/success1.png" alt="" /></p>
+
+<blockquote>
+<p>然后，照猫画虎——往里套就可以了。Cloudslang 是这么做的：</p>
+</blockquote>
+
+<p><img src="https://opensource.com/sites/default/files/success2.png" alt="cloudslang" /></p>
+
+<h3 id="9家it界科技巨头拥抱开源浪潮:2526d2722fc3509a696c1be35570b940">9家IT界科技巨头拥抱开源浪潮</h3>
+
+<p>原文链接：<a href="http://www.informationweek.com/big-data/software-platforms/9-tech-giants-embracing-the-open-source-revolution/d/d-id/1325872?_mc=RSS%5FIWK%5FEDT">9 Tech Giants Embracing The Open Source Revolution</a></p>
+
+<p><strong>适兕点评：</strong></p>
+
+<blockquote>
+<p>其实从昨天开始只剩下8家了，因为 Linkedin 卖给了微软。本文是常见的配图＋说明，一张图一个故事或一个公司。个人以为本文的立论还是蛮好的，虽然整体看来有点虎头蛇尾，开始文章称：15年过去了，拿微软为例，15年他称开源是癌症，15年后称微软爱Linux。</p>
+
+<p>规则变了，就得重新洗牌：<strong>Technology vendors are recognizing that by putting some technology into open source, they gain collaboration from other great minds to help the project mature more quickly.</strong> 谁在这个浪潮中能赢了呢？让我们拭目以待。</p>
+</blockquote>
+
+                      
+                    </div>
+       
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+              <section id="comments" class="themeform">
+<div class="ds-thread" data-thread-key="/posts/opensource/daily_reading/2016_6/2016_6_14/" data-title="开源之道（2016.6.14)" data-url="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_14/"></div>
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"lijiansheng"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+</script>
+</section>
+
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://www.weibo.com/2074346653/" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On Twitter" rel="nofollow"
+        href="https://twitter.com/lijiangsheng1" target="_blank">
+        <i class="fa fa-twitter"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/lijiangsheng1" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_13/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>开源之道（2016.6.13）</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+        <a href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_15/" rel="prev">
+          <i class="fa fa-chevron-left"></i>
+          <strong>Previous Post</strong>
+          <span>开源之道（2016.6.15）</span>
+        </a>
+        
+      </li>
+    </ul>
+
+
+    <div id="comment-2" class="widget"><h3>最新评论:</h3>
+
+	<div class="ds-recent-comments" data-num-items="5" data-show-avatars="1" data-show-time="1" data-show-title="1" data-show-admin="1" data-excerpt-length="70"></div>
+
+
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"lijiansheng"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+
+    </div>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+
+  <div class="sidebar-content">
+
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+
+
+    <div id="tag_cloud-2" class="widget widget_tag_cloud"><h3>Tags</h3>
+
+      <div class="tagcloud">
+        <p class="post-tags">
+          
+              
+                <a rel="tag" href="tags/%e6%af%8f%e6%97%a5%e9%98%85%e8%af%bb/">每日阅读</a>
+              
+                <a rel="tag" href="tags/%e5%bc%80%e6%ba%90%e4%b9%8b%e9%81%93/">开源之道</a>
+              
+            
+        </p>
+      </div>
+    </div>
+
+    <div class="widget widget_recent_entries sidebarLeftCategories"><h3>Last 5 GitHub Commits for this blog</h3>
+      <ul>
+        
+        
+            <li>
+              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/faecf0f8a39a50083f1fde93fe19910dddeb4b04" target="_blank">
+                  2016-06-28T23:56:29Z<br>
+                  add daily morning reading english articles.
+
+Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
+              </a>
+            </li>
+        
+            <li>
+              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/577852b75599b30346c8ed6d4f1705c36517a5e6" target="_blank">
+                  2016-06-27T23:48:14Z<br>
+                  add daily reading opensource articles.
+
+Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
+              </a>
+            </li>
+        
+            <li>
+              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/9d23682c8e7f011b53f96efa688b8a4a3407de13" target="_blank">
+                  2016-06-25T23:11:48Z<br>
+                  add daily reading english news and article.
+
+Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
+              </a>
+            </li>
+        
+            <li>
+              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/88cf3ffde197f995c13d08bb2ecb17051a7f1d85" target="_blank">
+                  2016-06-25T00:19:51Z<br>
+                  add daily reading and archive 2016.5
+
+Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
+              </a>
+            </li>
+        
+            <li>
+              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/3db0528c9fcd5c543a9441e5eeb23b2b9b926f0e" target="_blank">
+                  2016-06-23T23:07:44Z<br>
+                  add daily reading english opensourceway.
+
+Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
+              </a>
+            </li>
+        
+      </ul>
+    </div>
+
+
+  </div>
+  
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2016. All Rights Reserved. <br>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank">Hugo - the static site generator</a>.
+              <a rel="nofollow" href="http://golang.org" target="_blank">#golang</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://www.weibo.com/2074346653/" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On Twitter" rel="nofollow"
+        href="https://twitter.com/lijiangsheng1" target="_blank">
+        <i class="fa fa-twitter"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/lijiangsheng1" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-79147508-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+
