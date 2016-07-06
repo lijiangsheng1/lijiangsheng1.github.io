@@ -7,8 +7,72 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 06 Jul 2016 06:18:07 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jul 2016 06:28:13 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.7.7）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_7/</link>
+      <pubDate>Thu, 07 Jul 2016 06:28:13 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_7/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:df619ce79e6de48c069487252a51f71e&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;enterprisedb-ceo-将在联合国开源创新促进会的数据库camp上作演讲:df619ce79e6de48c069487252a51f71e&#34;&gt;EnterpriseDB CEO 将在联合国开源创新促进会的数据库Camp上作演讲&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.prnewswire.com/news-releases/enterprisedb-ceo-ed-boyajian-to-present-at-united-nations-open-source-innovation-initiative-database-camp-300294496.html&#34;&gt;EnterpriseDB CEO Ed Boyajian to Present at United Nations Open Source Innovation Initiative Database Camp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这篇文章更像是 EnterpriseDB 借以宣传自己的软文。但是仍然可以得到一些我原先不知道的信息。&lt;/p&gt;
+
+&lt;p&gt;联合国竟然有个&lt;a href=&#34;https://unite.un.org/opensource&#34;&gt;开源创新促进会&lt;/a&gt;！而且还举办会议——&lt;a href=&#34;http://opencamps.org/&#34;&gt;Open Camp&lt;/a&gt;；另外一个信息就是此位CEO的演讲题目&lt;strong&gt;&amp;ldquo;How To Create Business Advantage Using Postgres Ecosystems&amp;rdquo;&lt;/strong&gt; 这似乎是开源商业公司的必备利器——生态！开源的商业模式似乎印证了南非的那句谚语：&lt;strong&gt;&amp;ldquo;想要走的快，请独自前行；想要走的远，请结伴而行。&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;红帽-ceo建议企业若要想雇佣优秀的it人才-那么请允许他们在开源做贡献:df619ce79e6de48c069487252a51f71e&#34;&gt;红帽 CEO建议企业若要想雇佣优秀的IT人才，那么请允许他们在开源做贡献&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/enterprise-it/software/red-hat-ceo-avoiding-bloody-noses-hammering-home-open-source-participation-and-why-microsoft-is-trying-to-stay-relevant-4941736&#34;&gt;Red Hat CEO: Avoiding bloody noses, hammering home open source participation, and why Microsoft is trying to stay relevant&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;红帽现在已经开始玩情怀了。建议企业允许参与到上有社区的开发当中，这对于我来说是个多么深的坎，不论是云端，还是易云，乃至普华，我都不遗余力的去说服老板，但是民间秘方文化对他们影响至深，难以撼动。现在有些公司似乎慢慢开始醒悟了，比如OpenStack社区的造势，可以帮助一些厂商在市场上做一些活动。但本土的几家公司，现在仍处于视为面子工程！更加注重于&amp;rdquo;深度定制&amp;rdquo;和”自主研发&amp;rdquo;。更不用提那些个企业，如银行之类的地方，布道之路任重而道远！&lt;/p&gt;
+
+&lt;p&gt;Linux 已经是IT创新的基石：无论是大数据还是容器，更不用提IaaS，其基础均是Linux！这句话较好：&lt;strong&gt;Red Hat is asking users to adopt the mindset and not just the technology with the hope of making open source the default method of development in the future.&lt;/strong&gt; 我也期望人们早一点醒悟过来。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;facebook-透漏了其开源无线平台-opencellular:df619ce79e6de48c069487252a51f71e&#34;&gt;Facebook 透漏了其开源无线平台——OpenCellular&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.engadget.com/2016/07/06/facebook-opencellular-internet-access-remote/&#34;&gt;Facebook reveals open-source wireless platform, OpenCellular&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;看完这篇文章，我只想对小编说，你伤害了中国人民的感情，你将我们视为什么？我们也是无法浏览Facebook的一群人。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/OPENHERE_purple.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;为什么说对象存储正在吞噬世界:df619ce79e6de48c069487252a51f71e&#34;&gt;为什么说对象存储正在吞噬世界&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/7/object-storage&#34;&gt;Why object storage is eating the world&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;随着世界的发展，无论是技术还是人文，都在生产巨大的非结构化数据。那么传统上的文件系统和数据库就难以满足日益增长的需求。对象存储恰逢其时。并给出了开源的解决方案的例子，分别是：Ceph、Minio、OpenStack Swift。&lt;/p&gt;
+
+&lt;p&gt;此软文写的深藏不露！Minio究竟是什么？Go语言编写又如何？让我想起了七牛云存储。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.7.6）</title>
@@ -913,61 +977,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;本文是对&lt;a href=&#34;http://www.poc21.cc/&#34;&gt;POC21&lt;/a&gt;这个国际的创新社区，来自世界各地的设计师、开发者、工程师共同为一些环保等设施提供灵感。开放硬件、开放的设计对于可持续性是有利的。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.6.19）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_19/</link>
-      <pubDate>Sun, 19 Jun 2016 07:08:57 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_19/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:651fa272e9f3436f7231f6ec86938054&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;git-2-9-发布-改进了子模块同步和-diff-的可读性:651fa272e9f3436f7231f6ec86938054&#34;&gt;Git 2.9 发布，改进了子模块同步和 diff 的可读性&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3085142/application-development/git-29-improves-submodules-diff-readability.html&#34;&gt;Git 2.9 improves submodules, diff readability&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;周末一般没有什么文章可以抓取的，对于英文来说，周一更加的少。或许我要从Hacknews、medium上寻找值得精读的部分。Git 2.9最大的改进就是可以并行的同步子模块了，这对于一些依赖比较多的项目无疑是个好消息！这个世界只要能并行运行，总是看起来是美好的！尤其是分布式的并行。这也是整个宇宙的运行法则。至于Diff的哪个启发式的内容没有能够理解透彻，需要一点时间。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;google-为寻找-android-漏洞提供更多的钱:651fa272e9f3436f7231f6ec86938054&#34;&gt;Google 为寻找 Android 漏洞提供更多的钱&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.engadget.com/2016/06/17/google-offers-even-more-money-for-android-bugs/&#34;&gt;Google offers even more money for Android bugs&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Linus 法则说更多人就能够让Bug无处可藏，但是现实的悖论是很多人都不去关心，或者叫专门的看。“重赏之下，必有勇夫” 这对于Google来说，绝对的适用，其实从 Android 诞生之日起，Google 悬赏开发应用的花红就是一例。那么现在Google又将同样的理论运用于发现Android的安全漏洞，包括内核和设备驱动程序。&lt;/p&gt;
-
-&lt;p&gt;开发者其实有很多出路的，只要你能够主动的去寻找到。或者对于自己的能力有信心。为什么不去尝试一下了呢？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;无服务架构掠影-关于减少运维成本和厂商锁定:651fa272e9f3436f7231f6ec86938054&#34;&gt;无服务架构掠影——关于减少运维成本和厂商锁定&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://specify.io/concepts/serverless-architecture&#34;&gt;Serverless Architecture in short
-lower operations costs and vendor lock-in&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;没有什么好点评的，记录下几句认为总结的比较好的观点或话语。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;In a serverless architecture nothing runs when no event occurs.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Scaling and autoscaling is no problem in a serverless architecture.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Running your own platform to operate a serverless architecture is pointless because, in most cases, the overhead will be much higher then the savings.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
