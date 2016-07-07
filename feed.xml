@@ -7,8 +7,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 07 Jul 2016 06:28:13 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jul 2016 06:40:27 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.7.8)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_8/</link>
+      <pubDate>Fri, 08 Jul 2016 06:40:27 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_8/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:ba67d226e3569670f1cc1743c43dd81b&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;nike-发布了几款开源软件-认真的玩起了技术:ba67d226e3569670f1cc1743c43dd81b&#34;&gt;Nike 发布了几款开源软件，认真的玩起了技术&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/07/06/nike-releases-open-source-software-to-play-with-the-techies/&#34;&gt;Nike releases open-source software to play with the techies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;移动互联网的时代，没有哪家公司没有自己的应用的，比如传统的零售商：沃尔玛、百思买、塔吉特等等。&lt;/p&gt;
+
+&lt;p&gt;为什么要开源了呢？为了招徕人才？还是期望更多的技术关注？还是被类似《Open organization》这样的书籍洗脑了？都不是，答案是这是一个开源的时代！做封闭的软件实在是无聊。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;linux-基金会又增新成员:ba67d226e3569670f1cc1743c43dd81b&#34;&gt;Linux 基金会又增新成员&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/linux-foundation-welcomes-open-source-experts-security-cloud-mobile-technologies-2140607.htm&#34;&gt;The Linux Foundation Welcomes Open Source Experts in Security, Cloud and Mobile Technologies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这么一篇文章，对于我个人来说最大的关注度莫过于，一家我较熟悉的公司加入了 Linux 基金会，中科创达——英文叫ThunderSoft，CEO 是耿增强（我们一般称Larry）。做的事风生水起！看看Larry说的话吧：&lt;strong&gt;“We believe that open source paves the way to interoperability and innovation for consumers and end users. The Linux Foundation hosts open source projects spanning IoT to cloud-based technologies, which will allow us to participate in the global open source ecosystem,”&lt;/strong&gt; 红旗出来能够意识到开源生态系统、并放眼全球的人不多！ 至于其公司介绍就不用看了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;sandisk-开源策略官-nithya-ruff-专访-企业中的女性:ba67d226e3569670f1cc1743c43dd81b&#34;&gt;SanDisk 开源策略官：Nithya Ruff 专访 —— 企业中的女性&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.huffingtonpost.com/laura-dunn/women-in-business-qa-nith_b_10861324.html&#34;&gt;Women in Business Q&amp;amp;A: Nithya Ruff, Director Open Source Strategy, SanDisk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;就看她那段关于在 SanDisk 的开源策略就可以了。开源的创新和协作才是重点。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/OSDC_bees_network.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;在软件定义的未来管理网络:ba67d226e3569670f1cc1743c43dd81b&#34;&gt;在软件定义的未来管理网络&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/7/managing-networks-software-defined-future&#34;&gt;Managing networks in a software-defined future&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;SDN、OpenDayLighit、Neutron，是我最近两周听到的最为频繁的词汇了。我甚至都有了翻译 &lt;a href=&#34;http://docs.openstack.org/mitaka/networking-guide/intro-network-namespaces.html&#34;&gt;OpenStack  Networking&lt;/a&gt; 的冲动，此文无疑能够解决一些历史的因素，至少它提到为何会出现SDN，在SDN之前人们是怎么管理网络的、使用的协议是什么？NMS、SNMP等，以及为什么需要将网络设备当成“牛群”而不是宠物。时代在变、顺势而为！NMS管理的5个范围：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;错误&lt;/li&gt;
+&lt;li&gt;配置&lt;/li&gt;
+&lt;li&gt;账号&lt;/li&gt;
+&lt;li&gt;性能&lt;/li&gt;
+&lt;li&gt;安全&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;linuxcon-会议深挖开源-容器和虚拟化:ba67d226e3569670f1cc1743c43dd81b&#34;&gt;LinuxCon 会议深挖开源、容器和虚拟化&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://appdevelopermagazine.com/4146/2016/7/7/LinuxCon-Conference-Delves-Deep-into-Open-Source,-Containers-and-Virtualization/&#34;&gt;LinuxCon Conference Delves Deep into Open Source, Containers and Virtualization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;LinuxCon、OSCon 快成了我的心病了，对比国内的低质量的会议，真的都想自己杀进这片领域。事情不是这么做的。我心里默数了一遍国内的和开源沾边的会议。&lt;/p&gt;
+
+&lt;p&gt;LinuxCon 还有一起合作的子会议：KVM Forum、Xen开发者summit、Linux 安全 summit、CloudNativeDay、开源存储Summit、ContainerCon。超过100个演讲议题。 Linux改变了世界：正如文中所提到的会议的主要目的：&lt;strong&gt;offering the opportunity for developers, sys admins, architects and all types and levels of technical talent to gather together at one event for education, collaboration and problem-solving for the Linux platform.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.7.7）</title>
@@ -937,47 +1017,6 @@
 &lt;/ol&gt;
 
 &lt;p&gt;聪明的你是否会和&lt;a href=&#34;http://12factor.net/&#34;&gt;12 factor&lt;/a&gt;以及&lt;a href=&#34;http://thenewstack.io/&#34;&gt;thenewstack.io/&lt;/a&gt;作比较了呢？学历史的弱爆了，还是搞技术的人牛多了。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.6.20）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_20/</link>
-      <pubDate>Mon, 20 Jun 2016 06:25:22 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_20/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:85b19d4e9db51860a91805ffd5a66066&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;c语言编程实践的演变-unix-1973-2015:85b19d4e9db51860a91805ffd5a66066&#34;&gt;C语言编程实践的演变—— Unix 1973～2015&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://kristerw.blogspot.com/2016/06/evolution-of-c-programming-practices.html&#34;&gt;Evolution of C programming practices – Unix 1973–2015
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;注：本文需要自备梯子。&lt;/p&gt;
-
-&lt;p&gt;一门编程语言，加上与其一起诞生的操作系统，看事物的演变。这确实是每一位热衷于历史的人都希望回顾，然后寄希望于得出某种规律。虽然无法目睹论文的全貌，但是可以看出论文的严谨，比如代码的变迁。以及使用 volatile 的嬗变。&lt;/p&gt;
-
-&lt;p&gt;我有时候很想去写一步关于本土的开源变异史，诸如国产化、披上民族主义外衣欺世盗名等，该如何下笔？哪怕是以论文的形式，又该如何从实际的例子中提取？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;使用开源设计-以应对气候变化:85b19d4e9db51860a91805ffd5a66066&#34;&gt;使用开源设计，以应对气候变化&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.shareable.net/blog/the-sustainability-commons-using-open-source-design-to-address-climate-change&#34;&gt;The Sustainability Commons: Using Open Source Design to Address Climate Change&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是对&lt;a href=&#34;http://www.poc21.cc/&#34;&gt;POC21&lt;/a&gt;这个国际的创新社区，来自世界各地的设计师、开发者、工程师共同为一些环保等设施提供灵感。开放硬件、开放的设计对于可持续性是有利的。&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
