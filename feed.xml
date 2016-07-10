@@ -7,8 +7,87 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 10 Jul 2016 06:49:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jul 2016 06:50:42 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.7.11)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_11/</link>
+      <pubDate>Mon, 11 Jul 2016 06:50:42 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_11/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:53e510940efa0d4dc7fab6b8716d05ca&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;金融业的it技术在未来会采用大量的开源技术:53e510940efa0d4dc7fab6b8716d05ca&#34;&gt;金融业的IT技术在未来会采用大量的开源技术&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.koreatimes.co.kr/www/news/biz/2016/07/123_209030.html&#34;&gt;Future of fintech is wide open&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇理性思考者的声音，作者能够坚持为客户提供价值，放眼未来，提供最佳的数据基础设施！并实践了开源的MongoDB NoSQL数据库和Python语言。并最后将自己的系统也开源了，就是系统——Arctic。&lt;/p&gt;
+
+&lt;p&gt;并解释了为何这么做，主要是人的作用：&lt;strong&gt;“To have truly state-of-the-art technology, in any industry, you need the best developers and the best can be hard to find.
+”&lt;/strong&gt; 而且看到了新的一代开发者将开源视为默认的常态！要想得到这些人才，就得适应这样的氛围。&lt;/p&gt;
+
+&lt;p&gt;另外，最后一段的结语相当的精彩：&lt;strong&gt;&amp;ldquo;Our focus is not just about making money today. It&amp;rsquo;s about providing value tomorrow, next week and next year. &amp;ldquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;微软和suse在公有云平台达成新的交易:53e510940efa0d4dc7fab6b8716d05ca&#34;&gt;微软和SuSE在公有云平台达成新的交易&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itwire.com/business-it-news/open-source/73742-microsoft-and-suse-have-new-public-cloud-deal.html&#34;&gt;Microsoft and SUSE have new public cloud deal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;其实本篇新闻本身没有什么。只是作为个人的我，来回顾一下微软和SUSE的联姻史。在商业的世界里没有永远的朋友，只有永远的利益（偷盗丘吉尔）。算来SuSE可谓是命运多舛。只因为 Novell 不了解开源，最终三易主人，微软也对他始乱终弃，拥抱了红帽。&lt;/p&gt;
+
+&lt;p&gt;现在的 SuSE，似乎想东山再起，但依然显得有点贪婪和多余。不仅不想丢弃过去的业务，也想在新的领域发力。商业模式并没有找到任何的突破，人才的招徕上也未见又何新招。前途堪忧。但这里祝愿他能够好起来，为开源社区注入新的活力。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://s3.amazonaws.com/digitaltrends-uploads-prod/2016/07/nsa_sign.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;nsa-将-linux-journal-读者和-tor-tails的用户列为极端分子:53e510940efa0d4dc7fab6b8716d05ca&#34;&gt;NSA 将 Linux Journal 读者和 Tor、Tails的用户列为极端分子&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.digitaltrends.com/computing/nsa-labels-linux-tails-users-extremists/&#34;&gt;NSA labels Linux Journal readers and Tor and Tails users as extremists&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Tails and Tor users are not only fans of the OS, but also focused on security.&lt;/strong&gt; 这样的新闻还是蛮有意思的，其实信息量没有什么，但是会让一些新入门的计算机爱好者们去产生好奇，进而去学习这样的技术。安全，以安全的名义，可以秒杀一切技术。安全可以封闭开源称国产；安全可以完善GFW，DPI技术运用到极致；安全&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;揭晓-ge-开源其产业分析平台背后的深层原因:53e510940efa0d4dc7fab6b8716d05ca&#34;&gt;揭晓 GE 开源其产业分析平台背后的深层原因&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://qz.com/721015/inside-ges-decision-to-open-source-its-industrial-analytics-platform/&#34;&gt;Inside GE’s decision to open-source its industrial analytics platform&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;CloudFoundry PaaS 平台，GE也是其中的一份子，Predix 分析库就是其贡献，我个人并不明白其在业内所占的意义，但是从其描述中非常关键的技术！其实我还是想说明开源是未来的一大趋势！你我必须去融入和推进。&lt;/p&gt;
+
+&lt;p&gt;文章的最后一段，显示了作者对于开源的理解，以及对于现有参与公司的忧思和警告！参与和贡献是开源获益的唯一途径，任何投机取巧的行为都会暴露在阳光之下！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;在mirantis-openstack-中运行-rhel-计算节点:53e510940efa0d4dc7fab6b8716d05ca&#34;&gt;在Mirantis OpenStack 中运行 RHEL 计算节点&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.mirantis.com/blog/rhel-compute-nodes-mirantis-openstack/&#34;&gt;RHEL compute nodes in Mirantis OpenStack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇较晦涩的技术文章，我不想让很多不熟悉OpenStack、Fuel、Linux的人去阅读。只想要说明的是：开源必须拥抱开放，兼容并包尽可能多的，哪怕对方是你的竞争对手。你必须使用用户的视野去观察这件事。OpenStack 提供私有云解决方案的市场竞争的异常激烈，尤其是在中国，但是国内的所有厂商都在自己的裤裆里自娱自乐，生态、用户、最终消费者根本就不在它们的眼中。但是他们都渴望活下去！在不懂人才、将开源视为独角兽的尖端技术来欺骗自己、没有生态的概念、没有服务的意识、下意识的迎合不知为何物的客户，如何活下去？拭目以待！ 当年 Linux 厂商消失的过程马上就要重现！&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;吐槽模式关闭，在本周即将举办的畸形的OpenStack China Day会上，我并没有以一个批判者的身份出现，因为他们拒绝了我！&lt;/del&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.7.10）</title>
@@ -932,79 +1011,6 @@
 
 &lt;p&gt;开源是默认的时代，作为商业上最为成功的红帽，正在一步步走向衰落，其收购的哪些闭源公司，然后在独自一家玩的例子很多，如oVirt、ManageIQ、甚至后来干脆就不开源了。如此快速的收购策略，文化上难以消化，品牌打的再好，终有暴露的哪一天。也就是从某天起，发现自己的业绩没有意料中那么快。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.6.23）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_23/</link>
-      <pubDate>Thu, 23 Jun 2016 06:36:13 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_23/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:6679fae9e1098df731a36185874a0e85&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;clusterhq-的-mohit-bhatnagar-谈了对于-flocker-docker-以及开源的崛起:6679fae9e1098df731a36185874a0e85&#34;&gt;ClusterHQ 的 Mohit Bhatnagar 谈了对于 Flocker、Docker、以及开源的崛起&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/clusterhqs-mohit-bhatnagar-talks-about-flocker-docker-and-rise-open-source&#34;&gt;ClusterHQ’s Mohit Bhatnagar Talks Flocker, Docker, and the Rise of Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;DockerCon 应该是刚刚进行完毕。Docker 商业化的野心越来越大，其实它一直都在铺垫。但是这次做的比如在Docker Engine中整合编排的能力。说明Docker 社区的角逐还是很厉害的。Docker 如此下去会是一个巨无霸，那么替代它的 CoreOS的 rkt和 ClusterHQ 的Flocker都是有力的竞争者。没有人希望一家独大，除非你是极权主义爱好者。&lt;/p&gt;
-
-&lt;p&gt;开源是在崛起，没错，从开发方式到软件项目，再到生态系统。一切都决定最后最终用户在业务中采用的架构和组件。常态时该如何寻找位置？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_barnraising.png&#34; alt=&#34;opensourceway&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;构建坚实的开源商业模式:6679fae9e1098df731a36185874a0e85&#34;&gt;构建坚实的开源商业模式&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/6/building-business-solid-open-source-model&#34;&gt;Building a business on a solid open source model&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文的作者来自于刚刚成立的NextCloud，我已经脑补出来和原来的ownCloud之间的矛盾了。可以充分证明ownCloud原来的CEO是位机会主义者，典型的伪开源。看看他过去经营的opensourcedesktop.org就明白是怎么一回事了。在现实中一定要认清这些人，他们是最大的破坏者，尽管表面非常的难以察觉。&lt;/p&gt;
-
-&lt;p&gt;另外本文的特点在于以生态系统的眼光来看待开源，大家兼受益。并在文中说来在开源之路上会遇到那些“拦路虎”，该如何一一将之清扫。并解释了常见的误解。告诉你如何识别真假开源，比如PingCAP、Citrix、Hyper等做法，将开源视为一种市场营销，这是企业常犯的错误。最后引用几句好的英文：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;no matter who you are, most of the smartest people work for someone else,&amp;rdquo;&lt;/strong&gt; 还有对于开源的总结:&lt;strong&gt;However, in all cases, transparency and open collaboration are key to open source project health.&lt;/strong&gt; 有些事情无论怎么变，都有最为根本的原则。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://betanews.com/wp-content/uploads/2016/06/MoneyRainLaptopDev.jpg&#34; alt=&#34;money&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;mozilla-moss-之-mission-partners-为开源项目开发者捐赠-385-000:6679fae9e1098df731a36185874a0e85&#34;&gt;Mozilla MOSS 之“Mission Partners” 为开源项目开发者捐赠 $385,000&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://betanews.com/2016/06/22/mozilla-open-source-developers-money/&#34;&gt;Mozilla MOSS &amp;lsquo;Mission Partners&amp;rsquo; makes it rain $385,000 on open source project developers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Mozilla 长期以来一直是开源的佼佼者，不仅仅体现在话语上，在资源的贡献上也是。也就是说它不仅仅是开发流行的浏览器 Firefox，而且也会捐赠和赞助一些开源项目。比如现在的“Mission Partners”，而且这个计划还是一个持续的项目，计划出资125万美金。相信很多开源项目都会从中受益。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://betanews.com/wp-content/uploads/2016/06/moz-love-open.jpg&#34; alt=&#34;mozloveopen&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;简单遍历下都有哪些项目是Mozilla这次捐赠的：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tor&lt;/li&gt;
-&lt;li&gt;Tails&lt;/li&gt;
-&lt;li&gt;Caddy&lt;/li&gt;
-&lt;li&gt;Mio&lt;/li&gt;
-&lt;li&gt;DNSSEC/DANE Chain Stapling&lt;/li&gt;
-&lt;li&gt;Godot Engine&lt;/li&gt;
-&lt;li&gt;PeARS&lt;/li&gt;
-&lt;li&gt;NVDA 读取Windows桌面屏幕的。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;从项目上看还是比较符合firefox这个生态圈的，基本是点对点协议实现、一些重要的网络库等。几乎没有服务器相关的项目。还是那句话：无利不起早！但总归是件好事！&lt;/p&gt;
 </description>
     </item>
     
