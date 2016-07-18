@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://lijiangsheng1.github.io/</loc>
-    <lastmod>2016-07-18T06:59:37+08:00</lastmod>
+    <lastmod>2016-07-19T06:13:01+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_19/</loc>
+    <lastmod>2016-07-19T06:13:01+08:00</lastmod>
   </url>
   
   <url>
@@ -310,6 +315,11 @@
   <url>
     <loc>http://lijiangsheng1.github.io/posts/karate/mas-oyama-1/</loc>
     <lastmod>2016-04-15T10:40:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lijiangsheng1.github.io/posts/karate/mas-oyama-0/</loc>
+    <lastmod>2016-03-05T10:40:34+08:00</lastmod>
   </url>
   
 </urlset>
