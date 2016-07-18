@@ -7,8 +7,78 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Jul 2016 06:31:07 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jul 2016 06:59:37 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.7.18)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_18/</link>
+      <pubDate>Mon, 18 Jul 2016 06:59:37 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_18/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;上一篇点评是13号，也就是说演讲，参加 OpenStack  China Day，让我错过了一些事情，身体还非常的累。这些都是借口。为错过的几天而致歉。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:e605bc5cefdd5e0268797298fd557f06&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;想成为优秀的开发者嘛-参与到开源中吧:e605bc5cefdd5e0268797298fd557f06&#34;&gt;想成为优秀的开发者嘛？参与到开源中吧&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://medium.com/commit-push/want-to-become-a-better-developer-34c2444a6849#.w4j35u4j9&#34;&gt;Want to become a better developer? Contribute to open source.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;参与到开源的动力是什么？赢取更多的粉丝？GitHub上的星星数量？更加的出名？&lt;/p&gt;
+
+&lt;p&gt;答案显然都不是：&lt;strong&gt;是自我完善的过程，不过是想写出更加优质的代码罢了。能够让更多的人指点，从而发现问题。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;正如我今天的这篇点评一样，人总是会给自己找很多的借口，比如不能参与到开源。&lt;strong&gt;“Because of work, I don’t have time for open source projects.”&lt;/strong&gt; 时间要去用心的营造。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;文中还给出了参与开源的几点价值：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;参与到开源能够让你成为更为优秀的开发者。&lt;/li&gt;
+&lt;li&gt;能够帮助你写出更加优质的代码／文档。&lt;/li&gt;
+&lt;li&gt;你的技能在增强，更进一步的去挑战新的问题。&lt;/li&gt;
+&lt;li&gt;能够以更好的方式“售卖”自己，这以为着能够找一份高薪、远程的工作。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;google和ibm以开源软件赞助的方式加入汽车制造商:e605bc5cefdd5e0268797298fd557f06&#34;&gt;Google和IBM以开源软件赞助的方式加入汽车制造商&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/07/13/toyota-ibm-google-patron-open-source/&#34;&gt;This Automaker Just Joined IBM and Google as a Patron of Open-Source Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇财富杂志的文章，我看得似懂非懂，总而言之，就是说开源软件终于在汽车制造商哪里占有了一席之地。想想普华当年搞定汽车电子，往这个方向发力会产生什么样的效果？从别处看到了方向，但是却理解错误，不知道该具体怎么做。在人才方面又不能做到不拘一格。做企业绝对是一门科学，要难以编码、琢磨技术。&lt;/p&gt;
+
+&lt;p&gt;在众多的参数中，需要更多的平衡的艺术！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么说开源并不会杀死-android:e605bc5cefdd5e0268797298fd557f06&#34;&gt;为什么说开源并不会杀死 Android&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3094809/linux/why-being-open-source-is-not-killing-android.html&#34;&gt;Why being open source is not killing Android&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文是对 ZDNet 上的一片文章：&lt;a href=&#34;http://www.zdnet.com/article/being-open-source-is-killing-android/&#34;&gt;“Being open source is killing Android”&lt;/a&gt; 的回应。&lt;/p&gt;
+
+&lt;p&gt;本文是绝对值得一看的好文。文中对于开源所带来的各种益处我就不多谈了，我仅对文中我认为最好的2个观点或见解纪录下来：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;开源是软件的“开发”模式，并非是软件的“交付”模式，抑或是“商业”模式。 &lt;strong&gt;How Google delivers Android to devices has literally nothing to do with how it develops it.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ChromeOS 的升级方式，部署两套系统，升级后仅在重启后生效！有时候看起来笨拙的方法，才是最为有效的。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.7.13)</title>
@@ -982,54 +1052,6 @@
 &lt;p&gt;我这里仅对第二点发表一点个人看法，本土文化中有一个，那就是“人人心中住着一个皇帝”，喜欢控制，操纵别人乃至一切。这也是本土暂时和牛逼的开源项目无关。让我们遍历一下国内原生开源的几个项目：hyper_、PingCAP、Apache Kylin等，基本上都是在自娱自乐。远未认清开源的本质是拉拢全世界的人才，如果你有企业盈利背景、有时候遮遮掩掩、除代码之外的如文档、设计、想法等并不透明。那么这算开源吗？&lt;/p&gt;
 
 &lt;p&gt;有时候，我在想，为什么在本土作布道师是如此的艰难？有这么一种人会诋毁你：你牛逼你开发个牛逼的开源出来啊，整天光说不练。比如著名的Cjacker经常骂一些经济学家或者是搞企业管理培训的人一样。而且，布道师的收入，如演讲、出版、培训等，是非常微薄的，不如去给华为、乐视做一名员工来得实在。现实、本土、差距！逼着你去写代码去生存，正如你不能妄议政治一样。似乎这个世界只给我们开了一扇门，那就是闭嘴，去攻技术！否则就滚蛋！ 这就是你我生活的畸形的世界。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.6.26）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_26/</link>
-      <pubDate>Sun, 26 Jun 2016 06:38:33 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_26/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:b669f91ea47f8d40f7d01946c9b964ba&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;github-的分析数字能告诉我们什么:b669f91ea47f8d40f7d01946c9b964ba&#34;&gt;GitHub 的分析数字能告诉我们什么&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/githubs-numbers-say-projects/&#34;&gt;What GitHub’s numbers say about its projects&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这篇文章其实蛮差劲的，它不过是 GitHub 的官方博客&lt;a href=&#34;https://github.com/blog/2195-the-shape-of-open-source&#34;&gt;开源的形态&lt;/a&gt;一文的再诠释而已，基本是照抄，这也是国内新闻的一贯做法。不吐槽。由于作者是一名数据科学家，用了可视化的图表形式来表达了一些内容，比如 Atom 从闭源到开源中间所经历的低谷与高峰是一个值得注意的主题。&lt;/p&gt;
-
-&lt;p&gt;我非同一般的认可作者的结论：&lt;strong&gt;非常明显，开源并不意味着仅仅是代码。成功的开源项目同时包括代码和文档的提交，且关于变动的讨论均很活跃。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;树莓派3的竞争对手拥有-ssd-存储的插槽:b669f91ea47f8d40f7d01946c9b964ba&#34;&gt;树莓派3的竞争对手拥有 SSD 存储的插槽&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.pcworld.com/article/3088535/internet-of-things/a-raspberry-pi-3-competitor-will-boast-an-ssd-storage-slot.html&#34;&gt;This Raspberry Pi 3 rival will boast an SSD storage slot&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;说实话，我开始是以为讲树莓派3支持SSD插槽的，就开始阅读此文，后来发现内容完全是另外一回事。是PC架构的开放硬件&lt;a href=&#34;http://wiki.minnowboard.org/MinnowBoard_Wiki_Home&#34;&gt;MinnowBoard&lt;/a&gt;的新动作。好吧，我从来不知道树莓派还有竞争对手了，如果没有记错的话（懒得确认），这是ARM与X86之间的竞争。对于我来说，就当时扫盲了。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;it-运行在云中-云运行-linux-有问题吗:b669f91ea47f8d40f7d01946c9b964ba&#34;&gt;IT 运行在云中，云运行 Linux。有问题吗？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/it-runs-on-the-cloud-and-the-cloud-runs-on-linux-any-questions/&#34;&gt;IT runs on the cloud, and the cloud runs on Linux. Any questions?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文作者从技术的角度剖析了 Linux 在云平台的重要性！基石、核心等词就不提了，甚至提到了 Docker 在Mac和Windows 10的实际情况。哎，对于我个人来说又如何？Linux 是一款成功的操作系统。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
