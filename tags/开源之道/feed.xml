@@ -7,8 +7,84 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 19 Jul 2016 06:13:01 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jul 2016 06:33:00 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.7.20）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_20/</link>
+      <pubDate>Wed, 20 Jul 2016 06:33:00 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_20/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:56622cde75f6cc9253401805802e705c&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;清晰的定义和沟通团队目标:56622cde75f6cc9253401805802e705c&#34;&gt;清晰的定义和沟通团队目标&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/7/defining-and-communicating-team-goals&#34;&gt;Coffee Shop DevOps: Clearly defining and communicating team goals&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;团队，不再是一个人的事情，几乎任何事情都会涉及到沟通。当然，目标是重中之重。文中所举的例子可谓是开发者经常遇到的误解：言谈之中，所表达的意思！我个人的职业生涯，就是一直被误解所笼罩和包围。这是个哲学问题，也是个非常棘手的问题，由于每个人的学识、语言掌握程度等的不同，尤其是在很多词汇上会产生非常多的误解。这就是在团队建设中经常要共同阅读的缘由之一。&lt;/p&gt;
+
+&lt;p&gt;文中作者给出了三个解决问题的方法：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;逐个理解目标&lt;/li&gt;
+&lt;li&gt;集中注意力 &lt;strong&gt;In fact, give them your full attention.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;帮助你的团队去沟通&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;When you slow down, communicate clearly, and take the time to grasp the problem fully and make sure everyone is on the same page, all of these problems with understanding goals can be avoided.&lt;/strong&gt; 多么好的建议。可惜我到现在才学会 slow down。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源什么时候已经成为企业软件的默认的商业模式了:56622cde75f6cc9253401805802e705c&#34;&gt;开源什么时候已经成为企业软件的默认的商业模式了？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/has-open-source-become-the-new-default-business-model-for-enterprise-software/&#34;&gt;Has open source become the default business model for enterprise software?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;文章的一开始，作者就指出：&lt;strong&gt;open source is increasingly the rule, not the exception.&lt;/strong&gt;，基于这个结论，然后开始举了一些例子，如Cloudera、Cockroach Labs、sysdig等，然后提出疑问，如果这个开源项目是被一家公司所主导的，而又倡导不捆绑、锁定用户，这个该如何处理？接着举了MongoDB等例子，包括其社区的形式等。&lt;/p&gt;
+
+&lt;p&gt;甚至谈到了开源的价格模式，包括用户的心理习惯。**You pay by subscription rather than perpetual license plus support. **&lt;/p&gt;
+
+&lt;p&gt;**From a technology stack perspective, Amazon is the cloud equivalent of Oracle; **这样的观点，个人是非常认同的。公有云将会是开源的死敌！&lt;/p&gt;
+
+&lt;p&gt;那么究竟开源是否是企业软件的默认的商业模式了呢？请君阅读原文自己寻找答案！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源硬件-意味着什么以及它为何非常的重要:56622cde75f6cc9253401805802e705c&#34;&gt;开源硬件：意味着什么以及它为何非常的重要&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/open-source-hardware-what-it-means-and-why-it-matters&#34;&gt;Open Source Hardware: What It Means and Why It Matters&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源硬件渐成燎原之势，你我都应该去了解一下，尤其是IoT时代的来临。作为历史学家的作者，文章的阶段论是非常清晰的：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;什么是开源硬件？&lt;/li&gt;
+&lt;li&gt;开源硬件的由来&lt;/li&gt;
+&lt;li&gt;今天为什么说开源硬件非常的重要。（开源硬件对于IoT的重要性：安全、便宜。另外：**the software-defined revolution is likely to increase demand for open source hardware. **）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://thevarguy.com/author/christopher-tozzi&#34;&gt;Christopher Tozzi&lt;/a&gt; 的文章会给你不一样的视野。尤其你是一名技术人员应该多读读他的文章。&lt;/p&gt;
+
+&lt;p&gt;我很认同的结语： ** open hardware solutions will become more valuable not only because they are likely to be inexpensive, but also because open specifications maximize the ability of programmers to take advantage of hardware features when optimizing software-defined solutions.** 不仅仅是成本的大众化！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.7.19)</title>
@@ -986,68 +1062,6 @@
 &lt;p&gt;让人心暖的开源故事！ 开源不仅仅是只有冷冰冰的商业！ 还可以帮助需要帮助的人们，3D打印义肢，故事有很多！&lt;del&gt;这就是我想说的？有时候真的想抽自己两巴掌，这么多年被谁洗的脑?你当初选择开源的初衷是什么？技术本身确实是仅仅是技术，最后都要落实的人本身身上，比如信息技术，它同样可以作恶。埋头于技术太久了。&lt;/del&gt;&lt;/p&gt;
 
 &lt;p&gt;推荐所有的和开源相关的人们阅读。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.6.29）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_29/</link>
-      <pubDate>Wed, 29 Jun 2016 07:14:47 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:11b4d52f2adb4c2f4d293eba3b440375&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_darwincloud_520x292_0311LL.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;我们是-openstack-的贡献者:11b4d52f2adb4c2f4d293eba3b440375&#34;&gt;我们是 OpenStack 的贡献者&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/6/openstack-is-contributors&#34;&gt;We are what we contribute to OpenStack&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;del&gt;OpenStack，一个让我充满叹息的项目，6年前，和 OpenStack 的开发插肩而过，可是这两年避都避不开，似乎我除了加入到这个生态圈之外，很难再找到出路了，至少自己的视野是这样。&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;本文是一家叫做&lt;a href=&#34;http://www.tesora.com&#34;&gt;Tesora&lt;/a&gt;的公司的 CTO Amrith Kumar 写的，回顾了团队在 OpenStack 的过往，并讲了 Trove 项目的一些细节，因为 Tesora 就是一家专注于 Trove 子项目的公司，并以交付数据库即服务（DBaaS）为业务，服务于客户。简单来说就是一篇宣传 Tesora 的软文，但是更多的是感慨、感谢OpenStack巨大的生态。需要关注Tesora，因为它和 Mirantis 达成了&lt;a href=&#34;http://ostatic.com/blog/tesora-and-mirantis-partner-on-easily-deployed-dbaas-solution&#34;&gt;合作伙伴关系&lt;/a&gt;。并最终以 Mirantis 的应用目录插件中出现。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;ibm-参与到-linux-基金会的三个原因:11b4d52f2adb4c2f4d293eba3b440375&#34;&gt;IBM 参与到 Linux 基金会的三个原因&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/3-reasons-ibm-participates-linux-foundation-projects&#34;&gt;3 Reasons IBM Participates in Linux Foundation Projects&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;如果阅读我翻译的&lt;a href=&#34;http://lijiangsheng1.github.io/posts/opensource/open_by_design/&#34;&gt;《Open By Design》&lt;/a&gt;的话，那么其实就非常明白，为何IBM、华为这样的大公司参与开源基金会的真实原因了，不为它，就为标准制定。但是作为市场宣传／口碑／品牌效应等，看看冠冕堂皇的理由：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;量身定制的架构&lt;/li&gt;
-&lt;li&gt;开放的治理&lt;/li&gt;
-&lt;li&gt;鼓励协作和参与&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;当然最后也忘标榜一下自己的项目参与贡献：Node.js，Hyperledger 布莱布拉布拉&amp;hellip;&amp;hellip;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;aquafaba-是做什么的-开源软件和它有什么关系-话说aquafaba是啥:11b4d52f2adb4c2f4d293eba3b440375&#34;&gt;aquafaba 是做什么的？开源软件和它有什么关系？（话说aquafaba是啥？）&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.bostonglobe.com/lifestyle/food-dining/2016/06/27/what-aquafaba-and-open-source-software-have-common-and-what-aquafaba-anyway/Xp5SFolRmu2ToZ8hioxpBP/story.html&#34;&gt;What do aquafaba and open-source software have in common? (And what is aquafaba, anyway?)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;del&gt;故事很长，对于我的英文水平挑战很大，其实我就是粗略的读了一遍，读到和开源、软件相关的部分很顺畅，但是有关食物的就和傻眼。&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;我大胆的理解就是，开源的模式已经渗透到各个领域，也挑战着各个领域，进军食品工业，所有的流程、“秘方”、工具都公开、透明，所有人共享的模式，势必对餐饮、食品界有所影响。服务才是重点！制作健康食物，使用开源软件的模式或者是维基百科的模式，蛮有意思。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
