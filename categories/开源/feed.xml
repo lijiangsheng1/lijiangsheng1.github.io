@@ -7,8 +7,84 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 21 Jul 2016 06:14:18 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jul 2016 06:07:11 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.7.22)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_22/</link>
+      <pubDate>Fri, 22 Jul 2016 06:07:11 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_22/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:75557615f813693afb3dbe9d7b1cdb3a&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/vim_emacs.png?itok=zu8cCdxB&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;vim-还是-emacs-你更喜欢哪个编辑器:75557615f813693afb3dbe9d7b1cdb3a&#34;&gt;Vim 还是 Emacs？你更喜欢哪个编辑器？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/7/vim-or-emacs-which-text-editor-do-you-prefer&#34;&gt;Vim or Emacs: Which text editor do you prefer?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;OpenSource.com 也不是省事的主，没事搞个调查。其实，作为中立的我，是无法参与调查的。不过收获就是在维基百科上真的有&lt;a href=&#34;https://en.wikipedia.org/wiki/Editor_war&#34;&gt;编辑器之战&lt;/a&gt;的说明！更多的是黑客文化和社区理念的不一致，从纯技术的角度来讲，其实没有什么太大的区别。&lt;/p&gt;
+
+&lt;p&gt;不过可以从调查结果了解一下。现在的IDE那么的多，尤其是移动开发时代，这两款经典的编辑器似乎正在淡出人们的视野。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源历史上的教训-5款未能流行的优秀的foss项目:75557615f813693afb3dbe9d7b1cdb3a&#34;&gt;开源历史上的教训：5款未能流行的优秀的FOSS项目&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/open-source-history-lessons-5-foss-projects-didnt-pan-out#slide-0-field_images-94211&#34;&gt;Open Source History Lessons: 5 FOSS Projects That Didn&amp;rsquo;t Pan Out&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，没错，是开源的历史。期待图书的面世。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Corel Linux: 想以wordperfect为契机，利用强大的Debian为平台。可是想法好，但1999年的Linux图形实在是不够成熟。&lt;/li&gt;
+&lt;li&gt;Diaspora：能够保护隐私的社交。口号不错：share what you want, with whom you want。只是没有火起来罢了。&lt;/li&gt;
+&lt;li&gt;GNU HURD：内核，可能永远都完不成的项目。其实，可以研究下HURD无法完成的原因，除去技术因素之外，一定有很多的社区、文化、人等因素。&lt;/li&gt;
+&lt;li&gt;ReactOS：仅仅是想以开源的方式实现WIndows所有的应用。个人觉得毫无意义。单纯的模仿、克隆。。跪舔微软，毫无主见。&lt;/li&gt;
+&lt;li&gt;VA Linux：这是个非常好的故事！曾经是IPO非常成功的公司，但卖一体机，即预装Linux的硬件。商业上惨败。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;缅怀一下-mandriva-linux-曾经是强大的开源操作系统之一:75557615f813693afb3dbe9d7b1cdb3a&#34;&gt;缅怀一下 Mandriva Linux，曾经是强大的开源操作系统之一&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/mandriva-linux-look-back-late-great-open-source-os&#34;&gt;Mandriva Linux: A Look Back at the Late, Great Open Source OS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;怀旧！时代在变，跟不上趋势，就得接受历史的淘汰。而变化往往是微小的，必须以一颗敏感的心去感受。否则，你就会变成抵触者，哪个试图让历史的车轮停下来的人！&lt;/p&gt;
+
+&lt;p&gt;Mandriva 一度是最为好用和漂亮的Linux发行版。已成过往。我们今天还在用的，明天也可能消失。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-source-careers.jpg?itok=j5ZFXDiY&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;毕业生-如何得到你理想的开源工作:75557615f813693afb3dbe9d7b1cdb3a&#34;&gt;毕业生：如何得到你理想的开源工作&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/graduates-how-get-your-dream-open-source-job&#34;&gt;Graduates: How to Get Your Dream Open Source Job&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;从一名毕业生来说，这是一篇不错的文章，按照文中的指导可以顺利的成长为一名开源世界的贡献者。&lt;/p&gt;
+
+&lt;p&gt;其实这是SUSE的一篇软文，类似红帽的HR在OpenSource.com上发表文化招聘是一个道理。包括Linux基金会每年搞定工作调查也是一个道理。他们是开源商业化幕后的推动者。&lt;/p&gt;
+
+&lt;p&gt;SuSE 能够起死回生吗？照目前市场上的动作来看，还真有可能。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.7.21）</title>
@@ -1002,74 +1078,6 @@
 &lt;p&gt;这是一篇 Ubuntu 的案例，因为我已经开始关注营销和市场，所以这样的文章，也会以后占有比例。这也是开源之道的一种，无论你是否曾任，红帽、Mirantis等开源公司其实就是这样一种策略，在打造品牌的同时，提供高质量的服务。但前者更加的重要。&lt;/p&gt;
 
 &lt;p&gt;哦，对了，那个 BootStack 是否去值得研究一下？如果有时间的话。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.1）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_1/</link>
-      <pubDate>Fri, 01 Jul 2016 06:33:14 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_1/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:1580b817d973fa1f29ecef6fc7a25063&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://techstory.in/wp-content/uploads/2016/06/open-source-patents.png&#34; alt=&#34;musk&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源专利-福兮祸兮:1580b817d973fa1f29ecef6fc7a25063&#34;&gt;开源专利：福兮祸兮？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://techstory.in/open-source-patents/&#34;&gt;Open Source Patents : Boon or Bane?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;不可多得的好文，论证开源对于创新的鼓励。特别是提到了著名的Tesla的开源哲学，以及其创新的动力。乃至于Google 的人工智能开源之后的现状。&lt;/p&gt;
-
-&lt;p&gt;照抄一句：“The real winners in this are consumers, who can leverage the power of information to build, maintain, and modify accessible and working vehicles as they see fit.” 假如我不是一名开源软件的从业者，布道师，开发者，使用者的话，我该如何思考这一切？能够像现在一样成熟起来去认识软件服务的重要性吗？我自己竟然不知道答案。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/bus-containers.png&#34; alt=&#34;container&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;什么是容器:1580b817d973fa1f29ecef6fc7a25063&#34;&gt;什么是容器？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/resources/what-are-linux-containers&#34;&gt;What are Linux containers?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;不错的扫盲文章，言简意赅，个人以为胜过那个煞费苦心的将Kubernetes的解释做成儿童绘本的。操作系统级的虚拟化，可以将应用程序以及其依赖一起打包再分发，现在有个容器的实现叫Docker被人们捧的巨高，这个东西为什么需要编排？安全性究竟如何？DevOps文化的推动者吗？小小一篇文章竟然将这些都解释清楚了。&lt;/p&gt;
-
-&lt;p&gt;其实，很多时候解释一件事物的时候，不必要去假设、代入，尤其是那句骗人的话——“用户的角度”。依照自己的直觉，描述的清晰明了，自己能懂即可。这一点对于从事软件文档的同僚们非常的重要。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;红帽宣布了2016年女性开源奖项获得者:1580b817d973fa1f29ecef6fc7a25063&#34;&gt;红帽宣布了2016年女性开源奖项获得者&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.businesswire.com/news/home/20160630005950/en/Red-Hat-Announces-2016-Women-Open-Source&#34;&gt;Red Hat Announces 2016 Women in Open Source Award Winners&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;先不要看奖项的丰厚，这就是红帽的品牌建设手段之一。女性在软件产业是属于偏少的，尤其是作为开发者，开源界每年都会为女性开辟专场，红帽的如此举动无疑会为女性朋友带来希望和动力。再看奖项的得主，我们新晋的，看 Dropox 的 Jessica McKellar 的履历，尤其是对 Python 社区方面的贡献！我就在想，如果你像布道，首先自己得先有两把刷子，然后再去布道，否则就成了空谈，没人搭理你，尤其是线下这样的活动，你和工程师们谈文化、氛围都是扯淡，他们没有太多的思考，只是直觉上认定了某种文化而已。所以要谈技术、谈趋势、谈工匠精神。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/wios_awards_lead.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;能想象出这个世界若是没有开源会是什么样子吗:1580b817d973fa1f29ecef6fc7a25063&#34;&gt;能想象出这个世界若是没有开源会是什么样子吗？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/6/academic-women-open-source-award-interview&#34;&gt;Can you imagine a world without open source?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这篇文章得结合上篇一起看，是对于红帽女性奖项另外一名女性的采访，相比于上一位，这位资历要稚嫩的多，也就是在IBM开源中心工作了几年，现在又跑回去读硕士去了。从她自己的描述中，我可以清楚的想象得到一位开源开发者的成长之路。这也是我推荐阅读的理由之一。国人的思维里有一种环顾四周找同类、借鉴模仿的现象的，这就是例子，让那些在学校里迷惘的可怜的孩子们有一个很好的榜样。&lt;/p&gt;
-
-&lt;p&gt;问一下我自己，关于这个题目。可以，但是那是另外一个话题。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
