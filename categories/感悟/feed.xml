@@ -7,8 +7,65 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 Jul 2016 06:33:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2016 06:14:18 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.7.21）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_21/</link>
+      <pubDate>Thu, 21 Jul 2016 06:14:18 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_21/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:a3aa980c2aef8edb33ebf6fb2802dbad&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://edge.alluremedia.com.au/m/l/2015/12/B9regjIIAAA8hqS.png-large.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;微软为何拥抱开源:a3aa980c2aef8edb33ebf6fb2802dbad&#34;&gt;微软为何拥抱开源？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.gurufocus.com/news/429499/why-did-microsoft-embrace-open-source&#34;&gt;Why Did Microsoft Embrace Open Source?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是个老生常谈的问题。这个世界没有永久的敌人，只有永久的生意。微软十几天所说的可以不算，因为今天一切都变了。开源渐成气候，成为企业默认的选择。&lt;/p&gt;
+
+&lt;p&gt;作者认为主要的缘由有两个：0、微软操作系统在移动手机领域的失策，包括收购诺基亚这样的败笔。1、云计算的根基，看AWS、IBM、Google，IaaS平台的根基就是开源技术。开源技术意味着低价和高效，为什么要对着干了呢？
+至于目前为止所做的一系列的事情，其实远远不够，个人以为，微软并未真正理解开源！开源绝对不仅仅是将代码开源！而是关注人本身、关注社区、关注文化！将目标投向代码，无异于舍本逐末。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;阿迪达斯将致力于速度-关键城市和开源:a3aa980c2aef8edb33ebf6fb2802dbad&#34;&gt;阿迪达斯将致力于速度、关键城市和开源&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.fibre2fashion.com/news/apparel-news/adidas-to-focus-on-speed-key-cities-and-open-source-190669-newsdetails.htm?page=2&#34;&gt;Adidas to focus on speed, key cities and open source - See more at: http://www.fibre2fashion.com/news/apparel-news/adidas-to-focus-on-speed-key-cities-and-open-source-190669-newsdetails.htm?page=2#sthash.81A3jX22.dpuf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;关注开源的人们应该对于前几天Nike开源其几个代码库的新闻还有所记忆。正如《历史的终结》所表达的一样，人类默认会选择透明、共享、开放的途径去完成一些事情，历史已经或多或少的证明了这一观点。开源已经从软件领域向其他领域渗透，如政府、教育，以及现在看到的服装著名品牌——Adidas！&lt;/p&gt;
+
+&lt;p&gt;具体要做的事情就是：&lt;strong&gt;Open Source, the group&amp;rsquo;s third strategic choice, is an endeavour to build a unique collaborative network and invites athletes, creatives, consumers and other partners to help shape the future of sport and sports culture.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To increase its own creative capital and gain new perspectives, the Adidas Group is providing these externals with access to internal tools, including the archive, materials, factories and data.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;保加利亚的政府采用开源的法律能否在世界范围内传播:a3aa980c2aef8edb33ebf6fb2802dbad&#34;&gt;保加利亚的政府采用开源的法律能否在世界范围内传播？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/could-bulgarias-open-source-law-transform-government-software-worldwide/&#34;&gt;Could Bulgaria&amp;rsquo;s open source law transform government software worldwide?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;保加利亚通过的那条法律震惊了全世界。但是能否复制了呢？这是所有人应该思考的问题。&lt;/p&gt;
+
+&lt;p&gt;但是一涉及到政府，这事就复杂了。但无论怎么样，开源这件事情本身正在得到所有人的认可。为了纳税人，政府应该考虑开源软件！没错，以人为本的话，还能增加就业！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.7.20）</title>
@@ -1013,55 +1070,6 @@
 &lt;p&gt;这篇文章得结合上篇一起看，是对于红帽女性奖项另外一名女性的采访，相比于上一位，这位资历要稚嫩的多，也就是在IBM开源中心工作了几年，现在又跑回去读硕士去了。从她自己的描述中，我可以清楚的想象得到一位开源开发者的成长之路。这也是我推荐阅读的理由之一。国人的思维里有一种环顾四周找同类、借鉴模仿的现象的，这就是例子，让那些在学校里迷惘的可怜的孩子们有一个很好的榜样。&lt;/p&gt;
 
 &lt;p&gt;问一下我自己，关于这个题目。可以，但是那是另外一个话题。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.6.30）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_30/</link>
-      <pubDate>Thu, 30 Jun 2016 06:17:01 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_6/2016_6_30/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:9e3c37c8021fafa7363f08f1e8f2f723&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;关于联想开放平台需要知道的5件事:9e3c37c8021fafa7363f08f1e8f2f723&#34;&gt;关于联想开放平台需要知道的5件事&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.crn.com/slide-shows/virtualization/300081193/5-things-solution-providers-should-know-about-lenovos-open-platform-project.htm/pgno/0/5?itc=hp_slideshow&#34;&gt;5 Things Solution Providers Should Know About Lenovo&amp;rsquo;s Open Platform Project&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;联想都搞开源了，这是哪门子的事情？因为它看到了其中的机会，比如这次的所谓的 Op@L 战略，物联网、5G、以及和红帽合作的网络功能虚拟化。关于这件事本身我不想多说什么，个人对于联想的印象来说，并不看好其能玩转开源，开源不仅仅是技术，更是一种文化，一种吸引人才的办法，联想的官僚文化，是他的致命伤！也不配进入开源！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;whitehurst-在亚洲-红帽最大的竞争对手是免费的-oss:9e3c37c8021fafa7363f08f1e8f2f723&#34;&gt;Whitehurst:在亚洲，红帽最大的竞争对手是免费的 OSS&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/whitehurst-free-oss-red-hats-biggest-competition-in-asia/&#34;&gt;Whitehurst: Free OSS Red Hat&amp;rsquo;s biggest competition in Asia&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;看到具体的数据还是蛮惊人的，红帽在亚太区的收入占其全球收入的13%，相对于北美，这是个非常低收入的区域，也就是说这里市场机会巨大。这位记者并没有提到文化的因素，以及意识形态。
-另外提到的关于技能和薪酬，亚洲目前的技能并不低，但薪水确实是不高。这点也是让那么多的小厂商搞基础设施的缘故。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;红帽颁发的开源创新奖项得主-e-nable-开源文化:9e3c37c8021fafa7363f08f1e8f2f723&#34;&gt;红帽颁发的开源创新奖项得主：e-NABLE &amp;amp;开源文化&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://3dprint.com/140178/red-hat-films-documentary-e-nable/&#34;&gt;Red Hat Films Produces Award-Winning Documentary About e-NABLE &amp;amp; the Open-Source Culture&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;让人心暖的开源故事！ 开源不仅仅是只有冷冰冰的商业！ 还可以帮助需要帮助的人们，3D打印义肢，故事有很多！&lt;del&gt;这就是我想说的？有时候真的想抽自己两巴掌，这么多年被谁洗的脑?你当初选择开源的初衷是什么？技术本身确实是仅仅是技术，最后都要落实的人本身身上，比如信息技术，它同样可以作恶。埋头于技术太久了。&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;推荐所有的和开源相关的人们阅读。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
