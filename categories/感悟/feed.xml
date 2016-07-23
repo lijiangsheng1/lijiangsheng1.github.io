@@ -7,8 +7,75 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 22 Jul 2016 06:07:11 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 23 Jul 2016 23:05:45 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.7.23)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_23/</link>
+      <pubDate>Sat, 23 Jul 2016 23:05:45 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_23/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:9eb95c77dc128842ef6ace8f0e24347a&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;wire-为汽车和物联网带来了加密的聊天过程:9eb95c77dc128842ef6ace8f0e24347a&#34;&gt;Wire 为汽车和物联网带来了加密的聊天过程&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/07/22/wire-open-source/&#34;&gt;Wire Wants to Bring Encrypted Chat to Cars and the Internet of Things&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;世界正在变得越来越精细，细到某个看不到的组件。如果你未能认识到某个组件，那么你也无法去了解整个产业，然后，终将一无所知。&lt;/p&gt;
+
+&lt;p&gt;Forune 的开源文章我越来越喜欢了。每年的篇数虽然不多，但多是精品，比如去年的关于AI的开源评价，可谓是中肯、准确而冷静。&lt;/p&gt;
+
+&lt;p&gt;本篇的Wire是Skyper的联合创始人出来创业搞得公司，是开源的，并且列举了应用场景。最后同类的产品有哪些：如WhatApp、Facebook、Google等大鳄！&lt;/p&gt;
+
+&lt;p&gt;从本文悟出一个道理，那就是作为行家你得了解最为细节的内容！然后再谈能否打动消费者。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/01/nothing-to-fear-thinkstock-100563717-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;你所担心的开源会锁定你是杞人忧天:9eb95c77dc128842ef6ace8f0e24347a&#34;&gt;你所担心的开源会锁定你是杞人忧天&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3098426/open-source-tools/your-fear-of-open-source-lock-in-is-ridiculous.html&#34;&gt;Your fear of open source lock-in is ridiculous&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;锁定是软件的天性之一，开源也不过是软件罢了!&lt;/strong&gt; 这话一点错都没有，简直是无懈可击！本文的信息量是非常大的。有&lt;a href=&#34;http://www.dbms2.com/2016/07/19/notes-on-vendor-lock-in/&#34;&gt;对于锁定的摘要&lt;/a&gt;、&lt;a href=&#34;http://www.infoworld.com/article/3095894/cloud-computing/why-cloud-workload-portability-is-a-pipe-dream.html&#34;&gt;公有云平台的移植性&lt;/a&gt;、&lt;a href=&#34;http://www.gartner.com/newsroom/id/3143718&#34;&gt;Gartner对于云计算失败的原因分析&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;最后给出了如何避免开源的锁定。无锁定是一些公司商业上的口号，如开源届最为成功的红帽！但是真的是否锁定，这要看公司的文化和价值观的问题。如何雇佣、对待开发者，即人性、民主的事情。是否相信人本身！才是这个命题的关键。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;保护开源软件的供应链:9eb95c77dc128842ef6ace8f0e24347a&#34;&gt;保护开源软件的供应链&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://gcn.com/articles/2016/07/22/software-supply-chain.aspx&#34;&gt;Protecting the open source software supply chain&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Sonatype 的这份&lt;a href=&#34;http://www.sonatype.com/software-supply-chain&#34;&gt;报告&lt;/a&gt;，从发布哪天起，我就在我的浏览器中存活了。说实话，我没有去看，等待有闲时间去看（这通常是谎言）。那么这篇文章适合快速的了解，而不需要通篇阅读哪些无聊的数据。&lt;/p&gt;
+
+&lt;p&gt;Sonatype 在 Java 界那可是鼎鼎大名，即 Maven 的原创公司！Sonatype 所运营的中心仓库是 java 开发者社区的开源组件的公共仓库，是全球排名靠前的大型仓库之一。通过对310亿的下载请求、3000个公司和25000个应用的软件组件的分析，得出如下结论：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;开源组件的供应是非常巨大的&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;供应的提供商的网络需求正在迅速增长&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;并非所有的部分都是被公平的创建&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;软件供应链管理实践开始受到重视和支持&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本文应该记住一句话：&lt;strong&gt;&amp;ldquo;Because 80 to 90 percent of today’s software applications are made of component parts, and increasingly, open source components,  defect rates and security and quality issues abound within the software supply chain.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.7.22)</title>
@@ -1003,81 +1070,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;Eclipse Che，从来没有听说过，Codenvy 也没有。究竟怎么整合也什么都没有透露。非常无聊的话题。请忽略。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.1)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_2/</link>
-      <pubDate>Mon, 04 Jul 2016 06:32:44 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_2/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:ce62b33cc6aef52bbd4b09767365c78c&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;nitda-培训其-3700-名员工有关开源软件开发:ce62b33cc6aef52bbd4b09767365c78c&#34;&gt;NITDA 培训其 3700 名员工有关开源软件开发&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.today.ng/news/national/147347/nitda-trains-3700-corps-members-open-source-software-development&#34;&gt;NITDA trains 3,700 corps members on open source software development&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这大概是一个政府部门，看到了开源的大势所趋，要在这一块发力。不知是何缘故，我总是以我自己对于一些政府部门去理解其他国家。靠谱吗？除了能给提供培训的公司一些好处之外，还能干点什么？&lt;/p&gt;
-
-&lt;p&gt;&lt;del&gt;大多数的时候，我是高估所有的一切的，包括我对他人的期望。我看到一些事情，想法会很多、很多，无法收拾。必须强制收回来，看下面的文章。&lt;/del&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;vmware-雇佣了曾在-intel-长期做-linux-的高管作为其首任首席开源官:ce62b33cc6aef52bbd4b09767365c78c&#34;&gt;VMWare 雇佣了曾在 Intel 长期做 Linux 的高管作为其首任首席开源官&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.crn.com/news/cloud/300081237/vmware-hires-longtime-intel-linux-exec-as-its-first-ever-chief-open-source-officer.htm&#34;&gt;VMware Hires Longtime Intel Linux Exec As Its First-Ever Chief Open Source Officer&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;让我来尝试一下这个新闻可以读出的信息：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;VMWare 加大了开源方面的政策和力度。虽然收购 Linux 未果，但是似乎找到了掌控开源的门道。&lt;/li&gt;
-&lt;li&gt;挖 Intel 的墙角意味着什么？Intel 已经拥有一大片开源“人才”了！&lt;/li&gt;
-&lt;li&gt;Docker 真的会是它的威胁吗？它不厌其烦的发布关于容器相关的项目，是不是无人问津？哪里出现了问题？&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;从我个人的角度讲，我关注了Dirk Hohndel的背景：曾经的Kernel开发者，在SuSe做过6年CTO，然后在Intel做了15年的Linux和开源的首席技术专家。然后就是首席开源官这个头衔了。Chief OpenSource officer，看看都让人兴奋。但是也会想到自己的技术，让人黯然神伤。我为什么没有将自己修炼为一名开发高手？值得反思。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://2.bp.blogspot.com/-hejwbyTveWc/V2iYNjgs-lI/AAAAAAAAASs/9wnARX9rJosvlCVD8Ep1nDmXjj59DbjFwCLcB/s400/bad%2Bconstruction.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;如何让构建云平台失败:ce62b33cc6aef52bbd4b09767365c78c&#34;&gt;如何让构建云平台失败&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.keeneview.com/2016/06/how-not-to-build-cloud.html&#34;&gt;How Not To Build A Cloud&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;注意，原文需要翻墙，就像我过去的博客一样。本文是对&lt;a href=&#34;http://blogs.gartner.com/thomas_bittman/2015/02/05/why-are-95-of-private-clouds-failing/&#34;&gt;Gartner 的Thomas Bitman 的一篇博客的&lt;/a&gt; 再次解读。虽然一年多过去了，但是那篇文章仍然有效。！好文章不会过时！只要你能读到。&lt;/p&gt;
-
-&lt;p&gt;具体细节我就不再这里重复了，我要对于作者的观点的肯定。 云计算，尤其是开源云计算，没有那一家可以做成产品的，像过去兜售软件产品一样（其实远远不是，也一直在修复、升级）。更多的是自己投入人力，低头思考这些东西，然后看看是否有卖服务的帮助自己。
-我就想问下系统管理员们，你们被牵制的岁月难道不想尽早的摆脱？如果你觉得我这句话问的有问题，说明你就是一名堕落者！沉沦的帮凶。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;ubuntu-openstack-成功铸就科研云:ce62b33cc6aef52bbd4b09767365c78c&#34;&gt;Ubuntu OpenStack 成功铸就科研云&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://insights.ubuntu.com/2016/06/20/a-new-research-cloud-on-ubuntu-openstack&#34;&gt;A New Research Cloud on Ubuntu OpenStack&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一篇 Ubuntu 的案例，因为我已经开始关注营销和市场，所以这样的文章，也会以后占有比例。这也是开源之道的一种，无论你是否曾任，红帽、Mirantis等开源公司其实就是这样一种策略，在打造品牌的同时，提供高质量的服务。但前者更加的重要。&lt;/p&gt;
-
-&lt;p&gt;哦，对了，那个 BootStack 是否去值得研究一下？如果有时间的话。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
