@@ -7,8 +7,85 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 23 Jul 2016 23:05:45 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2016 19:14:48 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.7.24)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_24/</link>
+      <pubDate>Sun, 24 Jul 2016 19:14:48 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_24/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:2057beede7710dcbc6a7016bea3aeaf1&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/life_bank_vault_secure_safe.png?itok=k9QlsRCB&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;预防下一个-heartbleed-的突袭-让-foss-更加的安全:2057beede7710dcbc6a7016bea3aeaf1&#34;&gt;预防下一个 Heartbleed 的突袭，让 FOSS 更加的安全&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/7/interview-david-wheeler-making-foss-more-secure&#34;&gt;Preventing the next Heartbleed and making FOSS more secure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇绝佳的扫盲文章，有关开源软件的安全、漏洞问题日益的突出，不仅仅是敏感的商业发起者，还有政府等部门。&lt;/p&gt;
+
+&lt;p&gt;所谓的扫盲有几点：比如Linux基金会的CII是什么？美国的法律有几何？一些老的开源项目目前的状况如何？下面就看看采访人说出的可能是你不知道的关于开源项目的状况：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;有很多项目并未采用公开的版本控制仓库，这就导致其很难的参与和跟踪。&lt;/li&gt;
+&lt;li&gt;依然有很多项目是没有自动编译、自动构件和自动化测试的。&lt;/li&gt;
+&lt;li&gt;有很多项目是没有许可证的。&lt;/li&gt;
+&lt;li&gt;很多的开源开发者依然是没有安全的意识的。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;开源的人工智能:2057beede7710dcbc6a7016bea3aeaf1&#34;&gt;开源的人工智能&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://ostatic.com/blog/an-open-source-ai-onslaught&#34;&gt;An Open Source AI Onslaught&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;今天在北京南站候车室的一个小书店里看到一份杂志，我见过的买的最贵的杂志。主要是其页数不多。名称叫做《中欧商业评论》，和常见的《商业周刊》差不多的厚度，但是价格竟然高达80元人民币，是同类的8倍。于是我就翻了翻它的内容：7月份，赫然就是——人工智能的商业！结论下的很惊人，未来无AI，不商业！&lt;/p&gt;
+
+&lt;p&gt;无独有偶，对于人工智能从去年开始，就成为了IT大鳄们角逐的领域。其中，开源是他们各自的兵器谱。Google 率先以TensorFlow 首开先河，其它厂家接踵而至——Facebook、微软、IBM&amp;hellip;&amp;hellip;这场战争本土的公司只有看得份。那些个光是忙着敛钱而没有底线的、或者是圈地了零售市场的却以为自己是个圣人的大杂货铺的等等就不值一提了。&lt;/p&gt;
+
+&lt;p&gt;开源成为了各IT大鳄角逐标准和划分势力范围的工具，我想这是Raymand当年没有预料到的。AI的未来没有人质疑！但是就忘记本土吧。文化不随历史的车轮前行，终将会被湮灭。“师夷长技以制夷”，“中学为体，西学为用”，经过了150多年的证明，是行不通的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;photon-controller-现在开源了-这对于-vmware-环境及其性能监控意味着什么:2057beede7710dcbc6a7016bea3aeaf1&#34;&gt;Photon Controller 现在开源了：这对于 VMWare 环境及其性能监控意味着什么&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.opvizor.com/blog/photon-controller-now-open-source-means-vmware-environment-vmware-performance-monitoring/&#34;&gt;Photon Controller is Now Open Source: What This Means for Your VMware Environment &amp;amp; VMware Performance Monitoring&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我一般不会遴选这些开源软件的新闻或市场软文，今天的例外是着重思考一下VMWare对于开源的战略和策略。我们都知道VMWare的产品和开源有着非常密切的关系，他们将开源的利用发挥到极致！从Kernel到openssl、GNU 等工具，乃至收购等各种开源公司。今年早些时候，还想收购Linux基金会。&lt;/p&gt;
+
+&lt;p&gt;Docker 真的威胁到 VMWare了吗？或许火星人能够猜测得到。但是目前来说无论是IaaS平台、虚拟化Hypervisor、乃至容器Docker等都没有威胁到VMWare的江湖地位。这是一家在技术、营销、市场都是十分成功的公司！值得让人学习！尤其注意其在开源方面的动向！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(本文的想法来自于和一位业内人士的交流，他对VMware当年收购Spring的举动是异常的佩服。也引起了我的思考。)&lt;/p&gt;
+
+&lt;h3 id=&#34;八卦-android-操作系统著名发行公司cyanogen准备裁员了:2057beede7710dcbc6a7016bea3aeaf1&#34;&gt;八卦：Android 操作系统著名发行公司Cyanogen准备裁员了&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.geekwire.com/2016/report-android-os-maker-cyanogen-cuts-significant-amount-employees/&#34;&gt;Report: Android OS-maker Cyanogen cuts ‘significant’ amount of employees&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这条新闻纯粹是闲着无聊，蛋疼的结果。Android 离我其实很远！ 这个由Google主导的开源项目，对于我来说就是会给人们讲一些不要脱离开源去分支的反例而已。即它当年尝试fork 内核的举动。虽然我有很多疑问，但是没有兴趣去研究和调查。阿里能否利用300余人的研发力量，脱离Android？打造出自己的生态？小米未在开源发力，迷失在自己频繁的项目／产品／机型／当中，华为自己又该如何抉择？模仿三星？不得而知。&lt;/p&gt;
+
+&lt;p&gt;Cyanogen 改变了自己的商业模式，那是否又意味着Android在重新洗牌？中科创达这样的公司是否也该转型？能否突围？还是死于IoT？拭目以待！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.7.23)</title>
@@ -1023,54 +1100,6 @@
 &lt;li&gt;作为一家做OpenStack的创业公司的联合创始人，有着登山的爱好，登山为创业提供了什么？&lt;strong&gt;Rock climbing taught me how to persistently work on a hard problem, collaborate with partners to build strategy, motivate and help others and finally the satisfaction of conquering a challenge. All of these apply directly to startup life.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;要去关注的OpenStack 内容，如用户的案例、OpenStack项目指导、发行说明。无论什么，保持学习的状态！ 这是加入OpenStack重要条件之一。&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.5）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_5/</link>
-      <pubDate>Tue, 05 Jul 2016 06:39:08 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_5/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:8e60e24373e6450de1a3ed84fafbfc49&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;宝马和-intel-mobileye-组合开发开源自主技术:8e60e24373e6450de1a3ed84fafbfc49&#34;&gt;宝马和 Intel、Mobileye 组合开发开源自主技术&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.carsguide.com.au/car-news/bmw-teams-with-intel-and-mobileye-for-open-source-autonomous-tech-42966&#34;&gt;BMW teams with Intel and Mobileye for open-source autonomous tech&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;汽车领域里要数开源的话，莫过于特斯拉，那么后来者也看到了这其中的奥秘。看看宝马吧，如果苹果、Google 加入这个阵营的话，他们确实不好受，开源是他们加速发展的不二之选。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://thevarguy.com/site-files/thevarguy.com/files/imagecache/galleryformatter_slide_penton/gallery_images/b.png?1467301923&#34; alt=&#34;openstack&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;1989年以来-linux-和开源的崛起大事件:8e60e24373e6450de1a3ed84fafbfc49&#34;&gt;1989年以来 Linux 和开源的崛起大事件&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/growth-linux-and-open-source-channel-1989#slide-2-field_images-96101&#34;&gt;The Growth of the Linux and Open Source Channel since 1989&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;再广播一次，文章的作者写了一本书，叫做开源的历史！本文是某些大事件的摘录，每个事件配一张具有纪念意义的图。比如第一家提供开源技术的商业公司Cygnus、1994年红帽创立、1999年红帽IPO、2007安卓诞生、2010 OpenStack诞生、2014年微软宣称自己热爱Linux。。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;红帽-codenvy-和微软组合-只为打造更牛的ide:8e60e24373e6450de1a3ed84fafbfc49&#34;&gt;红帽、Codenvy、和微软组合，只为打造更牛的IDE&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.developer-tech.com/news/2016/jul/04/red-hat-codenvy-and-microsoft-team-greater-language-integration/&#34;&gt;Red Hat, Codenvy and Microsoft team up for greater language integration&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Eclipse Che，从来没有听说过，Codenvy 也没有。究竟怎么整合也什么都没有透露。非常无聊的话题。请忽略。&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
