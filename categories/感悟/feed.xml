@@ -7,8 +7,227 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 Jul 2016 07:55:35 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jul 2016 06:42:52 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>the_evil_of_human_nature</title>
+      <link>http://lijiangsheng1.github.io/posts/entrepreneur/the_evil_of_human_nature/</link>
+      <pubDate>Thu, 28 Jul 2016 06:42:52 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/the_evil_of_human_nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.7.28)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_28/</link>
+      <pubDate>Thu, 28 Jul 2016 06:30:53 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_28/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:6213a4d06729e196e1c12525a678f770&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/10/store-front-night_129860898494412686-100624008-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;沃尔玛是如何使用-github-来实现-innersource-的:6213a4d06729e196e1c12525a678f770&#34;&gt;沃尔玛是如何使用 GitHub 来实现“innersource”的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3101224/open-source-tools/how-wal-mart-enables-innersource-with-github.html&#34;&gt;How Wal-Mart enables &amp;lsquo;innersource&amp;rsquo; with Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;InnerSource 可能对于保守的、规模较大的公司的一个方向，看到了开源的力量和成功，但是对于知识产权、文化难以改变。那么InnerSource不啻为一种很好的折衷的方法！而这尤其是在中国可能会流行起来，华为现在看起来采用的就是这种策略。（乐视没有雇佣我，是多么大的战略失误？）&lt;/p&gt;
+
+&lt;p&gt;从本文中，可以得到如下一些信息：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;在 OSCON 举行的&lt;a href=&#34;http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/49356?intcmp=il-prog-confreg-update-ostx16_new_site_innersourcing_text_cta&#34;&gt;innersource&lt;/a&gt;是被人记忆的！&lt;/li&gt;
+&lt;li&gt;Jeremy King 现任的沃尔玛CTO，来自于eBay。这也印证我一向以为的，所有的事情，最后都能归结到某个个人的行为和思想！（被环境所迫，不过是借口罢了。比如我最近想要写的文章：&lt;a href=&#34;http://lijiangsheng1.github.io/posts/entrepreneur/the_evil_of_human_nature&#34;&gt;那些人性中的恶&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;King非常的坦诚，也介绍了采用Innersource的一些问题。比如想借用社区的外部力量。&lt;/li&gt;
+&lt;li&gt;沃尔玛对于IT／工程师的追求，认为开源是一个非常好的策略。并承认这一点。&lt;/li&gt;
+&lt;li&gt;Innersource 好处有很多，其中最大的好处是帮助大公司减少官僚主义！ 这是所有大公司的通病！也是人类社会难以根除的“疾病”。只有开放是良方！&lt;/li&gt;
+&lt;li&gt;沃尔玛有1000多号工程师，采用DevOps，并大胆采用OpenStack，并拥有自己的开源项目OneOps。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;techfar-hub-的目标是澄清诸如-敏捷-开源-之类的疑惑:6213a4d06729e196e1c12525a678f770&#34;&gt;TechFAR Hub 的目标是澄清诸如“敏捷”、“开源”之类的疑惑&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.nextgov.com/cio-briefing/2016/07/new-procurement-hub-aims-clear-buzzwords-agile-and-open-source/130240/&#34;&gt;TECHFAR HUB AIMS TO CLEAR UP BUZZWORDS LIKE &amp;lsquo;AGILE&amp;rsquo; AND &amp;lsquo;OPEN SOURCE&amp;rsquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一则新闻，权当是过眼烟云，但是似乎又有什么地方可以借鉴。这是美国的联邦采用监管做的事情。也就是说随着云计算的来临，政府采用的一些服务，或者是开源软件／服务，需要一些指导，于是创建了&lt;a href=&#34;https://techfarhub.cio.gov/&#34;&gt;TechFAR Hub&lt;/a&gt;，意图给政府采购部门以指导。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;As terms like agile development, software as a service, and open source software are becoming increasingly common in government&lt;/strong&gt; 本土可能要远一些，需要更多的是时间，更加多见的是将开源包装成民粹主义来进行。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;皮克斯开源普遍场景描述工具:6213a4d06729e196e1c12525a678f770&#34;&gt;皮克斯开源普遍场景描述工具&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.studiodaily.com/2016/07/pixar-open-sources-universal-scene-description/&#34;&gt;Pixar Open-Sources Universal Scene Description&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;电影制作也在流行开源！？值得观察的一个现象。艺术通常偏无政府主义。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/osdc-community-metrics-playbook-column.png?itok=GndjEPlo&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;为什么你应该避免那些虚假的指标和衡量:6213a4d06729e196e1c12525a678f770&#34;&gt;为什么你应该避免那些虚假的指标和衡量？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/7/measuring-what-matters&#34;&gt;Why you should avoid vanity metrics and measure what matters&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;个人对于本文有以下几点信息：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;作者的背景值得关注，也是我所向往的布道师（evangelist）！&lt;/li&gt;
+&lt;li&gt;关于社区，可能是和市场有一些关联。所有被很多人所关注。但是能否做到不被一些信息所蒙蔽？&lt;/li&gt;
+&lt;li&gt;这是一个专栏，会有持续的文章进来。作者说到：&lt;strong&gt;I&amp;rsquo;m going to take you on a journey into the treacherous yet rewarding world of community metrics. I&amp;rsquo;ll explore existing research, available tools, case studies (good and bad), and ultimately use what I&amp;rsquo;ve learned to develop a playbook for you to reference when creating (or improving) your own community metrics.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道（2016.7.27）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_27/</link>
+      <pubDate>Wed, 27 Jul 2016 06:30:01 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_27/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;互联网真的是自由和开源的信息来源吗:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;互联网真的是自由和开源的信息来源吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://brandequity.economictimes.indiatimes.com/news/digital/is-the-internet-really-a-free-and-open-source-of-information/53395858&#34;&gt;Is the internet really a free and open source of information?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，很少看到有国人去反思这些，国人还没有享受完成互联网带来的便利。对于信息的获取是有选择的。不然报禁也不可能嚣张这么久。&lt;/p&gt;
+
+&lt;p&gt;本土的文化是这些个反思无法想象的。比如微信上的传谣，微信这个巨无霸，俨然成为信息的掌控者，在微信中，是没有超链接这一说的。这是互联网的根本。但是并不耽误人们的使用和传播信息。我们是该担心这个，可是环顾一下四周，又有谁在乎了呢？这是非常让人困苦的事情。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源和云计算:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;开源和云计算&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://federalnewsradio.com/federal-tech-talk/2016/07/open-source-cloud-computing/&#34;&gt;Open source &amp;amp; cloud computing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文是典型的标题党，我就是被这个题目所吸引的。其实是一篇宣传会议的软文：&lt;a href=&#34;http://devnationfederal.org/&#34;&gt;DevNationFederal&lt;/a&gt;，看起来像是和政府有某种联系。红帽和微软的联姻等等。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/OSDC_EDU_UndergradOpensource_520x292_8882947_0212CS.png?itok=v0Lwgi-U&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开放将是21世纪改进教育的良方:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;开放将是21世纪改进教育的良方&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/education/16/7/open-solution-improving-21st-century-education&#34;&gt;Open is the solution to improving 21st century education&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，不错，是绝佳的良方！不过，作者说的是美国的教育，距离我们的本土是非常遥远的事情。本土的教育是被牢牢控制的，想上开源软件教学？给学生们“root access”？嗯，你得先说服教育部长！自上而下的推行，否则，就只有被干掉的份。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blogs-images.forbes.com/moorinsights/files/2016/07/Open.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;沃尔玛用实际证明了开源是笔大买卖:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;沃尔玛用实际证明了开源是笔大买卖&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/moorinsights/2016/07/26/wal-mart-proves-open-source-is-big-business/#47fb006318ee&#34;&gt;Wal-Mart Proves Open Source Is Big Business&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;又是财富的分析文章，绝对的精彩和通俗易懂。我本人从文章获得如下信息和感悟：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;沃尔玛竟然有自己的开源项目，还是应用程序生命周期管理：&lt;a href=&#34;http://www.oneops.com/index.html&#34;&gt;OneOps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;在第二段交代背景的过程中谈到：开源已经是主流，使用软件的地方都会有开源软件。&lt;/li&gt;
+&lt;li&gt;CORD (central offices re-architected as datacenters) 这个项目我并没有在意，因为我今早是读过的，因为有Google的参与。SDN／NFV 到底走向何方？我很茫然。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;But just creating an open source project or turning your existing project over as open source is not a guarantee of success.&lt;/strong&gt; 这话我得对世人呼叫多少遍？&lt;/li&gt;
+&lt;li&gt;目前对开源体现在人才方面已经有所变化了，过去就得去Amazon、Google、Facebook，现在可以去沃尔玛、通用电气了。因为在这里也是受到尊重的。&lt;/li&gt;
+&lt;li&gt;文章的最后是最为精彩的部分：开源为企业带来更大的灵活性、以及加速进入市场，不再仅仅是为了IT而IT了。但是开源仅仅是个开始，参与、回馈开源社区是必要的。&lt;strong&gt;It elevates the company’s image and helps to attract more talented recruits.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.7.26)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_26/</link>
+      <pubDate>Tue, 26 Jul 2016 12:07:29 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_26/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:4df3ce8cb8575690603845f24e7d4348&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;apache-kudu-是开源大数据项目新晋的apache顶级项目:4df3ce8cb8575690603845f24e7d4348&#34;&gt;Apache Kudu 是开源大数据项目新晋的Apache顶级项目&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://ostatic.com/blog/apache-kudu-is-the-latest-open-source-big-data-project-to-reach-top-level-status&#34;&gt;Apache Kudu is the Latest Open Source Big Data Project to Reach Top-Level Status&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;###&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;原文链接：[]()&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;###&lt;/p&gt;
+
+&lt;p&gt;原文链接：[]()&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;###&lt;/p&gt;
+
+&lt;p&gt;原文链接：[]()&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;###&lt;/p&gt;
+
+&lt;p&gt;原文链接：[]()&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.7.25)</title>
@@ -813,277 +1032,6 @@
 &lt;p&gt;这是一篇较晦涩的技术文章，我不想让很多不熟悉OpenStack、Fuel、Linux的人去阅读。只想要说明的是：开源必须拥抱开放，兼容并包尽可能多的，哪怕对方是你的竞争对手。你必须使用用户的视野去观察这件事。OpenStack 提供私有云解决方案的市场竞争的异常激烈，尤其是在中国，但是国内的所有厂商都在自己的裤裆里自娱自乐，生态、用户、最终消费者根本就不在它们的眼中。但是他们都渴望活下去！在不懂人才、将开源视为独角兽的尖端技术来欺骗自己、没有生态的概念、没有服务的意识、下意识的迎合不知为何物的客户，如何活下去？拭目以待！ 当年 Linux 厂商消失的过程马上就要重现！&lt;/p&gt;
 
 &lt;p&gt;&lt;del&gt;吐槽模式关闭，在本周即将举办的畸形的OpenStack China Day会上，我并没有以一个批判者的身份出现，因为他们拒绝了我！&lt;/del&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.7.10）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_10/</link>
-      <pubDate>Sun, 10 Jul 2016 06:49:35 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_10/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:501fe9efa2b4c036693195475aa92f00&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;sd-times-新闻集锦-2016年7月8号:501fe9efa2b4c036693195475aa92f00&#34;&gt;SD Times 新闻集锦：2016年7月8号&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/cisco-puts-pnda-github-android-nougat-changes-cas-rust-1-10-released-sd-times-news-digest-july-8-2016/&#34;&gt;SD Times news digest: July 8, 2016&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;吐槽模式开启。其实每天我都懒得去看这样的文章，中文的开源中国、InfoQ中国一般都会报道，比如微软开源了它旗下的人工智能平台、FaceBook开源了无线平台，&amp;hellip;&amp;hellip;等等，每天都有很多项目在开源，让人眼花缭乱！这是一个开源的时代，项目开源是默认选项！&lt;/p&gt;
-
-&lt;p&gt;当某种行为称为一种常态的时候，人们的眼光和关注点，将会转移到具体的细节部分。比如开源的纯粹度？是否是伪开源？除了代码之外，如设计、文档、流程等是否开源？团队的透明度如何？交流方式？等等成为了人们关注的对象。人们会更加的注重质量！&lt;/p&gt;
-
-&lt;p&gt;所以开源之道，将会成燎原之势。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_incentives.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;以文化吸引人才的简要指南:501fe9efa2b4c036693195475aa92f00&#34;&gt;以文化吸引人才的简要指南&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/6/hiring-open-organization-culture&#34;&gt;A brief guide to hiring with culture in mind&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开放、透明、协作、快节奏、变化频繁&amp;hellip;&amp;hellip; ，亲爱的读者，你可以利用几个词来形容一下你所在公司的文化吗？先暂时抛开开源，纵观所有成功的公司，人才是其一个重要的必要条件。失败的公司可能有各种各样的原因，但是人的缺失恐怕要排列到前三甲！话说“重赏之下、必有勇夫。”但是在没有钱的情况下，还想考虑凝聚力、战斗力、高效的运作。文化招聘乃重要的方法论之一。&lt;del&gt;从我个人来讲，文化本身是非常吸引我的一个主题&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;本文我会翻译，请关注我的人稍等几日。另外本文可以读出的信息有下面几点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;opensource.com 上的开源之道总结：&lt;a href=&#34;https://opensource.com/open-source-way&#34;&gt;Open Source Way&lt;/a&gt; 我的布道来源。&lt;/li&gt;
-&lt;li&gt;文化始终是一件高逼格的事情，比如作者所举的例子，是福布斯的作者的观点：&lt;a href=&#34;http://www.forbes.com/sites/danschawbel/2016/02/02/adam-grant-why-you-shouldnt-hire-for-cultural-fit/#752fd4b456f5&#34;&gt;Adam Grant的采访&lt;/a&gt;。&lt;/li&gt;
-&lt;li&gt;作者并非是红帽主管人力的，而是一名开源布道师和社区经理。嗯，这是我理想中的职位，可惜在国内一般公司是不会设置这个岗位的，包括标榜开源的公司！&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.9）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_9/</link>
-      <pubDate>Sat, 09 Jul 2016 22:38:41 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_9/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:635562ad07ef3ffdf9f5c7135473ce74&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/beginners_open_source_lead.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;8个进入开源世界的妙法:635562ad07ef3ffdf9f5c7135473ce74&#34;&gt;8个进入开源世界的妙法&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/7/8-ways-get-started-open-source&#34;&gt;8 ways to get started in open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我读此文的时候，似曾相识的感觉。于是翻了翻自己在blogspot上的博客，果不其然，找到这篇译文：&lt;a href=&#34;http://iaaslee.blogspot.jp/2016/01/blog-post_18.html?view=magazine&#34;&gt;作为学生如何起步为开源软件做贡献&lt;/a&gt; 。&lt;/p&gt;
-
-&lt;p&gt;本土是严重缺乏这样的入门的土壤的，即使是国际化视野，最起码有超过3个站点无法通过正常的渠道参与。可是我思考而实践着，始终没有参透！仍然在积极努力的探索着。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;采用开源技术的6点提示:635562ad07ef3ffdf9f5c7135473ce74&#34;&gt;采用开源技术的6点提示&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itbusinessedge.com/slideshows/6-tips-for-leveraging-open-source-technology-02.html&#34;&gt;6 Tips for Leveraging Open Source Technology&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;IBM 大数据市场的软文，似乎想告诉记者和客户，IBM 仍然尾大不掉，我们还没有被彻底搞垮。不过本文首先要关注的是其数据：超过3千5百万个GitHub仓库，Hadoop的相关代码有1,961,460行，以及几千个Apache Spark 贡献者。后面的几个开源项目就多见不怪了。开源的力量没有谁能够对抗得了。&lt;/p&gt;
-
-&lt;p&gt;且看IBM的大数据副总裁对开源有何高见：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;构建长远的贡献策略。&lt;/li&gt;
-&lt;li&gt;你自己要熟悉开源社区的规矩。&lt;/li&gt;
-&lt;li&gt;注重质量而不是数量。&lt;/li&gt;
-&lt;li&gt;致力于教育。（&lt;strong&gt;Learning is a pillar of the open source ecosystem.&lt;/strong&gt;）&lt;/li&gt;
-&lt;li&gt;不要害怕自己会更多的依赖于合作伙伴和友商。&lt;/li&gt;
-&lt;li&gt;Emphasize Authenticity and Empathy&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;这些建议值得所有在中国大陆地区那些搞开源的公司高管吸取的！&lt;/p&gt;
-
-&lt;h3 id=&#34;google-bigquery-现在可以查询所有的github上的开源项目了:635562ad07ef3ffdf9f5c7135473ce74&#34;&gt;Google BigQuery 现在可以查询所有的GitHub上的开源项目了&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.infoq.com/news/2016/07/google-github-bigquery&#34;&gt;Google BigQuery Now Allows to Query All Open-Source Projects on GitHub&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://cloud.google.com/bigquery/public-data/&#34;&gt;Google 的公开 BigQuery&lt;/a&gt;已有的 DataSet 有 美国人的姓名、Hacker News的故事及其评论、1029年到2016年的全部气候数据。现在又提供了GitHub上代码的查询，这个看下Google工程师搞定例子就知道多么的有意思了：&lt;a href=&#34;https://medium.com/@hoffa/2a9640056022&#34;&gt;Java 中什么模块是被最多import的&lt;/a&gt;、&lt;a href=&#34;https://kozikow.wordpress.com/2016/07/01/top-angular-directives-on-github/&#34;&gt;angular 的最高directives&lt;/a&gt;、&lt;a href=&#34;https://kozikow.wordpress.com/2016/06/29/top-emacs-packages-used-in-github-repos/&#34;&gt;Emacs 被使用最多的包&lt;/a&gt;等等。&lt;/p&gt;
-
-&lt;p&gt;还是忍不住会吐槽，所有的这些服务都不能通过正常的互联网访问到！要感谢伟大的GFW所赐！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;32位的linux正在消失-这对这个产业意味着什么:635562ad07ef3ffdf9f5c7135473ce74&#34;&gt;32位的Linux正在消失：这对这个产业意味着什么？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/32-bit-linux-disappearing-what-it-means-channel&#34;&gt;32-bit Linux is Disappearing: What It Means for the Channel&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://thevarguy.com/author/christopher-tozzi&#34;&gt;Christopher Tozzi&lt;/a&gt;的文章，总是和绝大多数的文章不同。他是一名历史学家，看到的内容，和我们从事于软件编码的开源人士们有着非常大的观点差异。他切入的视野不带有任何的技术偏见。仅仅就事情做一称述而已！&lt;/p&gt;
-
-&lt;p&gt;谈谈我的观点，32位已经成为历史！现代的社会变革、人们生活方式的变化，导致IT产业背后的支撑——CPU需要更近一步强劲的能力。这得联想到移动时代的来临、云计算平台的崛起、大数据的快速需求、IoT的无处不在。。所以若将技术仍然停留在纠结X86架构的32位的话，那显然是往后看，在固步自封，在沉溺于自己的过去而不可自拔，那样的Linux可能就只能在十几年后，翻看历史书了！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.8)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_8/</link>
-      <pubDate>Fri, 08 Jul 2016 06:40:27 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_8/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:ba67d226e3569670f1cc1743c43dd81b&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;nike-发布了几款开源软件-认真的玩起了技术:ba67d226e3569670f1cc1743c43dd81b&#34;&gt;Nike 发布了几款开源软件，认真的玩起了技术&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/07/06/nike-releases-open-source-software-to-play-with-the-techies/&#34;&gt;Nike releases open-source software to play with the techies&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;移动互联网的时代，没有哪家公司没有自己的应用的，比如传统的零售商：沃尔玛、百思买、塔吉特等等。&lt;/p&gt;
-
-&lt;p&gt;为什么要开源了呢？为了招徕人才？还是期望更多的技术关注？还是被类似《Open organization》这样的书籍洗脑了？都不是，答案是这是一个开源的时代！做封闭的软件实在是无聊。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;linux-基金会又增新成员:ba67d226e3569670f1cc1743c43dd81b&#34;&gt;Linux 基金会又增新成员&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/linux-foundation-welcomes-open-source-experts-security-cloud-mobile-technologies-2140607.htm&#34;&gt;The Linux Foundation Welcomes Open Source Experts in Security, Cloud and Mobile Technologies&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这么一篇文章，对于我个人来说最大的关注度莫过于，一家我较熟悉的公司加入了 Linux 基金会，中科创达——英文叫ThunderSoft，CEO 是耿增强（我们一般称Larry）。做的事风生水起！看看Larry说的话吧：&lt;strong&gt;“We believe that open source paves the way to interoperability and innovation for consumers and end users. The Linux Foundation hosts open source projects spanning IoT to cloud-based technologies, which will allow us to participate in the global open source ecosystem,”&lt;/strong&gt; 红旗出来能够意识到开源生态系统、并放眼全球的人不多！ 至于其公司介绍就不用看了。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;sandisk-开源策略官-nithya-ruff-专访-企业中的女性:ba67d226e3569670f1cc1743c43dd81b&#34;&gt;SanDisk 开源策略官：Nithya Ruff 专访 —— 企业中的女性&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.huffingtonpost.com/laura-dunn/women-in-business-qa-nith_b_10861324.html&#34;&gt;Women in Business Q&amp;amp;A: Nithya Ruff, Director Open Source Strategy, SanDisk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;就看她那段关于在 SanDisk 的开源策略就可以了。开源的创新和协作才是重点。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/OSDC_bees_network.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;在软件定义的未来管理网络:ba67d226e3569670f1cc1743c43dd81b&#34;&gt;在软件定义的未来管理网络&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/7/managing-networks-software-defined-future&#34;&gt;Managing networks in a software-defined future&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;SDN、OpenDayLighit、Neutron，是我最近两周听到的最为频繁的词汇了。我甚至都有了翻译 &lt;a href=&#34;http://docs.openstack.org/mitaka/networking-guide/intro-network-namespaces.html&#34;&gt;OpenStack  Networking&lt;/a&gt; 的冲动，此文无疑能够解决一些历史的因素，至少它提到为何会出现SDN，在SDN之前人们是怎么管理网络的、使用的协议是什么？NMS、SNMP等，以及为什么需要将网络设备当成“牛群”而不是宠物。时代在变、顺势而为！NMS管理的5个范围：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;错误&lt;/li&gt;
-&lt;li&gt;配置&lt;/li&gt;
-&lt;li&gt;账号&lt;/li&gt;
-&lt;li&gt;性能&lt;/li&gt;
-&lt;li&gt;安全&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;linuxcon-会议深挖开源-容器和虚拟化:ba67d226e3569670f1cc1743c43dd81b&#34;&gt;LinuxCon 会议深挖开源、容器和虚拟化&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://appdevelopermagazine.com/4146/2016/7/7/LinuxCon-Conference-Delves-Deep-into-Open-Source,-Containers-and-Virtualization/&#34;&gt;LinuxCon Conference Delves Deep into Open Source, Containers and Virtualization&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;LinuxCon、OSCon 快成了我的心病了，对比国内的低质量的会议，真的都想自己杀进这片领域。事情不是这么做的。我心里默数了一遍国内的和开源沾边的会议。&lt;/p&gt;
-
-&lt;p&gt;LinuxCon 还有一起合作的子会议：KVM Forum、Xen开发者summit、Linux 安全 summit、CloudNativeDay、开源存储Summit、ContainerCon。超过100个演讲议题。 Linux改变了世界：正如文中所提到的会议的主要目的：&lt;strong&gt;offering the opportunity for developers, sys admins, architects and all types and levels of technical talent to gather together at one event for education, collaboration and problem-solving for the Linux platform.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.7）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_7/</link>
-      <pubDate>Thu, 07 Jul 2016 06:28:13 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_7/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:df619ce79e6de48c069487252a51f71e&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;enterprisedb-ceo-将在联合国开源创新促进会的数据库camp上作演讲:df619ce79e6de48c069487252a51f71e&#34;&gt;EnterpriseDB CEO 将在联合国开源创新促进会的数据库Camp上作演讲&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.prnewswire.com/news-releases/enterprisedb-ceo-ed-boyajian-to-present-at-united-nations-open-source-innovation-initiative-database-camp-300294496.html&#34;&gt;EnterpriseDB CEO Ed Boyajian to Present at United Nations Open Source Innovation Initiative Database Camp&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这篇文章更像是 EnterpriseDB 借以宣传自己的软文。但是仍然可以得到一些我原先不知道的信息。&lt;/p&gt;
-
-&lt;p&gt;联合国竟然有个&lt;a href=&#34;https://unite.un.org/opensource&#34;&gt;开源创新促进会&lt;/a&gt;！而且还举办会议——&lt;a href=&#34;http://opencamps.org/&#34;&gt;Open Camp&lt;/a&gt;；另外一个信息就是此位CEO的演讲题目&lt;strong&gt;&amp;ldquo;How To Create Business Advantage Using Postgres Ecosystems&amp;rdquo;&lt;/strong&gt; 这似乎是开源商业公司的必备利器——生态！开源的商业模式似乎印证了南非的那句谚语：&lt;strong&gt;&amp;ldquo;想要走的快，请独自前行；想要走的远，请结伴而行。&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;红帽-ceo建议企业若要想雇佣优秀的it人才-那么请允许他们在开源做贡献:df619ce79e6de48c069487252a51f71e&#34;&gt;红帽 CEO建议企业若要想雇佣优秀的IT人才，那么请允许他们在开源做贡献&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/enterprise-it/software/red-hat-ceo-avoiding-bloody-noses-hammering-home-open-source-participation-and-why-microsoft-is-trying-to-stay-relevant-4941736&#34;&gt;Red Hat CEO: Avoiding bloody noses, hammering home open source participation, and why Microsoft is trying to stay relevant&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;红帽现在已经开始玩情怀了。建议企业允许参与到上有社区的开发当中，这对于我来说是个多么深的坎，不论是云端，还是易云，乃至普华，我都不遗余力的去说服老板，但是民间秘方文化对他们影响至深，难以撼动。现在有些公司似乎慢慢开始醒悟了，比如OpenStack社区的造势，可以帮助一些厂商在市场上做一些活动。但本土的几家公司，现在仍处于视为面子工程！更加注重于&amp;rdquo;深度定制&amp;rdquo;和”自主研发&amp;rdquo;。更不用提那些个企业，如银行之类的地方，布道之路任重而道远！&lt;/p&gt;
-
-&lt;p&gt;Linux 已经是IT创新的基石：无论是大数据还是容器，更不用提IaaS，其基础均是Linux！这句话较好：&lt;strong&gt;Red Hat is asking users to adopt the mindset and not just the technology with the hope of making open source the default method of development in the future.&lt;/strong&gt; 我也期望人们早一点醒悟过来。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;facebook-透漏了其开源无线平台-opencellular:df619ce79e6de48c069487252a51f71e&#34;&gt;Facebook 透漏了其开源无线平台——OpenCellular&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.engadget.com/2016/07/06/facebook-opencellular-internet-access-remote/&#34;&gt;Facebook reveals open-source wireless platform, OpenCellular&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;看完这篇文章，我只想对小编说，你伤害了中国人民的感情，你将我们视为什么？我们也是无法浏览Facebook的一群人。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/OPENHERE_purple.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;为什么说对象存储正在吞噬世界:df619ce79e6de48c069487252a51f71e&#34;&gt;为什么说对象存储正在吞噬世界&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/7/object-storage&#34;&gt;Why object storage is eating the world&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;随着世界的发展，无论是技术还是人文，都在生产巨大的非结构化数据。那么传统上的文件系统和数据库就难以满足日益增长的需求。对象存储恰逢其时。并给出了开源的解决方案的例子，分别是：Ceph、Minio、OpenStack Swift。&lt;/p&gt;
-
-&lt;p&gt;此软文写的深藏不露！Minio究竟是什么？Go语言编写又如何？让我想起了七牛云存储。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
