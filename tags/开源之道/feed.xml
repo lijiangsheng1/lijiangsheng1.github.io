@@ -7,8 +7,74 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 30 Jul 2016 08:10:15 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jul 2016 06:30:59 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道（2016.7.31）</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_31/</link>
+      <pubDate>Sun, 31 Jul 2016 06:30:59 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_31/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:42227ff422ad8d3b46442c858072a9cd&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;powershell-将会是下一款微软开源的项目:42227ff422ad8d3b46442c858072a9cd&#34;&gt;PowerShell 将会是下一款微软开源的项目&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.winbeta.org/news/microsoft-appears-open-sourcing-powershell&#34;&gt;Microsoft appears to be open sourcing PowerShell&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是微软的市场部门在试水嘛？看看大家的反应如何再做决定？还是真的是内部有人提前透露出来的？不得而知。但是我们可以看到微软对待开源的战略。&lt;/p&gt;
+
+&lt;p&gt;PowerShell 是微软服务器上的一款命令行工具，仅局限在Windows服务器。&lt;/p&gt;
+
+&lt;p&gt;开源绝非是将代码开放出来就了事的。你真的需要发自内心的投入！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.bidnessetc.com/img/960-red-hat-rht-capitalize-hybrid-cloud-source-trends-credi.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;瑞士信贷-红帽在其开源的趋势上将会投入更多的混合云:42227ff422ad8d3b46442c858072a9cd&#34;&gt;瑞士信贷：红帽在其开源的趋势上将会投入更多的混合云&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.bidnessetc.com/71849-red-hat-rht-capitalize-hybrid-cloud-source-trends-credi/&#34;&gt;Red Hat Inc (RHT) to Capitalize More on Hybrid Cloud, Open Source Trends: Credit Suisse&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;红帽已经向世人证明了其商业上的成功。这句话是没有人质疑的：&lt;strong&gt;Linux Becomes the Foundation for Next-Generation Infrastructure&lt;/strong&gt;。红帽是一家上市公司，有继续为股东盈利的需求，也需要寻找其它的增长点。容器？云平台？分布式存储？部署工具DevOps？PaaS托管？对应项目：Atomic、OpenStack、Ceph、Ansible、OpenShift。红帽将会持续的发力。&lt;/p&gt;
+
+&lt;p&gt;拭目以待吧，其在中国做的是一塌糊涂，无论是人才招聘，还是技术储备，还是商业策略。若你有太多的妥协和卑躬屈膝，你觉得会有人向你买单？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;apple-开始逐步废弃-swift-3-计划推出-swift-4:42227ff422ad8d3b46442c858072a9cd&#34;&gt;Apple 开始逐步废弃 Swift 3，计划推出 Swift 4&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://arstechnica.com/apple/2016/07/apple-begins-wrapping-up-swift-3-and-lays-out-plans-for-swift-4/&#34;&gt;Apple begins wrapping up Swift 3 and lays out plans for Swift 4&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我读这篇文章唯一的理由就是这句话：&lt;strong&gt;The language is open source, but Apple is still in the driver&amp;rsquo;s seat.&lt;/strong&gt; 这本来就是一个奇怪的组合。所以，我今天大胆的预言下，这么玩下去，Swift 依旧会是自家独自偷欢的项目。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;linux-作为windows和mac的替代的利器-自由-安全-易用:42227ff422ad8d3b46442c858072a9cd&#34;&gt;Linux 作为Windows和Mac的替代的利器——自由、安全、易用&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://technology.inquirer.net/50254/linux-operating-system-personal-computer-software&#34;&gt;Free, secure, easy — Linux as an alternative to Windows and Mac&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;看这个视频：&lt;a href=&#34;https://youtu.be/aicd_Yk_37k&#34;&gt;inquirer.net&lt;/a&gt;，Linux 在桌面上依然需要更多的宣传。更多的去为学生们布道！并以就业和未来蓝图的描绘为契机，去劝说更多的人加入进来。&lt;/p&gt;
+
+&lt;p&gt;每个人对于世界的了解方式和思维方式是不同的。导致了世界的分歧！但正是多元的世界，铸就了美好！当Linux成为一种默认的技能时，接下来该如何处理？世界变化非常的快！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.7.30)</title>
@@ -978,86 +1044,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;文中最后还指出：&lt;strong&gt;hat means much more openness—not just for leaders, but for everyone.&lt;/strong&gt; 我不由的想到了我自己的遭遇。但我依然对开放式的团队充满向望，并继续寻找志同道合的人！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.12)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_12/</link>
-      <pubDate>Tue, 12 Jul 2016 06:15:45 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_12/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:4b321ff18614311139a032702498a07d&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;开源能够帮助罗马尼亚消除盗版吗:4b321ff18614311139a032702498a07d&#34;&gt;开源能够帮助罗马尼亚消除盗版吗？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerweekly.com/blog/Open-Source-Insider/Could-open-source-help-kill-piracy-in-Romania&#34;&gt;Could open source help kill piracy in Romania?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一个严肃的问题，我无法去想象罗马尼亚，但是我深刻的感受过本土的情况。正如文中所指出的，开源并不意味着免费，学习的曲线以及培训所花费的时间等，无疑于人们依然倾向于使用盗版。盗版是一个政治和文化的问题，没有那么简单。人性都是倾向于省事、不需要思考和活动的，必须通过道德的、文化的、法律的去进行。盗版是一把双刃剑，会扼杀人们的创造力？还是让落后的人类获得被人封锁的知识？我不知道其它地方，但是本土所进行的文化大革命和盗版，导致知识的贬值和创新的匮乏。&lt;/p&gt;
-
-&lt;p&gt;开源并不能消除盗版，只会助长其更加嚣张的气焰。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;2016年最酷的10款开源产品:4b321ff18614311139a032702498a07d&#34;&gt;2016年最酷的10款开源产品&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.crn.com/slide-shows/applications-os/300081297/the-10-coolest-open-source-products-of-2016-so-far.htm&#34;&gt;The 10 Coolest Open-Source Products Of 2016 (So Far)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;如果说红帽的CEO jim 说的是对的话：参与的力量！ 开源无疑已经是站在了世界的中心和前沿。我们就来看看这10款软件分别是什么，涉及的领域之广。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Ceph (这也是我下半年要积极掌握的技术。)&lt;/li&gt;
-&lt;li&gt;Couchbase Server 4.5（NoSQL 那么多，为何是它？可惜我没时间调研，希望不是给钱的结果。）&lt;/li&gt;
-&lt;li&gt;Cumulus Linux 3.0 网络操作系统，比如HPE 的OpenSwitch。&lt;/li&gt;
-&lt;li&gt;Docker 这个也需要说？红透了半边天。&lt;/li&gt;
-&lt;li&gt;Habitat (Chef) 那么ansible、puppet往哪里放？&lt;/li&gt;
-&lt;li&gt;Mautic 市场营销软件。&lt;/li&gt;
-&lt;li&gt;Security Checker (Black Duck) 开源的安全，绝对是未来的趋势。&lt;/li&gt;
-&lt;li&gt;Splice Machine 大数据相关&lt;/li&gt;
-&lt;li&gt;TensorFlow (Google) 人工智能的王者&lt;/li&gt;
-&lt;li&gt;Xamarin (Microsoft) 移动开发&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;好吧，反思下自己是否已经落伍？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/mentoring.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Soft skills, such as mentoring, teamwork, and problem solving, are important for career success.&lt;/p&gt;
-
-&lt;h3 id=&#34;职业生涯中千万不能忽视的软实力:4b321ff18614311139a032702498a07d&#34;&gt;职业生涯中千万不能忽视的软实力&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/never-discount-soft-skills-career-building-0&#34;&gt;Never Discount the Soft Skills for Career Building&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;想成为真正的开源专家？光拼技术是不可以的，还得注意这些软实力的培养，它们分别是：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;沟通&lt;/li&gt;
-&lt;li&gt;团队协作&lt;/li&gt;
-&lt;li&gt;指导他人&lt;/li&gt;
-&lt;li&gt;问题解决高手&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;但是，技术仍然是核心，这些软实力平时注意一些就可以了。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
