@@ -7,8 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 31 Jul 2016 06:30:59 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2016 06:54:20 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.1)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.1%29/</link>
+      <pubDate>Mon, 01 Aug 2016 06:54:20 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.1%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:3138cb7671fc646b54d4524f4758a618&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/05/facebookfeatured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;facebook-新的项目孵化预示着开源的未来:3138cb7671fc646b54d4524f4758a618&#34;&gt;Facebook 新的项目孵化预示着开源的未来&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thenextweb.com/dd/2016/07/31/facebook-incubator/#gref&#34;&gt;Facebook’s new Incubator may show us how open source should work&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;大公司为何青睐开源？在各大公司均在开源发力的时候，又该如何保持竞争力？什么时候开源？哪个项目该开源？开源之后的后续工作该如何进行？工作方式是否需要改变？工程师角色是否会变化？这大概是所有开源的官员们考虑的问题。更加棘手的问题还有，文化的处理。&lt;/p&gt;
+
+&lt;p&gt;Facebook 作为一家保持创新的公司，在项目的开源上借鉴了Apache基金会等社区的孵化机制，不失为一种明智之举。但究竟效果会如何？民主的是否能够证明是有前途的？&lt;/p&gt;
+
+&lt;p&gt;文中还提到了&lt;a href=&#34;http://thenextweb.com/dd/2016/07/21/stack-overflow-new-documentation-feature/&#34;&gt;Stack Overflow新的文档特性&lt;/a&gt;也类似，应该去研究一下。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源之术:3138cb7671fc646b54d4524f4758a618&#34;&gt;开源之术&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-source-way&#34;&gt;The open source way&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开明综义！开源之术就是哪些开源项目中除了软件本身之外的开发方法论。有如下几个目的或好处：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We can learn more from each other when information is open.&lt;/li&gt;
+&lt;li&gt;参与的力量！（这是今年红帽峰会上CEO演讲的Keynote）。&lt;/li&gt;
+&lt;li&gt;快速的创建原型！&lt;/li&gt;
+&lt;li&gt;Meritocracy！这在本土文化中是最难做到的！&lt;/li&gt;
+&lt;li&gt;社区！或者是社群！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我开始就开源的术和道萌生了一些念想，就我个人的能力和兴趣，想做点事情，还得从这些入手。敬请期待！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.7.31）</title>
@@ -972,79 +1026,6 @@
 &lt;li&gt;开源是软件的“开发”模式，并非是软件的“交付”模式，抑或是“商业”模式。 &lt;strong&gt;How Google delivers Android to devices has literally nothing to do with how it develops it.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;ChromeOS 的升级方式，部署两套系统，升级后仅在重启后生效！有时候看起来笨拙的方法，才是最为有效的。&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.13)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_13/</link>
-      <pubDate>Wed, 13 Jul 2016 06:31:07 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_13/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:ee9138eb0c9886950f2d61d8aa96090f&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;为什么政府软件须开源:ee9138eb0c9886950f2d61d8aa96090f&#34;&gt;为什么政府软件须开源&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.androidheadlines.com/2016/07/tech-talk-why-government-software-should-be-open-source.html&#34;&gt;Tech Talk: Why Government Software Should Be Open-Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;还是保加利亚颁布法律的后续，正如文中一开始就指出的一样，保加利亚是做了意见蛮好的事情，甚至有些疯狂。但是开源确实是有好处的，比如：“In turn, this means less taxpayer money is being used, and taxes may end up being just a hair lower as a result.” 比如“Fully open-source government software is not only cheaper and easier, it can be more secure. ”&lt;/p&gt;
-
-&lt;p&gt;其实，作为社会工程的典范，我们本土尤其是要学习的。正如艾未未所说：“自由这种东西，你一旦知道了它，就再也回不去了”。 政府采纳开源软件好处实在是太多了。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;devops-和开源运动的比较:ee9138eb0c9886950f2d61d8aa96090f&#34;&gt;DevOps 和开源运动的比较&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/comparing-devops-and-open-source-movements&#34;&gt;Comparing the DevOps and Open Source Movements&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文的视野还是很新颖的，我个人一直以为 DevOps 必须是以开源为前提条件的，即使不使用开源，团队内部也得使用inner-source这样的方法论，否则，DevOps就难以实现，某种程度上都不成立。但是作者竟然从另外一些角度找到了这二者之间的相同之处：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;DevOps 和开源均是概念性质的，而非某种特定的技术。&lt;/li&gt;
-&lt;li&gt;DevOps 和开源，对于人们的理解是仁者见仁，智者见智。&lt;/li&gt;
-&lt;li&gt;DevOps 面临挑战，正如十几年前开源面临同样的问题。&lt;/li&gt;
-&lt;li&gt;开源已经用事实证明，DevOps尚须时日。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;世界在疯狂的运转，一切都在加速，尤其是IT应用，在云计算、移动化、IoT、大数据来临的时代，不能快速而稳定的交付，必将被历史的车轮碾过。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开放领导者的7个要素:ee9138eb0c9886950f2d61d8aa96090f&#34;&gt;开放领导者的7个要素&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/7/future-belongs-open-leaders&#34;&gt;7 characteristics of open leaders&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我对类似文章非常对热衷，即从一本书然后引出一系列的观点，可能是《读书》杂志对于我的影响。Open Leader 究竟有哪7个要素了呢？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;目标感 （区别于过去的聚焦任务）&lt;/li&gt;
-&lt;li&gt;平易近人 （没有高高在上的感觉）&lt;/li&gt;
-&lt;li&gt;谦逊&lt;/li&gt;
-&lt;li&gt;懂得放权&lt;/li&gt;
-&lt;li&gt;透明&lt;/li&gt;
-&lt;li&gt;拥护团队&lt;/li&gt;
-&lt;li&gt;信任和尊重&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;文中最后还指出：&lt;strong&gt;hat means much more openness—not just for leaders, but for everyone.&lt;/strong&gt; 我不由的想到了我自己的遭遇。但我依然对开放式的团队充满向望，并继续寻找志同道合的人！&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     

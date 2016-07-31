@@ -7,8 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 31 Jul 2016 06:30:59 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2016 06:54:20 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.1)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.1%29/</link>
+      <pubDate>Mon, 01 Aug 2016 06:54:20 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.1%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:3138cb7671fc646b54d4524f4758a618&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/05/facebookfeatured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;facebook-新的项目孵化预示着开源的未来:3138cb7671fc646b54d4524f4758a618&#34;&gt;Facebook 新的项目孵化预示着开源的未来&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thenextweb.com/dd/2016/07/31/facebook-incubator/#gref&#34;&gt;Facebook’s new Incubator may show us how open source should work&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;大公司为何青睐开源？在各大公司均在开源发力的时候，又该如何保持竞争力？什么时候开源？哪个项目该开源？开源之后的后续工作该如何进行？工作方式是否需要改变？工程师角色是否会变化？这大概是所有开源的官员们考虑的问题。更加棘手的问题还有，文化的处理。&lt;/p&gt;
+
+&lt;p&gt;Facebook 作为一家保持创新的公司，在项目的开源上借鉴了Apache基金会等社区的孵化机制，不失为一种明智之举。但究竟效果会如何？民主的是否能够证明是有前途的？&lt;/p&gt;
+
+&lt;p&gt;文中还提到了&lt;a href=&#34;http://thenextweb.com/dd/2016/07/21/stack-overflow-new-documentation-feature/&#34;&gt;Stack Overflow新的文档特性&lt;/a&gt;也类似，应该去研究一下。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源之术:3138cb7671fc646b54d4524f4758a618&#34;&gt;开源之术&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-source-way&#34;&gt;The open source way&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开明综义！开源之术就是哪些开源项目中除了软件本身之外的开发方法论。有如下几个目的或好处：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We can learn more from each other when information is open.&lt;/li&gt;
+&lt;li&gt;参与的力量！（这是今年红帽峰会上CEO演讲的Keynote）。&lt;/li&gt;
+&lt;li&gt;快速的创建原型！&lt;/li&gt;
+&lt;li&gt;Meritocracy！这在本土文化中是最难做到的！&lt;/li&gt;
+&lt;li&gt;社区！或者是社群！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我开始就开源的术和道萌生了一些念想，就我个人的能力和兴趣，想做点事情，还得从这些入手。敬请期待！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道（2016.7.31）</title>
@@ -918,76 +972,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;容器的持久化存储绝对是一大挑战，虽然现在看起来有很多的解决方案，但是没有哪家号称是完美的。CoreOS?这家startup的公司，摊子越铺越大，什么都想自己做。技术牛能走多远？如果忽视整个生态的话。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.18)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_18/</link>
-      <pubDate>Mon, 18 Jul 2016 06:59:37 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_18/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;上一篇点评是13号，也就是说演讲，参加 OpenStack  China Day，让我错过了一些事情，身体还非常的累。这些都是借口。为错过的几天而致歉。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:e605bc5cefdd5e0268797298fd557f06&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;想成为优秀的开发者嘛-参与到开源中吧:e605bc5cefdd5e0268797298fd557f06&#34;&gt;想成为优秀的开发者嘛？参与到开源中吧&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://medium.com/commit-push/want-to-become-a-better-developer-34c2444a6849#.w4j35u4j9&#34;&gt;Want to become a better developer? Contribute to open source.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;参与到开源的动力是什么？赢取更多的粉丝？GitHub上的星星数量？更加的出名？&lt;/p&gt;
-
-&lt;p&gt;答案显然都不是：&lt;strong&gt;是自我完善的过程，不过是想写出更加优质的代码罢了。能够让更多的人指点，从而发现问题。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;正如我今天的这篇点评一样，人总是会给自己找很多的借口，比如不能参与到开源。&lt;strong&gt;“Because of work, I don’t have time for open source projects.”&lt;/strong&gt; 时间要去用心的营造。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;文中还给出了参与开源的几点价值：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;参与到开源能够让你成为更为优秀的开发者。&lt;/li&gt;
-&lt;li&gt;能够帮助你写出更加优质的代码／文档。&lt;/li&gt;
-&lt;li&gt;你的技能在增强，更进一步的去挑战新的问题。&lt;/li&gt;
-&lt;li&gt;能够以更好的方式“售卖”自己，这以为着能够找一份高薪、远程的工作。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;google和ibm以开源软件赞助的方式加入汽车制造商:e605bc5cefdd5e0268797298fd557f06&#34;&gt;Google和IBM以开源软件赞助的方式加入汽车制造商&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/07/13/toyota-ibm-google-patron-open-source/&#34;&gt;This Automaker Just Joined IBM and Google as a Patron of Open-Source Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一篇财富杂志的文章，我看得似懂非懂，总而言之，就是说开源软件终于在汽车制造商哪里占有了一席之地。想想普华当年搞定汽车电子，往这个方向发力会产生什么样的效果？从别处看到了方向，但是却理解错误，不知道该具体怎么做。在人才方面又不能做到不拘一格。做企业绝对是一门科学，要难以编码、琢磨技术。&lt;/p&gt;
-
-&lt;p&gt;在众多的参数中，需要更多的平衡的艺术！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;为什么说开源并不会杀死-android:e605bc5cefdd5e0268797298fd557f06&#34;&gt;为什么说开源并不会杀死 Android&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3094809/linux/why-being-open-source-is-not-killing-android.html&#34;&gt;Why being open source is not killing Android&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是对 ZDNet 上的一片文章：&lt;a href=&#34;http://www.zdnet.com/article/being-open-source-is-killing-android/&#34;&gt;“Being open source is killing Android”&lt;/a&gt; 的回应。&lt;/p&gt;
-
-&lt;p&gt;本文是绝对值得一看的好文。文中对于开源所带来的各种益处我就不多谈了，我仅对文中我认为最好的2个观点或见解纪录下来：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;开源是软件的“开发”模式，并非是软件的“交付”模式，抑或是“商业”模式。 &lt;strong&gt;How Google delivers Android to devices has literally nothing to do with how it develops it.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;ChromeOS 的升级方式，部署两套系统，升级后仅在重启后生效！有时候看起来笨拙的方法，才是最为有效的。&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
