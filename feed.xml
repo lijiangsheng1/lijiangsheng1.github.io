@@ -7,8 +7,86 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 01 Aug 2016 06:54:20 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 02 Aug 2016 06:13:23 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.2)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.2%29/</link>
+      <pubDate>Tue, 02 Aug 2016 06:13:23 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.2%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:79999c95a032c5aacacdeda8d173af70&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/osdc_whitehurst_money.png?itok=Xqow4bzq&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;兜售开源的智慧之术:79999c95a032c5aacacdeda8d173af70&#34;&gt;兜售开源的智慧之术&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/8/selling-open-source-smart-way&#34;&gt;Selling open source the smart way&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;来自GitLab的销售认识和哲学。开源已经是主流，但是这个只能在外文网站上看到！本土是在搞“国产化”和“自主产权”，以开源为契机，赚足了名与利。我觉得我越来越对撰写一篇批判这样的做法的文章的想法愈发的强烈！&lt;/p&gt;
+
+&lt;p&gt;开源是很多人的情怀，比如PingCAP也是这样，但是在商业之前，尽量少解释情怀，那样让人觉得虚假。还不如直接讲开源的力量更加的强大，符合福山《历史的终结》的描述，比如红帽就是这么干的。谈情怀还搞“OpenCore”，这是骗子的行径。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why should I pay for something that I can get for free?&lt;/strong&gt; 这个问题在本土更加的难以回答。尤其是民间文化中对待匠艺人的态度、以及匠艺人自己的态度。从我个人的成长经历、以及近来近距离接触用户的验证来看。本土绝对不会为开源掏一毛钱，在大企业尤甚。有几点原因：0、敢于担责任的人少之又少。1、高看自己的心态。2、极权主义教育下以庞大的机构扮演为自己，藐视厂商。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Support the community, and the community will support you&lt;/strong&gt; 来看看OpenStack中国社区就知道了。有几个奇葩现象：0、将社区搞成自己市场的栖息地。1、Meetup被具有“官方”色彩的机构接管。2、OpenStack中国社区是一家叫做EasyStack的公司搞的。3、各种微信群，只是自媒体罢了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;talend-会成为下一个红帽嘛:79999c95a032c5aacacdeda8d173af70&#34;&gt;Talend 会成为下一个红帽嘛？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/danwoods/2016/07/31/can-talend-be-another-red-hat/#3194422a7425&#34;&gt;Can Talend Be Another Red Hat?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;红帽已经成为开源赚钱的典范，尤其是企业级市场。Mirantis在IaaS平台，Talend在BI方面，能否像红帽一样赚到钱。依靠品牌的力量！&lt;/p&gt;
+
+&lt;p&gt;此文值得借鉴的是其对于Talend的8个方面的总结，开源模式一点问题没有，就看其如何面对竞争对手，能否一跃而出？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;confluent-和-mesosphere-联合推出运行在-dc-os-之上的企业级-kafka-容器2-0-时代来临:79999c95a032c5aacacdeda8d173af70&#34;&gt;Confluent 和 Mesosphere 联合推出运行在 DC／OS 之上的企业级 Kafka，“容器2.0”时代来临&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/confluent-mesosphere-drive-container-20-era-with-enterprise-grade-kafka-on-dc-os-2146852.htm&#34;&gt;Confluent and Mesosphere Drive the &amp;ldquo;Container 2.0&amp;rdquo; Era With Enterprise-Grade Kafka on DC/OS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;推荐阅读！信息量很大：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;什么是Mesos？什么是DC/OS？什么是Kafka？&lt;/li&gt;
+&lt;li&gt;谁是Confluent？和Linkedin是什么关系？Mesosphere和Mesos是什么关系？&lt;/li&gt;
+&lt;li&gt;Apache 项目下的Mesos、Kafka&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;li&gt;容器2.0如何？容器1.0还没有烧过去了。&lt;/li&gt;
+&lt;li&gt;DC/OS 的“应用商店”现在都有什么？CI/CI？分布式数据库？文件系统？大数据分析工具？是否一应俱全？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是否觉得这就是未来了呢？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;前-mozilla-ceo-另起炉灶打造屏蔽广告浏览器-brave-融资450万美金:79999c95a032c5aacacdeda8d173af70&#34;&gt;前 Mozilla CEO 另起炉灶打造屏蔽广告浏览器——Brave，融资450万美金&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/08/01/brave-the-ad-blocking-browser-from-former-mozilla-ceo-grabs-4-5-million/&#34;&gt;Brave, the ad-blocking browser from former Mozilla CEO, grabs $4.5 million&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;技术上只看到一点：Brave将广告屏蔽植入内核，在移动端发力较多。商业上始终没有看懂。屏蔽了广告还如何利用广告（互联网赚钱的本质）赚钱？待观察。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.1)</title>
@@ -896,81 +974,6 @@
 &lt;p&gt;&lt;a href=&#34;http://thevarguy.com/author/christopher-tozzi&#34;&gt;Christopher Tozzi&lt;/a&gt; 的文章会给你不一样的视野。尤其你是一名技术人员应该多读读他的文章。&lt;/p&gt;
 
 &lt;p&gt;我很认同的结语： ** open hardware solutions will become more valuable not only because they are likely to be inexpensive, but also because open specifications maximize the ability of programmers to take advantage of hardware features when optimizing software-defined solutions.** 不仅仅是成本的大众化！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.19)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_19/</link>
-      <pubDate>Tue, 19 Jul 2016 06:13:01 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_19/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:fb24b1199b6470c209e7e51874a6cb94&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;使用开源工具来简化-openstack-安装:fb24b1199b6470c209e7e51874a6cb94&#34;&gt;使用开源工具来简化 OpenStack 安装&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://searchservervirtualization.techtarget.com/tip/Simplify-your-OpenStack-installation-with-open-source-tools&#34;&gt;Simplify your OpenStack installation with open source tools&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我之所以要读一下此文，是想看看 Fuel 在媒体眼中的位置。Fuel 是我上周在 OpenStack China Day 的分享主题。Fuel正在成为安装、部署 OpenStack 的主流工具，这个结论似乎也在本文中进一步作了验证。&lt;/p&gt;
-
-&lt;p&gt;另外，能够在媒体上读到错误，还是少见。但是此文对于Ansible的错误说法，还真是让我见识了一番。但是错就错了，有人告诉他改正就可以了。而不像有些媒体，以编辑容易犯错误为借口，将发布文章的权力牢牢的控制在总编的手里。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.cmswire.com/~/media/59e6af58c68b48ddbe28d18a7af41699.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源是如何引导数字变换的:fb24b1199b6470c209e7e51874a6cb94&#34;&gt;开源是如何引导数字变换的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cmswire.com/digital-experience/how-open-source-guides-digital-transformation/&#34;&gt;How Open Source Guides Digital Transformation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本篇文章的开头所问的问题相当的精彩：&lt;strong&gt;所有人都得承认数字时代的来临是由此5个技术来驱动的——移动、社交、传感器技术、大数据和云计算，但是开源在数字变换的起了什么样的作用或扮演什么样的角色？&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;好问题归好问题，但是未必能有满意的答案。继续往下看那些VP的回答，冠冕堂皇，丝毫没有抓住问题的本质。哎，找错人了，不应该找这些厂商，而应该找哪些对于开源比较青睐的用户。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://specials-images.forbesimg.com/imageserve/39129258/960x0.jpg?fit=scale&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;google-为何将一些很重要的技术开源:fb24b1199b6470c209e7e51874a6cb94&#34;&gt;Google 为何将一些很重要的技术开源&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/gregsatell/2016/07/18/heres-why-google-is-open-sourcing-some-of-its-most-important-technology/#585bde48630c&#34;&gt;Here&amp;rsquo;s Why Google Is Open-Sourcing Some Of Its Most Important Technology&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;绝对好文！堪称科技文的模版！值得学习。&lt;/p&gt;
-
-&lt;p&gt;先来看文章的结构，开始以一个普通人可以理解的项目入手，然后引入其背后的人工智能项目TensorFlow，对TensorFlow进行了科普，然后又说明了算法的重要性，并引用了大量的历史，比如香农的信息论，然后才谈到TensorFlow的开源，然后论证了开源的价值。&lt;/p&gt;
-
-&lt;p&gt;再来谈谈我认同的文章的观点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Google 开源TensorFlow的过程和理由。Google说当我发布一篇论文的时候，过不了几个月，就会有相近的论文发表，这样的事情发生的太多了，某种程度上是一种浪费，干脆将之开源，让其他人尽早的参与，共同发展和完善。&lt;/li&gt;
-&lt;li&gt;构建生态的价值！请仔细认真的阅读&lt;strong&gt;Yet the world is changing.&lt;/strong&gt;并将文章的引用也一同读之。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://thevarguy.com/site-files/thevarguy.com/files/imagecache/medium_img/uploads/2016/06/rhstorage.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;红帽想利用-gluster-和-openshift-解决容器的持久存储问题:fb24b1199b6470c209e7e51874a6cb94&#34;&gt;红帽想利用 Gluster 和 OpenShift 解决容器的持久存储问题&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/red-hat-shoots-solve-container-storage-gluster-and-opensh&#34;&gt;Red Hat Shoots to Solve Container Storage with Gluster and OpenShift&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;容器的持久化存储绝对是一大挑战，虽然现在看起来有很多的解决方案，但是没有哪家号称是完美的。CoreOS?这家startup的公司，摊子越铺越大，什么都想自己做。技术牛能走多远？如果忽视整个生态的话。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
