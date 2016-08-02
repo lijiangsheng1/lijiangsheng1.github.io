@@ -7,8 +7,91 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 02 Aug 2016 06:13:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Aug 2016 06:15:04 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.3)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.3%29/</link>
+      <pubDate>Wed, 03 Aug 2016 06:15:04 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.3%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:02836c73ede28f8bf2df5bb429273830&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/08/15558382212_a81f9f4a3a_k.jpg?w=1294&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;aws-最新发布的-emr-产品支持了16个haddoop的项目:02836c73ede28f8bf2df5bb429273830&#34;&gt;AWS 最新发布的 EMR 产品支持了16个Haddoop的项目&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/08/02/latest-aws-elastic-mapreduce-release-supports-16-hadoop-projects/&#34;&gt;Latest Amazon Elastic MapReduce release supports 16 Hadoop projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;华为对VMWare的开源策略很感兴趣，而我却对Amazon抱着一种好奇的态度。Amazon利用开源，站在巨人的肩膀上，在大家都标榜开源的时候，他依然我行我素，作为云计算行业的领头羊。对于支持开源的项目倒是不遗余力。比如对于大数据处理的基础设施框架Hadoop的支持。&lt;/p&gt;
+
+&lt;p&gt;OpenStack 的Sahara 应该从EMR项目获取了不少的灵感。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;ibm-依然坚定不移的支持开源:02836c73ede28f8bf2df5bb429273830&#34;&gt;IBM 依然坚定不移的支持开源&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/ibms-wager-open-source-still-paying&#34;&gt;IBM’s Wager on Open Source Is Still Paying Off&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一份Keynote的总结。我简单总结下我能够获得的信息。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;IBM 从1998年开始支持Linux，到现在已经有18年了，持续不断的投入人力和物力。&lt;/li&gt;
+&lt;li&gt;62000 雇员在为开源作贡献，这个数字是否值得怀疑？&lt;/li&gt;
+&lt;li&gt;开源已经是事实上到标准制定。符合IBM对待开源的战略。&lt;strong&gt;“[The contributions] were bets; we didn’t know how this was going to come out, and we didn’t know if open source would grow, we knew there would be roadblocks and things we’d have to overcome along the way, but it had promise. We thought this would be the way of the future.”&lt;/strong&gt; 这句话，是烟雾弹！不符合理性的科学道理。但是很煽情。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“The Apache way is that everyone is a committer, and making their own commits into the process, but the companies are behind it,” Moore said. “We’ve got real good deep support here, and that’s important.”&lt;/strong&gt; 这话说的很坦诚。在社区能够做到独立开发者的少之又少！&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;IBM 对待开源的背后经济学思考，是所有公司应该值得考虑和借鉴的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blogs-images.forbes.com/adrianbridgwater/files/2016/08/12e12eTux.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;英国政府招聘首席开源官:02836c73ede28f8bf2df5bb429273830&#34;&gt;英国政府招聘首席开源官&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/adrianbridgwater/2016/08/02/uk-government-recruits-chief-open-source-penguin/#34706b194e7f&#34;&gt;UK Government Recruits Chief Open Source Penguin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Forbes 也是真够八卦的，不就一招聘嘛？但是开源之大势所趋不可阻挡！本文中让我愉悦的一些观点：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;英国政府想采用更多的开源策略（亦包括InnerSource，而这能让我开展业务嘛？）&lt;/li&gt;
+&lt;li&gt;MongoDB的Kelly Stirman 说的一番话，激动人心：&amp;rdquo;开源已经不再是一个好的想法来，而是必须去做的事情！政府、企业采用开源好处多多！在接下来的半个世纪，开源将在重要的战略发挥作用！&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;开源的哲学101，依然需要做很多的普及工作！&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;black-duck-成立了开源研究和创新中心:02836c73ede28f8bf2df5bb429273830&#34;&gt;Black Duck 成立了开源研究和创新中心&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.businesswire.com/news/home/20160802005213/en/Black-Duck-Announces-Creation-Global-Center-Open&#34;&gt;Black Duck Announces Creation of Global Center for Open Source Research &amp;amp; Innovation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;黑鸭子继续在开源的安全方面发力！认为在接下来的十年，开源将愈发发挥作用，而伴随的安全问题将会突出！成立开源研发和创新中心就是希望能够未雨绸缪，把握这一机会。&lt;/p&gt;
+
+&lt;p&gt;通过本文可以得知，OpenHub，我们经常使用的分析开源项目的工具，将被纳入此新成立的部门。&lt;/p&gt;
+
+&lt;p&gt;Black Duck像大多数牛逼的公司一样在中国是水土不服的，进不来，当然这是抛开安全本身不提的。就开源本身他在本土依然没有生意做。这是否值得我思考了呢？开源在本土除了披上“国产”的外衣，再无出路？&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.2)</title>
@@ -898,82 +981,6 @@
 &lt;p&gt;保加利亚通过的那条法律震惊了全世界。但是能否复制了呢？这是所有人应该思考的问题。&lt;/p&gt;
 
 &lt;p&gt;但是一涉及到政府，这事就复杂了。但无论怎么样，开源这件事情本身正在得到所有人的认可。为了纳税人，政府应该考虑开源软件！没错，以人为本的话，还能增加就业！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.7.20）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_20/</link>
-      <pubDate>Wed, 20 Jul 2016 06:33:00 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_20/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:56622cde75f6cc9253401805802e705c&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;清晰的定义和沟通团队目标:56622cde75f6cc9253401805802e705c&#34;&gt;清晰的定义和沟通团队目标&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/7/defining-and-communicating-team-goals&#34;&gt;Coffee Shop DevOps: Clearly defining and communicating team goals&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;团队，不再是一个人的事情，几乎任何事情都会涉及到沟通。当然，目标是重中之重。文中所举的例子可谓是开发者经常遇到的误解：言谈之中，所表达的意思！我个人的职业生涯，就是一直被误解所笼罩和包围。这是个哲学问题，也是个非常棘手的问题，由于每个人的学识、语言掌握程度等的不同，尤其是在很多词汇上会产生非常多的误解。这就是在团队建设中经常要共同阅读的缘由之一。&lt;/p&gt;
-
-&lt;p&gt;文中作者给出了三个解决问题的方法：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;逐个理解目标&lt;/li&gt;
-&lt;li&gt;集中注意力 &lt;strong&gt;In fact, give them your full attention.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;帮助你的团队去沟通&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;When you slow down, communicate clearly, and take the time to grasp the problem fully and make sure everyone is on the same page, all of these problems with understanding goals can be avoided.&lt;/strong&gt; 多么好的建议。可惜我到现在才学会 slow down。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源什么时候已经成为企业软件的默认的商业模式了:56622cde75f6cc9253401805802e705c&#34;&gt;开源什么时候已经成为企业软件的默认的商业模式了？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/has-open-source-become-the-new-default-business-model-for-enterprise-software/&#34;&gt;Has open source become the default business model for enterprise software?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;文章的一开始，作者就指出：&lt;strong&gt;open source is increasingly the rule, not the exception.&lt;/strong&gt;，基于这个结论，然后开始举了一些例子，如Cloudera、Cockroach Labs、sysdig等，然后提出疑问，如果这个开源项目是被一家公司所主导的，而又倡导不捆绑、锁定用户，这个该如何处理？接着举了MongoDB等例子，包括其社区的形式等。&lt;/p&gt;
-
-&lt;p&gt;甚至谈到了开源的价格模式，包括用户的心理习惯。**You pay by subscription rather than perpetual license plus support. **&lt;/p&gt;
-
-&lt;p&gt;**From a technology stack perspective, Amazon is the cloud equivalent of Oracle; **这样的观点，个人是非常认同的。公有云将会是开源的死敌！&lt;/p&gt;
-
-&lt;p&gt;那么究竟开源是否是企业软件的默认的商业模式了呢？请君阅读原文自己寻找答案！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源硬件-意味着什么以及它为何非常的重要:56622cde75f6cc9253401805802e705c&#34;&gt;开源硬件：意味着什么以及它为何非常的重要&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/open-source-hardware-what-it-means-and-why-it-matters&#34;&gt;Open Source Hardware: What It Means and Why It Matters&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源硬件渐成燎原之势，你我都应该去了解一下，尤其是IoT时代的来临。作为历史学家的作者，文章的阶段论是非常清晰的：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;什么是开源硬件？&lt;/li&gt;
-&lt;li&gt;开源硬件的由来&lt;/li&gt;
-&lt;li&gt;今天为什么说开源硬件非常的重要。（开源硬件对于IoT的重要性：安全、便宜。另外：**the software-defined revolution is likely to increase demand for open source hardware. **）&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://thevarguy.com/author/christopher-tozzi&#34;&gt;Christopher Tozzi&lt;/a&gt; 的文章会给你不一样的视野。尤其你是一名技术人员应该多读读他的文章。&lt;/p&gt;
-
-&lt;p&gt;我很认同的结语： ** open hardware solutions will become more valuable not only because they are likely to be inexpensive, but also because open specifications maximize the ability of programmers to take advantage of hardware features when optimizing software-defined solutions.** 不仅仅是成本的大众化！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

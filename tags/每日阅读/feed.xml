@@ -7,8 +7,91 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 02 Aug 2016 06:13:23 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Aug 2016 06:15:04 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.3)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.3%29/</link>
+      <pubDate>Wed, 03 Aug 2016 06:15:04 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.3%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:02836c73ede28f8bf2df5bb429273830&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/08/15558382212_a81f9f4a3a_k.jpg?w=1294&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;aws-最新发布的-emr-产品支持了16个haddoop的项目:02836c73ede28f8bf2df5bb429273830&#34;&gt;AWS 最新发布的 EMR 产品支持了16个Haddoop的项目&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/08/02/latest-aws-elastic-mapreduce-release-supports-16-hadoop-projects/&#34;&gt;Latest Amazon Elastic MapReduce release supports 16 Hadoop projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;华为对VMWare的开源策略很感兴趣，而我却对Amazon抱着一种好奇的态度。Amazon利用开源，站在巨人的肩膀上，在大家都标榜开源的时候，他依然我行我素，作为云计算行业的领头羊。对于支持开源的项目倒是不遗余力。比如对于大数据处理的基础设施框架Hadoop的支持。&lt;/p&gt;
+
+&lt;p&gt;OpenStack 的Sahara 应该从EMR项目获取了不少的灵感。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;ibm-依然坚定不移的支持开源:02836c73ede28f8bf2df5bb429273830&#34;&gt;IBM 依然坚定不移的支持开源&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/ibms-wager-open-source-still-paying&#34;&gt;IBM’s Wager on Open Source Is Still Paying Off&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一份Keynote的总结。我简单总结下我能够获得的信息。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;IBM 从1998年开始支持Linux，到现在已经有18年了，持续不断的投入人力和物力。&lt;/li&gt;
+&lt;li&gt;62000 雇员在为开源作贡献，这个数字是否值得怀疑？&lt;/li&gt;
+&lt;li&gt;开源已经是事实上到标准制定。符合IBM对待开源的战略。&lt;strong&gt;“[The contributions] were bets; we didn’t know how this was going to come out, and we didn’t know if open source would grow, we knew there would be roadblocks and things we’d have to overcome along the way, but it had promise. We thought this would be the way of the future.”&lt;/strong&gt; 这句话，是烟雾弹！不符合理性的科学道理。但是很煽情。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“The Apache way is that everyone is a committer, and making their own commits into the process, but the companies are behind it,” Moore said. “We’ve got real good deep support here, and that’s important.”&lt;/strong&gt; 这话说的很坦诚。在社区能够做到独立开发者的少之又少！&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;IBM 对待开源的背后经济学思考，是所有公司应该值得考虑和借鉴的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blogs-images.forbes.com/adrianbridgwater/files/2016/08/12e12eTux.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;英国政府招聘首席开源官:02836c73ede28f8bf2df5bb429273830&#34;&gt;英国政府招聘首席开源官&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/adrianbridgwater/2016/08/02/uk-government-recruits-chief-open-source-penguin/#34706b194e7f&#34;&gt;UK Government Recruits Chief Open Source Penguin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Forbes 也是真够八卦的，不就一招聘嘛？但是开源之大势所趋不可阻挡！本文中让我愉悦的一些观点：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;英国政府想采用更多的开源策略（亦包括InnerSource，而这能让我开展业务嘛？）&lt;/li&gt;
+&lt;li&gt;MongoDB的Kelly Stirman 说的一番话，激动人心：&amp;rdquo;开源已经不再是一个好的想法来，而是必须去做的事情！政府、企业采用开源好处多多！在接下来的半个世纪，开源将在重要的战略发挥作用！&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;开源的哲学101，依然需要做很多的普及工作！&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;black-duck-成立了开源研究和创新中心:02836c73ede28f8bf2df5bb429273830&#34;&gt;Black Duck 成立了开源研究和创新中心&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.businesswire.com/news/home/20160802005213/en/Black-Duck-Announces-Creation-Global-Center-Open&#34;&gt;Black Duck Announces Creation of Global Center for Open Source Research &amp;amp; Innovation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;黑鸭子继续在开源的安全方面发力！认为在接下来的十年，开源将愈发发挥作用，而伴随的安全问题将会突出！成立开源研发和创新中心就是希望能够未雨绸缪，把握这一机会。&lt;/p&gt;
+
+&lt;p&gt;通过本文可以得知，OpenHub，我们经常使用的分析开源项目的工具，将被纳入此新成立的部门。&lt;/p&gt;
+
+&lt;p&gt;Black Duck像大多数牛逼的公司一样在中国是水土不服的，进不来，当然这是抛开安全本身不提的。就开源本身他在本土依然没有生意做。这是否值得我思考了呢？开源在本土除了披上“国产”的外衣，再无出路？&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.2)</title>
@@ -958,81 +1041,6 @@
 &lt;p&gt;&lt;a href=&#34;http://thevarguy.com/author/christopher-tozzi&#34;&gt;Christopher Tozzi&lt;/a&gt; 的文章会给你不一样的视野。尤其你是一名技术人员应该多读读他的文章。&lt;/p&gt;
 
 &lt;p&gt;我很认同的结语： ** open hardware solutions will become more valuable not only because they are likely to be inexpensive, but also because open specifications maximize the ability of programmers to take advantage of hardware features when optimizing software-defined solutions.** 不仅仅是成本的大众化！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.19)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_19/</link>
-      <pubDate>Tue, 19 Jul 2016 06:13:01 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_19/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:fb24b1199b6470c209e7e51874a6cb94&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;使用开源工具来简化-openstack-安装:fb24b1199b6470c209e7e51874a6cb94&#34;&gt;使用开源工具来简化 OpenStack 安装&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://searchservervirtualization.techtarget.com/tip/Simplify-your-OpenStack-installation-with-open-source-tools&#34;&gt;Simplify your OpenStack installation with open source tools&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我之所以要读一下此文，是想看看 Fuel 在媒体眼中的位置。Fuel 是我上周在 OpenStack China Day 的分享主题。Fuel正在成为安装、部署 OpenStack 的主流工具，这个结论似乎也在本文中进一步作了验证。&lt;/p&gt;
-
-&lt;p&gt;另外，能够在媒体上读到错误，还是少见。但是此文对于Ansible的错误说法，还真是让我见识了一番。但是错就错了，有人告诉他改正就可以了。而不像有些媒体，以编辑容易犯错误为借口，将发布文章的权力牢牢的控制在总编的手里。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.cmswire.com/~/media/59e6af58c68b48ddbe28d18a7af41699.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源是如何引导数字变换的:fb24b1199b6470c209e7e51874a6cb94&#34;&gt;开源是如何引导数字变换的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cmswire.com/digital-experience/how-open-source-guides-digital-transformation/&#34;&gt;How Open Source Guides Digital Transformation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本篇文章的开头所问的问题相当的精彩：&lt;strong&gt;所有人都得承认数字时代的来临是由此5个技术来驱动的——移动、社交、传感器技术、大数据和云计算，但是开源在数字变换的起了什么样的作用或扮演什么样的角色？&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;好问题归好问题，但是未必能有满意的答案。继续往下看那些VP的回答，冠冕堂皇，丝毫没有抓住问题的本质。哎，找错人了，不应该找这些厂商，而应该找哪些对于开源比较青睐的用户。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://specials-images.forbesimg.com/imageserve/39129258/960x0.jpg?fit=scale&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;google-为何将一些很重要的技术开源:fb24b1199b6470c209e7e51874a6cb94&#34;&gt;Google 为何将一些很重要的技术开源&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/gregsatell/2016/07/18/heres-why-google-is-open-sourcing-some-of-its-most-important-technology/#585bde48630c&#34;&gt;Here&amp;rsquo;s Why Google Is Open-Sourcing Some Of Its Most Important Technology&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;绝对好文！堪称科技文的模版！值得学习。&lt;/p&gt;
-
-&lt;p&gt;先来看文章的结构，开始以一个普通人可以理解的项目入手，然后引入其背后的人工智能项目TensorFlow，对TensorFlow进行了科普，然后又说明了算法的重要性，并引用了大量的历史，比如香农的信息论，然后才谈到TensorFlow的开源，然后论证了开源的价值。&lt;/p&gt;
-
-&lt;p&gt;再来谈谈我认同的文章的观点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Google 开源TensorFlow的过程和理由。Google说当我发布一篇论文的时候，过不了几个月，就会有相近的论文发表，这样的事情发生的太多了，某种程度上是一种浪费，干脆将之开源，让其他人尽早的参与，共同发展和完善。&lt;/li&gt;
-&lt;li&gt;构建生态的价值！请仔细认真的阅读&lt;strong&gt;Yet the world is changing.&lt;/strong&gt;并将文章的引用也一同读之。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://thevarguy.com/site-files/thevarguy.com/files/imagecache/medium_img/uploads/2016/06/rhstorage.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;红帽想利用-gluster-和-openshift-解决容器的持久存储问题:fb24b1199b6470c209e7e51874a6cb94&#34;&gt;红帽想利用 Gluster 和 OpenShift 解决容器的持久存储问题&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/red-hat-shoots-solve-container-storage-gluster-and-opensh&#34;&gt;Red Hat Shoots to Solve Container Storage with Gluster and OpenShift&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;容器的持久化存储绝对是一大挑战，虽然现在看起来有很多的解决方案，但是没有哪家号称是完美的。CoreOS?这家startup的公司，摊子越铺越大，什么都想自己做。技术牛能走多远？如果忽视整个生态的话。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
