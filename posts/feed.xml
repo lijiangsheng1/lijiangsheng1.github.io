@@ -7,8 +7,94 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 03 Aug 2016 06:15:04 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Aug 2016 06:30:06 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.4)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.4%29/</link>
+      <pubDate>Thu, 04 Aug 2016 06:30:06 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.4%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://siliconangle.com/files/2014/08/open-source-prescription.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;企业正在逐步加入到开源的生态系统中-来自wikibon:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;企业正在逐步加入到开源的生态系统中——来自Wikibon&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://siliconangle.com/blog/2016/08/03/enterprises-increasingly-joining-open-source-ecosystem-wikibon/&#34;&gt;Enterprises increasingly joining open source ecosystem – Wikibon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文是对来自wikibon首席云分析师&lt;a href=&#34;http://wikibon.com/open-source-software-enabling-enterprise-it-innovation/&#34;&gt;Brian Gracely 的一份报告&lt;/a&gt;作出的摘要信息，原报告没有下载到。&lt;/p&gt;
+
+&lt;p&gt;文中称，开源已经不再仅仅是技术开发者们到天地了，很多传统的大型企业也开始参与进来了，其中有：耐克、通用电气、Capital One Financial Corp. 、以及Deere &amp;amp; Co.等。&lt;/p&gt;
+
+&lt;p&gt;这些传统的企业之所以这么做是因为IT的领导者如：IBM、Intel、Google等公司在这方面取得了巨大的成功。&lt;strong&gt;it allows them to participate with outside teams on developing software they need, creating better solutions to their needs faster and at less cost.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;其实传统企业参与到开源也面临了很多的挑战，如文化的改变、如何招聘并留住人才、以及遵守项目的许可协议等。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么说将软件开源是企业明智的决定:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;为什么说将软件开源是企业明智的决定&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://techcitynews.com/2016/08/03/open-sourcing-software-smart-business-decision/&#34;&gt;Why open sourcing your software is a smart business decision&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源正在成为主流！连非技术公司耐克都在玩开源，将自己的代码放在了GitHub上！&lt;/p&gt;
+
+&lt;p&gt;作者对于企业采用开源的益处，总结了三大条：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;可以测试最新最酷的技术。&lt;/li&gt;
+&lt;li&gt;对激励员工有所增强，尤其是搞技术的孩子们。&lt;/li&gt;
+&lt;li&gt;招聘／雇佣牛掰的人才！&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我想说的是，我天天沉浸在开源的神话中，而甚至都忘记了自己所处的环境！开源其实离我们很远！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/penguin%20swimming.jpg?itok=mfhEdRdM&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;linux-的复仇:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;Linux 的复仇&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/8/revenge-linux&#34;&gt;The revenge of Linux&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Linux在最初被创造时是被众人所嘲笑的，而且并不认为它能干点啥。现在Linux已经是这个世界不可或缺的一部分，到处都在运行着它。&lt;/p&gt;
+
+&lt;p&gt;en,文章是有点过时，对于现在的年轻人和入门者很难理解，一名传统Unix的使用者，对于自由和开放的惊喜！这很难从盗版横行的世界中觅得知音！不过，按照本土文化来说，从众、跟风、随大流是没有任何问题的，Linux现在是如此的流行！没有不学习的道理。你说不是吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;scicasts-新产品介绍-开放的经济:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;scicasts 新产品介绍—— 开放的经济&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://scicasts.com/insights/2123-open-science/11541-introducing-our-new-series-the-economy-of-open/&#34;&gt;Introducing Our New Series - The Economy of Open&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“开源”正在成为世界的主流，也正在被更多的人研究。而这也是scicasts所看到的！它的目的很明确：&lt;strong&gt;Our aim is to find people and organizations working to realize the ‘open (source) economy’.&lt;/strong&gt; 以及希望能够回答这样的问题：&lt;strong&gt;Can we, the humanity, make Open Economy work for us? And if we can - how should we do it?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;文中对 CERN 研究人员的采访蛮有意思，其中的观点我非常的赞同，如：开放的硬件是一种哲学！能够在学术界和工业界之间找到最佳的竞争力！&lt;/p&gt;
+
+&lt;p&gt;又发现一本好书！众筹中！&lt;a href=&#34;https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business&#34;&gt;overview and analysis of open business models&lt;/a&gt; 预计今年11月和大家见面。并以CC-BY-SA发布。十分期待中！&lt;/p&gt;
+
+&lt;p&gt;其余的就是招聘广告了。若是中文的话，我倒是非常的想参与进来！可是本土没有人做这件事。而我孤掌难鸣！正如我即将写的文章：开源的术与道，中会阐述的一样，本土更注重术，而极力的去避免谈道！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.3)</title>
@@ -924,63 +1010,6 @@
 &lt;p&gt;其实这是SUSE的一篇软文，类似红帽的HR在OpenSource.com上发表文化招聘是一个道理。包括Linux基金会每年搞定工作调查也是一个道理。他们是开源商业化幕后的推动者。&lt;/p&gt;
 
 &lt;p&gt;SuSE 能够起死回生吗？照目前市场上的动作来看，还真有可能。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.7.21）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_21/</link>
-      <pubDate>Thu, 21 Jul 2016 06:14:18 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_21/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:a3aa980c2aef8edb33ebf6fb2802dbad&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://edge.alluremedia.com.au/m/l/2015/12/B9regjIIAAA8hqS.png-large.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;微软为何拥抱开源:a3aa980c2aef8edb33ebf6fb2802dbad&#34;&gt;微软为何拥抱开源？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.gurufocus.com/news/429499/why-did-microsoft-embrace-open-source&#34;&gt;Why Did Microsoft Embrace Open Source?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是个老生常谈的问题。这个世界没有永久的敌人，只有永久的生意。微软十几天所说的可以不算，因为今天一切都变了。开源渐成气候，成为企业默认的选择。&lt;/p&gt;
-
-&lt;p&gt;作者认为主要的缘由有两个：0、微软操作系统在移动手机领域的失策，包括收购诺基亚这样的败笔。1、云计算的根基，看AWS、IBM、Google，IaaS平台的根基就是开源技术。开源技术意味着低价和高效，为什么要对着干了呢？
-至于目前为止所做的一系列的事情，其实远远不够，个人以为，微软并未真正理解开源！开源绝对不仅仅是将代码开源！而是关注人本身、关注社区、关注文化！将目标投向代码，无异于舍本逐末。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;阿迪达斯将致力于速度-关键城市和开源:a3aa980c2aef8edb33ebf6fb2802dbad&#34;&gt;阿迪达斯将致力于速度、关键城市和开源&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.fibre2fashion.com/news/apparel-news/adidas-to-focus-on-speed-key-cities-and-open-source-190669-newsdetails.htm?page=2&#34;&gt;Adidas to focus on speed, key cities and open source - See more at: http://www.fibre2fashion.com/news/apparel-news/adidas-to-focus-on-speed-key-cities-and-open-source-190669-newsdetails.htm?page=2#sthash.81A3jX22.dpuf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;关注开源的人们应该对于前几天Nike开源其几个代码库的新闻还有所记忆。正如《历史的终结》所表达的一样，人类默认会选择透明、共享、开放的途径去完成一些事情，历史已经或多或少的证明了这一观点。开源已经从软件领域向其他领域渗透，如政府、教育，以及现在看到的服装著名品牌——Adidas！&lt;/p&gt;
-
-&lt;p&gt;具体要做的事情就是：&lt;strong&gt;Open Source, the group&amp;rsquo;s third strategic choice, is an endeavour to build a unique collaborative network and invites athletes, creatives, consumers and other partners to help shape the future of sport and sports culture.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;To increase its own creative capital and gain new perspectives, the Adidas Group is providing these externals with access to internal tools, including the archive, materials, factories and data.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;保加利亚的政府采用开源的法律能否在世界范围内传播:a3aa980c2aef8edb33ebf6fb2802dbad&#34;&gt;保加利亚的政府采用开源的法律能否在世界范围内传播？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/could-bulgarias-open-source-law-transform-government-software-worldwide/&#34;&gt;Could Bulgaria&amp;rsquo;s open source law transform government software worldwide?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;保加利亚通过的那条法律震惊了全世界。但是能否复制了呢？这是所有人应该思考的问题。&lt;/p&gt;
-
-&lt;p&gt;但是一涉及到政府，这事就复杂了。但无论怎么样，开源这件事情本身正在得到所有人的认可。为了纳税人，政府应该考虑开源软件！没错，以人为本的话，还能增加就业！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

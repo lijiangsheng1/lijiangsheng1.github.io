@@ -7,8 +7,94 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 03 Aug 2016 06:15:04 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Aug 2016 06:30:06 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.4)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.4%29/</link>
+      <pubDate>Thu, 04 Aug 2016 06:30:06 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.4%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://siliconangle.com/files/2014/08/open-source-prescription.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;企业正在逐步加入到开源的生态系统中-来自wikibon:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;企业正在逐步加入到开源的生态系统中——来自Wikibon&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://siliconangle.com/blog/2016/08/03/enterprises-increasingly-joining-open-source-ecosystem-wikibon/&#34;&gt;Enterprises increasingly joining open source ecosystem – Wikibon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文是对来自wikibon首席云分析师&lt;a href=&#34;http://wikibon.com/open-source-software-enabling-enterprise-it-innovation/&#34;&gt;Brian Gracely 的一份报告&lt;/a&gt;作出的摘要信息，原报告没有下载到。&lt;/p&gt;
+
+&lt;p&gt;文中称，开源已经不再仅仅是技术开发者们到天地了，很多传统的大型企业也开始参与进来了，其中有：耐克、通用电气、Capital One Financial Corp. 、以及Deere &amp;amp; Co.等。&lt;/p&gt;
+
+&lt;p&gt;这些传统的企业之所以这么做是因为IT的领导者如：IBM、Intel、Google等公司在这方面取得了巨大的成功。&lt;strong&gt;it allows them to participate with outside teams on developing software they need, creating better solutions to their needs faster and at less cost.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;其实传统企业参与到开源也面临了很多的挑战，如文化的改变、如何招聘并留住人才、以及遵守项目的许可协议等。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么说将软件开源是企业明智的决定:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;为什么说将软件开源是企业明智的决定&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://techcitynews.com/2016/08/03/open-sourcing-software-smart-business-decision/&#34;&gt;Why open sourcing your software is a smart business decision&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源正在成为主流！连非技术公司耐克都在玩开源，将自己的代码放在了GitHub上！&lt;/p&gt;
+
+&lt;p&gt;作者对于企业采用开源的益处，总结了三大条：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;可以测试最新最酷的技术。&lt;/li&gt;
+&lt;li&gt;对激励员工有所增强，尤其是搞技术的孩子们。&lt;/li&gt;
+&lt;li&gt;招聘／雇佣牛掰的人才！&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我想说的是，我天天沉浸在开源的神话中，而甚至都忘记了自己所处的环境！开源其实离我们很远！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/penguin%20swimming.jpg?itok=mfhEdRdM&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;linux-的复仇:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;Linux 的复仇&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/8/revenge-linux&#34;&gt;The revenge of Linux&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Linux在最初被创造时是被众人所嘲笑的，而且并不认为它能干点啥。现在Linux已经是这个世界不可或缺的一部分，到处都在运行着它。&lt;/p&gt;
+
+&lt;p&gt;en,文章是有点过时，对于现在的年轻人和入门者很难理解，一名传统Unix的使用者，对于自由和开放的惊喜！这很难从盗版横行的世界中觅得知音！不过，按照本土文化来说，从众、跟风、随大流是没有任何问题的，Linux现在是如此的流行！没有不学习的道理。你说不是吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;scicasts-新产品介绍-开放的经济:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;scicasts 新产品介绍—— 开放的经济&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://scicasts.com/insights/2123-open-science/11541-introducing-our-new-series-the-economy-of-open/&#34;&gt;Introducing Our New Series - The Economy of Open&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“开源”正在成为世界的主流，也正在被更多的人研究。而这也是scicasts所看到的！它的目的很明确：&lt;strong&gt;Our aim is to find people and organizations working to realize the ‘open (source) economy’.&lt;/strong&gt; 以及希望能够回答这样的问题：&lt;strong&gt;Can we, the humanity, make Open Economy work for us? And if we can - how should we do it?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;文中对 CERN 研究人员的采访蛮有意思，其中的观点我非常的赞同，如：开放的硬件是一种哲学！能够在学术界和工业界之间找到最佳的竞争力！&lt;/p&gt;
+
+&lt;p&gt;又发现一本好书！众筹中！&lt;a href=&#34;https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business&#34;&gt;overview and analysis of open business models&lt;/a&gt; 预计今年11月和大家见面。并以CC-BY-SA发布。十分期待中！&lt;/p&gt;
+
+&lt;p&gt;其余的就是招聘广告了。若是中文的话，我倒是非常的想参与进来！可是本土没有人做这件事。而我孤掌难鸣！正如我即将写的文章：开源的术与道，中会阐述的一样，本土更注重术，而极力的去避免谈道！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.3)</title>
@@ -965,82 +1051,6 @@
 &lt;p&gt;保加利亚通过的那条法律震惊了全世界。但是能否复制了呢？这是所有人应该思考的问题。&lt;/p&gt;
 
 &lt;p&gt;但是一涉及到政府，这事就复杂了。但无论怎么样，开源这件事情本身正在得到所有人的认可。为了纳税人，政府应该考虑开源软件！没错，以人为本的话，还能增加就业！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.7.20）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_20/</link>
-      <pubDate>Wed, 20 Jul 2016 06:33:00 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_20/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:56622cde75f6cc9253401805802e705c&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;清晰的定义和沟通团队目标:56622cde75f6cc9253401805802e705c&#34;&gt;清晰的定义和沟通团队目标&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/7/defining-and-communicating-team-goals&#34;&gt;Coffee Shop DevOps: Clearly defining and communicating team goals&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;团队，不再是一个人的事情，几乎任何事情都会涉及到沟通。当然，目标是重中之重。文中所举的例子可谓是开发者经常遇到的误解：言谈之中，所表达的意思！我个人的职业生涯，就是一直被误解所笼罩和包围。这是个哲学问题，也是个非常棘手的问题，由于每个人的学识、语言掌握程度等的不同，尤其是在很多词汇上会产生非常多的误解。这就是在团队建设中经常要共同阅读的缘由之一。&lt;/p&gt;
-
-&lt;p&gt;文中作者给出了三个解决问题的方法：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;逐个理解目标&lt;/li&gt;
-&lt;li&gt;集中注意力 &lt;strong&gt;In fact, give them your full attention.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;帮助你的团队去沟通&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;When you slow down, communicate clearly, and take the time to grasp the problem fully and make sure everyone is on the same page, all of these problems with understanding goals can be avoided.&lt;/strong&gt; 多么好的建议。可惜我到现在才学会 slow down。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源什么时候已经成为企业软件的默认的商业模式了:56622cde75f6cc9253401805802e705c&#34;&gt;开源什么时候已经成为企业软件的默认的商业模式了？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/has-open-source-become-the-new-default-business-model-for-enterprise-software/&#34;&gt;Has open source become the default business model for enterprise software?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;文章的一开始，作者就指出：&lt;strong&gt;open source is increasingly the rule, not the exception.&lt;/strong&gt;，基于这个结论，然后开始举了一些例子，如Cloudera、Cockroach Labs、sysdig等，然后提出疑问，如果这个开源项目是被一家公司所主导的，而又倡导不捆绑、锁定用户，这个该如何处理？接着举了MongoDB等例子，包括其社区的形式等。&lt;/p&gt;
-
-&lt;p&gt;甚至谈到了开源的价格模式，包括用户的心理习惯。**You pay by subscription rather than perpetual license plus support. **&lt;/p&gt;
-
-&lt;p&gt;**From a technology stack perspective, Amazon is the cloud equivalent of Oracle; **这样的观点，个人是非常认同的。公有云将会是开源的死敌！&lt;/p&gt;
-
-&lt;p&gt;那么究竟开源是否是企业软件的默认的商业模式了呢？请君阅读原文自己寻找答案！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源硬件-意味着什么以及它为何非常的重要:56622cde75f6cc9253401805802e705c&#34;&gt;开源硬件：意味着什么以及它为何非常的重要&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/open-source-hardware-what-it-means-and-why-it-matters&#34;&gt;Open Source Hardware: What It Means and Why It Matters&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源硬件渐成燎原之势，你我都应该去了解一下，尤其是IoT时代的来临。作为历史学家的作者，文章的阶段论是非常清晰的：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;什么是开源硬件？&lt;/li&gt;
-&lt;li&gt;开源硬件的由来&lt;/li&gt;
-&lt;li&gt;今天为什么说开源硬件非常的重要。（开源硬件对于IoT的重要性：安全、便宜。另外：**the software-defined revolution is likely to increase demand for open source hardware. **）&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://thevarguy.com/author/christopher-tozzi&#34;&gt;Christopher Tozzi&lt;/a&gt; 的文章会给你不一样的视野。尤其你是一名技术人员应该多读读他的文章。&lt;/p&gt;
-
-&lt;p&gt;我很认同的结语： ** open hardware solutions will become more valuable not only because they are likely to be inexpensive, but also because open specifications maximize the ability of programmers to take advantage of hardware features when optimizing software-defined solutions.** 不仅仅是成本的大众化！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
