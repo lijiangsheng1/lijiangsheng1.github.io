@@ -7,8 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 04 Aug 2016 06:30:06 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 05 Aug 2016 06:46:59 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.5)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.5%29/</link>
+      <pubDate>Fri, 05 Aug 2016 06:46:59 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.5%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:793b5b6e42d8d7825d3f2d641128a31f&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/government/GOV_2dot0.png?itok=dEihk225&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;让一名非程序员切换到开源:793b5b6e42d8d7825d3f2d641128a31f&#34;&gt;让一名非程序员切换到开源&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/8/my-linux-story-rute-correia&#34;&gt;Making the switch to open source as a non-programmer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这依然是一篇OpenSource.com 上关于“我和Linux的故事”其中的一篇。对于本文我只想引用一句话：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;quot;Dad, I killed Windows, but I just realized I still need it. Can you help me?&amp;quot;
+
+&amp;quot;No, you broke it, you fix it.&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这其中蕴含的道与术，就是真谛！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;索尼的-开源开发者英雄-奖项落入来自-xda-研发部门的-bumble-bee:793b5b6e42d8d7825d3f2d641128a31f&#34;&gt;索尼的“开源开发者英雄”奖项落入来自 XDA 研发部门的 Bumble-Bee&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.xda-developers.com/sonys-hero-open-source-developer-title-for-may-june-awarded-to-xda-rd-bumble-bee/&#34;&gt;Sony’s Hero Open Source Developer Title for May-June Awarded to XDA RD Bumble-Bee&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一度辉煌的索尼，也没能在手机市场搞出个模样来（当然比国内的山寨机还是好很多的。）。那么这样的争取开源的行动究竟会有何结果？开源硬件设计？招聘开发者？XDA 以破解著称，当然是见便宜就占了。&lt;/p&gt;
+
+&lt;p&gt;这是一个很好的反例，就开源之术来说。市场营销也要看消费者的口味，不是吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;今天的开源世界-我们如何应对:793b5b6e42d8d7825d3f2d641128a31f&#34;&gt;今天的开源世界：我们如何应对&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.enterprisetech.com/2016/08/02/open-source-world-today-got/&#34;&gt;The Open Source World of Today: How We Got Here &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;无论你是否承认，当今的技术都是被开源所主导的，需要我举一些例子嘛？让闭源继续苟且吧！世界在变不是吗？想要跟上快速的业务变化？你的数字变革不能快速实现？DevOps 或者 ITOps 走闭源的路线明显是条死胡同。&lt;/p&gt;
+
+&lt;p&gt;那么开源的商业模式究竟如何？大数据的Cloudera和Hortonworks，证明了商业模式的创新！我喜欢作者的这句话：&lt;strong&gt;we’re seeing new business models emerge. Time will tell which ones prove to be most profitable.&lt;/strong&gt; 我也在努力苦苦追寻的路上。&lt;/p&gt;
+
+&lt;p&gt;在利用开源，但是却闭源的例子中，作者举了Amazon这个例子！他迟早有一天会尝到苦果的。&lt;/p&gt;
+
+&lt;p&gt;**Long live open source. ** &lt;strong&gt;开源万岁！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.4)</title>
@@ -994,63 +1059,6 @@
 &lt;p&gt;其实这是SUSE的一篇软文，类似红帽的HR在OpenSource.com上发表文化招聘是一个道理。包括Linux基金会每年搞定工作调查也是一个道理。他们是开源商业化幕后的推动者。&lt;/p&gt;
 
 &lt;p&gt;SuSE 能够起死回生吗？照目前市场上的动作来看，还真有可能。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.7.21）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_21/</link>
-      <pubDate>Thu, 21 Jul 2016 06:14:18 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_21/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:a3aa980c2aef8edb33ebf6fb2802dbad&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://edge.alluremedia.com.au/m/l/2015/12/B9regjIIAAA8hqS.png-large.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;微软为何拥抱开源:a3aa980c2aef8edb33ebf6fb2802dbad&#34;&gt;微软为何拥抱开源？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.gurufocus.com/news/429499/why-did-microsoft-embrace-open-source&#34;&gt;Why Did Microsoft Embrace Open Source?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是个老生常谈的问题。这个世界没有永久的敌人，只有永久的生意。微软十几天所说的可以不算，因为今天一切都变了。开源渐成气候，成为企业默认的选择。&lt;/p&gt;
-
-&lt;p&gt;作者认为主要的缘由有两个：0、微软操作系统在移动手机领域的失策，包括收购诺基亚这样的败笔。1、云计算的根基，看AWS、IBM、Google，IaaS平台的根基就是开源技术。开源技术意味着低价和高效，为什么要对着干了呢？
-至于目前为止所做的一系列的事情，其实远远不够，个人以为，微软并未真正理解开源！开源绝对不仅仅是将代码开源！而是关注人本身、关注社区、关注文化！将目标投向代码，无异于舍本逐末。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;阿迪达斯将致力于速度-关键城市和开源:a3aa980c2aef8edb33ebf6fb2802dbad&#34;&gt;阿迪达斯将致力于速度、关键城市和开源&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.fibre2fashion.com/news/apparel-news/adidas-to-focus-on-speed-key-cities-and-open-source-190669-newsdetails.htm?page=2&#34;&gt;Adidas to focus on speed, key cities and open source - See more at: http://www.fibre2fashion.com/news/apparel-news/adidas-to-focus-on-speed-key-cities-and-open-source-190669-newsdetails.htm?page=2#sthash.81A3jX22.dpuf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;关注开源的人们应该对于前几天Nike开源其几个代码库的新闻还有所记忆。正如《历史的终结》所表达的一样，人类默认会选择透明、共享、开放的途径去完成一些事情，历史已经或多或少的证明了这一观点。开源已经从软件领域向其他领域渗透，如政府、教育，以及现在看到的服装著名品牌——Adidas！&lt;/p&gt;
-
-&lt;p&gt;具体要做的事情就是：&lt;strong&gt;Open Source, the group&amp;rsquo;s third strategic choice, is an endeavour to build a unique collaborative network and invites athletes, creatives, consumers and other partners to help shape the future of sport and sports culture.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;To increase its own creative capital and gain new perspectives, the Adidas Group is providing these externals with access to internal tools, including the archive, materials, factories and data.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;保加利亚的政府采用开源的法律能否在世界范围内传播:a3aa980c2aef8edb33ebf6fb2802dbad&#34;&gt;保加利亚的政府采用开源的法律能否在世界范围内传播？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/could-bulgarias-open-source-law-transform-government-software-worldwide/&#34;&gt;Could Bulgaria&amp;rsquo;s open source law transform government software worldwide?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;保加利亚通过的那条法律震惊了全世界。但是能否复制了呢？这是所有人应该思考的问题。&lt;/p&gt;
-
-&lt;p&gt;但是一涉及到政府，这事就复杂了。但无论怎么样，开源这件事情本身正在得到所有人的认可。为了纳税人，政府应该考虑开源软件！没错，以人为本的话，还能增加就业！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
