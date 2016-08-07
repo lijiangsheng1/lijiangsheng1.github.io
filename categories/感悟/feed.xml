@@ -7,8 +7,87 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 05 Aug 2016 06:46:59 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 08 Aug 2016 06:24:28 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.8)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.8%29/</link>
+      <pubDate>Mon, 08 Aug 2016 06:24:28 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.8%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:51a309d1f8c9cda7a611ceba19ae996f&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源-助力创新和数字变革:51a309d1f8c9cda7a611ceba19ae996f&#34;&gt;开源：助力创新和数字变革&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://formtek.com/blog/open-source-fuel-powering-innovation-and-digital-transformation/&#34;&gt;Open Source: Fuel Powering Innovation and Digital Transformation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一篇短小的对于开源的历史和现在的总结。但足以说明开源对于世界的影响。最关键的还将开源软件的历史脉络描述清楚了。&lt;/p&gt;
+
+&lt;p&gt;值得在开源的布道中借鉴和学习。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;我们这个时代最具影响力的9位技术领导者:51a309d1f8c9cda7a611ceba19ae996f&#34;&gt;我们这个时代最具影响力的9位技术领导者&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/forbestechcouncil/2016/08/05/the-nine-most-influential-technology-leaders-of-our-time/#5fe523bd1b62&#34;&gt;The Nine Most Influential Technology Leaders Of Our Time&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Forbes观点，从 Tim Berners-Lee 发明了互联网以来，我们的技术日新月异。且看都有哪9位：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Google的两名创始人，将企业界的创新发挥到了前所未有的高度。&lt;/li&gt;
+&lt;li&gt;Doug Cutting ，竟然名列第二！就是Nutch 和大名鼎鼎的 Hadoop的开发者！&lt;/li&gt;
+&lt;li&gt;Blockchain 的背后发明者。Blockchain 真的将改变世界？&lt;/li&gt;
+&lt;li&gt;Elon Musk ，没二话说。&lt;/li&gt;
+&lt;li&gt;Aneel Bhusri and Marc Benioff ，SaaS的发现，改变了整个企业界。&lt;/li&gt;
+&lt;li&gt;Mark Zuckerberg ，嗯，就是哪位试图和中国的高层搞好关系的人。&lt;/li&gt;
+&lt;li&gt;Steve Jobs ，这里喔引用下稳重对这位大神的评价：&lt;strong&gt;He understood how to seamlessly mix incredible design with cutting-edge technology to generate addictive user experiences in a way no one else could. He knew how to breathe magic and life into chips and silicon, aluminum and glass.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Marc Benioff, Salesforce.com的CEO。嗯，很多未来得及转型的传统应用厂商都成为了历史的炮灰。而Salesforce在销售软件中继续向ERP和CRM扩张。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;看起来本文的选择和开源关系不太大？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://s.aolcdn.com/dims5/amp:661ac8f99738991d6ff9599e7c7afbb7da472094/q:100/?url=http%3A%2F%2Fo.aolcdn.com%2Fdims-shared%2Fdims3%2FGLOB%2Fcrop%2F3717x2478%2B0%2B0%2Fresize%2F1600x1067%21%2Fformat%2Fjpg%2Fquality%2F85%2Fhttp%3A%2F%2Fhss-prod.hss.aol.com%2Fhss%2Fstorage%2Fmidas%2F406fbe970e0e41fd6e4f81e4d0fafc8f%2F200018269%2F167798468.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;25年前全球首个web站点发布:51a309d1f8c9cda7a611ceba19ae996f&#34;&gt;25年前全球首个web站点发布&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.engadget.com/2016/08/06/first-website-went-public-25-years-ago/&#34;&gt;The first website went public 25 years ago&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，只有短短的二十五年，互联网深刻的改变了世界。这大概是福山所始料未及的，技术本身也符合他的理论判断。趋于开放！作为科技的缔造者们——工程师们，也会选择互联网这样全球开放的地方作为得到承认的首选。于是开源势不可挡！历史的终结和最后的人——止于开源。&lt;/p&gt;
+
+&lt;p&gt;历史：&lt;strong&gt;when NCSA released the first widely popular web browser (Mosaic) and CERN helped adoption by making the web&amp;rsquo;s software both free and open source.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;act-呼吁政府支持开源软件:51a309d1f8c9cda7a611ceba19ae996f&#34;&gt;ACT 呼吁政府支持开源软件&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.nbr.co.nz/article/act-calls-government-support-open-source-software-ck-192644&#34;&gt;ACT calls on government to support open source software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;你有没有觉得很奇怪？为何又是民主国家走在了前面，在落后的社会主义认为开源是和发达国家开展竞争机会的时候，悄悄的将之偷换为国产软件，然后走封闭路线，欺骗自己说自主知识产权。反观走在前面的公司，已经看到了开源是未来的发展趋势，而威权式的社会精英们依然试图去欺骗大众。&lt;/p&gt;
+
+&lt;p&gt;GFW 最大的作用，就是在落后与先进之间筑起高墙，然后特权阶层利用这个空档，赚个盆钵满贯。去你的自由民主，愚民才是最大的财富。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.5)</title>
@@ -743,41 +822,80 @@
 &lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;###&lt;/p&gt;
+&lt;p&gt;曾几何时，听到有人为Apache下了这么一个论断：若是没有Hadoop项目，Apache可能就没有今天。国外社区成功运营，尤其是近来OpenStack、Linux基金会的商业化运营。本土的一些人，看着“眼红”。看看最近微信圈内各种打着开源、社区的旗号举办各种沙龙、“研讨会”就可以看到了。当然最为成功的还是上个月搞的OpenStack China Day。&lt;/p&gt;
+
+&lt;p&gt;看到这样的新闻，即某个项目发布新版本的消息，我一般情况是无动于衷的。但是这篇Apache的孵化机制，井喷式的多个项目升级为顶级项目，还是少见。而且均集中在大数据领域，让我不得不深思起来。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;原文链接：[]()&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这个世界上没有“killer”式的项目和产品，解决用户面临所有的问题。&lt;/li&gt;
+&lt;li&gt;根据自己业务所面临的问题，以大数据的思路，提出解决办法，并开放出来，让同行们一起攻克。&lt;/li&gt;
+&lt;li&gt;大数据涉及的行业有：retail, online service delivery, risk management, and digital advertising&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_OpenInnovation.png?itok=RRGJlk0d&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;系统管理员应该使用版本控制的5个理由:4df3ce8cb8575690603845f24e7d4348&#34;&gt;系统管理员应该使用版本控制的5个理由&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/7/systems-administrators-should-use-revision-control&#34;&gt;5 reasons system administrators should use revision control&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
+&lt;p&gt;无论你是否承认，版本控制在现代的基础设施运维当中都占据了重要的位置。本文作者竟然发现至今还有的公司在运维中没有采用版本控制系统，如Git、SVN。所以列出了运维当中的日常工作，使用了版本控制有何好处，如：&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;###&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;能够随时将状态恢复到原来的样子。&lt;/li&gt;
+&lt;li&gt;使用pre-commit的脚本。&lt;/li&gt;
+&lt;li&gt;可以将所有的放入代码审核系统。&lt;/li&gt;
+&lt;li&gt;为每一条commit做测试&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;原文链接：[]()&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;有很多人在提倡DevOps，但是叫嚣了8年的理念，至今仍然未被人们所接受。而其中，运维人员引入版本控制系统是第一步而已，而且还是技术上的。DevOps遇到最大的障碍不是技术，而是文化和习惯！尤其是大型的公司所养育的臃肿的、庞大的、分工精细的运维团队。拭目以待吧，业务推动技术，技术影响业务。那些阻碍历史车轮的人，总会被无情的淘汰。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;virtuozzo-发布了基于开源技术和优化的-kvm-超融合方案:4df3ce8cb8575690603845f24e7d4348&#34;&gt;Virtuozzo 发布了基于开源技术和优化的 KVM 超融合方案&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.businesswire.com/news/home/20160725005242/en/Virtuozzo-Launches-Updated-Hyper-Converged-Solution-Utilizing-Open&#34;&gt;Virtuozzo Launches Updated Hyper-Converged Solution Utilizing Open Source Technology and Optimized KVM&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
+&lt;p&gt;我一向不认为超融合能够成气候，历史已经证明这是个完全的错误，如SUN、VA Linux、以及做OpenStack的第一家倒闭的公司。&lt;/p&gt;
+
+&lt;p&gt;或者换一种叫法，在开源下搞封闭的硬件集成就是死路一条！&lt;/p&gt;
+
+&lt;p&gt;我们在饭回来看Virtuozzo，这个历史上搞操作系统级虚拟化的厂商，现在想靠开源的虚拟化（服务器虚拟化和操作系统虚拟化，对应的项目是KVM 和 Dokcer）咸鱼翻身？优化的KVM？Readykernel？Ceph？这是大多数本土厂商所搞得事情。致命的原因，还是没有理解好开源，在产品的开发上首先输了一招。不肯放手自己所雇佣的员工为社区贡献，就难以在社区成气候。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;###&lt;/p&gt;
+&lt;h3 id=&#34;企业不采用开源软件的缘由:4df3ce8cb8575690603845f24e7d4348&#34;&gt;企业不采用开源软件的缘由&lt;/h3&gt;
 
-&lt;p&gt;原文链接：[]()&lt;/p&gt;
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/reasons-organizations-opt-not-use-open-source-software&#34;&gt;Reasons Organizations Opt Not to Use Open Source Software&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
+&lt;p&gt;我大体列举一下我所了解的本土不采用开源的缘由：&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;###&lt;/p&gt;
-
-&lt;p&gt;原文链接：[]()&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;质量低劣。&lt;/li&gt;
+&lt;li&gt;缺乏文档。&lt;/li&gt;
+&lt;li&gt;认为自身技术力量不足。&lt;/li&gt;
+&lt;li&gt;产品化程度不够。&lt;/li&gt;
+&lt;li&gt;技术支持跟不上。&lt;/li&gt;
+&lt;li&gt;未来不确定性太高。&lt;/li&gt;
+&lt;li&gt;离自己所理解的需求相去甚远&lt;/li&gt;
+&lt;li&gt;公司政策，领导迂腐不化&lt;/li&gt;
+&lt;li&gt;预算花不出去，招人又没有名额&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;blockquote&gt;
+&lt;p&gt;然后再读Tozzi 的文章，就会觉得他说的离本土很远！比如开源不是免费、安全性、竞争需要、PaaS的吞噬都是狠技术、很“理想化”的。 慢慢来！凡事急不得。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -933,73 +1051,6 @@
 
 &lt;p&gt;Cyanogen 改变了自己的商业模式，那是否又意味着Android在重新洗牌？中科创达这样的公司是否也该转型？能否突围？还是死于IoT？拭目以待！&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.23)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_23/</link>
-      <pubDate>Sat, 23 Jul 2016 23:05:45 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_23/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:9eb95c77dc128842ef6ace8f0e24347a&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;wire-为汽车和物联网带来了加密的聊天过程:9eb95c77dc128842ef6ace8f0e24347a&#34;&gt;Wire 为汽车和物联网带来了加密的聊天过程&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/07/22/wire-open-source/&#34;&gt;Wire Wants to Bring Encrypted Chat to Cars and the Internet of Things&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;世界正在变得越来越精细，细到某个看不到的组件。如果你未能认识到某个组件，那么你也无法去了解整个产业，然后，终将一无所知。&lt;/p&gt;
-
-&lt;p&gt;Forune 的开源文章我越来越喜欢了。每年的篇数虽然不多，但多是精品，比如去年的关于AI的开源评价，可谓是中肯、准确而冷静。&lt;/p&gt;
-
-&lt;p&gt;本篇的Wire是Skyper的联合创始人出来创业搞得公司，是开源的，并且列举了应用场景。最后同类的产品有哪些：如WhatApp、Facebook、Google等大鳄！&lt;/p&gt;
-
-&lt;p&gt;从本文悟出一个道理，那就是作为行家你得了解最为细节的内容！然后再谈能否打动消费者。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/01/nothing-to-fear-thinkstock-100563717-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;你所担心的开源会锁定你是杞人忧天:9eb95c77dc128842ef6ace8f0e24347a&#34;&gt;你所担心的开源会锁定你是杞人忧天&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3098426/open-source-tools/your-fear-of-open-source-lock-in-is-ridiculous.html&#34;&gt;Your fear of open source lock-in is ridiculous&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;锁定是软件的天性之一，开源也不过是软件罢了!&lt;/strong&gt; 这话一点错都没有，简直是无懈可击！本文的信息量是非常大的。有&lt;a href=&#34;http://www.dbms2.com/2016/07/19/notes-on-vendor-lock-in/&#34;&gt;对于锁定的摘要&lt;/a&gt;、&lt;a href=&#34;http://www.infoworld.com/article/3095894/cloud-computing/why-cloud-workload-portability-is-a-pipe-dream.html&#34;&gt;公有云平台的移植性&lt;/a&gt;、&lt;a href=&#34;http://www.gartner.com/newsroom/id/3143718&#34;&gt;Gartner对于云计算失败的原因分析&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;最后给出了如何避免开源的锁定。无锁定是一些公司商业上的口号，如开源届最为成功的红帽！但是真的是否锁定，这要看公司的文化和价值观的问题。如何雇佣、对待开发者，即人性、民主的事情。是否相信人本身！才是这个命题的关键。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;保护开源软件的供应链:9eb95c77dc128842ef6ace8f0e24347a&#34;&gt;保护开源软件的供应链&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://gcn.com/articles/2016/07/22/software-supply-chain.aspx&#34;&gt;Protecting the open source software supply chain&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Sonatype 的这份&lt;a href=&#34;http://www.sonatype.com/software-supply-chain&#34;&gt;报告&lt;/a&gt;，从发布哪天起，我就在我的浏览器中存活了。说实话，我没有去看，等待有闲时间去看（这通常是谎言）。那么这篇文章适合快速的了解，而不需要通篇阅读哪些无聊的数据。&lt;/p&gt;
-
-&lt;p&gt;Sonatype 在 Java 界那可是鼎鼎大名，即 Maven 的原创公司！Sonatype 所运营的中心仓库是 java 开发者社区的开源组件的公共仓库，是全球排名靠前的大型仓库之一。通过对310亿的下载请求、3000个公司和25000个应用的软件组件的分析，得出如下结论：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;开源组件的供应是非常巨大的&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;供应的提供商的网络需求正在迅速增长&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;并非所有的部分都是被公平的创建&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;软件供应链管理实践开始受到重视和支持&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;本文应该记住一句话：&lt;strong&gt;&amp;ldquo;Because 80 to 90 percent of today’s software applications are made of component parts, and increasingly, open source components,  defect rates and security and quality issues abound within the software supply chain.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
