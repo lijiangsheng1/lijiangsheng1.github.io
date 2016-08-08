@@ -7,8 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 08 Aug 2016 06:24:28 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 09 Aug 2016 06:36:49 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.9)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.9%29/</link>
+      <pubDate>Tue, 09 Aug 2016 06:36:49 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.9%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:91de2e97bcc3df18bdbe82e651289532&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;白宫刚刚颁布了联邦源代码政策-目的是帮助政府如何开源代码:91de2e97bcc3df18bdbe82e651289532&#34;&gt;白宫刚刚颁布了联邦源代码政策，目的是帮助政府如何开源代码&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/08/08/the-white-house-just-released-the-federal-source-code-policy-to-help-government-agencies-go-open-source/&#34;&gt;The White House just released the Federal Source Code policy to help government agencies go open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;看看就可以了，建议本土的政府官员们读读这份备忘录。有以下几点信息可以参考：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;文中不断提到节省纳税人的钱。&lt;/li&gt;
+&lt;li&gt;gov.cn 在不久的将来就会发布。值得期待。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“ensuring Government-wide reuse rights for custom code that is developed using Federal funds has numerous benefits for American taxpayers.”&lt;/strong&gt;这其实是Inner-Source的根本。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_community_1.png?itok=ThtWBAjd&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何使用gource来将代码仓库可视化:91de2e97bcc3df18bdbe82e651289532&#34;&gt;如何使用Gource来将代码仓库可视化&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/8/intro-to-gource&#34;&gt;How to use Gource to visualize your code repos (and more)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，如果你不熟悉Git和Gource的话，绝佳的入门文章。之所以选择这篇文章是因为自己曾经，具体点说是在云端时代做过这样的事情。使用Gource将团队所有成员的commit提交做成了动画！在此也是推广一下这个酷炫的工具。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;从开源到开放社会-能够做到跨越信任吗:91de2e97bcc3df18bdbe82e651289532&#34;&gt;从开源到开放社会，能够做到跨越信任吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://sticknz.net/2016/08/08/is-it-really-possible-to-cross-credit-open-source-to-open-society/&#34;&gt;Is it really possible to cross-credit open source to open society?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一个严肃的问题，就想我在怀疑自己一样，我在问我自己，你思考开源的道有意义吗？照着术往下走就好了。当面对周围的压力的时候，尤其在怀疑自己的所作所为。在本土，一旦涉及到和文化、政治相关的事情，人们视之为禁忌之谈。&lt;/p&gt;
+
+&lt;p&gt;历史的终结，也是一个漫长的过程。中间还可能遇到很多的反弹、极端。更何况渺小的个人所遭遇的。或许正是因为渺小而卑微的遭遇和做事方式，最后决定了所谓的民族、国家等大鳄。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.8)</title>
@@ -973,83 +1029,6 @@
 &lt;p&gt;注意这样一个人： Amir Michael，原Google 和Facebook的硬件工程师，也是开放计算项目（Open conputing Project）的发起人之一。Facebook的开源数据中心和硬件设计的发起人。Coolan是一家做数据中心管理的软件公司。（有什么不对劲的地方？）&lt;/p&gt;
 
 &lt;p&gt;这不得不反思收购现象在本土文化！本土文化不是培育，而是恶性的合并。吐槽点太多，懒得提。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.24)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_24/</link>
-      <pubDate>Sun, 24 Jul 2016 19:14:48 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_24/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:2057beede7710dcbc6a7016bea3aeaf1&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/life_bank_vault_secure_safe.png?itok=k9QlsRCB&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;预防下一个-heartbleed-的突袭-让-foss-更加的安全:2057beede7710dcbc6a7016bea3aeaf1&#34;&gt;预防下一个 Heartbleed 的突袭，让 FOSS 更加的安全&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/7/interview-david-wheeler-making-foss-more-secure&#34;&gt;Preventing the next Heartbleed and making FOSS more secure&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一篇绝佳的扫盲文章，有关开源软件的安全、漏洞问题日益的突出，不仅仅是敏感的商业发起者，还有政府等部门。&lt;/p&gt;
-
-&lt;p&gt;所谓的扫盲有几点：比如Linux基金会的CII是什么？美国的法律有几何？一些老的开源项目目前的状况如何？下面就看看采访人说出的可能是你不知道的关于开源项目的状况：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;有很多项目并未采用公开的版本控制仓库，这就导致其很难的参与和跟踪。&lt;/li&gt;
-&lt;li&gt;依然有很多项目是没有自动编译、自动构件和自动化测试的。&lt;/li&gt;
-&lt;li&gt;有很多项目是没有许可证的。&lt;/li&gt;
-&lt;li&gt;很多的开源开发者依然是没有安全的意识的。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;开源的人工智能:2057beede7710dcbc6a7016bea3aeaf1&#34;&gt;开源的人工智能&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://ostatic.com/blog/an-open-source-ai-onslaught&#34;&gt;An Open Source AI Onslaught&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;今天在北京南站候车室的一个小书店里看到一份杂志，我见过的买的最贵的杂志。主要是其页数不多。名称叫做《中欧商业评论》，和常见的《商业周刊》差不多的厚度，但是价格竟然高达80元人民币，是同类的8倍。于是我就翻了翻它的内容：7月份，赫然就是——人工智能的商业！结论下的很惊人，未来无AI，不商业！&lt;/p&gt;
-
-&lt;p&gt;无独有偶，对于人工智能从去年开始，就成为了IT大鳄们角逐的领域。其中，开源是他们各自的兵器谱。Google 率先以TensorFlow 首开先河，其它厂家接踵而至——Facebook、微软、IBM&amp;hellip;&amp;hellip;这场战争本土的公司只有看得份。那些个光是忙着敛钱而没有底线的、或者是圈地了零售市场的却以为自己是个圣人的大杂货铺的等等就不值一提了。&lt;/p&gt;
-
-&lt;p&gt;开源成为了各IT大鳄角逐标准和划分势力范围的工具，我想这是Raymand当年没有预料到的。AI的未来没有人质疑！但是就忘记本土吧。文化不随历史的车轮前行，终将会被湮灭。“师夷长技以制夷”，“中学为体，西学为用”，经过了150多年的证明，是行不通的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;photon-controller-现在开源了-这对于-vmware-环境及其性能监控意味着什么:2057beede7710dcbc6a7016bea3aeaf1&#34;&gt;Photon Controller 现在开源了：这对于 VMWare 环境及其性能监控意味着什么&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.opvizor.com/blog/photon-controller-now-open-source-means-vmware-environment-vmware-performance-monitoring/&#34;&gt;Photon Controller is Now Open Source: What This Means for Your VMware Environment &amp;amp; VMware Performance Monitoring&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我一般不会遴选这些开源软件的新闻或市场软文，今天的例外是着重思考一下VMWare对于开源的战略和策略。我们都知道VMWare的产品和开源有着非常密切的关系，他们将开源的利用发挥到极致！从Kernel到openssl、GNU 等工具，乃至收购等各种开源公司。今年早些时候，还想收购Linux基金会。&lt;/p&gt;
-
-&lt;p&gt;Docker 真的威胁到 VMWare了吗？或许火星人能够猜测得到。但是目前来说无论是IaaS平台、虚拟化Hypervisor、乃至容器Docker等都没有威胁到VMWare的江湖地位。这是一家在技术、营销、市场都是十分成功的公司！值得让人学习！尤其注意其在开源方面的动向！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;(本文的想法来自于和一位业内人士的交流，他对VMware当年收购Spring的举动是异常的佩服。也引起了我的思考。)&lt;/p&gt;
-
-&lt;h3 id=&#34;八卦-android-操作系统著名发行公司cyanogen准备裁员了:2057beede7710dcbc6a7016bea3aeaf1&#34;&gt;八卦：Android 操作系统著名发行公司Cyanogen准备裁员了&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.geekwire.com/2016/report-android-os-maker-cyanogen-cuts-significant-amount-employees/&#34;&gt;Report: Android OS-maker Cyanogen cuts ‘significant’ amount of employees&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这条新闻纯粹是闲着无聊，蛋疼的结果。Android 离我其实很远！ 这个由Google主导的开源项目，对于我来说就是会给人们讲一些不要脱离开源去分支的反例而已。即它当年尝试fork 内核的举动。虽然我有很多疑问，但是没有兴趣去研究和调查。阿里能否利用300余人的研发力量，脱离Android？打造出自己的生态？小米未在开源发力，迷失在自己频繁的项目／产品／机型／当中，华为自己又该如何抉择？模仿三星？不得而知。&lt;/p&gt;
-
-&lt;p&gt;Cyanogen 改变了自己的商业模式，那是否又意味着Android在重新洗牌？中科创达这样的公司是否也该转型？能否突围？还是死于IoT？拭目以待！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

@@ -7,8 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 08 Aug 2016 06:24:28 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 09 Aug 2016 06:36:49 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.9)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.9%29/</link>
+      <pubDate>Tue, 09 Aug 2016 06:36:49 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.9%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:91de2e97bcc3df18bdbe82e651289532&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;白宫刚刚颁布了联邦源代码政策-目的是帮助政府如何开源代码:91de2e97bcc3df18bdbe82e651289532&#34;&gt;白宫刚刚颁布了联邦源代码政策，目的是帮助政府如何开源代码&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/08/08/the-white-house-just-released-the-federal-source-code-policy-to-help-government-agencies-go-open-source/&#34;&gt;The White House just released the Federal Source Code policy to help government agencies go open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;看看就可以了，建议本土的政府官员们读读这份备忘录。有以下几点信息可以参考：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;文中不断提到节省纳税人的钱。&lt;/li&gt;
+&lt;li&gt;gov.cn 在不久的将来就会发布。值得期待。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“ensuring Government-wide reuse rights for custom code that is developed using Federal funds has numerous benefits for American taxpayers.”&lt;/strong&gt;这其实是Inner-Source的根本。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_community_1.png?itok=ThtWBAjd&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何使用gource来将代码仓库可视化:91de2e97bcc3df18bdbe82e651289532&#34;&gt;如何使用Gource来将代码仓库可视化&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/8/intro-to-gource&#34;&gt;How to use Gource to visualize your code repos (and more)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，如果你不熟悉Git和Gource的话，绝佳的入门文章。之所以选择这篇文章是因为自己曾经，具体点说是在云端时代做过这样的事情。使用Gource将团队所有成员的commit提交做成了动画！在此也是推广一下这个酷炫的工具。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;从开源到开放社会-能够做到跨越信任吗:91de2e97bcc3df18bdbe82e651289532&#34;&gt;从开源到开放社会，能够做到跨越信任吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://sticknz.net/2016/08/08/is-it-really-possible-to-cross-credit-open-source-to-open-society/&#34;&gt;Is it really possible to cross-credit open source to open society?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一个严肃的问题，就想我在怀疑自己一样，我在问我自己，你思考开源的道有意义吗？照着术往下走就好了。当面对周围的压力的时候，尤其在怀疑自己的所作所为。在本土，一旦涉及到和文化、政治相关的事情，人们视之为禁忌之谈。&lt;/p&gt;
+
+&lt;p&gt;历史的终结，也是一个漫长的过程。中间还可能遇到很多的反弹、极端。更何况渺小的个人所遭遇的。或许正是因为渺小而卑微的遭遇和做事方式，最后决定了所谓的民族、国家等大鳄。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.8)</title>
@@ -1035,73 +1091,6 @@
 
 &lt;p&gt;Cyanogen 改变了自己的商业模式，那是否又意味着Android在重新洗牌？中科创达这样的公司是否也该转型？能否突围？还是死于IoT？拭目以待！&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.23)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_23/</link>
-      <pubDate>Sat, 23 Jul 2016 23:05:45 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_23/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:9eb95c77dc128842ef6ace8f0e24347a&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;wire-为汽车和物联网带来了加密的聊天过程:9eb95c77dc128842ef6ace8f0e24347a&#34;&gt;Wire 为汽车和物联网带来了加密的聊天过程&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/07/22/wire-open-source/&#34;&gt;Wire Wants to Bring Encrypted Chat to Cars and the Internet of Things&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;世界正在变得越来越精细，细到某个看不到的组件。如果你未能认识到某个组件，那么你也无法去了解整个产业，然后，终将一无所知。&lt;/p&gt;
-
-&lt;p&gt;Forune 的开源文章我越来越喜欢了。每年的篇数虽然不多，但多是精品，比如去年的关于AI的开源评价，可谓是中肯、准确而冷静。&lt;/p&gt;
-
-&lt;p&gt;本篇的Wire是Skyper的联合创始人出来创业搞得公司，是开源的，并且列举了应用场景。最后同类的产品有哪些：如WhatApp、Facebook、Google等大鳄！&lt;/p&gt;
-
-&lt;p&gt;从本文悟出一个道理，那就是作为行家你得了解最为细节的内容！然后再谈能否打动消费者。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/01/nothing-to-fear-thinkstock-100563717-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;你所担心的开源会锁定你是杞人忧天:9eb95c77dc128842ef6ace8f0e24347a&#34;&gt;你所担心的开源会锁定你是杞人忧天&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3098426/open-source-tools/your-fear-of-open-source-lock-in-is-ridiculous.html&#34;&gt;Your fear of open source lock-in is ridiculous&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;锁定是软件的天性之一，开源也不过是软件罢了!&lt;/strong&gt; 这话一点错都没有，简直是无懈可击！本文的信息量是非常大的。有&lt;a href=&#34;http://www.dbms2.com/2016/07/19/notes-on-vendor-lock-in/&#34;&gt;对于锁定的摘要&lt;/a&gt;、&lt;a href=&#34;http://www.infoworld.com/article/3095894/cloud-computing/why-cloud-workload-portability-is-a-pipe-dream.html&#34;&gt;公有云平台的移植性&lt;/a&gt;、&lt;a href=&#34;http://www.gartner.com/newsroom/id/3143718&#34;&gt;Gartner对于云计算失败的原因分析&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;最后给出了如何避免开源的锁定。无锁定是一些公司商业上的口号，如开源届最为成功的红帽！但是真的是否锁定，这要看公司的文化和价值观的问题。如何雇佣、对待开发者，即人性、民主的事情。是否相信人本身！才是这个命题的关键。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;保护开源软件的供应链:9eb95c77dc128842ef6ace8f0e24347a&#34;&gt;保护开源软件的供应链&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://gcn.com/articles/2016/07/22/software-supply-chain.aspx&#34;&gt;Protecting the open source software supply chain&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Sonatype 的这份&lt;a href=&#34;http://www.sonatype.com/software-supply-chain&#34;&gt;报告&lt;/a&gt;，从发布哪天起，我就在我的浏览器中存活了。说实话，我没有去看，等待有闲时间去看（这通常是谎言）。那么这篇文章适合快速的了解，而不需要通篇阅读哪些无聊的数据。&lt;/p&gt;
-
-&lt;p&gt;Sonatype 在 Java 界那可是鼎鼎大名，即 Maven 的原创公司！Sonatype 所运营的中心仓库是 java 开发者社区的开源组件的公共仓库，是全球排名靠前的大型仓库之一。通过对310亿的下载请求、3000个公司和25000个应用的软件组件的分析，得出如下结论：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;开源组件的供应是非常巨大的&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;供应的提供商的网络需求正在迅速增长&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;并非所有的部分都是被公平的创建&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;软件供应链管理实践开始受到重视和支持&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;本文应该记住一句话：&lt;strong&gt;&amp;ldquo;Because 80 to 90 percent of today’s software applications are made of component parts, and increasingly, open source components,  defect rates and security and quality issues abound within the software supply chain.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
