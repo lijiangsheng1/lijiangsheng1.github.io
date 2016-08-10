@@ -7,8 +7,76 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 10 Aug 2016 06:14:39 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Aug 2016 06:18:46 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.11)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.11%29/</link>
+      <pubDate>Thu, 11 Aug 2016 06:18:46 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.11%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:b12b483c10cb95e837d58fee0be91e2d&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_barnraising.png?itok=GVGyhiYy&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如果你开源了自己的项目-但是却没有人来参与-为什么你的项目需要好的营销:b12b483c10cb95e837d58fee0be91e2d&#34;&gt;如果你开源了自己的项目，但是却没有人来参与：为什么你的项目需要好的营销&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/8/if-you-build-it-they-wont-come&#34;&gt;If you build it, they won&amp;rsquo;t come: Why your project needs better marketing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，这个世界上太多的开源项目了，正如信息的泛滥一样，假如你习惯于使用特别烂的搜索引擎，那么想找到一个自己想要的项目是非常困难的。&lt;/p&gt;
+
+&lt;p&gt;我们转换一下视角，现在的情况是你自己有项目想开源，或者是自己在GitHub上创建的有项目，但是就是无人问津，是怎么一回事了呢？本文一语道破玄机：&lt;strong&gt;They don&amp;rsquo;t know you exist.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;这是一个需要人们参与协作的经济时代，已经难以找出孤胆英雄了。如果你不去招徕更多的人加入进来，贡献他们的想法与实践，那么就走不远。这也就是为何开源被哄抬到了主流上来的原因。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;企业将爆发式的采购开源:b12b483c10cb95e837d58fee0be91e2d&#34;&gt;企业将爆发式的采购开源&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/enterprise-cloud/open-source-explodes-enterprise-procurement/d/d-id/725320&#34;&gt;Open Source Explodes Enterprise Procurement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是对Martin Casado的采访整理而成的文稿，Casado 就是被VMWare 收购的网络公司Nicira的联合创始人。现在转做风险投资人（VC），他对开源有一些自己的理解和认识，毕竟OpenvSwitch依然是事实上的标准。以下是我认为很好的观点：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;开发者不再需要采购流程了，他们只需要刷信用卡，按照自己的需求来决定自己的基础设施。（听起来似乎很美好，但是执行起来有些悲观，尤其是传统的企业。）&lt;/li&gt;
+&lt;li&gt;开源很难赚钱，Casado quoted an estimate that $7 billion has gone into open source investment, but only $1 billion has returned. 这个回报率似乎不是资本家们喜欢的。&lt;/li&gt;
+&lt;li&gt;他还认为红帽的模式已经过时，即提供 on-premises的开源软件产品，兜售订阅和服务。（但是很多本土的公司，连红帽的模式都还没有达到。）&lt;/li&gt;
+&lt;li&gt;The new model, which companies are succeeding with, is open-source-as-a-service. 开源即服务。听起来难以理解。&lt;/li&gt;
+&lt;li&gt;Casado还举了几个开源成功的案例：GitHub、Databricks、Cazena。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源即服务，引起我的深思。就我现在的了解，对于开源的认识，本土的情况非常的复杂。但是不可谓是一条出路。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;linkedin-在微软的政策下走开源:b12b483c10cb95e837d58fee0be91e2d&#34;&gt;LinkedIn：在微软的政策下走开源&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.eweek.com/developer/linkedin-open-sourcing-under-the-microsoft-regime.html&#34;&gt;LinkedIn: Open-Sourcing Under the Microsoft Regime&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是所有人对于微软收购LinkedIn之后的，微软会干涉LinkedIn的开源文化的一个回应。文中很明确的指出：“the company will not only continue to open-source technology, but will try to teach Microsoft a lesson or two about working with the community.” 希望能变成现实。&lt;/p&gt;
+
+&lt;p&gt;微软确实在开源方面走的不是很远，虽然也看到它的努力。但是这绝对不是一个简单将代码开放的道理。有文化、流程等因素在里面。动的可不是小手术。&lt;/p&gt;
+
+&lt;p&gt;本文的其余部分，其实就是对于LinkedIn一直以来坚持开源的理念、文化和项目、方法论的一个回顾。多余的我就不多引用了。这里翻译一段它的态度：“从根本上来说，你要开源一个项目的话，首先你得是一个开源社区的好公民。要想成为开源社区的好公民，你就得做许多事情，诸如可编写出优质的代码，尤其不要去做一些挖坑、TODO之类的事情；确保它可以顺利编译，并且经过了测试，而且拥有良好的文档。”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.10)</title>
@@ -1008,83 +1076,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;然后再读Tozzi 的文章，就会觉得他说的离本土很远！比如开源不是免费、安全性、竞争需要、PaaS的吞噬都是狠技术、很“理想化”的。 慢慢来！凡事急不得。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.25)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_25/</link>
-      <pubDate>Mon, 25 Jul 2016 07:55:35 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_25/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:37a430ade43508b45bfa465e04e737e6&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://4.bp.blogspot.com/-xMkBAeGchvc/V5RDd4E6vRI/AAAAAAAACB4/Qqi_iRbXkMgzAazjztRutg9PsuFbfy93gCLcB/s1600/Open%2BSource%2BWord%2BCloud.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;为什么说开源将在数字时代的来临会大展宏图:37a430ade43508b45bfa465e04e737e6&#34;&gt;为什么说开源将在数字时代的来临会大展宏图？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://customerthink.com/why-open-source-is-gaining-momentum-in-digital-transformation/&#34;&gt;Why Open Source is gaining momentum in Digital Transformation?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;时代在变，如果你所认识到的开源还停留在用Linux替代Windows、MySQL替代Oracle 的时代的话，那么你该考虑下自己已经被抛下好远了。&lt;/p&gt;
-
-&lt;p&gt;在数字时代，开源扮演的是核心的角色。使用开源的几个优势：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;成本&lt;/li&gt;
-&lt;li&gt;加速上市时间&lt;/li&gt;
-&lt;li&gt;快速失败&lt;/li&gt;
-&lt;li&gt;安全&lt;/li&gt;
-&lt;li&gt;社区就是后备力量&lt;/li&gt;
-&lt;li&gt;可定制化&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;列举几个开源成功的例子：这个我就不多此一举了。开源成功的例子，现在可不是过去几年，每天开源的优秀项目让你不仅是目不暇接，还有审美疲劳的坏处。以下就是样本。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;领英开源了-rocket-data-layoutkit等项目:37a430ade43508b45bfa465e04e737e6&#34;&gt;领英开源了 Rocket Data、LayoutKit等项目&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.eweek.com/database/linkedin-open-sources-rocket-data-layoutkit-and-more.html&#34;&gt;LinkedIn Open-Sources Rocket Data, LayoutKit and More&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;微软收购了领英有一阵子了，那么让所有人担心的是微软对待开源文化颇深的领英如何处理。嗯，现在看起来是比较明朗的。正如有些人说的一样，微软的变化还是非常的快的，对外界对敏感度还是有的，大概是在移动操作系统的失势所领悟到的。微软的开源策略或战略是前所未有的明确！对于DC/OS的投入即可证明这一点。大肆点笼络开源人才、开源一些项目等等。&lt;/p&gt;
-
-&lt;p&gt;但公司大，文化、惯性是其致命的软肋！试图想干预社区，依靠金钱的投入来掌控未来。拭目以待，不仅是微软，其实微软不过是一个被效仿的对象罢了。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;呼叫web开发者-我们需要你们的帮助:37a430ade43508b45bfa465e04e737e6&#34;&gt;呼叫web开发者：我们需要你们的帮助！&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://theindependent.ca/2016/07/23/web-developers-we-need-your-help/&#34;&gt;Web developers: we need your help!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;独立报！正在公开招募开发者、hacker、工程师！关于这篇新闻，我想要说的是，这是多么睿智的做法！通过开放向全社会征求意见。以Meetup的形式来进行头脑风暴！还有什么比这个更能吸引人才的做法？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;salesforce-收购以色列创业公司-coolan:37a430ade43508b45bfa465e04e737e6&#34;&gt;Salesforce 收购以色列创业公司 Coolan&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.coolan.com/blog/2016/7/21/salesforce-signs-definitive-agreement-to-acquire-coolan&#34;&gt;SALESFORCE SIGNS DEFINITIVE AGREEMENT TO ACQUIRE COOLAN&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;注意这样一个人： Amir Michael，原Google 和Facebook的硬件工程师，也是开放计算项目（Open conputing Project）的发起人之一。Facebook的开源数据中心和硬件设计的发起人。Coolan是一家做数据中心管理的软件公司。（有什么不对劲的地方？）&lt;/p&gt;
-
-&lt;p&gt;这不得不反思收购现象在本土文化！本土文化不是培育，而是恶性的合并。吐槽点太多，懒得提。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
