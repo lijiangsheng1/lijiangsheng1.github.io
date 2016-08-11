@@ -7,8 +7,94 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 11 Aug 2016 06:18:46 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 12 Aug 2016 06:48:45 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.12)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.12%29/</link>
+      <pubDate>Fri, 12 Aug 2016 06:48:45 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.12%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:b17c9603e175498c3ebb6d7940030d83&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源已经赢了-那么-接下来做什么:b17c9603e175498c3ebb6d7940030d83&#34;&gt;开源已经赢了，那么，接下来做什么？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.wired.com/2016/08/open-source-won-now/&#34;&gt;Open Source Won. So, Now What?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;《连线》的文章，大手笔，总是能够以足够宏观的视野来看待一件事情。进来美国白宫政府颁布了政府采购开源软件的指导，《连线》也有感而发。在一开始，交代了历史上大家对待开源的态度——担心，但是现在开源已经是无处不在了。接下来的论述比较有意思，列觉了一些传统企业开源的时间，如沃尔玛、ExxonMobil、以及金融界的巨头London Stock Exchange Group, JP Morgan, 和 Wells Fargo 等都在开源一些项目。结论是：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;open source is now a core part of how software is created not just by software companies, but by every kind of company.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源好处多多，开源是最好的开发软件的方式。当然，事情还远远不够完美，尚有未解决的问题：安全、基金会的经营等。&lt;/p&gt;
+
+&lt;p&gt;开源是人们最好的简历！这一段的论述相当的精彩。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-sign.jpg?itok=1PuWGnTe&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;微软内部是如何看待开源的:b17c9603e175498c3ebb6d7940030d83&#34;&gt;微软内部是如何看待开源的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/inside-how-microsoft-views-open-source&#34;&gt;Inside How Microsoft Views Open Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，微软从打击开源到拥抱开源的态度，一直是大家所质疑的，虽然从外界看来，微软近来一系列的动作表明自己是真心想在开源方面出力的，如FreeBSD、Ubuntu for windows10、收购Xamarin、和Linux基金会的合作等。但是大家仍然持怀疑态度。本文是对前不久从Oracle跳槽过去的Wim Coekaerts 的一个采访，看看内部有何想法。&lt;/p&gt;
+
+&lt;p&gt;这里列举一些问题得了，有兴趣的还是去读原文吧。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;在Oracle主持开源工作21年，为何突发兴趣跳槽到另外一家软件巨头？&lt;/li&gt;
+&lt;li&gt;有什么项目是让您感到惊奇的。&lt;/li&gt;
+&lt;li&gt;看来Wim加入微软是蛮兴奋的，也对微软开源的项目蛮有兴趣的，那么在wim的领导下，微软又有何新的想法？&lt;/li&gt;
+&lt;li&gt;Is Microsoft setting its sights on becoming a full-fledged open source company?&lt;/li&gt;
+&lt;li&gt;在LinuxCon上您会给大家带来什么样的精彩Keynote？能提前透露一下吗？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;面对新的数据边界-如何制定开源贡献的战略:b17c9603e175498c3ebb6d7940030d83&#34;&gt;面对新的数据边界:如何制定开源贡献的战略&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://thestack.com/cloud/2016/08/11/braving-the-new-data-frontier-how-to-create-a-strategic-open-source-contribution/&#34;&gt;Braving the new data frontier: How to create a strategic open source contribution&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，看标题，这是所有公司面临的问题。诸如华为、乐视等国内大厂，光是靠自主知识产权的欺骗和足够的金钱是难以撑太久的。该如何赢取这一浪潮？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://thestack.com/wp-content/uploads/2016/08/big-data-analytics-832x333.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Open source has changed the way we process, stream and analyze data while helping tech giants and startups alike solve massive computing issues. 开源改变了世界很多！做事的方式，这才是重点。&lt;/p&gt;
+
+&lt;p&gt;作者的呼吁就是加入到这个生态系统当中，不要有任何的取巧心理，按照社区的哲学去做一些实事。No matter your opinion on open source, it is evident that the open source ecosystem will be a major force in how technology is applied in the enterprise.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开发者是如何定义-开放-和-封闭-技术的:b17c9603e175498c3ebb6d7940030d83&#34;&gt;开发者是如何定义“开放”和“封闭”技术的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/how-developers-define-open-and-closed-technology/&#34;&gt;How developers define &amp;lsquo;open&amp;rsquo; and &amp;lsquo;closed&amp;rsquo; technology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这应该是每个开发者，或者是工程师思考的问题。大家都在做开源，为什么我做的在社区毫无体现？这样的诉求未来会成为爆炸式的增长。正如福山引用黑格尔的理论：人都会渴望他人的认可！这一点是人类之所以能够发展的根本驱动力。而代码的技术，要想让人知道，就得在互联网上让所有人能够看到。&lt;/p&gt;
+
+&lt;p&gt;开发者终有一天会明白这些道理的。正如文中指出的：“Developers aren&amp;rsquo;t stupid. ”&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.11)</title>
@@ -922,77 +1008,6 @@
 &lt;li&gt;作者的背景值得关注，也是我所向往的布道师（evangelist）！&lt;/li&gt;
 &lt;li&gt;关于社区，可能是和市场有一些关联。所有被很多人所关注。但是能否做到不被一些信息所蒙蔽？&lt;/li&gt;
 &lt;li&gt;这是一个专栏，会有持续的文章进来。作者说到：&lt;strong&gt;I&amp;rsquo;m going to take you on a journey into the treacherous yet rewarding world of community metrics. I&amp;rsquo;ll explore existing research, available tools, case studies (good and bad), and ultimately use what I&amp;rsquo;ve learned to develop a playbook for you to reference when creating (or improving) your own community metrics.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.7.27）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_27/</link>
-      <pubDate>Wed, 27 Jul 2016 06:30:01 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_27/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;互联网真的是自由和开源的信息来源吗:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;互联网真的是自由和开源的信息来源吗？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://brandequity.economictimes.indiatimes.com/news/digital/is-the-internet-really-a-free-and-open-source-of-information/53395858&#34;&gt;Is the internet really a free and open source of information?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，很少看到有国人去反思这些，国人还没有享受完成互联网带来的便利。对于信息的获取是有选择的。不然报禁也不可能嚣张这么久。&lt;/p&gt;
-
-&lt;p&gt;本土的文化是这些个反思无法想象的。比如微信上的传谣，微信这个巨无霸，俨然成为信息的掌控者，在微信中，是没有超链接这一说的。这是互联网的根本。但是并不耽误人们的使用和传播信息。我们是该担心这个，可是环顾一下四周，又有谁在乎了呢？这是非常让人困苦的事情。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源和云计算:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;开源和云计算&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://federalnewsradio.com/federal-tech-talk/2016/07/open-source-cloud-computing/&#34;&gt;Open source &amp;amp; cloud computing&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是典型的标题党，我就是被这个题目所吸引的。其实是一篇宣传会议的软文：&lt;a href=&#34;http://devnationfederal.org/&#34;&gt;DevNationFederal&lt;/a&gt;，看起来像是和政府有某种联系。红帽和微软的联姻等等。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/OSDC_EDU_UndergradOpensource_520x292_8882947_0212CS.png?itok=v0Lwgi-U&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开放将是21世纪改进教育的良方:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;开放将是21世纪改进教育的良方&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/education/16/7/open-solution-improving-21st-century-education&#34;&gt;Open is the solution to improving 21st century education&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，不错，是绝佳的良方！不过，作者说的是美国的教育，距离我们的本土是非常遥远的事情。本土的教育是被牢牢控制的，想上开源软件教学？给学生们“root access”？嗯，你得先说服教育部长！自上而下的推行，否则，就只有被干掉的份。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blogs-images.forbes.com/moorinsights/files/2016/07/Open.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;沃尔玛用实际证明了开源是笔大买卖:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;沃尔玛用实际证明了开源是笔大买卖&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/moorinsights/2016/07/26/wal-mart-proves-open-source-is-big-business/#47fb006318ee&#34;&gt;Wal-Mart Proves Open Source Is Big Business&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;又是财富的分析文章，绝对的精彩和通俗易懂。我本人从文章获得如下信息和感悟：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;沃尔玛竟然有自己的开源项目，还是应用程序生命周期管理：&lt;a href=&#34;http://www.oneops.com/index.html&#34;&gt;OneOps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;在第二段交代背景的过程中谈到：开源已经是主流，使用软件的地方都会有开源软件。&lt;/li&gt;
-&lt;li&gt;CORD (central offices re-architected as datacenters) 这个项目我并没有在意，因为我今早是读过的，因为有Google的参与。SDN／NFV 到底走向何方？我很茫然。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;But just creating an open source project or turning your existing project over as open source is not a guarantee of success.&lt;/strong&gt; 这话我得对世人呼叫多少遍？&lt;/li&gt;
-&lt;li&gt;目前对开源体现在人才方面已经有所变化了，过去就得去Amazon、Google、Facebook，现在可以去沃尔玛、通用电气了。因为在这里也是受到尊重的。&lt;/li&gt;
-&lt;li&gt;文章的最后是最为精彩的部分：开源为企业带来更大的灵活性、以及加速进入市场，不再仅仅是为了IT而IT了。但是开源仅仅是个开始，参与、回馈开源社区是必要的。&lt;strong&gt;It elevates the company’s image and helps to attract more talented recruits.&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
