@@ -7,8 +7,101 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 12 Aug 2016 06:48:45 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 13 Aug 2016 06:17:35 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.13)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.13%29/</link>
+      <pubDate>Sat, 13 Aug 2016 06:17:35 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.13%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:b0b7477df73402e8b441e8842dc5a7cb&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;fuchsia-由google开发的针对手机-pc新的开源操作系统:b0b7477df73402e8b441e8842dc5a7cb&#34;&gt;Fuchsia: 由Google开发的针对手机、PC新的开源操作系统&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.osnews.com/story/29343/Fuchsia_a_new_open_source_OS_by_Google_for_phones_PCs&#34;&gt;Fuchsia: a new open source OS by Google for phones, PCs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;树大招风，说的一点没有错。googlesource.com，有人盯着了。Fuchsia的仓库什么都没有了还，文档之类的都不健全。&lt;/p&gt;
+
+&lt;p&gt;Google 是对熊彼特对理论有多畏惧？市场上已经是那么多的操作系统了。为什么还要有一个Fuchsia？Android情何以堪？&lt;/p&gt;
+
+&lt;p&gt;只能说Google的行为超出了我的理解范围。不过从技术的角度出发，我还是蛮期待代码、文档的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://appdevelopermagazine.com/images/news_images/Government-Open-Source-Code-App-Developer-Magazine_yvn1voy5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;美国政府采用开源代码更多的考虑是安全因素:b0b7477df73402e8b441e8842dc5a7cb&#34;&gt;美国政府采用开源代码更多的考虑是安全因素&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://appdevelopermagazine.com/4276/2016/8/12/How-Governments-Open-Sourcing-Code-Helps-Us-Be-More-Secure/&#34;&gt;How Governments Open Sourcing Code Helps Us Be More Secure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;题目翻译起来有点拗口，但一时半会又找不到更合适的替代。只能将就。&lt;/p&gt;
+
+&lt;p&gt;白宫前两天所颁布的那个指导意见，确实轰动挺大的。本文是WhiteSource的CEO的文章，有几点信息值得斟酌：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bulgaria 颁布法律要求政府采用的软件必须开源，美国要求至少20%是开源的，法国、挪威、巴西等民主国家都在逐渐的采用开源软件（这其中绝非偶然）。&lt;/li&gt;
+&lt;li&gt;在任何国家政府通常都是代码生产的大鳄。&lt;/li&gt;
+&lt;li&gt;政府采用开源并非是这届政府有多么的“超前”，他们更多的是在鼓励创新、提高透明度，加强安全、以及哪些每个政府都极力去追求的益处。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;通篇读下来，我稍有些失望，威权社会主义国家应该不会采用开源软件。上述所有的目的都是自由民主制度的良方。说不定过几天这样的消息还会被封锁。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;sourceclear-开发了-代码提交守望者:b0b7477df73402e8b441e8842dc5a7cb&#34;&gt;SourceClear 开发了”代码提交守望者”&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.linuxjournal.com/content/sourceclears-commit-watcher&#34;&gt;SourceClear&amp;rsquo;s Commit Watcher&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;还记得有人将自己的AWS凭证提交到了GitHub上了吗？随着开源日益成为软件生产方式的主流形式，代码提交敏感信息就成为了一个安全隐患。SourceClear 似乎顺应了这样的一个形势。&lt;/p&gt;
+
+&lt;p&gt;我自己又在反思了，能够看到一个开源时代的到来，但是为何找不到商业机会？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_WorkInPublic.png?itok=eogShpOe&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源在企业中的趋势:b0b7477df73402e8b441e8842dc5a7cb&#34;&gt;开源在企业中的趋势&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/8/corporate-trends-open-source&#34;&gt;Trends in corporate open source engagement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我也以作者原文所划分的主题，逐一的进行感慨：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;开源已经不是备选。开源已经是主流的生产方式，当前你很难找到哪家公司没有采用任何的开源软件。尤其是今年黑鸭子和Northbridge搞得调查，更证明了这一点。&lt;/li&gt;
+&lt;li&gt;开源作为创新的平台。那个Gartner的报告，&lt;a href=&#34;https://www.gartner.com/doc/3371817/hype-cycle-opensource-software-&#34;&gt;Hype Cycle for Open-Source Software, 2016&lt;/a&gt; 作为个人购买，有点承受不起。据说，这份报告解释了IT部门采用开源并非是简单的节省支出，而更多的是为了创新。目前，不论是云计算、大数据、机器学习，还是DevOps等，开源都处于创新等领先地位。&lt;/li&gt;
+&lt;li&gt;开源改变了一些商业模式。注意除了红帽之外，很多公司都在利用开源赚钱，不过可能是间接的收入。&lt;/li&gt;
+&lt;li&gt;开源的管理岗位！这点在国内的公司近乎绝迹，华为稍微粘点边，其它公司未见任何点动作。&lt;strong&gt;manage all aspects of the open source process, compliance, education, communication, and strategy for their companies.&lt;/strong&gt;  如果有点话，我其实蛮合适的。:-)&lt;/li&gt;
+&lt;li&gt;innersourcing,我一度想的经营业务。但是文化是最大的障碍。&lt;/li&gt;
+&lt;li&gt;开源人才！历史终结的方向是开放、民主，而其中平等的得到人们的承认是绝大多数人的追求。而开源是绝佳的方式。这会终结软件的生产方式。&lt;/li&gt;
+&lt;li&gt;女性的尊重。&lt;/li&gt;
+&lt;li&gt;安全：诸如政府。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;好文！思路非常的清晰。未来有机会，我会以此文为蓝本，到某些社区作一些分享。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.12)</title>
@@ -992,77 +1085,6 @@
 &lt;li&gt;作者的背景值得关注，也是我所向往的布道师（evangelist）！&lt;/li&gt;
 &lt;li&gt;关于社区，可能是和市场有一些关联。所有被很多人所关注。但是能否做到不被一些信息所蒙蔽？&lt;/li&gt;
 &lt;li&gt;这是一个专栏，会有持续的文章进来。作者说到：&lt;strong&gt;I&amp;rsquo;m going to take you on a journey into the treacherous yet rewarding world of community metrics. I&amp;rsquo;ll explore existing research, available tools, case studies (good and bad), and ultimately use what I&amp;rsquo;ve learned to develop a playbook for you to reference when creating (or improving) your own community metrics.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道（2016.7.27）</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_27/</link>
-      <pubDate>Wed, 27 Jul 2016 06:30:01 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_27/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;互联网真的是自由和开源的信息来源吗:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;互联网真的是自由和开源的信息来源吗？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://brandequity.economictimes.indiatimes.com/news/digital/is-the-internet-really-a-free-and-open-source-of-information/53395858&#34;&gt;Is the internet really a free and open source of information?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，很少看到有国人去反思这些，国人还没有享受完成互联网带来的便利。对于信息的获取是有选择的。不然报禁也不可能嚣张这么久。&lt;/p&gt;
-
-&lt;p&gt;本土的文化是这些个反思无法想象的。比如微信上的传谣，微信这个巨无霸，俨然成为信息的掌控者，在微信中，是没有超链接这一说的。这是互联网的根本。但是并不耽误人们的使用和传播信息。我们是该担心这个，可是环顾一下四周，又有谁在乎了呢？这是非常让人困苦的事情。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源和云计算:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;开源和云计算&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://federalnewsradio.com/federal-tech-talk/2016/07/open-source-cloud-computing/&#34;&gt;Open source &amp;amp; cloud computing&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是典型的标题党，我就是被这个题目所吸引的。其实是一篇宣传会议的软文：&lt;a href=&#34;http://devnationfederal.org/&#34;&gt;DevNationFederal&lt;/a&gt;，看起来像是和政府有某种联系。红帽和微软的联姻等等。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/OSDC_EDU_UndergradOpensource_520x292_8882947_0212CS.png?itok=v0Lwgi-U&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开放将是21世纪改进教育的良方:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;开放将是21世纪改进教育的良方&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/education/16/7/open-solution-improving-21st-century-education&#34;&gt;Open is the solution to improving 21st century education&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，不错，是绝佳的良方！不过，作者说的是美国的教育，距离我们的本土是非常遥远的事情。本土的教育是被牢牢控制的，想上开源软件教学？给学生们“root access”？嗯，你得先说服教育部长！自上而下的推行，否则，就只有被干掉的份。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blogs-images.forbes.com/moorinsights/files/2016/07/Open.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;沃尔玛用实际证明了开源是笔大买卖:e9aa5b218be05a8d97c23701e7062faa&#34;&gt;沃尔玛用实际证明了开源是笔大买卖&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/moorinsights/2016/07/26/wal-mart-proves-open-source-is-big-business/#47fb006318ee&#34;&gt;Wal-Mart Proves Open Source Is Big Business&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;又是财富的分析文章，绝对的精彩和通俗易懂。我本人从文章获得如下信息和感悟：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;沃尔玛竟然有自己的开源项目，还是应用程序生命周期管理：&lt;a href=&#34;http://www.oneops.com/index.html&#34;&gt;OneOps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;在第二段交代背景的过程中谈到：开源已经是主流，使用软件的地方都会有开源软件。&lt;/li&gt;
-&lt;li&gt;CORD (central offices re-architected as datacenters) 这个项目我并没有在意，因为我今早是读过的，因为有Google的参与。SDN／NFV 到底走向何方？我很茫然。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;But just creating an open source project or turning your existing project over as open source is not a guarantee of success.&lt;/strong&gt; 这话我得对世人呼叫多少遍？&lt;/li&gt;
-&lt;li&gt;目前对开源体现在人才方面已经有所变化了，过去就得去Amazon、Google、Facebook，现在可以去沃尔玛、通用电气了。因为在这里也是受到尊重的。&lt;/li&gt;
-&lt;li&gt;文章的最后是最为精彩的部分：开源为企业带来更大的灵活性、以及加速进入市场，不再仅仅是为了IT而IT了。但是开源仅仅是个开始，参与、回馈开源社区是必要的。&lt;strong&gt;It elevates the company’s image and helps to attract more talented recruits.&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
