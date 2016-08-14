@@ -7,8 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 13 Aug 2016 06:17:35 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Aug 2016 07:49:52 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.14)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.14%29/</link>
+      <pubDate>Sun, 14 Aug 2016 07:49:52 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.14%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:91a40218ab6de4d15251cbac087d7323&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源学校重新定义了意大利的教育:91a40218ab6de4d15251cbac087d7323&#34;&gt;开源学校重新定义了意大利的教育&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.countercurrents.org/2016/08/13/the-open-source-school-redefines-education-in-italy/&#34;&gt;The Open Source School Redefines Education in Italy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;典型的标题党，意大利人也搞开源？还玩教育？大家数一数国内的IT教育，标榜开源的就知道了。《开源力量》《GIT》等。讲技巧，舍文化。&lt;/p&gt;
+
+&lt;p&gt;正如我正在写的文章《开源之术与开源之道》一样，纯粹的讲技术是不可以的，行不通的。皮毛而已。但是，无论是教育还是文化，在本土民间提这些东西都是禁忌。&lt;/p&gt;
+
+&lt;p&gt;所以，类似文中&lt;strong&gt;Its success hinges on cooperative work, co-design, shared skills, and an open source culture.&lt;/strong&gt;这样的，还是省省吧。回家睡觉。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/EDU_OpenEducationResources_520x292_cm.png?itok=g7wb9H5L&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;来自高等教育界的4位高管谈开放教育的未来:91a40218ab6de4d15251cbac087d7323&#34;&gt;来自高等教育界的4位高管谈开放教育的未来&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/7/future-education-open&#34;&gt;4 talks from leaders in higher ed on the future of open education&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;trust the power of participation.&amp;rdquo;&lt;/strong&gt; 红帽未来必成大器，往教育领域渗透无疑是非常聪明的市场之举。可能是我想歪了。但是jim提到的&lt;strong&gt;how interaction—active, participatory, self-governing—enables the creation of better content and ensures its sustainability.&lt;/strong&gt; 这完全是启蒙教育，我们的终极理想！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.13)</title>
@@ -1007,22 +1049,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;对于此，我只有一个观点，DevOps离开了开源就是欺骗。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>哪些人性中的恶</title>
-      <link>http://lijiangsheng1.github.io/posts/entrepreneur/the_evil_of_human_nature/</link>
-      <pubDate>Thu, 28 Jul 2016 06:42:52 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/the_evil_of_human_nature/</guid>
-      <description>
-
-&lt;h2 id=&#34;需要事先说明一点:4a6c462a9b9871aa5bfb063a40d544f2&#34;&gt;需要事先说明一点&lt;/h2&gt;
-
-&lt;p&gt;我目前的个人阅历，其实除了工作中之外，就只有道场的人了。几乎不会联系任何人了，老同学能够聊得来的几乎绝迹、旧同事除了伤疤之外也再无话可谈、亲戚也就是走个过场但也尽量避免联系。那么我就要实现古人所云的“大隐隐于朝，中隐隐于市，小隐隐于野”的中隐状态了。还做不到完全的遁世。正如马克思理论中的人处于特定的历史阶段是有历史局限性的，我没能做到超然于当世！&lt;/p&gt;
-
-&lt;p&gt;既然是工作，就得隐去一些什么，尽管目前的公司，几乎没有人在意我的过去，有人有兴趣阅读我的博客。但是无法担保突然有个人偶尔搜索到的可能性。大概是涉及到客户的隐私，或者是不愿意暴露合作伙伴。一言以蔽之，&lt;/p&gt;
 </description>
     </item>
     

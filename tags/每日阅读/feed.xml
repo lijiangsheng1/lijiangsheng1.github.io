@@ -7,8 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 13 Aug 2016 06:17:35 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Aug 2016 07:49:52 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.14)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.14%29/</link>
+      <pubDate>Sun, 14 Aug 2016 07:49:52 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.14%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:91a40218ab6de4d15251cbac087d7323&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源学校重新定义了意大利的教育:91a40218ab6de4d15251cbac087d7323&#34;&gt;开源学校重新定义了意大利的教育&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.countercurrents.org/2016/08/13/the-open-source-school-redefines-education-in-italy/&#34;&gt;The Open Source School Redefines Education in Italy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;典型的标题党，意大利人也搞开源？还玩教育？大家数一数国内的IT教育，标榜开源的就知道了。《开源力量》《GIT》等。讲技巧，舍文化。&lt;/p&gt;
+
+&lt;p&gt;正如我正在写的文章《开源之术与开源之道》一样，纯粹的讲技术是不可以的，行不通的。皮毛而已。但是，无论是教育还是文化，在本土民间提这些东西都是禁忌。&lt;/p&gt;
+
+&lt;p&gt;所以，类似文中&lt;strong&gt;Its success hinges on cooperative work, co-design, shared skills, and an open source culture.&lt;/strong&gt;这样的，还是省省吧。回家睡觉。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/EDU_OpenEducationResources_520x292_cm.png?itok=g7wb9H5L&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;来自高等教育界的4位高管谈开放教育的未来:91a40218ab6de4d15251cbac087d7323&#34;&gt;来自高等教育界的4位高管谈开放教育的未来&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/7/future-education-open&#34;&gt;4 talks from leaders in higher ed on the future of open education&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;trust the power of participation.&amp;rdquo;&lt;/strong&gt; 红帽未来必成大器，往教育领域渗透无疑是非常聪明的市场之举。可能是我想歪了。但是jim提到的&lt;strong&gt;how interaction—active, participatory, self-governing—enables the creation of better content and ensures its sustainability.&lt;/strong&gt; 这完全是启蒙教育，我们的终极理想！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.13)</title>
@@ -1007,85 +1049,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;对于此，我只有一个观点，DevOps离开了开源就是欺骗。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.28)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_28/</link>
-      <pubDate>Thu, 28 Jul 2016 06:30:53 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_28/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:6213a4d06729e196e1c12525a678f770&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/10/store-front-night_129860898494412686-100624008-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;沃尔玛是如何使用-github-来实现-innersource-的:6213a4d06729e196e1c12525a678f770&#34;&gt;沃尔玛是如何使用 GitHub 来实现“innersource”的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3101224/open-source-tools/how-wal-mart-enables-innersource-with-github.html&#34;&gt;How Wal-Mart enables &amp;lsquo;innersource&amp;rsquo; with Github&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;InnerSource 可能对于保守的、规模较大的公司的一个方向，看到了开源的力量和成功，但是对于知识产权、文化难以改变。那么InnerSource不啻为一种很好的折衷的方法！而这尤其是在中国可能会流行起来，华为现在看起来采用的就是这种策略。（乐视没有雇佣我，是多么大的战略失误？）&lt;/p&gt;
-
-&lt;p&gt;从本文中，可以得到如下一些信息：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;在 OSCON 举行的&lt;a href=&#34;http://conferences.oreilly.com/oscon/open-source-us/public/schedule/detail/49356?intcmp=il-prog-confreg-update-ostx16_new_site_innersourcing_text_cta&#34;&gt;innersource&lt;/a&gt;是被人记忆的！&lt;/li&gt;
-&lt;li&gt;Jeremy King 现任的沃尔玛CTO，来自于eBay。这也印证我一向以为的，所有的事情，最后都能归结到某个个人的行为和思想！（被环境所迫，不过是借口罢了。比如我最近想要写的文章：&lt;a href=&#34;http://lijiangsheng1.github.io/posts/entrepreneur/the_evil_of_human_nature&#34;&gt;那些人性中的恶&lt;/a&gt;）&lt;/li&gt;
-&lt;li&gt;King非常的坦诚，也介绍了采用Innersource的一些问题。比如想借用社区的外部力量。&lt;/li&gt;
-&lt;li&gt;沃尔玛对于IT／工程师的追求，认为开源是一个非常好的策略。并承认这一点。&lt;/li&gt;
-&lt;li&gt;Innersource 好处有很多，其中最大的好处是帮助大公司减少官僚主义！ 这是所有大公司的通病！也是人类社会难以根除的“疾病”。只有开放是良方！&lt;/li&gt;
-&lt;li&gt;沃尔玛有1000多号工程师，采用DevOps，并大胆采用OpenStack，并拥有自己的开源项目OneOps。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;techfar-hub-的目标是澄清诸如-敏捷-开源-之类的疑惑:6213a4d06729e196e1c12525a678f770&#34;&gt;TechFAR Hub 的目标是澄清诸如“敏捷”、“开源”之类的疑惑&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.nextgov.com/cio-briefing/2016/07/new-procurement-hub-aims-clear-buzzwords-agile-and-open-source/130240/&#34;&gt;TECHFAR HUB AIMS TO CLEAR UP BUZZWORDS LIKE &amp;lsquo;AGILE&amp;rsquo; AND &amp;lsquo;OPEN SOURCE&amp;rsquo;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一则新闻，权当是过眼烟云，但是似乎又有什么地方可以借鉴。这是美国的联邦采用监管做的事情。也就是说随着云计算的来临，政府采用的一些服务，或者是开源软件／服务，需要一些指导，于是创建了&lt;a href=&#34;https://techfarhub.cio.gov/&#34;&gt;TechFAR Hub&lt;/a&gt;，意图给政府采购部门以指导。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;As terms like agile development, software as a service, and open source software are becoming increasingly common in government&lt;/strong&gt; 本土可能要远一些，需要更多的是时间，更加多见的是将开源包装成民粹主义来进行。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;皮克斯开源普遍场景描述工具:6213a4d06729e196e1c12525a678f770&#34;&gt;皮克斯开源普遍场景描述工具&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.studiodaily.com/2016/07/pixar-open-sources-universal-scene-description/&#34;&gt;Pixar Open-Sources Universal Scene Description&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;电影制作也在流行开源！？值得观察的一个现象。艺术通常偏无政府主义。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/osdc-community-metrics-playbook-column.png?itok=GndjEPlo&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;为什么你应该避免那些虚假的指标和衡量:6213a4d06729e196e1c12525a678f770&#34;&gt;为什么你应该避免那些虚假的指标和衡量？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/7/measuring-what-matters&#34;&gt;Why you should avoid vanity metrics and measure what matters&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;个人对于本文有以下几点信息：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;作者的背景值得关注，也是我所向往的布道师（evangelist）！&lt;/li&gt;
-&lt;li&gt;关于社区，可能是和市场有一些关联。所有被很多人所关注。但是能否做到不被一些信息所蒙蔽？&lt;/li&gt;
-&lt;li&gt;这是一个专栏，会有持续的文章进来。作者说到：&lt;strong&gt;I&amp;rsquo;m going to take you on a journey into the treacherous yet rewarding world of community metrics. I&amp;rsquo;ll explore existing research, available tools, case studies (good and bad), and ultimately use what I&amp;rsquo;ve learned to develop a playbook for you to reference when creating (or improving) your own community metrics.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
