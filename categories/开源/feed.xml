@@ -7,8 +7,122 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 14 Aug 2016 07:49:52 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Aug 2016 06:51:03 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.17)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.17%29/</link>
+      <pubDate>Wed, 17 Aug 2016 06:51:03 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.17%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:455b51364dbc5be28a142af40af3ac42&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/BRHome/ResizeImage/_Uploads_NewsArticle_4980548_main.JPG/1280/664/Details/0/0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源软件正在吞噬世界吗:455b51364dbc5be28a142af40af3ac42&#34;&gt;开源软件正在吞噬世界吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/enterprise-it/software/is-open-source-eating-the-world-4980548&#34;&gt;Is open source eating the world?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;经过研究发现，是哪些开源的专家们影响了企业购买和软件公司兜售软件的方式。没错，最终决定一件事情的发展，是某个个人。开源能够走到今天，是其某些内涵吸引着某些人，让这些人去选择了一种生产方式。互联网是自由的，人在自由的世界渴望得到承认。&lt;/p&gt;
+
+&lt;p&gt;回到本篇文章，文笔略显稚嫩，观点也是似乎刚刚接触了一些相关的现象，乃至有一些业界颇有知名度的人，推波助澜。文中有一个观点，我颇为怀疑，或持不同观点：“Open source is being consumed by cloud in turn,” 某种意义上，我还是赞同开源和公有云是某种对立关系的观点。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;colin-charles-以首席布道师的身份加入-percona:455b51364dbc5be28a142af40af3ac42&#34;&gt;Colin Charles 以首席布道师的身份加入 Percona&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/colin-charles-joins-percona-as-chief-evangelist-2150992.htm&#34;&gt;Colin Charles Joins Percona as Chief Evangelist&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;个人之所以选择了这篇新闻稿，是和这个职位有很大关系的。目前本土来说，没有任何相关的开源岗位。只有传统的组织架构中的技术岗。不知道什么时候，本土会设置这样的一些岗位。或许永远不会，将此类岗位的一些职能隐藏在一些传统的职位当中，兼职。&lt;/p&gt;
+
+&lt;p&gt;我本人的诉求？本土目前来说，除华为之外，还真没有人意识到开源岗位的重要的性。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;linux-基金会宣布针对网络分析的大数据平台-pnda加入:455b51364dbc5be28a142af40af3ac42&#34;&gt;Linux 基金会宣布针对网络分析的大数据平台－PNDA加入&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/the-linux-foundation-announces-big-data-platform-for-network-analytics-2150999.htm&#34;&gt;The Linux Foundation Announces Big Data Platform for Network Analytics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Linux 基金会，正在不断的孵化这些初始的项目。当我第一次看到这个题目的时候，我以为是Linux基金会要搞Apache基金会的大数据生态。仔细一看还不是。&lt;/p&gt;
+
+&lt;p&gt;这个世界上开源的项目越来越多，要想以“开源”博得人们的眼球已经非常的困难了。开源已经是一种默认的软件生产方式了，即使现在不是，不久的将来也是。那么如何赢得人们的注意了呢？其中一条道路就是加入这样的基金会。&lt;/p&gt;
+
+&lt;p&gt;我个人目前尚对Linux基金会孵化或托管项目的规则不甚清楚，但是有必要研究一下。Linux基金会相比来说，商业的氛围更加浓厚一些。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开源之道(2016.8.16)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.16%29/</link>
+      <pubDate>Tue, 16 Aug 2016 06:18:32 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.16%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:c89b622ef1c08596023662f4846d9fbc&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;andreessen-horowitz-依旧在企业级软件掘金:c89b622ef1c08596023662f4846d9fbc&#34;&gt;Andreessen Horowitz 依旧在企业级软件掘金&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/roberthof/2016/08/14/andreessen-horowitz-still-sees-big-money-in-enterprise-software/#491f19474cd2&#34;&gt;Andreessen Horowitz Still Sees Big Money In Enterprise Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;文章的内容是我前几日所关注过的。今日由Forbes发表看法，我也就顺势再评价一番。因为对我来说参考意义非凡。&lt;/p&gt;
+
+&lt;p&gt;文中一开始，谈到了：With information technology budgets in &lt;a href=&#34;http://www.gartner.com/newsroom/id/3277517&#34;&gt;falling&lt;/a&gt;，但是危机中方能找到机会。&lt;/p&gt;
+
+&lt;p&gt;另外，最重要的表达了三个观点：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;公有云和软件即服务市场依然巨大，机会多多。&lt;/li&gt;
+&lt;li&gt;将软件交付为一种服务，成功的例子从amazon web service 到GitHub再到Databricks。&lt;/li&gt;
+&lt;li&gt;开源的崛起，无论是人本身的角度，还是企业，都在参与这一运动。包括保守的Oracle和微软。&lt;/li&gt;
+&lt;li&gt;open-source-as-a-service 模式，让我思考了很久。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;公路和桥梁-隐藏在我们数字基础设施背后的比喻:c89b622ef1c08596023662f4846d9fbc&#34;&gt;公路和桥梁：隐藏在我们数字基础设施背后的比喻&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf&#34;&gt;Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;首先和大家声明，本文是一篇很长的论文式的文章。等于是一个研究课题。不是常规的新闻或技术文章。&lt;/p&gt;
+
+&lt;p&gt;在纲要中作者介绍了开源软件已经成为现代数字基础设施等支柱，一如我们生活中的物理基础设施，如公路、桥梁等。这个比喻非常的明显。开源在基础设施方面的成功，用事实说话。&lt;/p&gt;
+
+&lt;p&gt;然后，作者讲述了OpenSSL的故事，前世今生，以及HeartBleed的事件等。作者的文采很不错，忍不住分享两段：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;OpenSSL’s story is not unique, and in many ways, Marquess thinks they are the lucky ones. Countless other projects continue to go unheard of and unsupported. These projects make up the critical digital infrastructure that powers today’s software, and in turn, every aspect of our daily lives.&lt;/p&gt;
+
+&lt;p&gt;Checking email, reading the news, checking stock prices, shopping online, going to the doctor, calling customer service—whether we realize it or not, everything we do is made possible by projects like OpenSSL. Without them, the technology that modern society relies upon simply could not function.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.14)</title>
@@ -934,120 +1048,6 @@
 &lt;p&gt;看这个视频：&lt;a href=&#34;https://youtu.be/aicd_Yk_37k&#34;&gt;inquirer.net&lt;/a&gt;，Linux 在桌面上依然需要更多的宣传。更多的去为学生们布道！并以就业和未来蓝图的描绘为契机，去劝说更多的人加入进来。&lt;/p&gt;
 
 &lt;p&gt;每个人对于世界的了解方式和思维方式是不同的。导致了世界的分歧！但正是多元的世界，铸就了美好！当Linux成为一种默认的技能时，接下来该如何处理？世界变化非常的快！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.30)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_30/</link>
-      <pubDate>Sat, 30 Jul 2016 08:10:15 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_30/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:0ca985472962b7d4588f5c9a44dc9d3b&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/EDUCATION_colorbooks.png?itok=liB3FyjP&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;针对-openstack-开发者和管理员的几个指南:0ca985472962b7d4588f5c9a44dc9d3b&#34;&gt;针对 OpenStack 开发者和管理员的几个指南&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/7/openstack-tutorials&#34;&gt;4 new guides for OpenStack developers and administrators&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;the skills you had yesterday aren&amp;rsquo;t always an exact match for the solutions you&amp;rsquo;re working on today to solve for the problems of tomorrow.&lt;/strong&gt; 对于此点，近来特别的有感触。究竟是我的技能落伍到无法满足现有？还是配合我的人没有跟上？&lt;/p&gt;
-
-&lt;p&gt;This is especially true with cloud technologies,是的，没错！&lt;/p&gt;
-
-&lt;p&gt;OpenSource.com 针对 OpenStack 项目，收集了一系列的文章。其实，这是当初开放云精选想要的事情之一。应该坚持下去！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;facebook-尝试新的方法来发布开源项目:0ca985472962b7d4588f5c9a44dc9d3b&#34;&gt;Facebook 尝试新的方法来发布开源项目&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/07/29/facebook-tries-a-new-way-to-release-open-source-projects/&#34;&gt;Facebook tries a new way to release open-source projects&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;毋庸置疑的是，Facebook针对开源项目，在借鉴Apache等基金会等孵化模式，就这一点算是非常先进的了！&lt;/p&gt;
-
-&lt;p&gt;我大胆的猜测一下其背后：为了更加的民主和开放，Facebook 在对开发者做出了最大的妥协！内部采用或借鉴了非常多的“InnerSource”方法论。以开源来吸引顶级人才，仍然是Facebook的人才战略之一。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.7.29)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_29/</link>
-      <pubDate>Fri, 29 Jul 2016 07:22:01 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_7/2016_7_29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:350197f241ec42425b084e9e03a0ef68&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;为什么开源的编程语言会将商业的冲击掉:350197f241ec42425b084e9e03a0ef68&#34;&gt;为什么开源的编程语言会将商业的冲击掉？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-open-source-programming-languages-are-crushing-proprietary-peers/&#34;&gt;Why open source programming languages are crushing proprietary peers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，我应该听说过商业的编程语言这个词还是第一次，我知道有商业的编译器，比如Intel的ICC（对应开源的GCC）。Matlab 知道点。但是现在几乎所有的新出现的编程语言都是开源的，即使是Apple这样的公司，都将其Swift开源了。当然本土是没有耐心和勇气去造出一门语言的，但是阿里这个公司在杀死了本土著名开源技术人士章文嵩博士之后，推出什么移动端Webex，来对抗Facebook的React Native。&lt;/p&gt;
-
-&lt;p&gt;在编程语言方面，开源再次应证了正在吞噬世界。正在成为默认的行为。&lt;/p&gt;
-
-&lt;p&gt;IEEE的出品，背后一定有其方法论，个人不喜欢口水仗，不认同的可以换一个视野来调查！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源的药物发现成功了:350197f241ec42425b084e9e03a0ef68&#34;&gt;开源的药物发现成功了!&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.eurekalert.org/pub_releases/2016-07/uowh-odd072716.php&#34;&gt;Open-source drug discovery a success&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;究竟是开源软件影响了医学界，还是医学界影响了开源软件，我还无法下结论。但是Paper的开放，却是科学界普遍的做法。仅仅开放Paper就足够了嘛？&lt;/p&gt;
-
-&lt;p&gt;说老实话，我对这篇文章没有读太懂。只是看到开源。究竟是开源怎么造就了成功？是2011年的一项计划：**distributed 400 diverse compounds with antimalarial activity free of charge to 200 labs in 30 countries. **和开源软件似乎有很大的区别？方法论不一致。&lt;/p&gt;
-
-&lt;p&gt;对了，还有这篇：&lt;a href=&#34;http://www.popsci.com/worldwide-open-source-project-discovers-promising-disease-fighting-compounds#page-2&#34;&gt;WORLDWIDE OPEN-SOURCE PROJECT DISCOVERS PROMISING DISEASE-FIGHTING COMPOUNDS&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/OSDC_Penguin_Image_520x292_12324207_0714_mm_v1a.png?itok=WfAkwbFy&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;在你出身之前我已经开始linuxing了:350197f241ec42425b084e9e03a0ef68&#34;&gt;在你出身之前我已经开始Linuxing了&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/7/my-linux-story-carla-schroder&#34;&gt;I&amp;rsquo;ve been Linuxing since before you were born&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是OpenSource.com 发起的“你和Linux的故事”系列篇。作者确实非常的励志！能够出版那么多的书籍和文章！我喜欢这句话：&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Once upon a time, there was no Linux. No, really! It did not exist. It was not like today, with Linux everywhere.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;云计算-开源以及-devops-gla的技术包:350197f241ec42425b084e9e03a0ef68&#34;&gt;云计算、开源以及 DevOps：GLA的技术包&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computing.co.uk/ctg/opinion/2466308/cloud-open-source-and-devops-technology-at-the-gla&#34;&gt;Cloud, open source and DevOps: Technology at the GLA&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;对于此，我只有一个观点，DevOps离开了开源就是欺骗。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
