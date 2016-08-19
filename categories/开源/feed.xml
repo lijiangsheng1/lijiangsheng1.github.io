@@ -7,8 +7,90 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 19 Aug 2016 06:49:34 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Aug 2016 06:30:24 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.20)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.20%29/</link>
+      <pubDate>Sat, 20 Aug 2016 06:30:24 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.20%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:4e9ca46ba253c0d1028d0e4759f06601&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;at-t-话说什么是-开源:4e9ca46ba253c0d1028d0e4759f06601&#34;&gt;AT&amp;amp;T: 话说什么是“开源”？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/enterprise-cloud/atandt-what-is-open-source-anyway/d/d-id/725527?&#34;&gt;AT&amp;amp;T: What Is &amp;lsquo;Open Source,&amp;rsquo; Anyway?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;企业该如何评估开源？必须小心谨慎的去做方有可能做到利用开源的全部好处。这个确实比较的棘手。我个人也算是开始接触一些企业用户了，对待开源的态度，依然停留在“不靠谱”、观望当中，鲜有尝试者。&lt;/p&gt;
+
+&lt;p&gt;AT&amp;amp;T 是如何看待开源的？这个网络的巨人上个月还开源了一个重量级的项目。使用开源的三原则：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;许可证是免费的。&lt;/li&gt;
+&lt;li&gt;由基金会主持的背后有活跃的社区，不是由某个厂商锁定的。&lt;/li&gt;
+&lt;li&gt;源代码是可以访问、获取到的。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;另外，AT&amp;amp;T 还将开源区分为两种：纯粹的和商业的。纯粹的即是满足上述3点要求的，商业的则是哪些付费的。是不会选择后者的：**&amp;ldquo;The nature of vendor control leads to less public documentation such as testing and bugs. It also doesn&amp;rsquo;t include test frameworks to evaluate production readiness. These problems make it clear that the pure open source model is preferred,&amp;rdquo; **&lt;/p&gt;
+
+&lt;p&gt;我相信第二条会让很多商业项目经不起推敲和考验。国内目前号称开源的项目，基本都在这个范畴。所以骗骗本土的或许还能坚持一段时间，在国外可能不好过。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;数数linux基金会托管项目:4e9ca46ba253c0d1028d0e4759f06601&#34;&gt;数数Linux基金会托管项目&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.eweek.com/enterprise-apps/slideshows/beyond-linux-7-open-source-projects-the-linux-foundation-is-leading.html&#34;&gt;Beyond Linux: 7 Open-Source Projects the Linux Foundation Is Leading&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Linux 基金会现在所托管的项目已经超越Linux本身，有很多优质的项目都加入到它的羽翼之下，其实我个人也曾经有想法，分析一下Linux基金会所托管的项目，比如IoT操作系统、网络、虚拟化、容器等相关的，对于基础设施软件究竟有多大的影响？看来还是有人瞄上了这个日益庞大的机构，决定着世界未来走向的非盈利机构。&lt;/p&gt;
+
+&lt;p&gt;看看都是哪7个项目吧：(仅仅是今年加入的)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;PNDA：网络数据分析&lt;/li&gt;
+&lt;li&gt;CORD：网络运维&lt;/li&gt;
+&lt;li&gt;OpenvSwitch：&lt;/li&gt;
+&lt;li&gt;FD.io ：Vector Packet Processing (VPP)&lt;/li&gt;
+&lt;li&gt;TODO：（这类似高端俱乐部，会员制一样，就是开源该如何在企业中发展。）&lt;/li&gt;
+&lt;li&gt;OpenSwitch：惠普贡献的网络操作系统。&lt;/li&gt;
+&lt;li&gt;Open-Orchestrator&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;除第5个，均可理解。不知道何时能够加入这个组织。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-473045750.jpg?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;mysql-创始人尝试新的许可模式:4e9ca46ba253c0d1028d0e4759f06601&#34;&gt;MySQL 创始人尝试新的许可模式&lt;/h3&gt;
+
+&lt;p&gt;原文链接：[MySQL founder tries a new software licensing model](&lt;a href=&#34;https://techcrunch.com/2016/08/19/mysql-founder-tries-a-new-software-licensing-model/&#34;&gt;https://techcrunch.com/2016/08/19/mysql-founder-tries-a-new-software-licensing-model/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;看完这篇文章之后，我第一个反应竟然是，我又被阿里忽悠了。我没有注意MySQL原来的协议是GPL，那就是说阿狸开源是必须的，义务的。而不是像对社会、人类做了多大贡献似的。正如本土的交警指挥交通，无论天气，那都是他的责任和义务，而不是有高尚的道德精神一样。&lt;/p&gt;
+
+&lt;p&gt;这个BSL蛮有意思：允许开发者加入一些限制，如根据CPU等来付费，并且有超时，例如三年之后自动变为GPL许可的软件等。&lt;/p&gt;
+
+&lt;p&gt;这在本土，也即使如我也很难感受到它的意义。因为本土视许可证为无物。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.19)</title>
@@ -271,6 +353,9 @@
 &lt;p&gt;Checking email, reading the news, checking stock prices, shopping online, going to the doctor, calling customer service—whether we realize it or not, everything we do is made possible by projects like OpenSSL. Without them, the technology that modern society relies upon simply could not function.&lt;/p&gt;
 
 &lt;blockquote&gt;
+&lt;p&gt;开源为雇员们带来了更加能够讨价还价的能力。这个观点还算是新颖，也是大多数本土老板不喜欢的原因。使用专有的商业技术，导致程序员、工程师只能在一家雇主中干活。开源成为一种开放的、标准的技术。其实话说回来，还是人要得到承认和获得自由。&lt;/p&gt;
+
+&lt;p&gt;这里有个让人困惑不解的问题，为什么有那么多独立的开发者不是为了报酬而持续的为社区做贡献了呢？&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1001,84 +1086,6 @@
 &lt;p&gt;通过本文可以得知，OpenHub，我们经常使用的分析开源项目的工具，将被纳入此新成立的部门。&lt;/p&gt;
 
 &lt;p&gt;Black Duck像大多数牛逼的公司一样在中国是水土不服的，进不来，当然这是抛开安全本身不提的。就开源本身他在本土依然没有生意做。这是否值得我思考了呢？开源在本土除了披上“国产”的外衣，再无出路？&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.2)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.2%29/</link>
-      <pubDate>Tue, 02 Aug 2016 06:13:23 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.2%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:79999c95a032c5aacacdeda8d173af70&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/osdc_whitehurst_money.png?itok=Xqow4bzq&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;兜售开源的智慧之术:79999c95a032c5aacacdeda8d173af70&#34;&gt;兜售开源的智慧之术&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/8/selling-open-source-smart-way&#34;&gt;Selling open source the smart way&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;来自GitLab的销售认识和哲学。开源已经是主流，但是这个只能在外文网站上看到！本土是在搞“国产化”和“自主产权”，以开源为契机，赚足了名与利。我觉得我越来越对撰写一篇批判这样的做法的文章的想法愈发的强烈！&lt;/p&gt;
-
-&lt;p&gt;开源是很多人的情怀，比如PingCAP也是这样，但是在商业之前，尽量少解释情怀，那样让人觉得虚假。还不如直接讲开源的力量更加的强大，符合福山《历史的终结》的描述，比如红帽就是这么干的。谈情怀还搞“OpenCore”，这是骗子的行径。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Why should I pay for something that I can get for free?&lt;/strong&gt; 这个问题在本土更加的难以回答。尤其是民间文化中对待匠艺人的态度、以及匠艺人自己的态度。从我个人的成长经历、以及近来近距离接触用户的验证来看。本土绝对不会为开源掏一毛钱，在大企业尤甚。有几点原因：0、敢于担责任的人少之又少。1、高看自己的心态。2、极权主义教育下以庞大的机构扮演为自己，藐视厂商。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Support the community, and the community will support you&lt;/strong&gt; 来看看OpenStack中国社区就知道了。有几个奇葩现象：0、将社区搞成自己市场的栖息地。1、Meetup被具有“官方”色彩的机构接管。2、OpenStack中国社区是一家叫做EasyStack的公司搞的。3、各种微信群，只是自媒体罢了。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;talend-会成为下一个红帽嘛:79999c95a032c5aacacdeda8d173af70&#34;&gt;Talend 会成为下一个红帽嘛？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/danwoods/2016/07/31/can-talend-be-another-red-hat/#3194422a7425&#34;&gt;Can Talend Be Another Red Hat?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;红帽已经成为开源赚钱的典范，尤其是企业级市场。Mirantis在IaaS平台，Talend在BI方面，能否像红帽一样赚到钱。依靠品牌的力量！&lt;/p&gt;
-
-&lt;p&gt;此文值得借鉴的是其对于Talend的8个方面的总结，开源模式一点问题没有，就看其如何面对竞争对手，能否一跃而出？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;confluent-和-mesosphere-联合推出运行在-dc-os-之上的企业级-kafka-容器2-0-时代来临:79999c95a032c5aacacdeda8d173af70&#34;&gt;Confluent 和 Mesosphere 联合推出运行在 DC／OS 之上的企业级 Kafka，“容器2.0”时代来临&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/confluent-mesosphere-drive-container-20-era-with-enterprise-grade-kafka-on-dc-os-2146852.htm&#34;&gt;Confluent and Mesosphere Drive the &amp;ldquo;Container 2.0&amp;rdquo; Era With Enterprise-Grade Kafka on DC/OS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;推荐阅读！信息量很大：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;什么是Mesos？什么是DC/OS？什么是Kafka？&lt;/li&gt;
-&lt;li&gt;谁是Confluent？和Linkedin是什么关系？Mesosphere和Mesos是什么关系？&lt;/li&gt;
-&lt;li&gt;Apache 项目下的Mesos、Kafka&amp;hellip;&amp;hellip;&lt;/li&gt;
-&lt;li&gt;容器2.0如何？容器1.0还没有烧过去了。&lt;/li&gt;
-&lt;li&gt;DC/OS 的“应用商店”现在都有什么？CI/CI？分布式数据库？文件系统？大数据分析工具？是否一应俱全？&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;是否觉得这就是未来了呢？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;前-mozilla-ceo-另起炉灶打造屏蔽广告浏览器-brave-融资450万美金:79999c95a032c5aacacdeda8d173af70&#34;&gt;前 Mozilla CEO 另起炉灶打造屏蔽广告浏览器——Brave，融资450万美金&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/08/01/brave-the-ad-blocking-browser-from-former-mozilla-ceo-grabs-4-5-million/&#34;&gt;Brave, the ad-blocking browser from former Mozilla CEO, grabs $4.5 million&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;技术上只看到一点：Brave将广告屏蔽植入内核，在移动端发力较多。商业上始终没有看懂。屏蔽了广告还如何利用广告（互联网赚钱的本质）赚钱？待观察。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
