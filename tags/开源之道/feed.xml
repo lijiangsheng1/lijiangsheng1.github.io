@@ -7,8 +7,74 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 20 Aug 2016 06:30:24 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 21 Aug 2016 08:14:16 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.21)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.21%29/</link>
+      <pubDate>Sun, 21 Aug 2016 08:14:16 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.21%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:c03bdecf9658aa9e64d6e5f3aeed2095&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cdn1.computerworlduk.com/cmsdata/features/3645263/opensourceeating800_thumb800.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;人才依然是企业中部署开源的最大短板:c03bdecf9658aa9e64d6e5f3aeed2095&#34;&gt;人才依然是企业中部署开源的最大短板&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerworlduk.com/it-business/talent-remains-biggest-issue-when-it-comes-deploying-open-source-in-enterprise-3645263/&#34;&gt;Talent remains the biggest issue for deploying open source in the enterprise&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;首先赞一下会议的标题：开源正在吞噬世界！&lt;/p&gt;
+
+&lt;p&gt;没错，开源软件正在被主流社会所接受，但是作为提供开源软件的厂商，是该思考如何盈利、如何营销等战略或策略。人才是多数公司所头痛的问题，嗯，现代的企业软件越来越复杂，尤其是DevOps之类的新的模式，企业、厂商和社区，三者共同去跟进业务需求，弥补上市时间的缝隙。那么作为厂商，就得投入大量的工程师参与，而不是像过去那样卖一张光盘就可以了，最多后续打个补丁，出现故障了Troubeshooting。&lt;/p&gt;
+
+&lt;p&gt;在物欲横流，成为社会主流价值观，一个人能否被社会尊重，取决于这个人有多少钱。招徕人才只有钱这一招，确实是狠了点，资本至上。人才，确实是一个令所有创业公司头痛的问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://tr3.cbsistatic.com/hub/i/r/2016/08/19/ff8af616-be96-41aa-b41f-adfc67de3031/resize/620x/95fe3a87b167426a0a07ff169c5f52bc/cloudcontainers.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;注：图片来自iStockphoto/Vladimir_Timofeev&lt;/p&gt;
+
+&lt;h3 id=&#34;容器-云计算-以及开发者们是如何预测未来的企业技术的:c03bdecf9658aa9e64d6e5f3aeed2095&#34;&gt;容器、云计算，以及开发者们是如何预测未来的企业技术的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/containers-cloud-and-how-developers-predict-the-future-of-enterprise-tech/&#34;&gt;Containers, cloud, and how developers predict the future of enterprise tech&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;便捷才是关键。这才是近几年公有云胜出的关键所在。资源租赁才是生财之道。&lt;/p&gt;
+
+&lt;p&gt;容器究竟有没有用？这是大多数过去有才华的人所疑惑的，我本人也不例外。但是亚马逊的CTO： Werner Vogels 在伦敦的Summit上谈到Dev和Test占据非常重要的位置，所以容器非常非常的重要。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Big data has pushed enterprises to think about their data infrastructure differently.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;最后一段话，才是本文的亮点所在：如果你想知道未来的技术趋势，不是和CIO们一起打高尔夫，而是看看开发者们在讨论什么。另外，现在要想招徕人才，或者是宣传自己有创意的项目，最佳途径是：&lt;strong&gt;put it on GitHub and find ways to encourage developers to embrace it.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源应用是您的最佳之选嘛:c03bdecf9658aa9e64d6e5f3aeed2095&#34;&gt;开源应用是您的最佳之选嘛？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.enterpriseappstoday.com/management-software/are-open-source-applications-your-best-option-1.html&#34;&gt;Are Open Source Applications Your Best Option?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，这是我第一篇点评不同、甚至是相反观点的文章。是的，整天沉醉于开源已成燎原之势，不往外部看，是不可以的。毕竟这个世界还是闭源、专有软件所统治，开源仍然处于解放之路之上，任重而道远。&lt;/p&gt;
+
+&lt;p&gt;这是常见的观点，在现实中也会经常碰到，我一度怀疑这篇文章都是某个使用盗版的国人写的。比如拿微软的Office说事、开源软件通常比较难用、支持程度不够、安全、稳定性等等。&lt;/p&gt;
+
+&lt;p&gt;虽然是第一篇，毫无说服力，但是这毕竟是大多数人的观点。想想怎么拯救他们才是要考虑的，不要去记恨或批判他们。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.20)</title>
@@ -1011,89 +1077,6 @@
 &lt;p&gt;又发现一本好书！众筹中！&lt;a href=&#34;https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business&#34;&gt;overview and analysis of open business models&lt;/a&gt; 预计今年11月和大家见面。并以CC-BY-SA发布。十分期待中！&lt;/p&gt;
 
 &lt;p&gt;其余的就是招聘广告了。若是中文的话，我倒是非常的想参与进来！可是本土没有人做这件事。而我孤掌难鸣！正如我即将写的文章：开源的术与道，中会阐述的一样，本土更注重术，而极力的去避免谈道！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.3)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.3%29/</link>
-      <pubDate>Wed, 03 Aug 2016 06:15:04 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.3%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:02836c73ede28f8bf2df5bb429273830&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/08/15558382212_a81f9f4a3a_k.jpg?w=1294&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;aws-最新发布的-emr-产品支持了16个haddoop的项目:02836c73ede28f8bf2df5bb429273830&#34;&gt;AWS 最新发布的 EMR 产品支持了16个Haddoop的项目&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/08/02/latest-aws-elastic-mapreduce-release-supports-16-hadoop-projects/&#34;&gt;Latest Amazon Elastic MapReduce release supports 16 Hadoop projects&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;华为对VMWare的开源策略很感兴趣，而我却对Amazon抱着一种好奇的态度。Amazon利用开源，站在巨人的肩膀上，在大家都标榜开源的时候，他依然我行我素，作为云计算行业的领头羊。对于支持开源的项目倒是不遗余力。比如对于大数据处理的基础设施框架Hadoop的支持。&lt;/p&gt;
-
-&lt;p&gt;OpenStack 的Sahara 应该从EMR项目获取了不少的灵感。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;ibm-依然坚定不移的支持开源:02836c73ede28f8bf2df5bb429273830&#34;&gt;IBM 依然坚定不移的支持开源&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/ibms-wager-open-source-still-paying&#34;&gt;IBM’s Wager on Open Source Is Still Paying Off&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一份Keynote的总结。我简单总结下我能够获得的信息。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;IBM 从1998年开始支持Linux，到现在已经有18年了，持续不断的投入人力和物力。&lt;/li&gt;
-&lt;li&gt;62000 雇员在为开源作贡献，这个数字是否值得怀疑？&lt;/li&gt;
-&lt;li&gt;开源已经是事实上到标准制定。符合IBM对待开源的战略。&lt;strong&gt;“[The contributions] were bets; we didn’t know how this was going to come out, and we didn’t know if open source would grow, we knew there would be roadblocks and things we’d have to overcome along the way, but it had promise. We thought this would be the way of the future.”&lt;/strong&gt; 这句话，是烟雾弹！不符合理性的科学道理。但是很煽情。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;“The Apache way is that everyone is a committer, and making their own commits into the process, but the companies are behind it,” Moore said. “We’ve got real good deep support here, and that’s important.”&lt;/strong&gt; 这话说的很坦诚。在社区能够做到独立开发者的少之又少！&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;IBM 对待开源的背后经济学思考，是所有公司应该值得考虑和借鉴的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blogs-images.forbes.com/adrianbridgwater/files/2016/08/12e12eTux.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;英国政府招聘首席开源官:02836c73ede28f8bf2df5bb429273830&#34;&gt;英国政府招聘首席开源官&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/adrianbridgwater/2016/08/02/uk-government-recruits-chief-open-source-penguin/#34706b194e7f&#34;&gt;UK Government Recruits Chief Open Source Penguin&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Forbes 也是真够八卦的，不就一招聘嘛？但是开源之大势所趋不可阻挡！本文中让我愉悦的一些观点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;英国政府想采用更多的开源策略（亦包括InnerSource，而这能让我开展业务嘛？）&lt;/li&gt;
-&lt;li&gt;MongoDB的Kelly Stirman 说的一番话，激动人心：&amp;rdquo;开源已经不再是一个好的想法来，而是必须去做的事情！政府、企业采用开源好处多多！在接下来的半个世纪，开源将在重要的战略发挥作用！&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;开源的哲学101，依然需要做很多的普及工作！&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;black-duck-成立了开源研究和创新中心:02836c73ede28f8bf2df5bb429273830&#34;&gt;Black Duck 成立了开源研究和创新中心&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.businesswire.com/news/home/20160802005213/en/Black-Duck-Announces-Creation-Global-Center-Open&#34;&gt;Black Duck Announces Creation of Global Center for Open Source Research &amp;amp; Innovation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;黑鸭子继续在开源的安全方面发力！认为在接下来的十年，开源将愈发发挥作用，而伴随的安全问题将会突出！成立开源研发和创新中心就是希望能够未雨绸缪，把握这一机会。&lt;/p&gt;
-
-&lt;p&gt;通过本文可以得知，OpenHub，我们经常使用的分析开源项目的工具，将被纳入此新成立的部门。&lt;/p&gt;
-
-&lt;p&gt;Black Duck像大多数牛逼的公司一样在中国是水土不服的，进不来，当然这是抛开安全本身不提的。就开源本身他在本土依然没有生意做。这是否值得我思考了呢？开源在本土除了披上“国产”的外衣，再无出路？&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
