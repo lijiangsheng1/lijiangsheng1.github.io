@@ -7,8 +7,108 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 21 Aug 2016 08:14:16 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Aug 2016 06:47:17 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.23)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.23%29/</link>
+      <pubDate>Tue, 23 Aug 2016 06:47:17 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.23%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;每个周一，总是缺少任何点文章。昨天就没有点评。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;文章点评:257ae395b27911639d2593b9518479bc&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;linux基金会掌门人谈开源的25年:257ae395b27911639d2593b9518479bc&#34;&gt;Linux基金会掌门人谈开源的25年&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3109962/linux/linux-foundation-chief-reflects-on-25-years-of-open-source.html&#34;&gt;Linux Foundation chief reflects on 25 years of open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Linux 在过去的25里可谓是成绩斐然，卓越非凡！正如Jim Zemlin 所言&lt;strong&gt;In a nutshell, Linux runs the global economy quite literally.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jim所列举的Linux 每天的变更还是很惊人的，那一组数据，已经超出了世界上任何一个组织的工程量。&lt;/p&gt;
+
+&lt;p&gt;Linux 的成功对于我们到底意外着什么？暂时游走于题目之外，十几年前我接触、学习Linux的时候，相信其会成功的，现在看来Linux已经普及了，职业技能中是必修，而不再是加分项了。为何本土对于经验一点都不重视？年轻人真的能够替代老工程师？和拳击手等传统的职业一样？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Linux, and open-source movement and community have delivered a better way to define the future.&lt;/strong&gt; 是的，没错，Linux已经超越其本身。&lt;/p&gt;
+
+&lt;p&gt;Linux对于下一代的影响也是蛮深的，13岁的孩子将Linus视为他心目中的英雄！&lt;a href=&#34;http://www.muktware.io/linus-torvalds-hero-says-13-years-old-zachary-dupont/&#34;&gt;Zachary Dupont&lt;/a&gt;这个故事非常的深刻。&lt;/p&gt;
+
+&lt;p&gt;对于未来：&lt;strong&gt;Today open source is not emulating the past, it&amp;rsquo;s changing and defining the future, he said.&lt;/strong&gt; 你无法拒绝，这就是历史的车轮。也是艾未未所说的，某些东西人一旦意识到、见识过，就再也回不去了。开源正在加速壮大，超过你我的想象。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;来自linuxcon的声音-通过代码改变世界:257ae395b27911639d2593b9518479bc&#34;&gt;来自LinuxCon的声音：通过代码改变世界&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/linuxcon-changing-world-code&#34;&gt;Live From LinuxCon: Changing the World with Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Jim的话：&lt;strong&gt;“You can better yourself while bettering others at the same time.”&lt;/strong&gt;要尝试理解，做更好的自己，这也是我积极追求的。&lt;/p&gt;
+
+&lt;p&gt;Dr. Ainissa Ramirez 说的更加的煽情：&amp;rdquo; If you want to change the world, she said, do it with code.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;华为，只谈技术，与未来的趋势，以及中国的市场。这大概就是差别。本土的人再也不信什么是情怀。共产主义的影响要到多少年？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://tr2.cbsistatic.com/hub/i/r/2016/08/22/fb0e3bd0-a2a4-4e2d-bcfa-82009d9ee6ba/resize/620x/be0ef4721016d808d4feae2086e38666/mariamoney.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;mariadb-最近的行为是否仍然说明开源赚钱很困难:257ae395b27911639d2593b9518479bc&#34;&gt;MariaDB 最近的行为是否仍然说明开源赚钱很困难？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/does-mariadbs-latest-move-show-how-hard-it-is-to-make-money-with-open-source/&#34;&gt;Does MariaDB&amp;rsquo;s latest move show how hard it is to make money with open source?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源的商业只有一家公司赚到了钱，那就是红帽，其余都在“either swimming in red ink or a rounding error.”&lt;/p&gt;
+
+&lt;p&gt;需不需要一个中立的基金会？这应该是我在今天北京Qcon大会上采访PingCAP的CTO问的问题，多数公司在考虑使用开源的时候，一般定的标准就是是否会被某家厂商锁定。有基金会情况会好很多。&lt;/p&gt;
+
+&lt;p&gt;文中最后的一段话，很有意思，Linux如此，Apache亦是如此，基金会运营。奉劝企业：&lt;strong&gt;&amp;rdquo; If your chosen open source software doesn&amp;rsquo;t follow this model, don&amp;rsquo;t be surprised when you wake up to find your open source software is not so open source.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;uganda-政府鼓励采用开源软件:257ae395b27911639d2593b9518479bc&#34;&gt;Uganda 政府鼓励采用开源软件&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://ntv.co.ug/news/business/22/aug/2016/government-encourage-adoption-open-source-software-13938#sthash.oOuoaQFM.dpbs&#34;&gt;Government to encourage adoption of open-source software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;又一家政府公开声明支持并鼓励政府部门采用开源软件。&lt;/p&gt;
+
+&lt;p&gt;但是我觉得，真的能够省钱吗？但是增加就业倒是真的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/rh_003588_01_rd3os.combacktoschoolserieshe_rh_051x_0.png?itok=Tm2UcSXw&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;5条教授应该鼓励学生参与开源项目的理由:257ae395b27911639d2593b9518479bc&#34;&gt;5条教授应该鼓励学生参与开源项目的理由&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/education/16/8/5-reasons-student-involvement-open-source&#34;&gt;5 reasons professors should encourage students to get involved in open source projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;5条非常好的理由，本土的话就算了，因为本土的教育是封闭的、灌输式的。不提也罢。但是对于企业招聘实习生，如果你是导师的话，非常的实用。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;没有条条框框的学习。（这点最为赞同，从开源项目的实践中，遇到什么难题，主动的学习才是最好的学习）&lt;/li&gt;
+&lt;li&gt;专业的互动。（不仅仅是知识，团队精神、沟通能力、解决问题的思路等）&lt;/li&gt;
+&lt;li&gt;外部的机会。（在本土的话，可能要被骗。本土只有新鲜、浪潮的商业meetup。）&lt;/li&gt;
+&lt;li&gt;更好的理解计算机。&lt;/li&gt;
+&lt;li&gt;有趣！ （培养出有趣的雅致来，那更是教育的最高境界。）&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.21)</title>
@@ -991,92 +1091,6 @@
 &lt;p&gt;在利用开源，但是却闭源的例子中，作者举了Amazon这个例子！他迟早有一天会尝到苦果的。&lt;/p&gt;
 
 &lt;p&gt;**Long live open source. ** &lt;strong&gt;开源万岁！&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.4)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.4%29/</link>
-      <pubDate>Thu, 04 Aug 2016 06:30:06 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.4%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://siliconangle.com/files/2014/08/open-source-prescription.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;企业正在逐步加入到开源的生态系统中-来自wikibon:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;企业正在逐步加入到开源的生态系统中——来自Wikibon&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://siliconangle.com/blog/2016/08/03/enterprises-increasingly-joining-open-source-ecosystem-wikibon/&#34;&gt;Enterprises increasingly joining open source ecosystem – Wikibon&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是对来自wikibon首席云分析师&lt;a href=&#34;http://wikibon.com/open-source-software-enabling-enterprise-it-innovation/&#34;&gt;Brian Gracely 的一份报告&lt;/a&gt;作出的摘要信息，原报告没有下载到。&lt;/p&gt;
-
-&lt;p&gt;文中称，开源已经不再仅仅是技术开发者们到天地了，很多传统的大型企业也开始参与进来了，其中有：耐克、通用电气、Capital One Financial Corp. 、以及Deere &amp;amp; Co.等。&lt;/p&gt;
-
-&lt;p&gt;这些传统的企业之所以这么做是因为IT的领导者如：IBM、Intel、Google等公司在这方面取得了巨大的成功。&lt;strong&gt;it allows them to participate with outside teams on developing software they need, creating better solutions to their needs faster and at less cost.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;其实传统企业参与到开源也面临了很多的挑战，如文化的改变、如何招聘并留住人才、以及遵守项目的许可协议等。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;为什么说将软件开源是企业明智的决定:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;为什么说将软件开源是企业明智的决定&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://techcitynews.com/2016/08/03/open-sourcing-software-smart-business-decision/&#34;&gt;Why open sourcing your software is a smart business decision&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源正在成为主流！连非技术公司耐克都在玩开源，将自己的代码放在了GitHub上！&lt;/p&gt;
-
-&lt;p&gt;作者对于企业采用开源的益处，总结了三大条：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;可以测试最新最酷的技术。&lt;/li&gt;
-&lt;li&gt;对激励员工有所增强，尤其是搞技术的孩子们。&lt;/li&gt;
-&lt;li&gt;招聘／雇佣牛掰的人才！&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我想说的是，我天天沉浸在开源的神话中，而甚至都忘记了自己所处的环境！开源其实离我们很远！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/penguin%20swimming.jpg?itok=mfhEdRdM&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;linux-的复仇:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;Linux 的复仇&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/8/revenge-linux&#34;&gt;The revenge of Linux&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Linux在最初被创造时是被众人所嘲笑的，而且并不认为它能干点啥。现在Linux已经是这个世界不可或缺的一部分，到处都在运行着它。&lt;/p&gt;
-
-&lt;p&gt;en,文章是有点过时，对于现在的年轻人和入门者很难理解，一名传统Unix的使用者，对于自由和开放的惊喜！这很难从盗版横行的世界中觅得知音！不过，按照本土文化来说，从众、跟风、随大流是没有任何问题的，Linux现在是如此的流行！没有不学习的道理。你说不是吗？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;scicasts-新产品介绍-开放的经济:9ae8eca1fbc8c94565cd2c316469091a&#34;&gt;scicasts 新产品介绍—— 开放的经济&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://scicasts.com/insights/2123-open-science/11541-introducing-our-new-series-the-economy-of-open/&#34;&gt;Introducing Our New Series - The Economy of Open&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;“开源”正在成为世界的主流，也正在被更多的人研究。而这也是scicasts所看到的！它的目的很明确：&lt;strong&gt;Our aim is to find people and organizations working to realize the ‘open (source) economy’.&lt;/strong&gt; 以及希望能够回答这样的问题：&lt;strong&gt;Can we, the humanity, make Open Economy work for us? And if we can - how should we do it?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;文中对 CERN 研究人员的采访蛮有意思，其中的观点我非常的赞同，如：开放的硬件是一种哲学！能够在学术界和工业界之间找到最佳的竞争力！&lt;/p&gt;
-
-&lt;p&gt;又发现一本好书！众筹中！&lt;a href=&#34;https://www.kickstarter.com/projects/creativecommons/made-with-creative-commons-a-book-on-open-business&#34;&gt;overview and analysis of open business models&lt;/a&gt; 预计今年11月和大家见面。并以CC-BY-SA发布。十分期待中！&lt;/p&gt;
-
-&lt;p&gt;其余的就是招聘广告了。若是中文的话，我倒是非常的想参与进来！可是本土没有人做这件事。而我孤掌难鸣！正如我即将写的文章：开源的术与道，中会阐述的一样，本土更注重术，而极力的去避免谈道！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
