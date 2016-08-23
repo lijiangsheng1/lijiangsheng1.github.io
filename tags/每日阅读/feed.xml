@@ -7,8 +7,98 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 Aug 2016 06:47:17 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 24 Aug 2016 06:40:01 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.24)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.24%29/</link>
+      <pubDate>Wed, 24 Aug 2016 06:40:01 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.24%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:2ba9bfbf4f24a74604102aa3cac2446f&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源-windows-这件事-可能希望不大:2ba9bfbf4f24a74604102aa3cac2446f&#34;&gt;开源 Windows 这件事，可能希望不大&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/08/23/open-source-windows/&#34;&gt;Open Source Windows May Not Be that Big a Long Shot After All&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这在几年前，Windows 开源这件事本身就像是让可口可乐公开配方一样荒谬。但是在今天，Windows在手机操作系统失利之后，服务器端开不开源倒成了微软的心头大患。　 to be or not to be?一直是个问题。&lt;/p&gt;
+
+&lt;p&gt;本文依然一名局外人，媒体写的评论性文章。还未见微软的人有何说明。但是我却在想，开源又如何？你的生态系统建立不起来，开源正如阿里的MySQL之流，沦为一场蹩脚的市场Show而已。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;红帽和微软在舞台上拥抱:2ba9bfbf4f24a74604102aa3cac2446f&#34;&gt;红帽和微软在舞台上拥抱&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/live-linuxcon-red-hat-and-microsoft-embrace-stage&#34;&gt;Red Hat and Microsoft Embrace On Stage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;红帽的CEO Jim Whitehurst，基本没说什么关于合作本身的事情，有两点：0、是说红帽做企业级的开源软件，事实证明非常的成功。1、&lt;strong&gt;Now, companies like Nike, Ikea and Toyota have also embraced the “social DNA” of Linux &amp;ndash; the open source mindset &amp;ndash; to drive innovation,&lt;/strong&gt; 意思是说，Linux 离不开创新，要想在下一个25年依然保持活力的话，就得持续创新。&lt;/p&gt;
+
+&lt;p&gt;微软一再证明自己在开源很努力，而且也有所贡献。这种欲盖弥彰的行为颇令人不耻。微软毕竟是一个商业大国，靠软件的许可证来赚钱的。红帽在某种程度上就是一服务行业，赚得是辛苦钱。好吧，这些把戏骗骗小孩子就可以了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;沃尔玛的开源云管理平台将会成为openstack的一部分:2ba9bfbf4f24a74604102aa3cac2446f&#34;&gt;沃尔玛的开源云管理平台将会成为OpenStack的一部分&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/walmarts-oneops-open-source-cloud-management-platform-could-become-part-of-openstack/&#34;&gt;Walmart&amp;rsquo;s OneOps open source cloud management platform could become part of OpenStack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;沃尔玛积极拥抱开源，这是近来经常提到的事情，但是被主流的项目－OpenStack所承认，还真是破天荒第一次。两个原因：0、OpenStack对于CMP这块呼声太高，而一直不认为是OpenStack的一部分。1、沃尔玛作为最牛逼的电商做的东西事实证明有很多人在用。&lt;/p&gt;
+
+&lt;p&gt;开源的人才，正在延伸到各个行业，这一代人的成长，将彻底将开源成燎原之势。而我只学到皮毛，还得在本土想法布道。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/cloud-linuxone.jpg?itok=cJCIAeHE&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;ibm-的-linuxone-在开源云平台的变革下是如何进化的:2ba9bfbf4f24a74604102aa3cac2446f&#34;&gt;IBM 的 LinuxONE 在开源云平台的变革下是如何进化的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/how-ibms-linuxone-has-evolved-new-open-source-cloud&#34;&gt;How IBM’s LinuxONE Has Evolved For the New Open Source Cloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如果我们记错的话，LinuxONE是IBM大型机的一次策略变更。也就是让IBM的大型机运行开源的软件栈。确实是一场伟大的变革。按照常理，这是一场完美的组合，大型机的稳定和开源的灵活。但是别忘了，现代的软件架构是微服务、serverless、无状态、认定基础设施失效是常态&amp;hellip;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;但是我看到了IBM的努力！努力不被历史带入黑洞。这是一家伟大的公司。近期将go语言移植到LinuxONE，意味着运行Docker以及CNCF的生态系统。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/rh_003588_01_rd3os.combacktoschoolserieshe_rh_041x_0.png?itok=yUgHEdMK&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开放教育比开放的内容更加重要:2ba9bfbf4f24a74604102aa3cac2446f&#34;&gt;开放教育比开放的内容更加重要&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/8/harnessing-power-open-education&#34;&gt;Open education is more than open content&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;红帽CEO的文章，他曾经出版过一本书，《the open organization》。一家公司的领导，除了笼络人才这件事之外，商业模式探索，未来趋势。&lt;/p&gt;
+
+&lt;p&gt;洗脑的巅峰之作？也不是。只是一种价值观的阐述罢了。&lt;/p&gt;
+
+&lt;p&gt;“如果你有一个苹果，我也有一个苹果，我们彼此交换，我们仍然是每人拥有一个苹果，但是如果你有一个想法，我也有一个想法，我们也彼此交换，那么我们俩每个都有两个想法”  我原来没有注意，这话是著名的剧作家萧伯纳说的。&lt;/p&gt;
+
+&lt;p&gt;洗脑这件事情是会上瘾，Jim明显不满足于现在的布道。开始和教育杠上了。看看他的观点吧：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Creation beyond control&lt;/li&gt;
+&lt;li&gt;Interaction beyond prescription&lt;/li&gt;
+&lt;li&gt;Sustainability beyond transmission&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.23)</title>
@@ -1026,71 +1116,6 @@
 &lt;p&gt;你有没有觉得很奇怪？为何又是民主国家走在了前面，在落后的社会主义认为开源是和发达国家开展竞争机会的时候，悄悄的将之偷换为国产软件，然后走封闭路线，欺骗自己说自主知识产权。反观走在前面的公司，已经看到了开源是未来的发展趋势，而威权式的社会精英们依然试图去欺骗大众。&lt;/p&gt;
 
 &lt;p&gt;GFW 最大的作用，就是在落后与先进之间筑起高墙，然后特权阶层利用这个空档，赚个盆钵满贯。去你的自由民主，愚民才是最大的财富。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.5)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.5%29/</link>
-      <pubDate>Fri, 05 Aug 2016 06:46:59 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.5%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:793b5b6e42d8d7825d3f2d641128a31f&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/government/GOV_2dot0.png?itok=dEihk225&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;让一名非程序员切换到开源:793b5b6e42d8d7825d3f2d641128a31f&#34;&gt;让一名非程序员切换到开源&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/8/my-linux-story-rute-correia&#34;&gt;Making the switch to open source as a non-programmer&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这依然是一篇OpenSource.com 上关于“我和Linux的故事”其中的一篇。对于本文我只想引用一句话：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;quot;Dad, I killed Windows, but I just realized I still need it. Can you help me?&amp;quot;
-
-&amp;quot;No, you broke it, you fix it.&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这其中蕴含的道与术，就是真谛！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;索尼的-开源开发者英雄-奖项落入来自-xda-研发部门的-bumble-bee:793b5b6e42d8d7825d3f2d641128a31f&#34;&gt;索尼的“开源开发者英雄”奖项落入来自 XDA 研发部门的 Bumble-Bee&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.xda-developers.com/sonys-hero-open-source-developer-title-for-may-june-awarded-to-xda-rd-bumble-bee/&#34;&gt;Sony’s Hero Open Source Developer Title for May-June Awarded to XDA RD Bumble-Bee&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;一度辉煌的索尼，也没能在手机市场搞出个模样来（当然比国内的山寨机还是好很多的。）。那么这样的争取开源的行动究竟会有何结果？开源硬件设计？招聘开发者？XDA 以破解著称，当然是见便宜就占了。&lt;/p&gt;
-
-&lt;p&gt;这是一个很好的反例，就开源之术来说。市场营销也要看消费者的口味，不是吗？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;今天的开源世界-我们如何应对:793b5b6e42d8d7825d3f2d641128a31f&#34;&gt;今天的开源世界：我们如何应对&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.enterprisetech.com/2016/08/02/open-source-world-today-got/&#34;&gt;The Open Source World of Today: How We Got Here &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;无论你是否承认，当今的技术都是被开源所主导的，需要我举一些例子嘛？让闭源继续苟且吧！世界在变不是吗？想要跟上快速的业务变化？你的数字变革不能快速实现？DevOps 或者 ITOps 走闭源的路线明显是条死胡同。&lt;/p&gt;
-
-&lt;p&gt;那么开源的商业模式究竟如何？大数据的Cloudera和Hortonworks，证明了商业模式的创新！我喜欢作者的这句话：&lt;strong&gt;we’re seeing new business models emerge. Time will tell which ones prove to be most profitable.&lt;/strong&gt; 我也在努力苦苦追寻的路上。&lt;/p&gt;
-
-&lt;p&gt;在利用开源，但是却闭源的例子中，作者举了Amazon这个例子！他迟早有一天会尝到苦果的。&lt;/p&gt;
-
-&lt;p&gt;**Long live open source. ** &lt;strong&gt;开源万岁！&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
