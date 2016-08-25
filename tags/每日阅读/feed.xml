@@ -7,8 +7,91 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 25 Aug 2016 06:24:58 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Aug 2016 06:22:21 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.8.26)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.26%29/</link>
+      <pubDate>Fri, 26 Aug 2016 06:22:21 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.26%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:986e3a63e62d807387e6463174fdfe38&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;生日快乐-linux-恭喜你25周岁了:986e3a63e62d807387e6463174fdfe38&#34;&gt;生日快乐！Linux，恭喜你25周岁了！&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/enterprise-it/software/happy-birthday-linux-celebrating-25-years-of-the-open-source-linux-operating-system-4988480&#34;&gt;Happy Birthday Linux! Celebrating 25 years of the open source Linux operating system&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;19991年的8月25号，Linus写下了Linux的第一封开源的邮件。关于此我不想多说什么，引用一张Linux基金会主席的Slide：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/Cqd3NWsVMAAc5mJ.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;爱上linux的25条理由:986e3a63e62d807387e6463174fdfe38&#34;&gt;爱上Linux的25条理由&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/8/25-things-love-about-linux&#34;&gt;25 things to love about Linux&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;opensource.com 在这么重要的日子，肯定是不会袖手旁观的，从Twitter上发起了一个tag，甄选出了25条最酷的理由：蛮有意思，我这里挑选几条我喜欢的：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;There&amp;rsquo;s always something new to learn. —Alexander Golubets&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The power to customize and create my own specific operating system to be used for any purpose. —Rasyid Sahputra&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;There is no limit to what you can do. If you can imagine it, you can make it. —Jeroen Tuijn&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Don&amp;rsquo;t ask what Linux can do for you, it is already done, but what code you can apply for Linux! —Vladimir Cicovic&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;开源所解决的业界5大问题:986e3a63e62d807387e6463174fdfe38&#34;&gt;开源所解决的业界5大问题&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itbusinessedge.com/slideshows/5-ways-to-solve-the-open-source-industrys-biggest-problems-03.html&#34;&gt;5 Ways to Solve the Open Source Industry&amp;rsquo;s Biggest Problems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没有废话，看条目，详细理由看原链：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;持续集成和持续交付&lt;/li&gt;
+&lt;li&gt;将用户和IT管理者联系了起来&lt;/li&gt;
+&lt;li&gt;Existing Licensing Commitments&lt;/li&gt;
+&lt;li&gt;责任和赔偿&lt;/li&gt;
+&lt;li&gt;软件锁定&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;脸书开源其图形识别人工智能软件:986e3a63e62d807387e6463174fdfe38&#34;&gt;脸书开源其图形识别人工智能软件&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.usatoday.com/story/tech/news/2016/08/25/facebook-open-sources-ai-image-recognition-software/89306084/&#34;&gt;Facebook open sources AI image recognition software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;其实我对Facebook发布一款开源软件毫无兴趣，人工智能领域，以Google为领头羊，以开源为手段争夺高地，争取人才。谈过许多遍了。本文重点在后半部分，是来自两大研究机构的研究人员的解释，分别是：来自Forrester的Lauren Nelson，以及来自451 Research的Peter Christy。以下为我的引用：&lt;/p&gt;
+
+&lt;p&gt;There’s something important about the prospect of developing software within a community rather than in a proprietary environment.     &amp;ndash;Peter Christy&lt;/p&gt;
+
+&lt;p&gt;“It’s hard to make money from software that’s been open sourced, The question is whether there are other mitigating circumstances like the ability to build a join community, build things that are bigger than you could, or the ability to move the software faster than you could.”   &amp;ndash;Peter Christy&lt;/p&gt;
+
+&lt;p&gt;“Open Source Powers Enterprise Digital Transformation.” &amp;ndash;Forrester&lt;/p&gt;
+
+&lt;p&gt;“It’s no longer acceptable to take the traditional, cautious approach to technology adoption, As open source options evolve, enterprises see them as a more open and flexible path forward.” &amp;ndash;Lauren Nelson&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/print-edition/20160827_WBD001_0.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.25)</title>
@@ -1047,62 +1130,6 @@
 &lt;p&gt;引用一段话：&lt;strong&gt;“OVS is a great example of how open source software has enabled the networking industry to match the pace of cloud computing and help advance virtualized technologies,” said Jim Zemlin, executive director, The Linux Foundation. “Hosting OVS as a Linux Foundation Project will serve to further collaboration across users and vendors and aid in open technology development throughout the networking stack.”&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Open vSwitch 社区本身将保持独立运作。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.9)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.9%29/</link>
-      <pubDate>Tue, 09 Aug 2016 06:36:49 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.9%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:91de2e97bcc3df18bdbe82e651289532&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;白宫刚刚颁布了联邦源代码政策-目的是帮助政府如何开源代码:91de2e97bcc3df18bdbe82e651289532&#34;&gt;白宫刚刚颁布了联邦源代码政策，目的是帮助政府如何开源代码&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/08/08/the-white-house-just-released-the-federal-source-code-policy-to-help-government-agencies-go-open-source/&#34;&gt;The White House just released the Federal Source Code policy to help government agencies go open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;看看就可以了，建议本土的政府官员们读读这份备忘录。有以下几点信息可以参考：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;文中不断提到节省纳税人的钱。&lt;/li&gt;
-&lt;li&gt;gov.cn 在不久的将来就会发布。值得期待。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;“ensuring Government-wide reuse rights for custom code that is developed using Federal funds has numerous benefits for American taxpayers.”&lt;/strong&gt;这其实是Inner-Source的根本。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_community_1.png?itok=ThtWBAjd&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;如何使用gource来将代码仓库可视化:91de2e97bcc3df18bdbe82e651289532&#34;&gt;如何使用Gource来将代码仓库可视化&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/8/intro-to-gource&#34;&gt;How to use Gource to visualize your code repos (and more)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，如果你不熟悉Git和Gource的话，绝佳的入门文章。之所以选择这篇文章是因为自己曾经，具体点说是在云端时代做过这样的事情。使用Gource将团队所有成员的commit提交做成了动画！在此也是推广一下这个酷炫的工具。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;从开源到开放社会-能够做到跨越信任吗:91de2e97bcc3df18bdbe82e651289532&#34;&gt;从开源到开放社会，能够做到跨越信任吗？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://sticknz.net/2016/08/08/is-it-really-possible-to-cross-credit-open-source-to-open-society/&#34;&gt;Is it really possible to cross-credit open source to open society?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一个严肃的问题，就想我在怀疑自己一样，我在问我自己，你思考开源的道有意义吗？照着术往下走就好了。当面对周围的压力的时候，尤其在怀疑自己的所作所为。在本土，一旦涉及到和文化、政治相关的事情，人们视之为禁忌之谈。&lt;/p&gt;
-
-&lt;p&gt;历史的终结，也是一个漫长的过程。中间还可能遇到很多的反弹、极端。更何况渺小的个人所遭遇的。或许正是因为渺小而卑微的遭遇和做事方式，最后决定了所谓的民族、国家等大鳄。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
