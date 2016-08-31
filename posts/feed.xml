@@ -7,8 +7,90 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 31 Aug 2016 06:41:42 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2016 06:38:33 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.1)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.1%29/</link>
+      <pubDate>Thu, 01 Sep 2016 06:38:33 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.1%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:7ee2591a9a8e2039d347ddc9ad42832c&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;几张图说明了开源的崛起还是开发者的青睐有关:7ee2591a9a8e2039d347ddc9ad42832c&#34;&gt;几张图说明了开源的崛起还是开发者的青睐有关&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/opendns/survey-infographic-shows-open-source-increasingly-embraced-developers&#34;&gt;Infographic Shows Open Source Increasingly Embraced by Developers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;黑鸭子和北桥的哪个《the future of Open Source》，其实我也一直想总结来着。不知道为何，事情就那样过去了，今天看到 The VAR Guy 将这件事情做了。尽管多数是摘选出来认为有价值，或者是佐证自己观点的。但是重点在于人家做了。&lt;/p&gt;
+
+&lt;p&gt;来张图片说明一切：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://thevarguy.com/site-files/thevarguy.com/files/uploads/2016/06/FOOSInfographicGeneral.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;linux早期发展的故事:7ee2591a9a8e2039d347ddc9ad42832c&#34;&gt;Linux早期发展的故事&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/starting-with-linux-in-the-early-days/&#34;&gt;Starting with Linux in the early days&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Linux在今天看来是非常成功的了，但是早期的时候，只有很少一部分人愿意采用。发展并不是那么如很多人看来是一帆风顺的。看看早期都有哪些故事，以及一些人的感慨。&lt;/p&gt;
+
+&lt;p&gt;我这里只引用文中两个很有价值的观点：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ted T&amp;rsquo;so 早期的kernel开发者对于Linux能够成功的原因：stone soup approach.每个人都能找到自己感兴趣的地方。&lt;/li&gt;
+&lt;li&gt;Bottomley对于Linus领导力的评价，大胆的去尝试。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;八卦：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Dell 也曾经拥有过自己的Unix发行版：Dell SVR4 Unix 。&lt;/li&gt;
+&lt;li&gt;Caldera Linux, 也是早期的商业探索者。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;红帽进入forbes最具创新公司名单-唯一的一家开源公司:7ee2591a9a8e2039d347ddc9ad42832c&#34;&gt;红帽进入Forbes最具创新公司名单，唯一的一家开源公司&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.catchnews.com/tech-news/red-hat-only-open-source-company-in-forbes-world-s-most-innovative-companies-list-1472619377.html/2&#34;&gt;Red Hat only open source company in Forbes&amp;rsquo; most innovative companies list&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;红帽现在如日中天，其依靠独特的文化和管理模式，对于开源软件的深刻理解和创新，用实际的金额证明了开源模式的成功。没有什么好说的，进入这份名单，实至名归。&lt;/p&gt;
+
+&lt;p&gt;红帽CEO依然不忘文化的传播：&lt;strong&gt;This recognition by Forbes is a tribute to not only Red Hat associates around the world, but also to the open source communities that are driving community-powered innovation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;还有他们的预测：&lt;strong&gt;In its 2016 predictions, Deutsche Bank wrote that open source keeps eating the world, with open source rivals for almost every major infrastructure and data management software market.&lt;/strong&gt; 开源越来越重要，为什么我就找不到掘金的地方？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么人们对richard-stallman和自由软件基金会恨之入骨:7ee2591a9a8e2039d347ddc9ad42832c&#34;&gt;为什么人们对Richard Stallman和自由软件基金会恨之入骨？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3113739/open-source-tools/why-does-richard-stallman-and-the-free-software-foundation-get-so-much-hate.html&#34;&gt;Why does Richard Stallman and the Free Software Foundation get so much hate?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;关于本文是作者如何从不理解转变为支持者的变化，心路历程！值得一读。&lt;/p&gt;
+
+&lt;p&gt;我想多说的是：本土。鉴于对乌托邦和道德的恐惧，我们身边的绝大多数人，是视FSF为笑料的，我印象非常深刻的是14年Stallman在北航的演讲，哪些笑他的学生。即使是工作中，没有人相信高尚，好吧！30多年前哪些东西究竟要影响几代人方可罢休？&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.8.31)</title>
@@ -1107,99 +1189,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;&amp;ldquo;trust the power of participation.&amp;rdquo;&lt;/strong&gt; 红帽未来必成大器，往教育领域渗透无疑是非常聪明的市场之举。可能是我想歪了。但是jim提到的&lt;strong&gt;how interaction—active, participatory, self-governing—enables the creation of better content and ensures its sustainability.&lt;/strong&gt; 这完全是启蒙教育，我们的终极理想！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.13)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.13%29/</link>
-      <pubDate>Sat, 13 Aug 2016 06:17:35 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.13%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:b0b7477df73402e8b441e8842dc5a7cb&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;fuchsia-由google开发的针对手机-pc新的开源操作系统:b0b7477df73402e8b441e8842dc5a7cb&#34;&gt;Fuchsia: 由Google开发的针对手机、PC新的开源操作系统&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.osnews.com/story/29343/Fuchsia_a_new_open_source_OS_by_Google_for_phones_PCs&#34;&gt;Fuchsia: a new open source OS by Google for phones, PCs&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;树大招风，说的一点没有错。googlesource.com，有人盯着了。Fuchsia的仓库什么都没有了还，文档之类的都不健全。&lt;/p&gt;
-
-&lt;p&gt;Google 是对熊彼特对理论有多畏惧？市场上已经是那么多的操作系统了。为什么还要有一个Fuchsia？Android情何以堪？&lt;/p&gt;
-
-&lt;p&gt;只能说Google的行为超出了我的理解范围。不过从技术的角度出发，我还是蛮期待代码、文档的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://appdevelopermagazine.com/images/news_images/Government-Open-Source-Code-App-Developer-Magazine_yvn1voy5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;美国政府采用开源代码更多的考虑是安全因素:b0b7477df73402e8b441e8842dc5a7cb&#34;&gt;美国政府采用开源代码更多的考虑是安全因素&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://appdevelopermagazine.com/4276/2016/8/12/How-Governments-Open-Sourcing-Code-Helps-Us-Be-More-Secure/&#34;&gt;How Governments Open Sourcing Code Helps Us Be More Secure&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;题目翻译起来有点拗口，但一时半会又找不到更合适的替代。只能将就。&lt;/p&gt;
-
-&lt;p&gt;白宫前两天所颁布的那个指导意见，确实轰动挺大的。本文是WhiteSource的CEO的文章，有几点信息值得斟酌：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bulgaria 颁布法律要求政府采用的软件必须开源，美国要求至少20%是开源的，法国、挪威、巴西等民主国家都在逐渐的采用开源软件（这其中绝非偶然）。&lt;/li&gt;
-&lt;li&gt;在任何国家政府通常都是代码生产的大鳄。&lt;/li&gt;
-&lt;li&gt;政府采用开源并非是这届政府有多么的“超前”，他们更多的是在鼓励创新、提高透明度，加强安全、以及哪些每个政府都极力去追求的益处。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;通篇读下来，我稍有些失望，威权社会主义国家应该不会采用开源软件。上述所有的目的都是自由民主制度的良方。说不定过几天这样的消息还会被封锁。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;sourceclear-开发了-代码提交守望者:b0b7477df73402e8b441e8842dc5a7cb&#34;&gt;SourceClear 开发了”代码提交守望者”&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.linuxjournal.com/content/sourceclears-commit-watcher&#34;&gt;SourceClear&amp;rsquo;s Commit Watcher&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;还记得有人将自己的AWS凭证提交到了GitHub上了吗？随着开源日益成为软件生产方式的主流形式，代码提交敏感信息就成为了一个安全隐患。SourceClear 似乎顺应了这样的一个形势。&lt;/p&gt;
-
-&lt;p&gt;我自己又在反思了，能够看到一个开源时代的到来，但是为何找不到商业机会？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_WorkInPublic.png?itok=eogShpOe&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源在企业中的趋势:b0b7477df73402e8b441e8842dc5a7cb&#34;&gt;开源在企业中的趋势&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/8/corporate-trends-open-source&#34;&gt;Trends in corporate open source engagement&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我也以作者原文所划分的主题，逐一的进行感慨：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;开源已经不是备选。开源已经是主流的生产方式，当前你很难找到哪家公司没有采用任何的开源软件。尤其是今年黑鸭子和Northbridge搞得调查，更证明了这一点。&lt;/li&gt;
-&lt;li&gt;开源作为创新的平台。那个Gartner的报告，&lt;a href=&#34;https://www.gartner.com/doc/3371817/hype-cycle-opensource-software-&#34;&gt;Hype Cycle for Open-Source Software, 2016&lt;/a&gt; 作为个人购买，有点承受不起。据说，这份报告解释了IT部门采用开源并非是简单的节省支出，而更多的是为了创新。目前，不论是云计算、大数据、机器学习，还是DevOps等，开源都处于创新等领先地位。&lt;/li&gt;
-&lt;li&gt;开源改变了一些商业模式。注意除了红帽之外，很多公司都在利用开源赚钱，不过可能是间接的收入。&lt;/li&gt;
-&lt;li&gt;开源的管理岗位！这点在国内的公司近乎绝迹，华为稍微粘点边，其它公司未见任何点动作。&lt;strong&gt;manage all aspects of the open source process, compliance, education, communication, and strategy for their companies.&lt;/strong&gt;  如果有点话，我其实蛮合适的。:-)&lt;/li&gt;
-&lt;li&gt;innersourcing,我一度想的经营业务。但是文化是最大的障碍。&lt;/li&gt;
-&lt;li&gt;开源人才！历史终结的方向是开放、民主，而其中平等的得到人们的承认是绝大多数人的追求。而开源是绝佳的方式。这会终结软件的生产方式。&lt;/li&gt;
-&lt;li&gt;女性的尊重。&lt;/li&gt;
-&lt;li&gt;安全：诸如政府。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;好文！思路非常的清晰。未来有机会，我会以此文为蓝本，到某些社区作一些分享。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
