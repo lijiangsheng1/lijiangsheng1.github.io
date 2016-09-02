@@ -7,8 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 01 Sep 2016 06:38:33 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 03 Sep 2016 07:05:36 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.3)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.3%29/</link>
+      <pubDate>Sat, 03 Sep 2016 07:05:36 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.3%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/08/open-source-pengin-map-100680306-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;哪个国家正式颁布了支持开源的法律:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;哪个国家正式颁布了支持开源的法律？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3114619/open-source-tools/which-countries-have-open-source-laws-on-the-books.html&#34;&gt;Which countries have open-source laws on the books?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;曾记得twitter上有张图，是将全世界的每个国家的媒体开放程度作了对比。或者是这个世界有哪些国家无法使用Facebook和YouTube，果然，现在也有人开始使用相同的办法将世界的哪些国家对开源的态度比较青睐或排斥做了区分。&lt;/p&gt;
+
+&lt;p&gt;这个和国家的意识形态似乎无多大关系，但是似乎是可以看出互联网或IT业的发达程度。你希望中国成为什么颜色？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;新闻集团为何青睐开源:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;新闻集团为何青睐开源？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itnews.com.au/news/why-news-corp-loves-open-source-435770&#34;&gt;Why News Corp loves open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源不再是一些个人偏好的小众的东西了，它已经是主流，承载着这个信息时代很多东西。&lt;/p&gt;
+
+&lt;p&gt;本文其实没有任何新颖的见解，只是人云亦云罢了，开源是如此的流行，作为媒体的巨人新闻集团不应该落后，于是也说是自己热爱开源。相信这就是所谓的滚动效应，大多数人是观察者，往人多的地方走。&lt;/p&gt;
+
+&lt;p&gt;但是，现实就是如此，之所以选择此新闻就是因为新闻集团比较有代表性。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;插曲-个人感慨-絮叨:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;插曲，个人感慨／絮叨&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;突然意识到，就在今天，尤其是观察了中移，开源对于世界的影响真的很大。其实，很多公司已经将开源成为一种默认的方式。只是出现了一些诸如操控的、有限度开源、团队文化等可能错误的方法论和整体指导思想。但是认同开源。我所谓的布道是不受欢迎的，绝大多数人，不会在意这个，只谈技术，我技术很烂，就没有人愿意和我交谈。我的布道依然有很长的路要走，形成一些理论之后，然后或许能有一些人认同。但是，我要推广和让人信服的话，技术还不能太烂。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;bbc-是如何利用开源来进行转型的:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;BBC 是如何利用开源来进行转型的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.information-age.com/it-management/strategy-and-innovation/123461966/how-open-source-technologies-are-transforming-bbc&#34;&gt;How open source technologies are transforming the BBC&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;归档，新闻总有一天会变成历史的。这是一个资讯爆炸的时代，数据是指数级的增长。BBC这样的媒体公司，也面临着巨大的挑战。自己成立研发团队，利用开源技术比如Elasticsearch。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;open-vswitch-的未来:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;Open vSwitch 的未来&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.sdxcentral.com/articles/analysis/open-vswitch-future-takes-shape/2016/09/&#34;&gt;Open vSwitch Future Takes Shape&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，得关心技术。需要向现实妥协，毕竟这是一个饱受苦难的地方，人们依然对意识形态的恐吓和残忍记忆犹新，150多年过去了，只谈技术，无论其他，这是普遍的现象。所以，我必须去掌握一些技术！比如OpenStack这个比较年轻的项目。&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;OpenVswitch 是我一直以来都想去掌握的项目之一，可惜过度的贪心或者是团队的原因，失之交臂&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;下个版本的OVS，主要的功能是对DPDK的增强和对OVN 覆盖网络的支持。注意这背后有VMWare的推动，以及其对Linux基金会的操控。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.1)</title>
@@ -1147,48 +1221,6 @@
 &lt;p&gt;故事：Ryan Bigg,Ruby on rails文档的作者和维护者，在被人们的非言非语之后，放弃了这份没有报酬的工作。其实，本土的民间文化中有这样一种戾气，见不得别人的奋斗，或道德上的伟大行为，总有人指指点点、说东道西。&lt;/p&gt;
 
 &lt;p&gt;云计算的商业模式精准解释：&lt;strong&gt;Like electricity or water utilities, access to a server or database can be metered, charged for, and shut off if fees go unpaid.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.14)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.14%29/</link>
-      <pubDate>Sun, 14 Aug 2016 07:49:52 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.14%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:91a40218ab6de4d15251cbac087d7323&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;开源学校重新定义了意大利的教育:91a40218ab6de4d15251cbac087d7323&#34;&gt;开源学校重新定义了意大利的教育&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.countercurrents.org/2016/08/13/the-open-source-school-redefines-education-in-italy/&#34;&gt;The Open Source School Redefines Education in Italy&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;典型的标题党，意大利人也搞开源？还玩教育？大家数一数国内的IT教育，标榜开源的就知道了。《开源力量》《GIT》等。讲技巧，舍文化。&lt;/p&gt;
-
-&lt;p&gt;正如我正在写的文章《开源之术与开源之道》一样，纯粹的讲技术是不可以的，行不通的。皮毛而已。但是，无论是教育还是文化，在本土民间提这些东西都是禁忌。&lt;/p&gt;
-
-&lt;p&gt;所以，类似文中&lt;strong&gt;Its success hinges on cooperative work, co-design, shared skills, and an open source culture.&lt;/strong&gt;这样的，还是省省吧。回家睡觉。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/EDU_OpenEducationResources_520x292_cm.png?itok=g7wb9H5L&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;来自高等教育界的4位高管谈开放教育的未来:91a40218ab6de4d15251cbac087d7323&#34;&gt;来自高等教育界的4位高管谈开放教育的未来&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/7/future-education-open&#34;&gt;4 talks from leaders in higher ed on the future of open education&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;trust the power of participation.&amp;rdquo;&lt;/strong&gt; 红帽未来必成大器，往教育领域渗透无疑是非常聪明的市场之举。可能是我想歪了。但是jim提到的&lt;strong&gt;how interaction—active, participatory, self-governing—enables the creation of better content and ensures its sustainability.&lt;/strong&gt; 这完全是启蒙教育，我们的终极理想！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
