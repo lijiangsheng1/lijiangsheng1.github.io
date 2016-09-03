@@ -7,8 +7,79 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 03 Sep 2016 07:05:36 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Sep 2016 07:30:19 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.4)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.4%29/</link>
+      <pubDate>Sun, 04 Sep 2016 07:30:19 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.4%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:8fec0be4a11a1432e93b5e9e0aeea0a6&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;linux-25周年了-你需要知道的6件事:8fec0be4a11a1432e93b5e9e0aeea0a6&#34;&gt;Linux 25周年了，你需要知道的6件事&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3112860/linux/6-things-you-should-know-from-linuxs-first-25-years.html&#34;&gt;6 things you should know from Linux&amp;rsquo;s first 25 years&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文是开源企业级市场最大的赢家红帽的CEO —— Jim Whitehurst在北美LinuxCon上的演讲整理：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;围绕开源所建立的商业模式（订阅）&lt;/li&gt;
+&lt;li&gt;Linux在企业级的部署是自上而下的（这可能有违于我们的直觉）&lt;/li&gt;
+&lt;li&gt;Linux已成为企业级部署默认的选择。&lt;/li&gt;
+&lt;li&gt;协作的模式。&lt;/li&gt;
+&lt;li&gt;Linux是真正能够解决问题的。&lt;/li&gt;
+&lt;li&gt;除了技术之外，在其它领域也颇有影响力。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;欧洲自由软件基金会将在柏林举办其第一届峰会:8fec0be4a11a1432e93b5e9e0aeea0a6&#34;&gt;欧洲自由软件基金会将在柏林举办其第一届峰会&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3115803/open-source-tools/the-free-software-foundation-europe-organizes-its-first-ever-summit-in-berlin.html&#34;&gt;The Free Software Foundation Europe Organizes its First ever Summit in Berlin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;注意，非盈利性组织，旨在促进自由软件和开源软件在欧洲的发展和使用。三天的会议是满满当当的。不知不觉都坚持了15年了。涉及到的项目有KDE, Linux, SUSE Linux, systemd, Nextcloud等。&lt;/p&gt;
+
+&lt;p&gt;每到这个时候，我就会对比身边的组织机构。哎&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/branding_opensource_intersection.png?itok=Cc-bE-MR&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开放式的讲解公司发展的三个关键:8fec0be4a11a1432e93b5e9e0aeea0a6&#34;&gt;开放式的讲解公司发展的三个关键&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/9/3-keys-developing-your-organization-story-openly&#34;&gt;3 keys to developing your organization&amp;rsquo;s story openly&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;翻译的题目蛮拗口的，暂时没有找到更好的词汇。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://newkind.com&#34;&gt;NewKind&lt;/a&gt; 这样的公司在美国活的很好，那么在中国有没有希望了呢？即如何在咨询中赚钱，或者是在培训中赚钱。这是让我非常头痛的事情，比如敏捷、Scrum等方法论，基本上是大型企业（华为、中兴、中移）等专门招聘领域内的专家，建立一个团队，然后在内部进行推广，小企业基本是买几本书自己搞。咨询基本是不可能的事情。如何将方法论卖出去？难道要开放一个相应的工具？&lt;/p&gt;
+
+&lt;p&gt;回到本文：先回答四个问题：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/images/business-uploads/brand_story_model.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;在国内如何建立起来自己的社区？这似乎是一个大问题。有没有成功的社区了呢？除了以一些简单的奖励学生这招？（LinuxFans，Everst）或者是以媒体的方式来勾引？（OSChina，InfoQ，CSDN，ChinaUnix）&lt;/p&gt;
+
+&lt;p&gt;面对失望的环境，我都开始考虑国内的戒烟市场了。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.3)</title>
@@ -1060,48 +1131,6 @@
 &lt;p&gt;故事：Ryan Bigg,Ruby on rails文档的作者和维护者，在被人们的非言非语之后，放弃了这份没有报酬的工作。其实，本土的民间文化中有这样一种戾气，见不得别人的奋斗，或道德上的伟大行为，总有人指指点点、说东道西。&lt;/p&gt;
 
 &lt;p&gt;云计算的商业模式精准解释：&lt;strong&gt;Like electricity or water utilities, access to a server or database can be metered, charged for, and shut off if fees go unpaid.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.14)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.14%29/</link>
-      <pubDate>Sun, 14 Aug 2016 07:49:52 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.14%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:91a40218ab6de4d15251cbac087d7323&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;开源学校重新定义了意大利的教育:91a40218ab6de4d15251cbac087d7323&#34;&gt;开源学校重新定义了意大利的教育&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.countercurrents.org/2016/08/13/the-open-source-school-redefines-education-in-italy/&#34;&gt;The Open Source School Redefines Education in Italy&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;典型的标题党，意大利人也搞开源？还玩教育？大家数一数国内的IT教育，标榜开源的就知道了。《开源力量》《GIT》等。讲技巧，舍文化。&lt;/p&gt;
-
-&lt;p&gt;正如我正在写的文章《开源之术与开源之道》一样，纯粹的讲技术是不可以的，行不通的。皮毛而已。但是，无论是教育还是文化，在本土民间提这些东西都是禁忌。&lt;/p&gt;
-
-&lt;p&gt;所以，类似文中&lt;strong&gt;Its success hinges on cooperative work, co-design, shared skills, and an open source culture.&lt;/strong&gt;这样的，还是省省吧。回家睡觉。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/EDU_OpenEducationResources_520x292_cm.png?itok=g7wb9H5L&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;来自高等教育界的4位高管谈开放教育的未来:91a40218ab6de4d15251cbac087d7323&#34;&gt;来自高等教育界的4位高管谈开放教育的未来&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/7/future-education-open&#34;&gt;4 talks from leaders in higher ed on the future of open education&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;trust the power of participation.&amp;rdquo;&lt;/strong&gt; 红帽未来必成大器，往教育领域渗透无疑是非常聪明的市场之举。可能是我想歪了。但是jim提到的&lt;strong&gt;how interaction—active, participatory, self-governing—enables the creation of better content and ensures its sustainability.&lt;/strong&gt; 这完全是启蒙教育，我们的终极理想！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

@@ -7,8 +7,79 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 03 Sep 2016 07:05:36 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Sep 2016 07:30:19 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.4)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.4%29/</link>
+      <pubDate>Sun, 04 Sep 2016 07:30:19 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.4%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:8fec0be4a11a1432e93b5e9e0aeea0a6&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;linux-25周年了-你需要知道的6件事:8fec0be4a11a1432e93b5e9e0aeea0a6&#34;&gt;Linux 25周年了，你需要知道的6件事&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3112860/linux/6-things-you-should-know-from-linuxs-first-25-years.html&#34;&gt;6 things you should know from Linux&amp;rsquo;s first 25 years&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文是开源企业级市场最大的赢家红帽的CEO —— Jim Whitehurst在北美LinuxCon上的演讲整理：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;围绕开源所建立的商业模式（订阅）&lt;/li&gt;
+&lt;li&gt;Linux在企业级的部署是自上而下的（这可能有违于我们的直觉）&lt;/li&gt;
+&lt;li&gt;Linux已成为企业级部署默认的选择。&lt;/li&gt;
+&lt;li&gt;协作的模式。&lt;/li&gt;
+&lt;li&gt;Linux是真正能够解决问题的。&lt;/li&gt;
+&lt;li&gt;除了技术之外，在其它领域也颇有影响力。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;欧洲自由软件基金会将在柏林举办其第一届峰会:8fec0be4a11a1432e93b5e9e0aeea0a6&#34;&gt;欧洲自由软件基金会将在柏林举办其第一届峰会&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3115803/open-source-tools/the-free-software-foundation-europe-organizes-its-first-ever-summit-in-berlin.html&#34;&gt;The Free Software Foundation Europe Organizes its First ever Summit in Berlin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;注意，非盈利性组织，旨在促进自由软件和开源软件在欧洲的发展和使用。三天的会议是满满当当的。不知不觉都坚持了15年了。涉及到的项目有KDE, Linux, SUSE Linux, systemd, Nextcloud等。&lt;/p&gt;
+
+&lt;p&gt;每到这个时候，我就会对比身边的组织机构。哎&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/branding_opensource_intersection.png?itok=Cc-bE-MR&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开放式的讲解公司发展的三个关键:8fec0be4a11a1432e93b5e9e0aeea0a6&#34;&gt;开放式的讲解公司发展的三个关键&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/9/3-keys-developing-your-organization-story-openly&#34;&gt;3 keys to developing your organization&amp;rsquo;s story openly&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;翻译的题目蛮拗口的，暂时没有找到更好的词汇。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://newkind.com&#34;&gt;NewKind&lt;/a&gt; 这样的公司在美国活的很好，那么在中国有没有希望了呢？即如何在咨询中赚钱，或者是在培训中赚钱。这是让我非常头痛的事情，比如敏捷、Scrum等方法论，基本上是大型企业（华为、中兴、中移）等专门招聘领域内的专家，建立一个团队，然后在内部进行推广，小企业基本是买几本书自己搞。咨询基本是不可能的事情。如何将方法论卖出去？难道要开放一个相应的工具？&lt;/p&gt;
+
+&lt;p&gt;回到本文：先回答四个问题：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/images/business-uploads/brand_story_model.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;在国内如何建立起来自己的社区？这似乎是一个大问题。有没有成功的社区了呢？除了以一些简单的奖励学生这招？（LinuxFans，Everst）或者是以媒体的方式来勾引？（OSChina，InfoQ，CSDN，ChinaUnix）&lt;/p&gt;
+
+&lt;p&gt;面对失望的环境，我都开始考虑国内的戒烟市场了。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.3)</title>
@@ -1152,75 +1223,6 @@
 &lt;p&gt;这个世界上开源的项目越来越多，要想以“开源”博得人们的眼球已经非常的困难了。开源已经是一种默认的软件生产方式了，即使现在不是，不久的将来也是。那么如何赢得人们的注意了呢？其中一条道路就是加入这样的基金会。&lt;/p&gt;
 
 &lt;p&gt;我个人目前尚对Linux基金会孵化或托管项目的规则不甚清楚，但是有必要研究一下。Linux基金会相比来说，商业的氛围更加浓厚一些。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.16)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.16%29/</link>
-      <pubDate>Tue, 16 Aug 2016 06:18:32 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.16%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:c89b622ef1c08596023662f4846d9fbc&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;andreessen-horowitz-依旧在企业级软件掘金:c89b622ef1c08596023662f4846d9fbc&#34;&gt;Andreessen Horowitz 依旧在企业级软件掘金&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/roberthof/2016/08/14/andreessen-horowitz-still-sees-big-money-in-enterprise-software/#491f19474cd2&#34;&gt;Andreessen Horowitz Still Sees Big Money In Enterprise Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;文章的内容是我前几日所关注过的。今日由Forbes发表看法，我也就顺势再评价一番。因为对我来说参考意义非凡。&lt;/p&gt;
-
-&lt;p&gt;文中一开始，谈到了：With information technology budgets in &lt;a href=&#34;http://www.gartner.com/newsroom/id/3277517&#34;&gt;falling&lt;/a&gt;，但是危机中方能找到机会。&lt;/p&gt;
-
-&lt;p&gt;另外，最重要的表达了三个观点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;公有云和软件即服务市场依然巨大，机会多多。&lt;/li&gt;
-&lt;li&gt;将软件交付为一种服务，成功的例子从amazon web service 到GitHub再到Databricks。&lt;/li&gt;
-&lt;li&gt;开源的崛起，无论是人本身的角度，还是企业，都在参与这一运动。包括保守的Oracle和微软。&lt;/li&gt;
-&lt;li&gt;open-source-as-a-service 模式，让我思考了很久。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;公路和桥梁-隐藏在我们数字基础设施背后的比喻:c89b622ef1c08596023662f4846d9fbc&#34;&gt;公路和桥梁：隐藏在我们数字基础设施背后的比喻&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf&#34;&gt;Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;首先和大家声明，本文是一篇很长的论文式的文章。等于是一个研究课题。不是常规的新闻或技术文章。&lt;/p&gt;
-
-&lt;p&gt;在纲要中作者介绍了开源软件已经成为现代数字基础设施等支柱，一如我们生活中的物理基础设施，如公路、桥梁等。这个比喻非常的明显。开源在基础设施方面的成功，用事实说话。&lt;/p&gt;
-
-&lt;p&gt;然后，作者讲述了OpenSSL的故事，前世今生，以及HeartBleed的事件等。作者的文采很不错，忍不住分享两段：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;OpenSSL’s story is not unique, and in many ways, Marquess thinks they are the lucky ones. Countless other projects continue to go unheard of and unsupported. These projects make up the critical digital infrastructure that powers today’s software, and in turn, every aspect of our daily lives.&lt;/p&gt;
-
-&lt;p&gt;Checking email, reading the news, checking stock prices, shopping online, going to the doctor, calling customer service—whether we realize it or not, everything we do is made possible by projects like OpenSSL. Without them, the technology that modern society relies upon simply could not function.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源为雇员们带来了更加能够讨价还价的能力。这个观点还算是新颖，也是大多数本土老板不喜欢的原因。使用专有的商业技术，导致程序员、工程师只能在一家雇主中干活。开源成为一种开放的、标准的技术。其实话说回来，还是人要得到承认和获得自由。&lt;/p&gt;
-
-&lt;p&gt;这里有个让人困惑不解的问题，为什么有那么多独立的开发者不是为了报酬而持续的为社区做贡献了呢？&lt;/p&gt;
-
-&lt;p&gt;故事：Bash的维护者从1992年开始仅仅只有一个人，Chet Ramey，他同时是一所大学的高级架构师。这让我感到唏嘘，从我个人的职业经历来说，过于缺少这种持之以恒的事情，几乎就是小学课本上的哪个猴子丢了西瓜捡芝麻的故事的翻版。&lt;/p&gt;
-
-&lt;p&gt;故事：RubyGem.org 曾经因为漏洞没有及时修复而导致被入侵，整个仓库和系统重新构建。&lt;/p&gt;
-
-&lt;p&gt;故事：Ryan Bigg,Ruby on rails文档的作者和维护者，在被人们的非言非语之后，放弃了这份没有报酬的工作。其实，本土的民间文化中有这样一种戾气，见不得别人的奋斗，或道德上的伟大行为，总有人指指点点、说东道西。&lt;/p&gt;
-
-&lt;p&gt;云计算的商业模式精准解释：&lt;strong&gt;Like electricity or water utilities, access to a server or database can be metered, charged for, and shut off if fees go unpaid.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
