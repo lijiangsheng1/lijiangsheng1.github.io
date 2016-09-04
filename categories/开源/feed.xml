@@ -7,8 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 04 Sep 2016 07:30:19 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Sep 2016 07:14:52 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.5)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.5%29/</link>
+      <pubDate>Mon, 05 Sep 2016 07:14:52 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.5%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:4c264537a3d8e80fe04e358a34854183&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;openoffice-严重缺人:4c264537a3d8e80fe04e358a34854183&#34;&gt;OpenOffice 严重缺人&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/09/04/openoffice-possible-shutdown/&#34;&gt;OpenOffice Contemplates Shutdown Amid Volunteer Drought&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Dennis E. Hamilton, OpenOffice的志愿者VP？呼吁OpenOffice再没有人来参与开发的话，可能项目就很快死掉。而OpenOffice最近的一次版本更新是2015年10月份。具体的故事我这里就不多讲了，诸如OpenOffice什么时候被Sun开源，Sun何时被Oracle收购，Oracle又是何时将它扔到Apache基金会等等。&lt;/p&gt;
+
+&lt;p&gt;我这里想说的是，Oracle这个开源杀手真的不是盖的，我们数一下原来Sun的开源项目，现在Fork出来的：MariDB、Jenkins、LibreOffice&amp;hellip;&amp;hellip;我想，Oracle也开源，但是干了两件事：&lt;strong&gt;more restrictive&lt;/strong&gt; 和 &lt;strong&gt;project’s public relations has been inadequate.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fortunedotcom.files.wordpress.com/2016/04/gettyimages-177251273.jpg?w=840&amp;amp;h=485&amp;amp;crop=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;openstack-失败的6个原因-声明-并非技术:4c264537a3d8e80fe04e358a34854183&#34;&gt;OpenStack 失败的6个原因（声明：并非技术）&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.mirantis.com/blog/six-reasons-openstack-fails-hint-its-not-the-technology/&#34;&gt;Six reasons OpenStack fails (Hint: it’s not the technology)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Mirantis 到底是想要证明什么？继基础设施软件已死文章之后，又来一篇对他人演讲的总结，同样是说明OpenStack这个项目异常的艰难。不过我还是非常认同的，并非技术本身，非技术方面的原因更多。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;思维过于教条。（这是最最难以改变的，尤其是哪些不愿意学习和改变的系统管理员们。）&lt;/li&gt;
+&lt;li&gt;恐惧、怀疑、不确定、毁坏（FUDD）带来太多问题&lt;/li&gt;
+&lt;li&gt;找到正确的发行版&lt;/li&gt;
+&lt;li&gt;你不可能成为一个全栈工程师&lt;/li&gt;
+&lt;li&gt;只是认为OpenStack是一匹更快的马而已，不是汽车（经典的福特语录，暗示用户的想象力有限）&lt;/li&gt;
+&lt;li&gt;你没有一个万能的团队&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;在本土，可能还得加上官僚体制、糟糕的市场环境、多如牛毛的OpenStack小厂的破坏力。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-neon_0.jpg?itok=8007dHGm&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;什么是开源产品:4c264537a3d8e80fe04e358a34854183&#34;&gt;什么是开源产品？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/blog/what-are-open-source-products&#34;&gt;What Are Open Source Products?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文其实是对Mirantis的CMO哪篇文章：基础设施软件已死作出的回应，意思是红帽才是企业级唯一的老大，你这样的意识太差了，难道你们才意识到？已经晚了！！另外再次重点声明：开源只是一种开发模式，并非商业模式。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.4)</title>
@@ -1167,62 +1232,6 @@
 &lt;p&gt;反思本土为何没有成功的开源社区。开源人更加的重要。知道哪些技术人员怎么想的吗？ 年龄段是如何被利用的吗？&lt;/p&gt;
 
 &lt;p&gt;可以去学习很多种方法论，但是要经过很多种变通，方能取得些许效果，但是离初衷已经十万八千里了。观念！也就是英文中的Value，学到了，才有可能出现开源、出现开源社区、然后才是优秀、卓越&amp;hellip;&amp;hellip;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.17)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.17%29/</link>
-      <pubDate>Wed, 17 Aug 2016 06:51:03 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.17%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:455b51364dbc5be28a142af40af3ac42&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/BRHome/ResizeImage/_Uploads_NewsArticle_4980548_main.JPG/1280/664/Details/0/0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源软件正在吞噬世界吗:455b51364dbc5be28a142af40af3ac42&#34;&gt;开源软件正在吞噬世界吗？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/enterprise-it/software/is-open-source-eating-the-world-4980548&#34;&gt;Is open source eating the world?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;经过研究发现，是哪些开源的专家们影响了企业购买和软件公司兜售软件的方式。没错，最终决定一件事情的发展，是某个个人。开源能够走到今天，是其某些内涵吸引着某些人，让这些人去选择了一种生产方式。互联网是自由的，人在自由的世界渴望得到承认。&lt;/p&gt;
-
-&lt;p&gt;回到本篇文章，文笔略显稚嫩，观点也是似乎刚刚接触了一些相关的现象，乃至有一些业界颇有知名度的人，推波助澜。文中有一个观点，我颇为怀疑，或持不同观点：“Open source is being consumed by cloud in turn,” 某种意义上，我还是赞同开源和公有云是某种对立关系的观点。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;colin-charles-以首席布道师的身份加入-percona:455b51364dbc5be28a142af40af3ac42&#34;&gt;Colin Charles 以首席布道师的身份加入 Percona&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/colin-charles-joins-percona-as-chief-evangelist-2150992.htm&#34;&gt;Colin Charles Joins Percona as Chief Evangelist&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;个人之所以选择了这篇新闻稿，是和这个职位有很大关系的。目前本土来说，没有任何相关的开源岗位。只有传统的组织架构中的技术岗。不知道什么时候，本土会设置这样的一些岗位。或许永远不会，将此类岗位的一些职能隐藏在一些传统的职位当中，兼职。&lt;/p&gt;
-
-&lt;p&gt;我本人的诉求？本土目前来说，除华为之外，还真没有人意识到开源岗位的重要的性。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;linux-基金会宣布针对网络分析的大数据平台-pnda加入:455b51364dbc5be28a142af40af3ac42&#34;&gt;Linux 基金会宣布针对网络分析的大数据平台－PNDA加入&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/the-linux-foundation-announces-big-data-platform-for-network-analytics-2150999.htm&#34;&gt;The Linux Foundation Announces Big Data Platform for Network Analytics&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Linux 基金会，正在不断的孵化这些初始的项目。当我第一次看到这个题目的时候，我以为是Linux基金会要搞Apache基金会的大数据生态。仔细一看还不是。&lt;/p&gt;
-
-&lt;p&gt;这个世界上开源的项目越来越多，要想以“开源”博得人们的眼球已经非常的困难了。开源已经是一种默认的软件生产方式了，即使现在不是，不久的将来也是。那么如何赢得人们的注意了呢？其中一条道路就是加入这样的基金会。&lt;/p&gt;
-
-&lt;p&gt;我个人目前尚对Linux基金会孵化或托管项目的规则不甚清楚，但是有必要研究一下。Linux基金会相比来说，商业的氛围更加浓厚一些。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

@@ -7,8 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 04 Sep 2016 12:37:08 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Sep 2016 07:14:52 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.5)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.5%29/</link>
+      <pubDate>Mon, 05 Sep 2016 07:14:52 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.5%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:4c264537a3d8e80fe04e358a34854183&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;openoffice-严重缺人:4c264537a3d8e80fe04e358a34854183&#34;&gt;OpenOffice 严重缺人&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/09/04/openoffice-possible-shutdown/&#34;&gt;OpenOffice Contemplates Shutdown Amid Volunteer Drought&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Dennis E. Hamilton, OpenOffice的志愿者VP？呼吁OpenOffice再没有人来参与开发的话，可能项目就很快死掉。而OpenOffice最近的一次版本更新是2015年10月份。具体的故事我这里就不多讲了，诸如OpenOffice什么时候被Sun开源，Sun何时被Oracle收购，Oracle又是何时将它扔到Apache基金会等等。&lt;/p&gt;
+
+&lt;p&gt;我这里想说的是，Oracle这个开源杀手真的不是盖的，我们数一下原来Sun的开源项目，现在Fork出来的：MariDB、Jenkins、LibreOffice&amp;hellip;&amp;hellip;我想，Oracle也开源，但是干了两件事：&lt;strong&gt;more restrictive&lt;/strong&gt; 和 &lt;strong&gt;project’s public relations has been inadequate.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fortunedotcom.files.wordpress.com/2016/04/gettyimages-177251273.jpg?w=840&amp;amp;h=485&amp;amp;crop=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;openstack-失败的6个原因-声明-并非技术:4c264537a3d8e80fe04e358a34854183&#34;&gt;OpenStack 失败的6个原因（声明：并非技术）&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.mirantis.com/blog/six-reasons-openstack-fails-hint-its-not-the-technology/&#34;&gt;Six reasons OpenStack fails (Hint: it’s not the technology)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Mirantis 到底是想要证明什么？继基础设施软件已死文章之后，又来一篇对他人演讲的总结，同样是说明OpenStack这个项目异常的艰难。不过我还是非常认同的，并非技术本身，非技术方面的原因更多。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;思维过于教条。（这是最最难以改变的，尤其是哪些不愿意学习和改变的系统管理员们。）&lt;/li&gt;
+&lt;li&gt;恐惧、怀疑、不确定、毁坏（FUDD）带来太多问题&lt;/li&gt;
+&lt;li&gt;找到正确的发行版&lt;/li&gt;
+&lt;li&gt;你不可能成为一个全栈工程师&lt;/li&gt;
+&lt;li&gt;只是认为OpenStack是一匹更快的马而已，不是汽车（经典的福特语录，暗示用户的想象力有限）&lt;/li&gt;
+&lt;li&gt;你没有一个万能的团队&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;在本土，可能还得加上官僚体制、糟糕的市场环境、多如牛毛的OpenStack小厂的破坏力。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-neon_0.jpg?itok=8007dHGm&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;什么是开源产品:4c264537a3d8e80fe04e358a34854183&#34;&gt;什么是开源产品？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/blog/what-are-open-source-products&#34;&gt;What Are Open Source Products?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文其实是对Mirantis的CMO哪篇文章：基础设施软件已死作出的回应，意思是红帽才是企业级唯一的老大，你这样的意识太差了，难道你们才意识到？已经晚了！！另外再次重点声明：开源只是一种开发模式，并非商业模式。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>继续孤独，继续逃亡</title>
@@ -1147,92 +1212,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;这篇文章毫无靓点，一点都不值得读，还不如去维基百科上读读开源的赚钱之道了。标题党太过于常见了。对不起，我读过了。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.18)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.18%29/</link>
-      <pubDate>Thu, 18 Aug 2016 06:40:37 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.18%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:720fe6bc55a5bacee481f4005c87e6cb&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;apple即将开放其在中国的研发部门:720fe6bc55a5bacee481f4005c87e6cb&#34;&gt;Apple即将开放其在中国的研发部门&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.ft.com/cms/s/0/f71bcc16-6431-11e6-8310-ecf0bddad227.html#axzz4HdEN0VJj&#34;&gt;Apple to open first R&amp;amp;D centre in China&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文和开放有半毛钱关系，和开源一点关系也没有，之所以我要点评，是因为某种程度上和开源在中国的发展有着隐隐的关系。虽然我现在还没法使用语言来将之表达。&lt;/p&gt;
-
-&lt;p&gt;以下为本文的一些信息：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Apple的CEO会见了国家领导，是开放R&amp;amp;D的重要原因之一&lt;/li&gt;
-&lt;li&gt;Apple在中国赚了很多钱，还投资了诸如滴滴出行这样的公司&lt;/li&gt;
-&lt;li&gt;才9000多号员工，绝大多数是Sales&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;疑问：开放R&amp;amp;D，此处的开放究竟是何涵义？颇为模棱两可。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;人们为什么不卖开源的帐:720fe6bc55a5bacee481f4005c87e6cb&#34;&gt;人们为什么不卖开源的帐？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/enterprise-cloud/what-people-dont-get-about-open-source/a/d-id/725461&#34;&gt;What People Don&amp;rsquo;t Get About Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我无法站在非本土的文化、习俗、环境中去思考。但是我对于现实却是非常的无奈。所以需要更多的布道。&lt;/p&gt;
-
-&lt;p&gt;本文作为开源在企业界的应用科普来说，很不错。重点讲述了人们对于开源的误解：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;开源不适合企业应用。（作者举的反驳的例子是思科、AT&amp;amp;T、微软）&lt;/li&gt;
-&lt;li&gt;开源意味着免费或便宜。&lt;/li&gt;
-&lt;li&gt;将开源项目视为成熟的产品。&lt;strong&gt;Opens source is the engine and chassis. It&amp;rsquo;s not the whole jalopy.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;开源意味着再也不需要供应商了。&lt;/li&gt;
-&lt;li&gt;专有软件质量好是因为背后有大公司的支撑。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/osdc_Commnity_520x292.png?itok=IbkTY8rY&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;在没有达成共识的情况下作出社区决定:720fe6bc55a5bacee481f4005c87e6cb&#34;&gt;在没有达成共识的情况下作出社区决定&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/8/5-steps-making-community-decisions-without-consensus&#34;&gt;5 steps for making community decisions without consensus&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文的开始部分讲的非常的棒，社区是一个各种想法、目标、价值观、视野都不同的甚至有冲突的地方。这个时候该如何作出正确的决定了呢？作者以Xen社区为例，贯穿了一条 XSA-7 的事件主线，分享了5个步骤达到目的的办法。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;拥有清晰、明确的反馈机制。&lt;/li&gt;
-&lt;li&gt;在常规的论坛讨论问题（但不要停留于此）&lt;/li&gt;
-&lt;li&gt;做一些调查&lt;/li&gt;
-&lt;li&gt;确认什么才是社区的重点&lt;/li&gt;
-&lt;li&gt;Write up a concrete proposal to which people can give feedback, then use the fall-back decision to decide on it（懒得翻译）&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;作为社区，没有绝对的权力，如何议事，须得事先就定好规则，正如文中所言：&lt;strong&gt;Whatever your community chooses, make sure that before you start your discussion, everyone knows what will happen if the discussion fails to reach consensus, and make sure that that decision-making process is one you can trust.&lt;/strong&gt; 社区中的人本身才是重点。有句话说的好：没有民主人的民主。&lt;/p&gt;
-
-&lt;p&gt;反思本土为何没有成功的开源社区。开源人更加的重要。知道哪些技术人员怎么想的吗？ 年龄段是如何被利用的吗？&lt;/p&gt;
-
-&lt;p&gt;可以去学习很多种方法论，但是要经过很多种变通，方能取得些许效果，但是离初衷已经十万八千里了。观念！也就是英文中的Value，学到了，才有可能出现开源、出现开源社区、然后才是优秀、卓越&amp;hellip;&amp;hellip;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
