@@ -7,8 +7,71 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 05 Sep 2016 07:14:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Sep 2016 07:04:01 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.6)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.6%29/</link>
+      <pubDate>Tue, 06 Sep 2016 07:04:01 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.6%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:1df02309b388ab004dbbbbfe81dfb96b&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/osdc_share_pixels.png?itok=LPbltLqb&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;做技术演讲时所学到的7点心得:1df02309b388ab004dbbbbfe81dfb96b&#34;&gt;做技术演讲时所学到的7点心得&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/9/7-tips-learning-how-give-technical-talk&#34;&gt;7 tips for learning how to give a technical talk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;分享故事的历程，这是人类历史之所以能够继续往前发展的根本动力。本文除却7点心得之外有两点非常的让人印象深刻：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;作者介绍中的座右铭：&lt;strong&gt;我不会将这个世界区分为弱者和强者、也不会将之区分为成功或失败&amp;hellip;&amp;hellip;我将这个世界划分为学习的人和不学习的人。&lt;/strong&gt; 真是太经典了。&lt;/li&gt;
+&lt;li&gt;作为讲故事的人，作者开始的时候，介绍的却是自己团队每年都搞得 Hack-A-Week，并举了一些例子，在开源社区或任何自己想做的事情，然后讲到今年选择了Docker，于是想分享一下自己学习的历程，然后申请了演讲，还获得了通过，最后在准备、预习、演讲的过程中学到了7点心得。我喜欢这样的故事，我也是如此的实践者。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;至于7点心得本身，这里就不再重复，但是要声明的一点是：非常可贵的经验！！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;如何使用开源的研究来揭露corruption:1df02309b388ab004dbbbbfe81dfb96b&#34;&gt;如何使用开源的研究来揭露Corruption&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.bellingcat.com/guides-en/2016/09/05/how-to-uncover-corruption-using-open-source-research/&#34;&gt;How to Uncover Corruption Using Open Source Research&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源这个概念，似乎在俄罗斯有着不同的理解，前几天下载到一本书，叫做《开源手册》，其实和我每天谈到的开源软件／思想半毛钱关系没有。&lt;/p&gt;
+
+&lt;p&gt;看完这个你就知道，为何本土会禁止社交媒体，或者是说做严格的审查的原因了。注意以后分辨就是了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lh4.googleusercontent.com/FMdGkhcg42pmrKzV5x4zPViBN04liGCyx2vPYjMBiH6A5gy3v0G5HavzZNZenCqwDEPkKN0_UVd3jmLX9KRGz89DpjYDGupNtV76ODtvnqCGWZDLOwqovOtgsS-0SMCxfzVQpYE&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何从开源的平台赚到钱:1df02309b388ab004dbbbbfe81dfb96b&#34;&gt;如何从开源的平台赚到钱&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/how-make-money-open-source-platforms&#34;&gt;How to Make Money from Open Source Platforms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是我一直以来思考的问题，并亲自以身作则的试水了一把。红帽开源产品经理的话很有借鉴意义，但是仍然要考虑本土特殊的情况。文化、政治环境、习俗等等均是经济必须要考虑到的。&lt;/p&gt;
+
+&lt;p&gt;比如本土收购这样的事情非常的难以寻找：&lt;strong&gt;&amp;ldquo;The most visibly “successful” open source startups from the last ten years are companies that were acquired by larger ones.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.5)</title>
@@ -1071,62 +1134,6 @@
 &lt;p&gt;反思本土为何没有成功的开源社区。开源人更加的重要。知道哪些技术人员怎么想的吗？ 年龄段是如何被利用的吗？&lt;/p&gt;
 
 &lt;p&gt;可以去学习很多种方法论，但是要经过很多种变通，方能取得些许效果，但是离初衷已经十万八千里了。观念！也就是英文中的Value，学到了，才有可能出现开源、出现开源社区、然后才是优秀、卓越&amp;hellip;&amp;hellip;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.17)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.17%29/</link>
-      <pubDate>Wed, 17 Aug 2016 06:51:03 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.17%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:455b51364dbc5be28a142af40af3ac42&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/BRHome/ResizeImage/_Uploads_NewsArticle_4980548_main.JPG/1280/664/Details/0/0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源软件正在吞噬世界吗:455b51364dbc5be28a142af40af3ac42&#34;&gt;开源软件正在吞噬世界吗？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/enterprise-it/software/is-open-source-eating-the-world-4980548&#34;&gt;Is open source eating the world?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;经过研究发现，是哪些开源的专家们影响了企业购买和软件公司兜售软件的方式。没错，最终决定一件事情的发展，是某个个人。开源能够走到今天，是其某些内涵吸引着某些人，让这些人去选择了一种生产方式。互联网是自由的，人在自由的世界渴望得到承认。&lt;/p&gt;
-
-&lt;p&gt;回到本篇文章，文笔略显稚嫩，观点也是似乎刚刚接触了一些相关的现象，乃至有一些业界颇有知名度的人，推波助澜。文中有一个观点，我颇为怀疑，或持不同观点：“Open source is being consumed by cloud in turn,” 某种意义上，我还是赞同开源和公有云是某种对立关系的观点。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;colin-charles-以首席布道师的身份加入-percona:455b51364dbc5be28a142af40af3ac42&#34;&gt;Colin Charles 以首席布道师的身份加入 Percona&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/colin-charles-joins-percona-as-chief-evangelist-2150992.htm&#34;&gt;Colin Charles Joins Percona as Chief Evangelist&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;个人之所以选择了这篇新闻稿，是和这个职位有很大关系的。目前本土来说，没有任何相关的开源岗位。只有传统的组织架构中的技术岗。不知道什么时候，本土会设置这样的一些岗位。或许永远不会，将此类岗位的一些职能隐藏在一些传统的职位当中，兼职。&lt;/p&gt;
-
-&lt;p&gt;我本人的诉求？本土目前来说，除华为之外，还真没有人意识到开源岗位的重要的性。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;linux-基金会宣布针对网络分析的大数据平台-pnda加入:455b51364dbc5be28a142af40af3ac42&#34;&gt;Linux 基金会宣布针对网络分析的大数据平台－PNDA加入&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/the-linux-foundation-announces-big-data-platform-for-network-analytics-2150999.htm&#34;&gt;The Linux Foundation Announces Big Data Platform for Network Analytics&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Linux 基金会，正在不断的孵化这些初始的项目。当我第一次看到这个题目的时候，我以为是Linux基金会要搞Apache基金会的大数据生态。仔细一看还不是。&lt;/p&gt;
-
-&lt;p&gt;这个世界上开源的项目越来越多，要想以“开源”博得人们的眼球已经非常的困难了。开源已经是一种默认的软件生产方式了，即使现在不是，不久的将来也是。那么如何赢得人们的注意了呢？其中一条道路就是加入这样的基金会。&lt;/p&gt;
-
-&lt;p&gt;我个人目前尚对Linux基金会孵化或托管项目的规则不甚清楚，但是有必要研究一下。Linux基金会相比来说，商业的氛围更加浓厚一些。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
