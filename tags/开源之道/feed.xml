@@ -7,8 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 06 Sep 2016 07:04:01 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Sep 2016 06:59:35 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.7)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.7%29/</link>
+      <pubDate>Wed, 07 Sep 2016 06:59:35 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.7%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:ef34d67d399997d9711d505348de03f6&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源的-nfv-项目将在2017年在北京举办峰会:ef34d67d399997d9711d505348de03f6&#34;&gt;开源的 NFV 项目将在2017年在北京举办峰会&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://sports.yahoo.com/news/media-advisory-open-source-nfv-120000101.html&#34;&gt;Open Source NFV Project to Host 2017 Summit in Beijing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;果不其然，是华为，作为Linux 基金会重量级的成员，将OPNFV带入中国也算是名正言顺。当然，这并不是一个社区的活动，注册是要收费的，而且还非常的昂贵。&lt;/p&gt;
+
+&lt;p&gt;NFV 将会是未来电信级运营商主要的技术路线，因为AT&amp;amp;T这么开始搞了，国内的必然跟风。&lt;/p&gt;
+
+&lt;p&gt;总而言之，能在北京举办峰会是件非常好的事情！为此，我将之选入每日阅读。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/09/4735796082_d8844d4757_b-100680986-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;皮克斯为什么要开源其3d渲染技术:ef34d67d399997d9711d505348de03f6&#34;&gt;皮克斯为什么要开源其3D渲染技术&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3116489/open-source-tools/why-pixar-open-sourced-its-3d-graphics-technology.html&#34;&gt;Why Pixar open sourced its 3D graphics technology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;皮克斯开源了Universal Scene Description，能够让电影制作者实时的解读、撰写、编辑和快速的预览 3D 实时场景。是非常先进的技术。他为什么会选择开源了呢？答案是：&lt;/p&gt;
+
+&lt;p&gt;协作和贡献！&lt;/p&gt;
+
+&lt;p&gt;开源正在成为开发模式的主流！这一点毋庸置疑。皮克斯的东家迪斯尼非常的明确此点，注意：迪斯尼也是OpenStack的用户。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;google-是如何打造出新型的开源程序工作室的:ef34d67d399997d9711d505348de03f6&#34;&gt;Google 是如何打造出新型的开源程序工作室的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/9/google-open-source-program-office&#34;&gt;How Google created a new kind of open source program office&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，重点是开源程序工作室的理解，对应的英文是：Open Source Program Office。作者也是开源的鼓吹者，并分析了这个世界顶级的IT公司的开源方法论和策略。如IBM、Intel、乃至Oracle、微软。但是，深入分析了Google作为一家不以软件盈利的互联网公司，如何去为开源作出专门的贡献，作者提到，Google在Kubernetes之前的开源项目大多很小，或者是并是很开源的项目如Android，但是开源的趋势不可阻挡，Google为此专门的设置了OSPO。&lt;/p&gt;
+
+&lt;p&gt;我喜欢的一句话：&lt;strong&gt;In the end, however, technology vendors have no choice—collaborate or die.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/osdc_mozzilla_520x292_ch.png?itok=2E6noHeP&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何避免-open-splaining-以及如何快速的找到开放盟友:ef34d67d399997d9711d505348de03f6&#34;&gt;如何避免 open-splaining 以及如何快速的找到开放盟友&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/9/4-groups-dont-need-your-open-splaining&#34;&gt;How to avoid open-splaining and find open allies quickly&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;去中心化的、hackability、高度透明的不再是开源开发者们的专利。在其他许多的行业从事人员都热爱病践行这样的开放文化。比如NGO的社区专家、教育工作者、志愿者合作、数字策略等等。&lt;/p&gt;
+
+&lt;p&gt;归根结底，还是回归到对于人才的吸引。人，越来越独立，和寻求被承认。更加民主和自由的方式，是个人终极的追求，而这一切又都和政治无关。企业、社会若要发展，就不得不想尽一切办法，获得这些人的青睐。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.6)</title>
@@ -1048,92 +1120,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;这篇文章毫无靓点，一点都不值得读，还不如去维基百科上读读开源的赚钱之道了。标题党太过于常见了。对不起，我读过了。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.18)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.18%29/</link>
-      <pubDate>Thu, 18 Aug 2016 06:40:37 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.18%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:720fe6bc55a5bacee481f4005c87e6cb&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;apple即将开放其在中国的研发部门:720fe6bc55a5bacee481f4005c87e6cb&#34;&gt;Apple即将开放其在中国的研发部门&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.ft.com/cms/s/0/f71bcc16-6431-11e6-8310-ecf0bddad227.html#axzz4HdEN0VJj&#34;&gt;Apple to open first R&amp;amp;D centre in China&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文和开放有半毛钱关系，和开源一点关系也没有，之所以我要点评，是因为某种程度上和开源在中国的发展有着隐隐的关系。虽然我现在还没法使用语言来将之表达。&lt;/p&gt;
-
-&lt;p&gt;以下为本文的一些信息：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Apple的CEO会见了国家领导，是开放R&amp;amp;D的重要原因之一&lt;/li&gt;
-&lt;li&gt;Apple在中国赚了很多钱，还投资了诸如滴滴出行这样的公司&lt;/li&gt;
-&lt;li&gt;才9000多号员工，绝大多数是Sales&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;疑问：开放R&amp;amp;D，此处的开放究竟是何涵义？颇为模棱两可。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;人们为什么不卖开源的帐:720fe6bc55a5bacee481f4005c87e6cb&#34;&gt;人们为什么不卖开源的帐？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/enterprise-cloud/what-people-dont-get-about-open-source/a/d-id/725461&#34;&gt;What People Don&amp;rsquo;t Get About Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我无法站在非本土的文化、习俗、环境中去思考。但是我对于现实却是非常的无奈。所以需要更多的布道。&lt;/p&gt;
-
-&lt;p&gt;本文作为开源在企业界的应用科普来说，很不错。重点讲述了人们对于开源的误解：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;开源不适合企业应用。（作者举的反驳的例子是思科、AT&amp;amp;T、微软）&lt;/li&gt;
-&lt;li&gt;开源意味着免费或便宜。&lt;/li&gt;
-&lt;li&gt;将开源项目视为成熟的产品。&lt;strong&gt;Opens source is the engine and chassis. It&amp;rsquo;s not the whole jalopy.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;开源意味着再也不需要供应商了。&lt;/li&gt;
-&lt;li&gt;专有软件质量好是因为背后有大公司的支撑。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/osdc_Commnity_520x292.png?itok=IbkTY8rY&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;在没有达成共识的情况下作出社区决定:720fe6bc55a5bacee481f4005c87e6cb&#34;&gt;在没有达成共识的情况下作出社区决定&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/8/5-steps-making-community-decisions-without-consensus&#34;&gt;5 steps for making community decisions without consensus&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文的开始部分讲的非常的棒，社区是一个各种想法、目标、价值观、视野都不同的甚至有冲突的地方。这个时候该如何作出正确的决定了呢？作者以Xen社区为例，贯穿了一条 XSA-7 的事件主线，分享了5个步骤达到目的的办法。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;拥有清晰、明确的反馈机制。&lt;/li&gt;
-&lt;li&gt;在常规的论坛讨论问题（但不要停留于此）&lt;/li&gt;
-&lt;li&gt;做一些调查&lt;/li&gt;
-&lt;li&gt;确认什么才是社区的重点&lt;/li&gt;
-&lt;li&gt;Write up a concrete proposal to which people can give feedback, then use the fall-back decision to decide on it（懒得翻译）&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;作为社区，没有绝对的权力，如何议事，须得事先就定好规则，正如文中所言：&lt;strong&gt;Whatever your community chooses, make sure that before you start your discussion, everyone knows what will happen if the discussion fails to reach consensus, and make sure that that decision-making process is one you can trust.&lt;/strong&gt; 社区中的人本身才是重点。有句话说的好：没有民主人的民主。&lt;/p&gt;
-
-&lt;p&gt;反思本土为何没有成功的开源社区。开源人更加的重要。知道哪些技术人员怎么想的吗？ 年龄段是如何被利用的吗？&lt;/p&gt;
-
-&lt;p&gt;可以去学习很多种方法论，但是要经过很多种变通，方能取得些许效果，但是离初衷已经十万八千里了。观念！也就是英文中的Value，学到了，才有可能出现开源、出现开源社区、然后才是优秀、卓越&amp;hellip;&amp;hellip;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

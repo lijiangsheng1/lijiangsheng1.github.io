@@ -7,8 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 06 Sep 2016 07:04:01 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Sep 2016 06:59:35 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.7)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.7%29/</link>
+      <pubDate>Wed, 07 Sep 2016 06:59:35 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.7%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:ef34d67d399997d9711d505348de03f6&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源的-nfv-项目将在2017年在北京举办峰会:ef34d67d399997d9711d505348de03f6&#34;&gt;开源的 NFV 项目将在2017年在北京举办峰会&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://sports.yahoo.com/news/media-advisory-open-source-nfv-120000101.html&#34;&gt;Open Source NFV Project to Host 2017 Summit in Beijing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;果不其然，是华为，作为Linux 基金会重量级的成员，将OPNFV带入中国也算是名正言顺。当然，这并不是一个社区的活动，注册是要收费的，而且还非常的昂贵。&lt;/p&gt;
+
+&lt;p&gt;NFV 将会是未来电信级运营商主要的技术路线，因为AT&amp;amp;T这么开始搞了，国内的必然跟风。&lt;/p&gt;
+
+&lt;p&gt;总而言之，能在北京举办峰会是件非常好的事情！为此，我将之选入每日阅读。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/09/4735796082_d8844d4757_b-100680986-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;皮克斯为什么要开源其3d渲染技术:ef34d67d399997d9711d505348de03f6&#34;&gt;皮克斯为什么要开源其3D渲染技术&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3116489/open-source-tools/why-pixar-open-sourced-its-3d-graphics-technology.html&#34;&gt;Why Pixar open sourced its 3D graphics technology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;皮克斯开源了Universal Scene Description，能够让电影制作者实时的解读、撰写、编辑和快速的预览 3D 实时场景。是非常先进的技术。他为什么会选择开源了呢？答案是：&lt;/p&gt;
+
+&lt;p&gt;协作和贡献！&lt;/p&gt;
+
+&lt;p&gt;开源正在成为开发模式的主流！这一点毋庸置疑。皮克斯的东家迪斯尼非常的明确此点，注意：迪斯尼也是OpenStack的用户。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;google-是如何打造出新型的开源程序工作室的:ef34d67d399997d9711d505348de03f6&#34;&gt;Google 是如何打造出新型的开源程序工作室的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/9/google-open-source-program-office&#34;&gt;How Google created a new kind of open source program office&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，重点是开源程序工作室的理解，对应的英文是：Open Source Program Office。作者也是开源的鼓吹者，并分析了这个世界顶级的IT公司的开源方法论和策略。如IBM、Intel、乃至Oracle、微软。但是，深入分析了Google作为一家不以软件盈利的互联网公司，如何去为开源作出专门的贡献，作者提到，Google在Kubernetes之前的开源项目大多很小，或者是并是很开源的项目如Android，但是开源的趋势不可阻挡，Google为此专门的设置了OSPO。&lt;/p&gt;
+
+&lt;p&gt;我喜欢的一句话：&lt;strong&gt;In the end, however, technology vendors have no choice—collaborate or die.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/osdc_mozzilla_520x292_ch.png?itok=2E6noHeP&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何避免-open-splaining-以及如何快速的找到开放盟友:ef34d67d399997d9711d505348de03f6&#34;&gt;如何避免 open-splaining 以及如何快速的找到开放盟友&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/9/4-groups-dont-need-your-open-splaining&#34;&gt;How to avoid open-splaining and find open allies quickly&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;去中心化的、hackability、高度透明的不再是开源开发者们的专利。在其他许多的行业从事人员都热爱病践行这样的开放文化。比如NGO的社区专家、教育工作者、志愿者合作、数字策略等等。&lt;/p&gt;
+
+&lt;p&gt;归根结底，还是回归到对于人才的吸引。人，越来越独立，和寻求被承认。更加民主和自由的方式，是个人终极的追求，而这一切又都和政治无关。企业、社会若要发展，就不得不想尽一切办法，获得这些人的青睐。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.6)</title>
@@ -1128,88 +1200,6 @@
 &lt;p&gt;这是常见的观点，在现实中也会经常碰到，我一度怀疑这篇文章都是某个使用盗版的国人写的。比如拿微软的Office说事、开源软件通常比较难用、支持程度不够、安全、稳定性等等。&lt;/p&gt;
 
 &lt;p&gt;虽然是第一篇，毫无说服力，但是这毕竟是大多数人的观点。想想怎么拯救他们才是要考虑的，不要去记恨或批判他们。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.20)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.20%29/</link>
-      <pubDate>Sat, 20 Aug 2016 06:30:24 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.20%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:4e9ca46ba253c0d1028d0e4759f06601&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;at-t-话说什么是-开源:4e9ca46ba253c0d1028d0e4759f06601&#34;&gt;AT&amp;amp;T: 话说什么是“开源”？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/enterprise-cloud/atandt-what-is-open-source-anyway/d/d-id/725527?&#34;&gt;AT&amp;amp;T: What Is &amp;lsquo;Open Source,&amp;rsquo; Anyway?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;企业该如何评估开源？必须小心谨慎的去做方有可能做到利用开源的全部好处。这个确实比较的棘手。我个人也算是开始接触一些企业用户了，对待开源的态度，依然停留在“不靠谱”、观望当中，鲜有尝试者。&lt;/p&gt;
-
-&lt;p&gt;AT&amp;amp;T 是如何看待开源的？这个网络的巨人上个月还开源了一个重量级的项目。使用开源的三原则：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;许可证是免费的。&lt;/li&gt;
-&lt;li&gt;由基金会主持的背后有活跃的社区，不是由某个厂商锁定的。&lt;/li&gt;
-&lt;li&gt;源代码是可以访问、获取到的。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;另外，AT&amp;amp;T 还将开源区分为两种：纯粹的和商业的。纯粹的即是满足上述3点要求的，商业的则是哪些付费的。是不会选择后者的：**&amp;ldquo;The nature of vendor control leads to less public documentation such as testing and bugs. It also doesn&amp;rsquo;t include test frameworks to evaluate production readiness. These problems make it clear that the pure open source model is preferred,&amp;rdquo; **&lt;/p&gt;
-
-&lt;p&gt;我相信第二条会让很多商业项目经不起推敲和考验。国内目前号称开源的项目，基本都在这个范畴。所以骗骗本土的或许还能坚持一段时间，在国外可能不好过。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;数数linux基金会托管项目:4e9ca46ba253c0d1028d0e4759f06601&#34;&gt;数数Linux基金会托管项目&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.eweek.com/enterprise-apps/slideshows/beyond-linux-7-open-source-projects-the-linux-foundation-is-leading.html&#34;&gt;Beyond Linux: 7 Open-Source Projects the Linux Foundation Is Leading&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Linux 基金会现在所托管的项目已经超越Linux本身，有很多优质的项目都加入到它的羽翼之下，其实我个人也曾经有想法，分析一下Linux基金会所托管的项目，比如IoT操作系统、网络、虚拟化、容器等相关的，对于基础设施软件究竟有多大的影响？看来还是有人瞄上了这个日益庞大的机构，决定着世界未来走向的非盈利机构。&lt;/p&gt;
-
-&lt;p&gt;看看都是哪7个项目吧：(仅仅是今年加入的)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;PNDA：网络数据分析&lt;/li&gt;
-&lt;li&gt;CORD：网络运维&lt;/li&gt;
-&lt;li&gt;OpenvSwitch：&lt;/li&gt;
-&lt;li&gt;FD.io ：Vector Packet Processing (VPP)&lt;/li&gt;
-&lt;li&gt;TODO：（这类似高端俱乐部，会员制一样，就是开源该如何在企业中发展。）&lt;/li&gt;
-&lt;li&gt;OpenSwitch：惠普贡献的网络操作系统。&lt;/li&gt;
-&lt;li&gt;Open-Orchestrator&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;除第5个，均可理解。不知道何时能够加入这个组织。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-473045750.jpg?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;mysql-创始人尝试新的许可模式:4e9ca46ba253c0d1028d0e4759f06601&#34;&gt;MySQL 创始人尝试新的许可模式&lt;/h3&gt;
-
-&lt;p&gt;原文链接：[MySQL founder tries a new software licensing model](&lt;a href=&#34;https://techcrunch.com/2016/08/19/mysql-founder-tries-a-new-software-licensing-model/&#34;&gt;https://techcrunch.com/2016/08/19/mysql-founder-tries-a-new-software-licensing-model/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;看完这篇文章之后，我第一个反应竟然是，我又被阿里忽悠了。我没有注意MySQL原来的协议是GPL，那就是说阿狸开源是必须的，义务的。而不是像对社会、人类做了多大贡献似的。正如本土的交警指挥交通，无论天气，那都是他的责任和义务，而不是有高尚的道德精神一样。&lt;/p&gt;
-
-&lt;p&gt;这个BSL蛮有意思：允许开发者加入一些限制，如根据CPU等来付费，并且有超时，例如三年之后自动变为GPL许可的软件等。&lt;/p&gt;
-
-&lt;p&gt;这在本土，也即使如我也很难感受到它的意义。因为本土视许可证为无物。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
