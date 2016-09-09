@@ -7,8 +7,83 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 09 Sep 2016 06:34:32 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Sep 2016 06:19:12 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.10)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.10%29/</link>
+      <pubDate>Sat, 10 Sep 2016 06:19:12 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.10%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:eab34dd8a9804f539e487536c029304f&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;新的研发模式-开源项目:eab34dd8a9804f539e487536c029304f&#34;&gt;新的研发模式－开源项目&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.ucstrategies.com/unified-communications-strategies-views/the-new-research-and-development-rd-model-open-source-projects.aspx&#34;&gt;The New Research and Development (R&amp;amp;D) Model - Open Source Projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;你永远会发现这个世界有爬行很慢、进化很慢的人，但是这就是人类，也是整个历史的真实情况。你究竟该如何适应这个世界？仔细想想你的道德感是哪里来的？为什么会觉得丢人？社会性这些东西从什么时候将你洗成现在这个样子？&lt;/p&gt;
+
+&lt;p&gt;此人虽然后知后觉，但是总算是明白了。以Linux为例，以及现在整个的基础设施圈，网络、云平台等等几乎都以开源为模式了。有个问题我没有明白：&lt;strong&gt;“The new R&amp;amp;D model is simple: use open source for 80% of the functionality needed for a product or service and then add 20% secret sauce that differentiate it from the other competitors. ”&lt;/strong&gt; 如果这20%是自己维护都话，代价是多大？这个人究竟是实践过来的？还是常见的思维方式。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://thenewstack.io/wp-content/uploads/2016/09/potatoes-1448405_640.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源分支的简短历史:eab34dd8a9804f539e487536c029304f&#34;&gt;开源分支的简短历史&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thenewstack.io/may-fork-short-history-open-source-forks/&#34;&gt;May the Fork Be with You: A Short History of Open Source Forks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;原来Linus还说过这样的一段话：翻译出来：&lt;/p&gt;
+
+&lt;p&gt;每次有人将内核切出分支来，我都会想，分支是一件好事，它意味着某些人有自己的需求、以及有充分的理由去做一些现有内核不同的事情。但是绝大多数的分支都失败了，最终他们会发现他们所做的事情毫无意义，最后无疾而终。&lt;/p&gt;
+
+&lt;p&gt;本文的作者似乎是想佐证Docker分支某种程度上是可行的，因为有些项目是可以分支成功的。比下表：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;| 成功的分支 | 原生项目 |
+| &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; | &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- |
+| Ubuntu| Debian  |
+| Oracle坚不可摧Linux |红帽企业Linux  |
+| CentOS |红帽企业Linux  |
+| OpenBSD | NetBSD |
+| LibreOffice | OpenOffice |
+| MariaDB | MySQL |
+| Jenkins | Hudson |
+| NextCloud | ownCloud |&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;分支是需要实力的！一流的工程师＋资源是必备条件。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;身份-我们最后立足的地方:eab34dd8a9804f539e487536c029304f&#34;&gt;身份：我们最后立足的地方&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.linuxjournal.com/content/identity-our-last-stand&#34;&gt;Identity: Our Last Stand&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;技术是为人来服务的，或者说技术是难以超越人类社会本身而独立存在，正如本文开始所言：Linux并非是真正的大集市，而是由无数个教堂搞出来的。&lt;/p&gt;
+
+&lt;p&gt;作者的意思，我是完全理解的，因为最近读福山的著作实在是感慨颇深，作为技术的终结目标，所有人平等和自由，那么该如何去做？在文中作了哲理性的分析，包括阿基米德的“给我一个支点，我可以撬起地球。”问题在于现实中的我们就是找不到这个支点。甚至是浮士德，将灵魂置换，最后依然要求自我。&lt;/p&gt;
+
+&lt;p&gt;** Making it ours, finally and absolutely, is the only way we secure our independence and liberty online. It is the only way the world&amp;rsquo;s economy becomes a true bazaar.**&lt;/p&gt;
+
+&lt;p&gt;非常深刻的文章。值得仔细阅读！深度阅读！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.9)</title>
@@ -1063,96 +1138,6 @@
 
 &lt;p&gt;FSFE 成绩斐然，今年还要学习开源基金会之类的，举行summit峰会。欧洲人有企业赞助就OK。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.24)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.24%29/</link>
-      <pubDate>Wed, 24 Aug 2016 06:40:01 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.24%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:2ba9bfbf4f24a74604102aa3cac2446f&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;开源-windows-这件事-可能希望不大:2ba9bfbf4f24a74604102aa3cac2446f&#34;&gt;开源 Windows 这件事，可能希望不大&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/08/23/open-source-windows/&#34;&gt;Open Source Windows May Not Be that Big a Long Shot After All&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这在几年前，Windows 开源这件事本身就像是让可口可乐公开配方一样荒谬。但是在今天，Windows在手机操作系统失利之后，服务器端开不开源倒成了微软的心头大患。　 to be or not to be?一直是个问题。&lt;/p&gt;
-
-&lt;p&gt;本文依然一名局外人，媒体写的评论性文章。还未见微软的人有何说明。但是我却在想，开源又如何？你的生态系统建立不起来，开源正如阿里的MySQL之流，沦为一场蹩脚的市场Show而已。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;红帽和微软在舞台上拥抱:2ba9bfbf4f24a74604102aa3cac2446f&#34;&gt;红帽和微软在舞台上拥抱&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/live-linuxcon-red-hat-and-microsoft-embrace-stage&#34;&gt;Red Hat and Microsoft Embrace On Stage&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;红帽的CEO Jim Whitehurst，基本没说什么关于合作本身的事情，有两点：0、是说红帽做企业级的开源软件，事实证明非常的成功。1、&lt;strong&gt;Now, companies like Nike, Ikea and Toyota have also embraced the “social DNA” of Linux &amp;ndash; the open source mindset &amp;ndash; to drive innovation,&lt;/strong&gt; 意思是说，Linux 离不开创新，要想在下一个25年依然保持活力的话，就得持续创新。&lt;/p&gt;
-
-&lt;p&gt;微软一再证明自己在开源很努力，而且也有所贡献。这种欲盖弥彰的行为颇令人不耻。微软毕竟是一个商业大国，靠软件的许可证来赚钱的。红帽在某种程度上就是一服务行业，赚得是辛苦钱。好吧，这些把戏骗骗小孩子就可以了。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;沃尔玛的开源云管理平台将会成为openstack的一部分:2ba9bfbf4f24a74604102aa3cac2446f&#34;&gt;沃尔玛的开源云管理平台将会成为OpenStack的一部分&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/walmarts-oneops-open-source-cloud-management-platform-could-become-part-of-openstack/&#34;&gt;Walmart&amp;rsquo;s OneOps open source cloud management platform could become part of OpenStack&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;沃尔玛积极拥抱开源，这是近来经常提到的事情，但是被主流的项目－OpenStack所承认，还真是破天荒第一次。两个原因：0、OpenStack对于CMP这块呼声太高，而一直不认为是OpenStack的一部分。1、沃尔玛作为最牛逼的电商做的东西事实证明有很多人在用。&lt;/p&gt;
-
-&lt;p&gt;开源的人才，正在延伸到各个行业，这一代人的成长，将彻底将开源成燎原之势。而我只学到皮毛，还得在本土想法布道。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/cloud-linuxone.jpg?itok=cJCIAeHE&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ibm-的-linuxone-在开源云平台的变革下是如何进化的:2ba9bfbf4f24a74604102aa3cac2446f&#34;&gt;IBM 的 LinuxONE 在开源云平台的变革下是如何进化的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/how-ibms-linuxone-has-evolved-new-open-source-cloud&#34;&gt;How IBM’s LinuxONE Has Evolved For the New Open Source Cloud&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;如果我们记错的话，LinuxONE是IBM大型机的一次策略变更。也就是让IBM的大型机运行开源的软件栈。确实是一场伟大的变革。按照常理，这是一场完美的组合，大型机的稳定和开源的灵活。但是别忘了，现代的软件架构是微服务、serverless、无状态、认定基础设施失效是常态&amp;hellip;&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;但是我看到了IBM的努力！努力不被历史带入黑洞。这是一家伟大的公司。近期将go语言移植到LinuxONE，意味着运行Docker以及CNCF的生态系统。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/rh_003588_01_rd3os.combacktoschoolserieshe_rh_041x_0.png?itok=yUgHEdMK&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开放教育比开放的内容更加重要:2ba9bfbf4f24a74604102aa3cac2446f&#34;&gt;开放教育比开放的内容更加重要&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/8/harnessing-power-open-education&#34;&gt;Open education is more than open content&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;红帽CEO的文章，他曾经出版过一本书，《the open organization》。一家公司的领导，除了笼络人才这件事之外，商业模式探索，未来趋势。&lt;/p&gt;
-
-&lt;p&gt;洗脑的巅峰之作？也不是。只是一种价值观的阐述罢了。&lt;/p&gt;
-
-&lt;p&gt;“如果你有一个苹果，我也有一个苹果，我们彼此交换，我们仍然是每人拥有一个苹果，但是如果你有一个想法，我也有一个想法，我们也彼此交换，那么我们俩每个都有两个想法”  我原来没有注意，这话是著名的剧作家萧伯纳说的。&lt;/p&gt;
-
-&lt;p&gt;洗脑这件事情是会上瘾，Jim明显不满足于现在的布道。开始和教育杠上了。看看他的观点吧：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Creation beyond control&lt;/li&gt;
-&lt;li&gt;Interaction beyond prescription&lt;/li&gt;
-&lt;li&gt;Sustainability beyond transmission&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     

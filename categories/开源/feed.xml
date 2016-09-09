@@ -7,8 +7,83 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 09 Sep 2016 06:34:32 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Sep 2016 06:19:12 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.10)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.10%29/</link>
+      <pubDate>Sat, 10 Sep 2016 06:19:12 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.10%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:eab34dd8a9804f539e487536c029304f&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;新的研发模式-开源项目:eab34dd8a9804f539e487536c029304f&#34;&gt;新的研发模式－开源项目&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.ucstrategies.com/unified-communications-strategies-views/the-new-research-and-development-rd-model-open-source-projects.aspx&#34;&gt;The New Research and Development (R&amp;amp;D) Model - Open Source Projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;你永远会发现这个世界有爬行很慢、进化很慢的人，但是这就是人类，也是整个历史的真实情况。你究竟该如何适应这个世界？仔细想想你的道德感是哪里来的？为什么会觉得丢人？社会性这些东西从什么时候将你洗成现在这个样子？&lt;/p&gt;
+
+&lt;p&gt;此人虽然后知后觉，但是总算是明白了。以Linux为例，以及现在整个的基础设施圈，网络、云平台等等几乎都以开源为模式了。有个问题我没有明白：&lt;strong&gt;“The new R&amp;amp;D model is simple: use open source for 80% of the functionality needed for a product or service and then add 20% secret sauce that differentiate it from the other competitors. ”&lt;/strong&gt; 如果这20%是自己维护都话，代价是多大？这个人究竟是实践过来的？还是常见的思维方式。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://thenewstack.io/wp-content/uploads/2016/09/potatoes-1448405_640.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源分支的简短历史:eab34dd8a9804f539e487536c029304f&#34;&gt;开源分支的简短历史&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://thenewstack.io/may-fork-short-history-open-source-forks/&#34;&gt;May the Fork Be with You: A Short History of Open Source Forks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;原来Linus还说过这样的一段话：翻译出来：&lt;/p&gt;
+
+&lt;p&gt;每次有人将内核切出分支来，我都会想，分支是一件好事，它意味着某些人有自己的需求、以及有充分的理由去做一些现有内核不同的事情。但是绝大多数的分支都失败了，最终他们会发现他们所做的事情毫无意义，最后无疾而终。&lt;/p&gt;
+
+&lt;p&gt;本文的作者似乎是想佐证Docker分支某种程度上是可行的，因为有些项目是可以分支成功的。比下表：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;| 成功的分支 | 原生项目 |
+| &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; | &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- |
+| Ubuntu| Debian  |
+| Oracle坚不可摧Linux |红帽企业Linux  |
+| CentOS |红帽企业Linux  |
+| OpenBSD | NetBSD |
+| LibreOffice | OpenOffice |
+| MariaDB | MySQL |
+| Jenkins | Hudson |
+| NextCloud | ownCloud |&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;分支是需要实力的！一流的工程师＋资源是必备条件。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;身份-我们最后立足的地方:eab34dd8a9804f539e487536c029304f&#34;&gt;身份：我们最后立足的地方&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.linuxjournal.com/content/identity-our-last-stand&#34;&gt;Identity: Our Last Stand&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;技术是为人来服务的，或者说技术是难以超越人类社会本身而独立存在，正如本文开始所言：Linux并非是真正的大集市，而是由无数个教堂搞出来的。&lt;/p&gt;
+
+&lt;p&gt;作者的意思，我是完全理解的，因为最近读福山的著作实在是感慨颇深，作为技术的终结目标，所有人平等和自由，那么该如何去做？在文中作了哲理性的分析，包括阿基米德的“给我一个支点，我可以撬起地球。”问题在于现实中的我们就是找不到这个支点。甚至是浮士德，将灵魂置换，最后依然要求自我。&lt;/p&gt;
+
+&lt;p&gt;** Making it ours, finally and absolutely, is the only way we secure our independence and liberty online. It is the only way the world&amp;rsquo;s economy becomes a true bazaar.**&lt;/p&gt;
+
+&lt;p&gt;非常深刻的文章。值得仔细阅读！深度阅读！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.9)</title>
@@ -1086,106 +1161,6 @@
 &lt;li&gt;Creation beyond control&lt;/li&gt;
 &lt;li&gt;Interaction beyond prescription&lt;/li&gt;
 &lt;li&gt;Sustainability beyond transmission&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.23)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.23%29/</link>
-      <pubDate>Tue, 23 Aug 2016 06:47:17 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.23%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;每个周一，总是缺少任何点文章。昨天就没有点评。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;文章点评:257ae395b27911639d2593b9518479bc&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;linux基金会掌门人谈开源的25年:257ae395b27911639d2593b9518479bc&#34;&gt;Linux基金会掌门人谈开源的25年&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3109962/linux/linux-foundation-chief-reflects-on-25-years-of-open-source.html&#34;&gt;Linux Foundation chief reflects on 25 years of open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Linux 在过去的25里可谓是成绩斐然，卓越非凡！正如Jim Zemlin 所言&lt;strong&gt;In a nutshell, Linux runs the global economy quite literally.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Jim所列举的Linux 每天的变更还是很惊人的，那一组数据，已经超出了世界上任何一个组织的工程量。&lt;/p&gt;
-
-&lt;p&gt;Linux 的成功对于我们到底意外着什么？暂时游走于题目之外，十几年前我接触、学习Linux的时候，相信其会成功的，现在看来Linux已经普及了，职业技能中是必修，而不再是加分项了。为何本土对于经验一点都不重视？年轻人真的能够替代老工程师？和拳击手等传统的职业一样？&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Linux, and open-source movement and community have delivered a better way to define the future.&lt;/strong&gt; 是的，没错，Linux已经超越其本身。&lt;/p&gt;
-
-&lt;p&gt;Linux对于下一代的影响也是蛮深的，13岁的孩子将Linus视为他心目中的英雄！&lt;a href=&#34;http://www.muktware.io/linus-torvalds-hero-says-13-years-old-zachary-dupont/&#34;&gt;Zachary Dupont&lt;/a&gt;这个故事非常的深刻。&lt;/p&gt;
-
-&lt;p&gt;对于未来：&lt;strong&gt;Today open source is not emulating the past, it&amp;rsquo;s changing and defining the future, he said.&lt;/strong&gt; 你无法拒绝，这就是历史的车轮。也是艾未未所说的，某些东西人一旦意识到、见识过，就再也回不去了。开源正在加速壮大，超过你我的想象。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;来自linuxcon的声音-通过代码改变世界:257ae395b27911639d2593b9518479bc&#34;&gt;来自LinuxCon的声音：通过代码改变世界&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/linuxcon-changing-world-code&#34;&gt;Live From LinuxCon: Changing the World with Code&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Jim的话：&lt;strong&gt;“You can better yourself while bettering others at the same time.”&lt;/strong&gt;要尝试理解，做更好的自己，这也是我积极追求的。&lt;/p&gt;
-
-&lt;p&gt;Dr. Ainissa Ramirez 说的更加的煽情：&amp;rdquo; If you want to change the world, she said, do it with code.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;华为，只谈技术，与未来的趋势，以及中国的市场。这大概就是差别。本土的人再也不信什么是情怀。共产主义的影响要到多少年？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://tr2.cbsistatic.com/hub/i/r/2016/08/22/fb0e3bd0-a2a4-4e2d-bcfa-82009d9ee6ba/resize/620x/be0ef4721016d808d4feae2086e38666/mariamoney.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;mariadb-最近的行为是否仍然说明开源赚钱很困难:257ae395b27911639d2593b9518479bc&#34;&gt;MariaDB 最近的行为是否仍然说明开源赚钱很困难？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/does-mariadbs-latest-move-show-how-hard-it-is-to-make-money-with-open-source/&#34;&gt;Does MariaDB&amp;rsquo;s latest move show how hard it is to make money with open source?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源的商业只有一家公司赚到了钱，那就是红帽，其余都在“either swimming in red ink or a rounding error.”&lt;/p&gt;
-
-&lt;p&gt;需不需要一个中立的基金会？这应该是我在今天北京Qcon大会上采访PingCAP的CTO问的问题，多数公司在考虑使用开源的时候，一般定的标准就是是否会被某家厂商锁定。有基金会情况会好很多。&lt;/p&gt;
-
-&lt;p&gt;文中最后的一段话，很有意思，Linux如此，Apache亦是如此，基金会运营。奉劝企业：&lt;strong&gt;&amp;rdquo; If your chosen open source software doesn&amp;rsquo;t follow this model, don&amp;rsquo;t be surprised when you wake up to find your open source software is not so open source.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;uganda-政府鼓励采用开源软件:257ae395b27911639d2593b9518479bc&#34;&gt;Uganda 政府鼓励采用开源软件&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://ntv.co.ug/news/business/22/aug/2016/government-encourage-adoption-open-source-software-13938#sthash.oOuoaQFM.dpbs&#34;&gt;Government to encourage adoption of open-source software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;又一家政府公开声明支持并鼓励政府部门采用开源软件。&lt;/p&gt;
-
-&lt;p&gt;但是我觉得，真的能够省钱吗？但是增加就业倒是真的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/rh_003588_01_rd3os.combacktoschoolserieshe_rh_051x_0.png?itok=Tm2UcSXw&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;5条教授应该鼓励学生参与开源项目的理由:257ae395b27911639d2593b9518479bc&#34;&gt;5条教授应该鼓励学生参与开源项目的理由&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/education/16/8/5-reasons-student-involvement-open-source&#34;&gt;5 reasons professors should encourage students to get involved in open source projects&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;5条非常好的理由，本土的话就算了，因为本土的教育是封闭的、灌输式的。不提也罢。但是对于企业招聘实习生，如果你是导师的话，非常的实用。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;没有条条框框的学习。（这点最为赞同，从开源项目的实践中，遇到什么难题，主动的学习才是最好的学习）&lt;/li&gt;
-&lt;li&gt;专业的互动。（不仅仅是知识，团队精神、沟通能力、解决问题的思路等）&lt;/li&gt;
-&lt;li&gt;外部的机会。（在本土的话，可能要被骗。本土只有新鲜、浪潮的商业meetup。）&lt;/li&gt;
-&lt;li&gt;更好的理解计算机。&lt;/li&gt;
-&lt;li&gt;有趣！ （培养出有趣的雅致来，那更是教育的最高境界。）&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
