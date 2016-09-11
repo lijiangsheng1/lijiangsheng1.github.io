@@ -7,8 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 10 Sep 2016 06:19:12 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 11 Sep 2016 12:23:25 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.11)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.11%29/</link>
+      <pubDate>Sun, 11 Sep 2016 12:23:25 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.11%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:157133766980b208c0163c43a4f32cce&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;从google-到联合国-perth-到-moodle正在撼动世界:157133766980b208c0163c43a4f32cce&#34;&gt;从Google 到联合国，Perth 到 Moodle正在撼动世界&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://au.news.yahoo.com/thewest/wa/a/32578920/from-google-to-the-un-perth-s-moodle-is-making-waves/#page1&#34;&gt;From Google to the UN, Perth’s Moodle is making waves&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Moodle，它是一个非常计算机的几个单词的首字母，即“modular, object-orientated, dynamic learning environment”，意即“模块化、面向对象的，动态的学习环境”，是一款开源的平台，也是商业模式非常成功的典范，尽管他的初衷并非是商业化：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://s.yimg.com/ea/img/-/160909/57d287ab321d4_b88240442z.1_20160909175101_000_gg9mgj9k.2_1-1bt51tb.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;现在已经有232个国家在使用Moodle了。我相信本土一定有，只是又在走“中国特色”，不理世界秩序，搞自娱自乐式的“独角兽”游戏罢了。&lt;/p&gt;
+
+&lt;p&gt;看看发起者的情怀吧，这才是我们应该有的：&lt;strong&gt;“The business supports the mission,It’s about education and it’s about openess and supporting humanity —the business is to just drive that.In this life if you aren’t doing something that you really believe in well you’re wasting your time. If you don’t have a really good reason for working, you should probably find another job, so for me that’s what drives us, we’re here to empower teachers to do what they want to teach, to pass on that knowledge and improve humanity.”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么说-kubernetes-正在赢得容器的战争:157133766980b208c0163c43a4f32cce&#34;&gt;为什么说 Kubernetes 正在赢得容器的战争&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/07/war-battle-container-battle-100598468-primary.idge.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3118345/cloud-computing/why-kubernetes-is-winning-the-container-war.html&#34;&gt;Why Kubernetes is winning the container war&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;理由虽然辩驳的不能让我信服，但是却可以误导大部分不明觉厉的年轻人了，因为所举的内容都是大众所趋：github的星星数量、OpenHub的哪些图形显示之类的。甚至动不动就搬出这是Google15年来的工程经验总结。也就是说，并没有技术性的对比，比如针对某些应用场景，Kubernetes有何性能和功能上的优势；又比如在和现有开源的生态系统中，上下游的整合，如分布式存储、SDN等等；乃至对于开发人员的友好性等。&lt;/p&gt;
+
+&lt;p&gt;我过去经常被这些东西所误导，也经常在很多人提出来之后无法辩驳，现在学会了慢下来，仔细的思考，然后再比对，最后形成自己的观点和决策。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;如何从开源平台中赚钱系列之三-创建一款产品:157133766980b208c0163c43a4f32cce&#34;&gt;如何从开源平台中赚钱系列之三：创建一款产品&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/how-make-money-open-source-platforms-part-3-creating-product&#34;&gt;How to Make Money from Open Source Platforms, Part 3: Creating a Product&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是我一直以来都在思考的问题，关于文中的内容，我就不愿意多说了，请自便。我只想说说本土的情形。&lt;/p&gt;
+
+&lt;p&gt;昨天在苏州参加中移（苏研）搞的OpenStack Meetup，和其中的一些活跃人士交流了一些想法：其中之一，就是开源该如何盈利？尤其是面对华为、中兴这样的打法（意指软件几乎免费）。这确实是一个大难题，谁都可以从开源中获益，比如中移本身是使用CentOS的大厂，宁愿去招几个Linux开发者，自己蒙起头来定制，也不会去购买红帽半分服务的。那么以这样的形态来说，如何拿定制的OpenStack向其他客户收费？将开源打造成产品，其中所扩展的部分仅占到开源上游的5%不到，就想收取过去微软、Oracle的许可证费用？这是一个典型的矛盾的想法。&lt;/p&gt;
+
+&lt;p&gt;在本土，非常的难以理解，没有任何的明文或规则可以学习，一切都是说不清、道不明。各种纠缠、各种借口。到底是什么在驱动着这个畸形的经济怪物，是超越我的理解的。归结到文化、习俗、制度、乃至人性的被教育，很是让人绝望！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.10)</title>
@@ -1000,106 +1062,6 @@
 &lt;li&gt;Creation beyond control&lt;/li&gt;
 &lt;li&gt;Interaction beyond prescription&lt;/li&gt;
 &lt;li&gt;Sustainability beyond transmission&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.23)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.23%29/</link>
-      <pubDate>Tue, 23 Aug 2016 06:47:17 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.23%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;每个周一，总是缺少任何点文章。昨天就没有点评。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;文章点评:257ae395b27911639d2593b9518479bc&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;linux基金会掌门人谈开源的25年:257ae395b27911639d2593b9518479bc&#34;&gt;Linux基金会掌门人谈开源的25年&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3109962/linux/linux-foundation-chief-reflects-on-25-years-of-open-source.html&#34;&gt;Linux Foundation chief reflects on 25 years of open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Linux 在过去的25里可谓是成绩斐然，卓越非凡！正如Jim Zemlin 所言&lt;strong&gt;In a nutshell, Linux runs the global economy quite literally.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Jim所列举的Linux 每天的变更还是很惊人的，那一组数据，已经超出了世界上任何一个组织的工程量。&lt;/p&gt;
-
-&lt;p&gt;Linux 的成功对于我们到底意外着什么？暂时游走于题目之外，十几年前我接触、学习Linux的时候，相信其会成功的，现在看来Linux已经普及了，职业技能中是必修，而不再是加分项了。为何本土对于经验一点都不重视？年轻人真的能够替代老工程师？和拳击手等传统的职业一样？&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Linux, and open-source movement and community have delivered a better way to define the future.&lt;/strong&gt; 是的，没错，Linux已经超越其本身。&lt;/p&gt;
-
-&lt;p&gt;Linux对于下一代的影响也是蛮深的，13岁的孩子将Linus视为他心目中的英雄！&lt;a href=&#34;http://www.muktware.io/linus-torvalds-hero-says-13-years-old-zachary-dupont/&#34;&gt;Zachary Dupont&lt;/a&gt;这个故事非常的深刻。&lt;/p&gt;
-
-&lt;p&gt;对于未来：&lt;strong&gt;Today open source is not emulating the past, it&amp;rsquo;s changing and defining the future, he said.&lt;/strong&gt; 你无法拒绝，这就是历史的车轮。也是艾未未所说的，某些东西人一旦意识到、见识过，就再也回不去了。开源正在加速壮大，超过你我的想象。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;来自linuxcon的声音-通过代码改变世界:257ae395b27911639d2593b9518479bc&#34;&gt;来自LinuxCon的声音：通过代码改变世界&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/linuxcon-changing-world-code&#34;&gt;Live From LinuxCon: Changing the World with Code&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Jim的话：&lt;strong&gt;“You can better yourself while bettering others at the same time.”&lt;/strong&gt;要尝试理解，做更好的自己，这也是我积极追求的。&lt;/p&gt;
-
-&lt;p&gt;Dr. Ainissa Ramirez 说的更加的煽情：&amp;rdquo; If you want to change the world, she said, do it with code.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;华为，只谈技术，与未来的趋势，以及中国的市场。这大概就是差别。本土的人再也不信什么是情怀。共产主义的影响要到多少年？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://tr2.cbsistatic.com/hub/i/r/2016/08/22/fb0e3bd0-a2a4-4e2d-bcfa-82009d9ee6ba/resize/620x/be0ef4721016d808d4feae2086e38666/mariamoney.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;mariadb-最近的行为是否仍然说明开源赚钱很困难:257ae395b27911639d2593b9518479bc&#34;&gt;MariaDB 最近的行为是否仍然说明开源赚钱很困难？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/does-mariadbs-latest-move-show-how-hard-it-is-to-make-money-with-open-source/&#34;&gt;Does MariaDB&amp;rsquo;s latest move show how hard it is to make money with open source?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源的商业只有一家公司赚到了钱，那就是红帽，其余都在“either swimming in red ink or a rounding error.”&lt;/p&gt;
-
-&lt;p&gt;需不需要一个中立的基金会？这应该是我在今天北京Qcon大会上采访PingCAP的CTO问的问题，多数公司在考虑使用开源的时候，一般定的标准就是是否会被某家厂商锁定。有基金会情况会好很多。&lt;/p&gt;
-
-&lt;p&gt;文中最后的一段话，很有意思，Linux如此，Apache亦是如此，基金会运营。奉劝企业：&lt;strong&gt;&amp;rdquo; If your chosen open source software doesn&amp;rsquo;t follow this model, don&amp;rsquo;t be surprised when you wake up to find your open source software is not so open source.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;uganda-政府鼓励采用开源软件:257ae395b27911639d2593b9518479bc&#34;&gt;Uganda 政府鼓励采用开源软件&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://ntv.co.ug/news/business/22/aug/2016/government-encourage-adoption-open-source-software-13938#sthash.oOuoaQFM.dpbs&#34;&gt;Government to encourage adoption of open-source software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;又一家政府公开声明支持并鼓励政府部门采用开源软件。&lt;/p&gt;
-
-&lt;p&gt;但是我觉得，真的能够省钱吗？但是增加就业倒是真的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/rh_003588_01_rd3os.combacktoschoolserieshe_rh_051x_0.png?itok=Tm2UcSXw&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;5条教授应该鼓励学生参与开源项目的理由:257ae395b27911639d2593b9518479bc&#34;&gt;5条教授应该鼓励学生参与开源项目的理由&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/education/16/8/5-reasons-student-involvement-open-source&#34;&gt;5 reasons professors should encourage students to get involved in open source projects&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;5条非常好的理由，本土的话就算了，因为本土的教育是封闭的、灌输式的。不提也罢。但是对于企业招聘实习生，如果你是导师的话，非常的实用。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;没有条条框框的学习。（这点最为赞同，从开源项目的实践中，遇到什么难题，主动的学习才是最好的学习）&lt;/li&gt;
-&lt;li&gt;专业的互动。（不仅仅是知识，团队精神、沟通能力、解决问题的思路等）&lt;/li&gt;
-&lt;li&gt;外部的机会。（在本土的话，可能要被骗。本土只有新鲜、浪潮的商业meetup。）&lt;/li&gt;
-&lt;li&gt;更好的理解计算机。&lt;/li&gt;
-&lt;li&gt;有趣！ （培养出有趣的雅致来，那更是教育的最高境界。）&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
