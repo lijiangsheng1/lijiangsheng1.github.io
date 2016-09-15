@@ -7,8 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 14 Sep 2016 06:24:36 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Sep 2016 07:33:07 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.15)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.15%29/</link>
+      <pubDate>Thu, 15 Sep 2016 07:33:07 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.15%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:025dd291aef777c2656c6e7d09647928&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;taxbrain-开源经济预测工具:025dd291aef777c2656c6e7d09647928&#34;&gt;TaxBrain: 开源经济预测工具&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://gcn.com/articles/2016/09/14/tax-policy-analysis-tool.aspx&#34;&gt;TaxBrain: Open source economic forecasting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;GitHub 上有个项目叫做：&lt;a href=&#34;https://github.com/open-source-economics&#34;&gt;Open Source Economics&lt;/a&gt;，其实是针对美国纳税人的一些开放的工具。文中的开始说的非常明了：“所谓的经济政策日趋的复杂，它的透明性也变得越来越差。”所以绝大多数的人需要这样一些工具，以开源的模式更加的让人可信！&lt;a href=&#34;http://www.ospc.org/taxbrain/&#34;&gt;TaxBrain&lt;/a&gt;在线程序有很不错的文档。&lt;/p&gt;
+
+&lt;p&gt;TaxBrain uses the open science Anaconda software from Continuum Analytics, and the models are written in Python. 这句话让我莫名其妙，我只知道Anaconda是RHEL系列操作系统的安装程序项目，还真不知道有科学计算的项目。搜索了一下， &lt;a href=&#34;https://www.continuum.io/downloads&#34;&gt;Anaconda&lt;/a&gt;似乎是蛮不错的项目，实际的应用也非常的有意思。值得了解一下。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;cloudbees-发布jenkins的第一个商业版:025dd291aef777c2656c6e7d09647928&#34;&gt;CloudBees 发布Jenkins的第一个商业版&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.businesswire.com/news/home/20160914005282/en/CloudBees-Announces-Enterprise-Distribution-Jenkins-Combining-Open&#34;&gt;CloudBees Announces First Enterprise Distribution of Jenkins&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;其逻辑是这样的：“所有成功的开源平台都是基于开源项目，增加新的功能，集成第三方的工具，通过扩展来整合解决方案。” 也就是开源商业模式中常见的“Open Core”模式，好吧，我知道，本土是绝对不会买他的账的。&lt;/p&gt;
+
+&lt;p&gt;文中还提到了一些成功的开源商业模式：&lt;strong&gt;Red Hat (RHEL/Fedora and JBoss/Wildfly), Acquia (Drupal), Mulesoft (Mule ESB) and Hortonworks (Hadoop)&lt;/strong&gt;，其实这里有混淆视听的嫌疑，只和Hortonworks有点相似，其余的都不是open core模式。&lt;/p&gt;
+
+&lt;p&gt;祝福这家公司好运吧！为什么不走咨询、指导、服务路线？或者是单纯的SaaS模式？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.groundreport.com/wp-content/uploads/2016/09/CRM-1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源运动的颂歌:025dd291aef777c2656c6e7d09647928&#34;&gt;开源运动的颂歌&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.groundreport.com/ode-open-source-movement/&#34;&gt;An Ode to the Open Source Movement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;将闭源软件形容为《霍比特人》中的巨龙：&lt;a href=&#34;https://en.wikipedia.org/wiki/Smaug&#34;&gt;Smaug&lt;/a&gt;，也是醉了，这条巨龙的形象和隐喻是我难以理解的。因为当下的世界是一个追逐金钱的时代。&lt;/p&gt;
+
+&lt;p&gt;“This is the beauty of open source – one organization creates, and then countless other organizations can use and innovate on top of it. The possibilities are endless,” says Dires Buytaert of Acquia&lt;/p&gt;
+
+&lt;p&gt;本文的作者对于开源也是处于狂热期，很多方法论方面的都是引用的，但引用的是蛮好的，比如这篇论文：&lt;a href=&#34;http://link.springer.com/chapter/10.1007/978-3-319-17837-0_13#page-1&#34;&gt;First Results About Motivation and Impact of License Changes in Open Source Projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;利用文中的一个段落总结一下：&lt;strong&gt;“Gaining a competitive edge with OSS”&lt;/strong&gt;，这才是未来！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.14)</title>
@@ -951,81 +1011,6 @@
 &lt;p&gt;所以，如果你和我一样，看到的结果可能会吃惊————所有的结果都显示这是一个数字移动的天下！所有的流行的开发者工具都是围绕着移动端的。类似基础设施、后端的很难看到。&lt;/p&gt;
 
 &lt;p&gt;这里算是一个技术趋势的风向标了。尤其是特别注重未来，对现在有危机感的人们。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.30)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.30%29/</link>
-      <pubDate>Tue, 30 Aug 2016 06:32:36 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.30%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:8ab68e8d08fc67eee249d823b855bca3&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/1600/1*gIoNEmB9C0dadJJlDWqpOA.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;linux25周岁了-25个让你大吃一惊的真相:8ab68e8d08fc67eee249d823b855bca3&#34;&gt;Linux25周岁了，25个让你大吃一惊的真相&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://medium.freecodecamp.com/linux-is-25-yay-lets-celebrate-with-25-rad-facts-about-linux-c8d8ac30076d#.tf5alwr2x&#34;&gt;Linux is 25. Yay! Let’s celebrate with 25 stunning facts about Linux.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文我其实没有什么点评的，是我读过的庆祝25周岁最好的，所以推荐给大家。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;在linux和开源软件的历史上-suse处于何种角色:8ab68e8d08fc67eee249d823b855bca3&#34;&gt;在Linux和开源软件的历史上，SuSE处于何种角色&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/open-source-application-software-companies/suses-role-history-linux-and-open-source&#34;&gt;SUSE&amp;rsquo;s Role in the History of Linux and Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;LinuxCon 正在北美举行，SuSE似乎没有发出什么声音，是的，Linux的光环已经被转了10个亿的红帽占据了。SuSE从如此一个小众的媒体对外庆祝一下Linux的25岁生日，有些观点是蛮好的：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;和我的观点一致，Linux走进企业界、大众的视野在从1999/2000年开始的。&lt;/li&gt;
-&lt;li&gt;当年的Linux的几大挑战： &amp;ldquo;missing&amp;rdquo; usability, lack of support, immaturity of products, lack of skills and lack of applications.&lt;/li&gt;
-&lt;li&gt;SuSE对于企业级市场的功劳：第一个支持的项目：XEN, KVM, x86_64, z System, SAP and SAP HANA&lt;/li&gt;
-&lt;li&gt;文章的最后，被采访犹如我一样放大自己：&lt;strong&gt;The only mistake SUSE made was: we didn&amp;rsquo;t talk much about it. That&amp;rsquo;s why they hired me: to do good things and talk about it.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;对于开源google是如何做的:8ab68e8d08fc67eee249d823b855bca3&#34;&gt;对于开源Google是如何做的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.datamation.com/open-source/how-google-does-open-source.html&#34;&gt;How Google Does Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;在Google 2008北京的开发者大会上，我听到的Google对于开源的态度是，Google还是一家年轻的公司，开源是稍晚的事情。今年终于听到了这个消息，互联网巨头们对于人才的竞争逼着高管们去想招。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;看几条观点：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Google的基础设施开源软件功不可没：Google wouldn&amp;rsquo;t be around today without open source software。&lt;/li&gt;
-&lt;li&gt;Google每参与一个项目，都是从bug fix做起的。&lt;/li&gt;
-&lt;li&gt;Google现在有6个人，专门搞开源相关的知识产权。&lt;/li&gt;
-&lt;li&gt;Google不喜欢AGPL许可。&lt;/li&gt;
-&lt;li&gt;Google开源了3000多个项目。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;自由软件将在非洲崛起:8ab68e8d08fc67eee249d823b855bca3&#34;&gt;自由软件将在非洲崛起&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.busiweek.com/index1.php?Ctp=2&amp;amp;pI=5563&amp;amp;pLv=3&amp;amp;srI=69&amp;amp;spI=221&amp;amp;cI=11&#34;&gt;Free software emphasis can lift Africa&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;关于此政府、官僚所说的，我持怀疑态度。开源从某种意义上来说（国家），可以缩短技术的差异，但是缺少文化、教育等必要的土壤，就很难将之好处放大。中国便是一个最为典型的例子，甚至让投机者，披上一层国产化的外衣欺世盗名。非洲能够从开源中受益，省钱也罢、提高科技水平也罢，都得准备好自己。但是腐败的政府主导这事，成功的希望渺茫。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

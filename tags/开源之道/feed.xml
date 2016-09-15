@@ -7,8 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 14 Sep 2016 06:24:36 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Sep 2016 07:33:07 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.15)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.15%29/</link>
+      <pubDate>Thu, 15 Sep 2016 07:33:07 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.15%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:025dd291aef777c2656c6e7d09647928&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;taxbrain-开源经济预测工具:025dd291aef777c2656c6e7d09647928&#34;&gt;TaxBrain: 开源经济预测工具&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://gcn.com/articles/2016/09/14/tax-policy-analysis-tool.aspx&#34;&gt;TaxBrain: Open source economic forecasting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;GitHub 上有个项目叫做：&lt;a href=&#34;https://github.com/open-source-economics&#34;&gt;Open Source Economics&lt;/a&gt;，其实是针对美国纳税人的一些开放的工具。文中的开始说的非常明了：“所谓的经济政策日趋的复杂，它的透明性也变得越来越差。”所以绝大多数的人需要这样一些工具，以开源的模式更加的让人可信！&lt;a href=&#34;http://www.ospc.org/taxbrain/&#34;&gt;TaxBrain&lt;/a&gt;在线程序有很不错的文档。&lt;/p&gt;
+
+&lt;p&gt;TaxBrain uses the open science Anaconda software from Continuum Analytics, and the models are written in Python. 这句话让我莫名其妙，我只知道Anaconda是RHEL系列操作系统的安装程序项目，还真不知道有科学计算的项目。搜索了一下， &lt;a href=&#34;https://www.continuum.io/downloads&#34;&gt;Anaconda&lt;/a&gt;似乎是蛮不错的项目，实际的应用也非常的有意思。值得了解一下。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;cloudbees-发布jenkins的第一个商业版:025dd291aef777c2656c6e7d09647928&#34;&gt;CloudBees 发布Jenkins的第一个商业版&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.businesswire.com/news/home/20160914005282/en/CloudBees-Announces-Enterprise-Distribution-Jenkins-Combining-Open&#34;&gt;CloudBees Announces First Enterprise Distribution of Jenkins&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;其逻辑是这样的：“所有成功的开源平台都是基于开源项目，增加新的功能，集成第三方的工具，通过扩展来整合解决方案。” 也就是开源商业模式中常见的“Open Core”模式，好吧，我知道，本土是绝对不会买他的账的。&lt;/p&gt;
+
+&lt;p&gt;文中还提到了一些成功的开源商业模式：&lt;strong&gt;Red Hat (RHEL/Fedora and JBoss/Wildfly), Acquia (Drupal), Mulesoft (Mule ESB) and Hortonworks (Hadoop)&lt;/strong&gt;，其实这里有混淆视听的嫌疑，只和Hortonworks有点相似，其余的都不是open core模式。&lt;/p&gt;
+
+&lt;p&gt;祝福这家公司好运吧！为什么不走咨询、指导、服务路线？或者是单纯的SaaS模式？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.groundreport.com/wp-content/uploads/2016/09/CRM-1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源运动的颂歌:025dd291aef777c2656c6e7d09647928&#34;&gt;开源运动的颂歌&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.groundreport.com/ode-open-source-movement/&#34;&gt;An Ode to the Open Source Movement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;将闭源软件形容为《霍比特人》中的巨龙：&lt;a href=&#34;https://en.wikipedia.org/wiki/Smaug&#34;&gt;Smaug&lt;/a&gt;，也是醉了，这条巨龙的形象和隐喻是我难以理解的。因为当下的世界是一个追逐金钱的时代。&lt;/p&gt;
+
+&lt;p&gt;“This is the beauty of open source – one organization creates, and then countless other organizations can use and innovate on top of it. The possibilities are endless,” says Dires Buytaert of Acquia&lt;/p&gt;
+
+&lt;p&gt;本文的作者对于开源也是处于狂热期，很多方法论方面的都是引用的，但引用的是蛮好的，比如这篇论文：&lt;a href=&#34;http://link.springer.com/chapter/10.1007/978-3-319-17837-0_13#page-1&#34;&gt;First Results About Motivation and Impact of License Changes in Open Source Projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;利用文中的一个段落总结一下：&lt;strong&gt;“Gaining a competitive edge with OSS”&lt;/strong&gt;，这才是未来！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.14)</title>
@@ -961,89 +1021,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;关于此政府、官僚所说的，我持怀疑态度。开源从某种意义上来说（国家），可以缩短技术的差异，但是缺少文化、教育等必要的土壤，就很难将之好处放大。中国便是一个最为典型的例子，甚至让投机者，披上一层国产化的外衣欺世盗名。非洲能够从开源中受益，省钱也罢、提高科技水平也罢，都得准备好自己。但是腐败的政府主导这事，成功的希望渺茫。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.8.26)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.26%29/</link>
-      <pubDate>Fri, 26 Aug 2016 06:22:21 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.8.26%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:986e3a63e62d807387e6463174fdfe38&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;生日快乐-linux-恭喜你25周岁了:986e3a63e62d807387e6463174fdfe38&#34;&gt;生日快乐！Linux，恭喜你25周岁了！&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/enterprise-it/software/happy-birthday-linux-celebrating-25-years-of-the-open-source-linux-operating-system-4988480&#34;&gt;Happy Birthday Linux! Celebrating 25 years of the open source Linux operating system&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;19991年的8月25号，Linus写下了Linux的第一封开源的邮件。关于此我不想多说什么，引用一张Linux基金会主席的Slide：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/Cqd3NWsVMAAc5mJ.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;爱上linux的25条理由:986e3a63e62d807387e6463174fdfe38&#34;&gt;爱上Linux的25条理由&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/8/25-things-love-about-linux&#34;&gt;25 things to love about Linux&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;opensource.com 在这么重要的日子，肯定是不会袖手旁观的，从Twitter上发起了一个tag，甄选出了25条最酷的理由：蛮有意思，我这里挑选几条我喜欢的：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;There&amp;rsquo;s always something new to learn. —Alexander Golubets&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The power to customize and create my own specific operating system to be used for any purpose. —Rasyid Sahputra&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;There is no limit to what you can do. If you can imagine it, you can make it. —Jeroen Tuijn&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Don&amp;rsquo;t ask what Linux can do for you, it is already done, but what code you can apply for Linux! —Vladimir Cicovic&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;开源所解决的业界5大问题:986e3a63e62d807387e6463174fdfe38&#34;&gt;开源所解决的业界5大问题&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itbusinessedge.com/slideshows/5-ways-to-solve-the-open-source-industrys-biggest-problems-03.html&#34;&gt;5 Ways to Solve the Open Source Industry&amp;rsquo;s Biggest Problems&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;没有废话，看条目，详细理由看原链：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;持续集成和持续交付&lt;/li&gt;
-&lt;li&gt;将用户和IT管理者联系了起来&lt;/li&gt;
-&lt;li&gt;Existing Licensing Commitments&lt;/li&gt;
-&lt;li&gt;责任和赔偿&lt;/li&gt;
-&lt;li&gt;软件锁定&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;脸书开源其图形识别人工智能软件:986e3a63e62d807387e6463174fdfe38&#34;&gt;脸书开源其图形识别人工智能软件&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.usatoday.com/story/tech/news/2016/08/25/facebook-open-sources-ai-image-recognition-software/89306084/&#34;&gt;Facebook open sources AI image recognition software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;其实我对Facebook发布一款开源软件毫无兴趣，人工智能领域，以Google为领头羊，以开源为手段争夺高地，争取人才。谈过许多遍了。本文重点在后半部分，是来自两大研究机构的研究人员的解释，分别是：来自Forrester的Lauren Nelson，以及来自451 Research的Peter Christy。以下为我的引用：&lt;/p&gt;
-
-&lt;p&gt;There’s something important about the prospect of developing software within a community rather than in a proprietary environment.     &amp;ndash;Peter Christy&lt;/p&gt;
-
-&lt;p&gt;“It’s hard to make money from software that’s been open sourced, The question is whether there are other mitigating circumstances like the ability to build a join community, build things that are bigger than you could, or the ability to move the software faster than you could.”   &amp;ndash;Peter Christy&lt;/p&gt;
-
-&lt;p&gt;“Open Source Powers Enterprise Digital Transformation.” &amp;ndash;Forrester&lt;/p&gt;
-
-&lt;p&gt;“It’s no longer acceptable to take the traditional, cautious approach to technology adoption, As open source options evolve, enterprises see them as a more open and flexible path forward.” &amp;ndash;Lauren Nelson&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/print-edition/20160827_WBD001_0.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
