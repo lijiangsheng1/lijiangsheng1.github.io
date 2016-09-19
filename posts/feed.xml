@@ -7,8 +7,83 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 19 Sep 2016 06:50:42 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Sep 2016 06:29:52 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.20)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.20%29/</link>
+      <pubDate>Tue, 20 Sep 2016 06:29:52 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.20%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:c23c83994c9ccd1eba563a9438a6d3a4&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://tr4.cbsistatic.com/hub/i/r/2016/09/19/d82d0017-905e-4908-94a6-8241d1343dae/resize/620x/530381ea4d96393c5bd77306419f67a4/storage.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;为什么说你的下一代存储会依赖于区块链:c23c83994c9ccd1eba563a9438a6d3a4&#34;&gt;为什么说你的下一代存储会依赖于区块链&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-your-next-storage-solution-may-depend-on-blockchain/&#34;&gt;Why your next storage solution may depend on blockchain&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;又见对象存储，一项技术和某些热点扯上关系，就会产生话题，大约就能达到某些市场的效应。让我们先记下这家公司：&lt;a href=&#34;https://github.com/Storj/&#34;&gt;Storj&lt;/a&gt;，将P2P的区块链技术整合到对象存储中，解决重要的安全问题。委实是不错的创新。&lt;/p&gt;
+
+&lt;p&gt;来看下文章的结语：“ I suspect we won&amp;rsquo;t see mass adoption, however, until one of the big cloud providers joins the blockchain storage market, perhaps by acquiring Storj.” 收购，Mirantis近日收购了TCP cloud，要么是R&amp;amp;D模式，要么是M&amp;amp;A模式，总之是要在激烈的竞争中脱颖而出，而不是将精力耗在政治权力上。这是一个重要的文化现象。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/09/linus-dirk-hohndel-100683306-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;官方的证实-linux第一个版本的发布时间是1991年9月17日:c23c83994c9ccd1eba563a9438a6d3a4&#34;&gt;官方的证实，Linux第一个版本的发布时间是1991年9月17日&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3121811/linux/it-s-official-linux-was-released-on-september-17-1991.html&#34;&gt;It’s official, Linux was released on September 17, 1991&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文蛮有意思，Linus就是一逗逼，0.01的Linux和相关的email，他给弄丢了。好吧，还是有人按照时间戳找到了（这个不是很容易造假吗？），本文还有几个有意思的故事：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Linux这个名称是Linus的室友命名的，因为他不喜欢linus所命名的：FREAKX ，即&lt;strong&gt;‘Freaks’ - a mix of ‘free’, ‘ freak’ and UNIX&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;最开始的版本使用的协议并非是GPLv2&lt;/li&gt;
+&lt;li&gt;Linus后来坦承，Linux之所以成功的一个关键就是使用了GPLv2&lt;/li&gt;
+&lt;li&gt;Linux 的成功，吸引了很多后来的企业。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;关于最后作者举的例子，正好有OpenStack的一个同行发表了一个感慨，也是一个同行，在即将举办的巴塞罗那 OpenStack Summit会议上，有人利用AI热点成功的申请到了一个演讲的Topic，即使用OpenStack来搭建Google tensor flow。本文有相类似的影子。开源的项目日见增多。AI的战场，Google打响了这场战争，首当其冲的就是开源！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;十年磨一剑-开源编辑器-vim-8-0-释出:c23c83994c9ccd1eba563a9438a6d3a4&#34;&gt;十年磨一剑，开源编辑器 Vim 8.0 释出&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://news.softpedia.com/news/after-ten-years-vim-vi-improved-8-0-open-source-text-editor-is-here-508447.shtml&#34;&gt;After Ten Years, Vim (Vi IMproved) 8.0 Open-Source Text Editor Is Here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是的，Vim7.3使用了太多年了，话说我也跟个时髦，来贴个新闻。一个编辑器要这么多特性，用得着吗？我很少用，大约是编码越来越少的缘故：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;异步I/O支持&lt;/li&gt;
+&lt;li&gt;支持频道&lt;/li&gt;
+&lt;li&gt;JSON 支持&lt;/li&gt;
+&lt;li&gt;可通过时间戳来合并viminfo&lt;/li&gt;
+&lt;li&gt;支持jobs、timers、closures、 partials、packages、以及 lambdas。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，多数内容已经超出我的理解范围。为什么会有包管理？JSON支持是个蛮好的特性。那么Lambda不是函数式编程语言的功能吗？关编辑器什么事？需要我去慢慢的请教高手，或者是自己又可能用得着。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.19)</title>
@@ -931,88 +1006,6 @@
 &lt;p&gt;&lt;del&gt;OpenVswitch 是我一直以来都想去掌握的项目之一，可惜过度的贪心或者是团队的原因，失之交臂&lt;/del&gt;&lt;/p&gt;
 
 &lt;p&gt;下个版本的OVS，主要的功能是对DPDK的增强和对OVN 覆盖网络的支持。注意这背后有VMWare的推动，以及其对Linux基金会的操控。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.1)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.1%29/</link>
-      <pubDate>Thu, 01 Sep 2016 06:38:33 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.1%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:7ee2591a9a8e2039d347ddc9ad42832c&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;几张图说明了开源的崛起还是开发者的青睐有关:7ee2591a9a8e2039d347ddc9ad42832c&#34;&gt;几张图说明了开源的崛起还是开发者的青睐有关&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thevarguy.com/opendns/survey-infographic-shows-open-source-increasingly-embraced-developers&#34;&gt;Infographic Shows Open Source Increasingly Embraced by Developers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;黑鸭子和北桥的哪个《the future of Open Source》，其实我也一直想总结来着。不知道为何，事情就那样过去了，今天看到 The VAR Guy 将这件事情做了。尽管多数是摘选出来认为有价值，或者是佐证自己观点的。但是重点在于人家做了。&lt;/p&gt;
-
-&lt;p&gt;来张图片说明一切：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://thevarguy.com/site-files/thevarguy.com/files/uploads/2016/06/FOOSInfographicGeneral.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;linux早期发展的故事:7ee2591a9a8e2039d347ddc9ad42832c&#34;&gt;Linux早期发展的故事&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/starting-with-linux-in-the-early-days/&#34;&gt;Starting with Linux in the early days&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Linux在今天看来是非常成功的了，但是早期的时候，只有很少一部分人愿意采用。发展并不是那么如很多人看来是一帆风顺的。看看早期都有哪些故事，以及一些人的感慨。&lt;/p&gt;
-
-&lt;p&gt;我这里只引用文中两个很有价值的观点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Ted T&amp;rsquo;so 早期的kernel开发者对于Linux能够成功的原因：stone soup approach.每个人都能找到自己感兴趣的地方。&lt;/li&gt;
-&lt;li&gt;Bottomley对于Linus领导力的评价，大胆的去尝试。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;八卦：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Dell 也曾经拥有过自己的Unix发行版：Dell SVR4 Unix 。&lt;/li&gt;
-&lt;li&gt;Caldera Linux, 也是早期的商业探索者。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;红帽进入forbes最具创新公司名单-唯一的一家开源公司:7ee2591a9a8e2039d347ddc9ad42832c&#34;&gt;红帽进入Forbes最具创新公司名单，唯一的一家开源公司&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.catchnews.com/tech-news/red-hat-only-open-source-company-in-forbes-world-s-most-innovative-companies-list-1472619377.html/2&#34;&gt;Red Hat only open source company in Forbes&amp;rsquo; most innovative companies list&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;红帽现在如日中天，其依靠独特的文化和管理模式，对于开源软件的深刻理解和创新，用实际的金额证明了开源模式的成功。没有什么好说的，进入这份名单，实至名归。&lt;/p&gt;
-
-&lt;p&gt;红帽CEO依然不忘文化的传播：&lt;strong&gt;This recognition by Forbes is a tribute to not only Red Hat associates around the world, but also to the open source communities that are driving community-powered innovation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;还有他们的预测：&lt;strong&gt;In its 2016 predictions, Deutsche Bank wrote that open source keeps eating the world, with open source rivals for almost every major infrastructure and data management software market.&lt;/strong&gt; 开源越来越重要，为什么我就找不到掘金的地方？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;为什么人们对richard-stallman和自由软件基金会恨之入骨:7ee2591a9a8e2039d347ddc9ad42832c&#34;&gt;为什么人们对Richard Stallman和自由软件基金会恨之入骨？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3113739/open-source-tools/why-does-richard-stallman-and-the-free-software-foundation-get-so-much-hate.html&#34;&gt;Why does Richard Stallman and the Free Software Foundation get so much hate?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;关于本文是作者如何从不理解转变为支持者的变化，心路历程！值得一读。&lt;/p&gt;
-
-&lt;p&gt;我想多说的是：本土。鉴于对乌托邦和道德的恐惧，我们身边的绝大多数人，是视FSF为笑料的，我印象非常深刻的是14年Stallman在北航的演讲，哪些笑他的学生。即使是工作中，没有人相信高尚，好吧！30多年前哪些东西究竟要影响几代人方可罢休？&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
