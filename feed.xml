@@ -7,8 +7,83 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 20 Sep 2016 06:29:52 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Sep 2016 07:02:17 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.22)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.22%29/</link>
+      <pubDate>Thu, 22 Sep 2016 07:02:17 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.22%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:0715cc8f030df50e4edd870f5b3be946&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;oracle-cto-拉里埃里森直言不讳抨击aws:0715cc8f030df50e4edd870f5b3be946&#34;&gt;Oracle CTO 拉里埃里森直言不讳抨击AWS&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/oracles-larry-ellison-throws-punches-at-aws/&#34;&gt;Oracle&amp;rsquo;s Larry Ellison throws punches at AWS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有一句话让人啼笑皆非：Oracle并不像AWS那样，应为Oracle是开源的。就是因为这句话，我将之纳入了我的晨读文章。&lt;/p&gt;
+
+&lt;p&gt;不过看Oracle直接和AWS撕逼也是蛮有意思的。不知道AWS以后会不会放弃支持Oracle DB。这只能说明一个问题AWS所提供的各种DBaaS正在蚕食Oracle的传统市场！也就是说，用户使用AWS，很多原来使用Oracle的地方都替换成为：“Aurora、Redshift、DynamoDB”，&lt;/p&gt;
+
+&lt;p&gt;那么我又开始质疑国内的市场，为什么我接触到的都是将IaaS当虚拟化，没有人将问题聚焦到应用层。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;infoworld-发布2016最佳开源项目奖:0715cc8f030df50e4edd870f5b3be946&#34;&gt;InfoWorld 发布2016最佳开源项目奖&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/infoworld-announces-the-2016-best-of-open-source-software-awards-2160365.htm&#34;&gt;InfoWorld Announces the 2016 Best of Open Source Software Awards&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，2016开源项目遍地开花，让人眼花缭乱！InfoWorld这次分了几个类，分别是：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;应用开发&lt;/li&gt;
+&lt;li&gt;应用&lt;/li&gt;
+&lt;li&gt;大数据&lt;/li&gt;
+&lt;li&gt;数据中心和云计算&lt;/li&gt;
+&lt;li&gt;网络及安全&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;尽管绝大多数我不认识，正如我所掌握的知识，在业内根本不算什么。那么我就数数我听说过的得奖的开源项目：Angular、Bootstrap、GitLab、R、Swift、TensorFlow、LibreOffice、Kafka、Kylin、Spark、Ansible、Atomic Host、CoreOS、Docker、Etcd、Kubernetes、Mesos、Nginx、Ubuntu Server。20/72 ，对于网络和安全那部分是一个都没有听说过。还有一个就是开源依然占据基础设施！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://tr1.cbsistatic.com/hub/i/r/2016/09/19/f3e5be69-7a76-48c1-bfb1-13607d2868b4/resize/620x/4c28d21b7c171cd94561b11afbe7832b/china.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;为什么说中国是下一个开源软件的试验场:0715cc8f030df50e4edd870f5b3be946&#34;&gt;为什么说中国是下一个开源软件的试验场&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-china-is-the-next-proving-ground-for-open-source-software/&#34;&gt;Why China is the next proving ground for open source software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;西方的软件创业公司通常是不会care中国的市场的，因为中国这块市场实在是太烂了。没有人掏钱给你，尤其是你的软件是开源的时候。那么李浩源做到了吗？Techrepublic的这篇文章旨在告诉西方，中国准备好为开源付费了？无异于痴人说梦，你荣归故里可以，戴上MIT博士的光环，以开源的方式创业，但是你想赚到钱，以我对国内情形的了解，不抱任何的希望。不过本文反过来，让我了解一下国内的开源状况，能够得到的信息有：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.alluxio.org/&#34;&gt;Alluxio&lt;/a&gt;这家公司蛮厉害的，看CSDN的一篇报道：&lt;a href=&#34;http://geek.csdn.net/news/detail/101312&#34;&gt;Alluxio中国行（一）开源分布式存储系统Alluxio的历史、现状和未来&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;百度开源的那个机器学习项目，佐证了China is not merely consuming the West&amp;rsquo;s best software: It&amp;rsquo;s open sourcing its own？ （我表示怀疑）&lt;/li&gt;
+&lt;li&gt;谁在相信China&amp;rsquo;s Ministry of Industry and Information Technology (MIIT) 这些部门的话，那一定是不了解中国。这些部门什么都不做，就是要政绩。&lt;/li&gt;
+&lt;li&gt;一号专车使用MongoDB这个案例是蛮经典的。但是一号专车绝对是例外。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;看完这篇文章，我只能说李浩源不了解中国，回来两天，被一些表面的假象所迷惑。相信假以时日，定会了解真相，希望不要将市场过度的往国内倾斜，否则会死的很难看，那可真叫可惜。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.20)</title>
@@ -932,80 +1007,6 @@
 &lt;p&gt;在国内如何建立起来自己的社区？这似乎是一个大问题。有没有成功的社区了呢？除了以一些简单的奖励学生这招？（LinuxFans，Everst）或者是以媒体的方式来勾引？（OSChina，InfoQ，CSDN，ChinaUnix）&lt;/p&gt;
 
 &lt;p&gt;面对失望的环境，我都开始考虑国内的戒烟市场了。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.3)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.3%29/</link>
-      <pubDate>Sat, 03 Sep 2016 07:05:36 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.3%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/08/open-source-pengin-map-100680306-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;哪个国家正式颁布了支持开源的法律:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;哪个国家正式颁布了支持开源的法律？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3114619/open-source-tools/which-countries-have-open-source-laws-on-the-books.html&#34;&gt;Which countries have open-source laws on the books?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;曾记得twitter上有张图，是将全世界的每个国家的媒体开放程度作了对比。或者是这个世界有哪些国家无法使用Facebook和YouTube，果然，现在也有人开始使用相同的办法将世界的哪些国家对开源的态度比较青睐或排斥做了区分。&lt;/p&gt;
-
-&lt;p&gt;这个和国家的意识形态似乎无多大关系，但是似乎是可以看出互联网或IT业的发达程度。你希望中国成为什么颜色？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;新闻集团为何青睐开源:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;新闻集团为何青睐开源？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itnews.com.au/news/why-news-corp-loves-open-source-435770&#34;&gt;Why News Corp loves open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源不再是一些个人偏好的小众的东西了，它已经是主流，承载着这个信息时代很多东西。&lt;/p&gt;
-
-&lt;p&gt;本文其实没有任何新颖的见解，只是人云亦云罢了，开源是如此的流行，作为媒体的巨人新闻集团不应该落后，于是也说是自己热爱开源。相信这就是所谓的滚动效应，大多数人是观察者，往人多的地方走。&lt;/p&gt;
-
-&lt;p&gt;但是，现实就是如此，之所以选择此新闻就是因为新闻集团比较有代表性。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;插曲-个人感慨-絮叨:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;插曲，个人感慨／絮叨&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;突然意识到，就在今天，尤其是观察了中移，开源对于世界的影响真的很大。其实，很多公司已经将开源成为一种默认的方式。只是出现了一些诸如操控的、有限度开源、团队文化等可能错误的方法论和整体指导思想。但是认同开源。我所谓的布道是不受欢迎的，绝大多数人，不会在意这个，只谈技术，我技术很烂，就没有人愿意和我交谈。我的布道依然有很长的路要走，形成一些理论之后，然后或许能有一些人认同。但是，我要推广和让人信服的话，技术还不能太烂。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;bbc-是如何利用开源来进行转型的:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;BBC 是如何利用开源来进行转型的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.information-age.com/it-management/strategy-and-innovation/123461966/how-open-source-technologies-are-transforming-bbc&#34;&gt;How open source technologies are transforming the BBC&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;归档，新闻总有一天会变成历史的。这是一个资讯爆炸的时代，数据是指数级的增长。BBC这样的媒体公司，也面临着巨大的挑战。自己成立研发团队，利用开源技术比如Elasticsearch。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;open-vswitch-的未来:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;Open vSwitch 的未来&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.sdxcentral.com/articles/analysis/open-vswitch-future-takes-shape/2016/09/&#34;&gt;Open vSwitch Future Takes Shape&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，得关心技术。需要向现实妥协，毕竟这是一个饱受苦难的地方，人们依然对意识形态的恐吓和残忍记忆犹新，150多年过去了，只谈技术，无论其他，这是普遍的现象。所以，我必须去掌握一些技术！比如OpenStack这个比较年轻的项目。&lt;/p&gt;
-
-&lt;p&gt;&lt;del&gt;OpenVswitch 是我一直以来都想去掌握的项目之一，可惜过度的贪心或者是团队的原因，失之交臂&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;下个版本的OVS，主要的功能是对DPDK的增强和对OVN 覆盖网络的支持。注意这背后有VMWare的推动，以及其对Linux基金会的操控。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
