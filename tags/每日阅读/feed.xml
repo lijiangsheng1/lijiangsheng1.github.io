@@ -7,8 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 22 Sep 2016 07:02:17 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 23 Sep 2016 08:20:55 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.23)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.23%29/</link>
+      <pubDate>Fri, 23 Sep 2016 08:20:55 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.23%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:3c20095d61fde2761e79a5e5427069af&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.gannett-cdn.com/-mm-/e597bedc2b32c8ae22f5f9c02d89fe7c266cf2a2/c=120-0-2001-1414&amp;amp;r=x408&amp;amp;c=540x405/local/-/media/2016/09/21/RenoGroup/RGJ/636100748681741324-ThinkstockPhotos-529600299.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;美国国防部的软件考查:3c20095d61fde2761e79a5e5427069af&#34;&gt;美国国防部的软件考查&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://niskanencenter.org/blog/the-department-of-software/&#34;&gt;THE DEPARTMENT OF SOFTWARE?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文一再提到是那篇关于美国国防部的&lt;a href=&#34;http://www.cnas.org/sites/default/files/publications-pdf/CNASReport-OpenSourceSoftware-Final_0.pdf&#34;&gt;报告&lt;/a&gt;。试图从各个角度来考量美国国防部应该去使用开源软件。&lt;/p&gt;
+
+&lt;p&gt;其中一句话，深入我心：&lt;strong&gt;Open Source Useful, Not Panacea&lt;/strong&gt;,&lt;strong&gt;But using open source software by itself is no guarantee of innovation or success.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;去除所有的神话，回归本真！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源并非是非黑即白:3c20095d61fde2761e79a5e5427069af&#34;&gt;开源并非是非黑即白&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://dzone.com/articles/50-shades-of-open-source-its-no-longer-black-or-wh&#34;&gt;50 Shades of Open Source: It&amp;rsquo;s No Longer Black or White&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文是对GitHub本身不开源的辩护，没错，为了提高竞争力，或者是为了保护自己，要知道哪些有钱的大公司复制起来就是分分钟的事情，如果有了代码的话（？其实我心存疑问）&lt;/p&gt;
+
+&lt;p&gt;GitHub 正在努力塑造自己的品牌形象，不想因为开源与否而被一些人抓着把柄。其中关于开源和闭源的参与的比喻：open-source is like volunteering, right? Closed source is like going to work, right? 关于回报前者是经验与名誉，后者是报酬。这是绝大多数人使用的办法。&lt;/p&gt;
+
+&lt;p&gt;然而文章又以GitHub CEO 的一句话结尾：“Open source isn’t just about libraries. It’s about people making a real difference in the world.” 嗯，写这样的文章非常的困难。说开源好，但是就是自己不开源。难为作者了。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.22)</title>
@@ -941,80 +987,6 @@
 &lt;p&gt;在国内如何建立起来自己的社区？这似乎是一个大问题。有没有成功的社区了呢？除了以一些简单的奖励学生这招？（LinuxFans，Everst）或者是以媒体的方式来勾引？（OSChina，InfoQ，CSDN，ChinaUnix）&lt;/p&gt;
 
 &lt;p&gt;面对失望的环境，我都开始考虑国内的戒烟市场了。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.3)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.3%29/</link>
-      <pubDate>Sat, 03 Sep 2016 07:05:36 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.3%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/08/open-source-pengin-map-100680306-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;哪个国家正式颁布了支持开源的法律:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;哪个国家正式颁布了支持开源的法律？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3114619/open-source-tools/which-countries-have-open-source-laws-on-the-books.html&#34;&gt;Which countries have open-source laws on the books?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;曾记得twitter上有张图，是将全世界的每个国家的媒体开放程度作了对比。或者是这个世界有哪些国家无法使用Facebook和YouTube，果然，现在也有人开始使用相同的办法将世界的哪些国家对开源的态度比较青睐或排斥做了区分。&lt;/p&gt;
-
-&lt;p&gt;这个和国家的意识形态似乎无多大关系，但是似乎是可以看出互联网或IT业的发达程度。你希望中国成为什么颜色？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;新闻集团为何青睐开源:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;新闻集团为何青睐开源？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itnews.com.au/news/why-news-corp-loves-open-source-435770&#34;&gt;Why News Corp loves open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源不再是一些个人偏好的小众的东西了，它已经是主流，承载着这个信息时代很多东西。&lt;/p&gt;
-
-&lt;p&gt;本文其实没有任何新颖的见解，只是人云亦云罢了，开源是如此的流行，作为媒体的巨人新闻集团不应该落后，于是也说是自己热爱开源。相信这就是所谓的滚动效应，大多数人是观察者，往人多的地方走。&lt;/p&gt;
-
-&lt;p&gt;但是，现实就是如此，之所以选择此新闻就是因为新闻集团比较有代表性。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;插曲-个人感慨-絮叨:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;插曲，个人感慨／絮叨&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;突然意识到，就在今天，尤其是观察了中移，开源对于世界的影响真的很大。其实，很多公司已经将开源成为一种默认的方式。只是出现了一些诸如操控的、有限度开源、团队文化等可能错误的方法论和整体指导思想。但是认同开源。我所谓的布道是不受欢迎的，绝大多数人，不会在意这个，只谈技术，我技术很烂，就没有人愿意和我交谈。我的布道依然有很长的路要走，形成一些理论之后，然后或许能有一些人认同。但是，我要推广和让人信服的话，技术还不能太烂。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;bbc-是如何利用开源来进行转型的:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;BBC 是如何利用开源来进行转型的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.information-age.com/it-management/strategy-and-innovation/123461966/how-open-source-technologies-are-transforming-bbc&#34;&gt;How open source technologies are transforming the BBC&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;归档，新闻总有一天会变成历史的。这是一个资讯爆炸的时代，数据是指数级的增长。BBC这样的媒体公司，也面临着巨大的挑战。自己成立研发团队，利用开源技术比如Elasticsearch。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;open-vswitch-的未来:448dcab420ae99340bfa5af0dcefc80c&#34;&gt;Open vSwitch 的未来&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.sdxcentral.com/articles/analysis/open-vswitch-future-takes-shape/2016/09/&#34;&gt;Open vSwitch Future Takes Shape&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，得关心技术。需要向现实妥协，毕竟这是一个饱受苦难的地方，人们依然对意识形态的恐吓和残忍记忆犹新，150多年过去了，只谈技术，无论其他，这是普遍的现象。所以，我必须去掌握一些技术！比如OpenStack这个比较年轻的项目。&lt;/p&gt;
-
-&lt;p&gt;&lt;del&gt;OpenVswitch 是我一直以来都想去掌握的项目之一，可惜过度的贪心或者是团队的原因，失之交臂&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;下个版本的OVS，主要的功能是对DPDK的增强和对OVN 覆盖网络的支持。注意这背后有VMWare的推动，以及其对Linux基金会的操控。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
