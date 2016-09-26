@@ -7,8 +7,58 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 26 Sep 2016 07:16:25 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Sep 2016 07:32:33 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.9.27)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.27%29/</link>
+      <pubDate>Tue, 27 Sep 2016 07:32:33 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.27%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:e11038822d23dbbd07e0f673dd3d333e&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blogs-images.forbes.com/gregsatell/files/2016/09/hand-globe-open-collaboration.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;为何开放和封闭会打起来:e11038822d23dbbd07e0f673dd3d333e&#34;&gt;为何开放和封闭会打起来&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/gregsatell/2016/09/26/why-open-beats-closed/#14d6d26d68e5&#34;&gt;Why Open Beats Closed&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我再次毫不掩饰的称赞一次 Forbes 的文章，将一件事情说明白了，来龙去脉、旁征博引。。。&lt;/p&gt;
+
+&lt;p&gt;在工业时代，商业竞争中采用的封闭的战略，也诞生了伟大的公司，如在彼此的竞争中争相称霸的：GM and Ford, Coke and Pepsi, General Electric and Westinghouse。但是时代变了，**it’s becoming increasingly clear that no one can go it alone and firms must choose where they will cooperate and where they will compete. **&lt;/p&gt;
+
+&lt;p&gt;人才的竞争是这个时代最为悲伤的事情，因为是知识经济时代。而且有论文:&lt;a href=&#34;http://www.executivesondemand.net/managementsourcing/images/stories/artigos_pdf/gestao/The_war_for_talent.pdf&#34;&gt;人才战争&lt;/a&gt;引用。以及沿用Bill Joy的话：这个世界上大多数最聪明的都在为别人工作。既然这样的话，作为老板你该如何利用好这些聪明人了呢？是你该去思考的，而如果利用不好的话：“If you rely solely on your own employees, you’ll never solve all your customers’ needs.”。&lt;/p&gt;
+
+&lt;p&gt;接下来是互联网、信息的时代，其中的支柱——软件，改变了一切，Apache Httpd 开源软件的诞生、Linux的盛行证明了这是事实上的标准。而后就是今年Google开源TensorFlow，特斯拉紧随其后，以及微软宣布拥抱Linux。&lt;/p&gt;
+
+&lt;p&gt;这个世界需要创新，以开放的方式：即&lt;a href=&#34;http://www.digitaltonto.com/2016/a-new-breed-of-innovation/&#34;&gt;新一代的创新者&lt;/a&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;说到底openstack是个什么东西-来自红帽rich-bowen的解释:e11038822d23dbbd07e0f673dd3d333e&#34;&gt;说到底OpenStack是个什么东西？来自红帽Rich Bowen的解释&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/exactly-what-openstack-red-hats-rich-bowen-explains&#34;&gt;Exactly What Is OpenStack? Red Hat&amp;rsquo;s Rich Bowen Explains&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/rich-bowen-linuxcon.png?itok=b0oj2D44&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我在想，让此人来给某些本土的单位／企业以这样的方式讲，过程就是引来一片鼾声，结果就是被教训如何做人。我们才不关心什么社区、产品。有没有利国利民的属性？没有的话，就滚蛋。&lt;/p&gt;
+
+&lt;p&gt;以上属于自己的亲身经历。但是我对本文对演讲者是蛮有好感的，因为我也是这么解释OpenStack的，OpenStack 不是什么产品，是一个厂商中立的非盈利基金会，balabala，要找对的人来讲。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.9.26)</title>
@@ -934,71 +984,6 @@
 &lt;p&gt;这是我一直以来思考的问题，并亲自以身作则的试水了一把。红帽开源产品经理的话很有借鉴意义，但是仍然要考虑本土特殊的情况。文化、政治环境、习俗等等均是经济必须要考虑到的。&lt;/p&gt;
 
 &lt;p&gt;比如本土收购这样的事情非常的难以寻找：&lt;strong&gt;&amp;ldquo;The most visibly “successful” open source startups from the last ten years are companies that were acquired by larger ones.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.5)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.5%29/</link>
-      <pubDate>Mon, 05 Sep 2016 07:14:52 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.5%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:4c264537a3d8e80fe04e358a34854183&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;openoffice-严重缺人:4c264537a3d8e80fe04e358a34854183&#34;&gt;OpenOffice 严重缺人&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/09/04/openoffice-possible-shutdown/&#34;&gt;OpenOffice Contemplates Shutdown Amid Volunteer Drought&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Dennis E. Hamilton, OpenOffice的志愿者VP？呼吁OpenOffice再没有人来参与开发的话，可能项目就很快死掉。而OpenOffice最近的一次版本更新是2015年10月份。具体的故事我这里就不多讲了，诸如OpenOffice什么时候被Sun开源，Sun何时被Oracle收购，Oracle又是何时将它扔到Apache基金会等等。&lt;/p&gt;
-
-&lt;p&gt;我这里想说的是，Oracle这个开源杀手真的不是盖的，我们数一下原来Sun的开源项目，现在Fork出来的：MariDB、Jenkins、LibreOffice&amp;hellip;&amp;hellip;我想，Oracle也开源，但是干了两件事：&lt;strong&gt;more restrictive&lt;/strong&gt; 和 &lt;strong&gt;project’s public relations has been inadequate.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://fortunedotcom.files.wordpress.com/2016/04/gettyimages-177251273.jpg?w=840&amp;amp;h=485&amp;amp;crop=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;openstack-失败的6个原因-声明-并非技术:4c264537a3d8e80fe04e358a34854183&#34;&gt;OpenStack 失败的6个原因（声明：并非技术）&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.mirantis.com/blog/six-reasons-openstack-fails-hint-its-not-the-technology/&#34;&gt;Six reasons OpenStack fails (Hint: it’s not the technology)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Mirantis 到底是想要证明什么？继基础设施软件已死文章之后，又来一篇对他人演讲的总结，同样是说明OpenStack这个项目异常的艰难。不过我还是非常认同的，并非技术本身，非技术方面的原因更多。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;思维过于教条。（这是最最难以改变的，尤其是哪些不愿意学习和改变的系统管理员们。）&lt;/li&gt;
-&lt;li&gt;恐惧、怀疑、不确定、毁坏（FUDD）带来太多问题&lt;/li&gt;
-&lt;li&gt;找到正确的发行版&lt;/li&gt;
-&lt;li&gt;你不可能成为一个全栈工程师&lt;/li&gt;
-&lt;li&gt;只是认为OpenStack是一匹更快的马而已，不是汽车（经典的福特语录，暗示用户的想象力有限）&lt;/li&gt;
-&lt;li&gt;你没有一个万能的团队&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;在本土，可能还得加上官僚体制、糟糕的市场环境、多如牛毛的OpenStack小厂的破坏力。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-neon_0.jpg?itok=8007dHGm&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;什么是开源产品:4c264537a3d8e80fe04e358a34854183&#34;&gt;什么是开源产品？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/blog/what-are-open-source-products&#34;&gt;What Are Open Source Products?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文其实是对Mirantis的CMO哪篇文章：基础设施软件已死作出的回应，意思是红帽才是企业级唯一的老大，你这样的意识太差了，难道你们才意识到？已经晚了！！另外再次重点声明：开源只是一种开发模式，并非商业模式。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
