@@ -7,8 +7,66 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 09 Oct 2016 07:13:04 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Oct 2016 08:15:34 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.10)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.10%29/</link>
+      <pubDate>Mon, 10 Oct 2016 08:15:34 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.10%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:70c98af1259d95e46e24f2769569c7bc&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;在竞争中我们需转向平台的竞争:70c98af1259d95e46e24f2769569c7bc&#34;&gt;在竞争中我们需转向平台的竞争&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/gregsatell/2016/10/07/platforms-are-transforming-how-we-need-to-compete/#bfef25950167&#34;&gt;Here&amp;rsquo;s How Platforms Are Transforming How We Need To Compete&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文是&lt;a href=&#34;http://amzn.to/2cQ9cWy&#34;&gt;Mapping Innovation&lt;/a&gt;一书的书摘，作者论述了竞争的变化，开放与协作是当前竞争的主要策略，影响过去半个多世纪的 Michael Porter 的理论很难在新世纪站住脚跟。&lt;/p&gt;
+
+&lt;p&gt;关于开放，作者提到的Linux的成功，协作的力量，并以微软为例，对待Linux从敌对到拥抱，从而佐证平台的力量。&lt;/p&gt;
+
+&lt;p&gt;Bill Joy &lt;a href=&#34;https://en.wikipedia.org/wiki/Joy%27s_law_(management&#34;&gt;法则&lt;/a&gt;)：&lt;strong&gt;“no matter who you are, most of the smartest people work for someone else.”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-588616024.jpg?w=1294&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;一个去中心化的web将会为人们在线重注力量:70c98af1259d95e46e24f2769569c7bc&#34;&gt;一个去中心化的web将会为人们在线重注力量&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/10/09/a-decentralized-web-would-give-power-back-to-the-people-online/&#34;&gt;A decentralized web would give power back to the people online&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Google 发布了Duo，然而对于本文来说也只是一个引子罢了。&lt;/p&gt;
+
+&lt;p&gt;Web的发展超出了当年Tim Berners-Lee等人提出的样子。未来将会如何发展？竞争、重复劳动，那有如何？世界在往前走！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.unixstuff.net/images/fsf.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;31年前-自由软件基金会成立:70c98af1259d95e46e24f2769569c7bc&#34;&gt;31年前：自由软件基金会成立&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.techdirt.com/articles/20161007/09354035738/this-week-techdirt-history-october-2nd-8th.shtml&#34;&gt;Thirty-One Years Ago&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;1985年10月4日，自由软件基金会创立！ ** has been one of the driving forces and defining voices in the entire open source movement**&lt;/p&gt;
+
+&lt;p&gt;什么叫做改变世界？这就是！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.9)</title>
@@ -939,68 +997,6 @@
 &lt;p&gt;** Making it ours, finally and absolutely, is the only way we secure our independence and liberty online. It is the only way the world&amp;rsquo;s economy becomes a true bazaar.**&lt;/p&gt;
 
 &lt;p&gt;非常深刻的文章。值得仔细阅读！深度阅读！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.9)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.9%29/</link>
-      <pubDate>Fri, 09 Sep 2016 06:34:32 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.9%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:ffb3ae471848fef073b60d2b938d29ab&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://cdn1.itpro.co.uk/sites/itpro/files/styles/article_main_wide_image/public/2016/08/github_office.jpg?itok=bnAYCY1z&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源是否已成主流:ffb3ae471848fef073b60d2b938d29ab&#34;&gt;开源是否已成主流？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itpro.co.uk/open-source/27170/has-open-source-gone-mainstream&#34;&gt;Has open source gone mainstream?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源是一种常态！ GitHub的基础设施工程部的高级总监如此说！&lt;/p&gt;
-
-&lt;p&gt;文中开始的时候，列举了现在目前有很多传统的公司都开始开发一些开源项目，也会主动参与到已有的开源项目，比如Apple这家封闭的公司。接下来则说明了一些开源的好处，连白宫都在开源中获益。&lt;/p&gt;
-
-&lt;p&gt;乐高的比喻是亮点：&lt;strong&gt;&amp;ldquo;Put a child in front of a Lego set, they build something amazing,If you focus on what they&amp;rsquo;re going to build&amp;hellip; you limit the outcome.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;以及乐观的对于人类的态度：&lt;strong&gt;If you empower your developers and they care about the project,they will build and dream bigger than you can imagine.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;破坏性创新-一个ceo是如何做到在对象存储盒开源中创新的:ffb3ae471848fef073b60d2b938d29ab&#34;&gt;破坏性创新：一个CEO是如何做到在对象存储盒开源中创新的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://siliconangle.com/blog/2016/09/08/destroy-to-create-how-one-ceo-innovates-in-object-storage-open-source/&#34;&gt;Destroy to create: How one CEO innovates in object storage, open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;CEO 如果有市场思维（是必须有），那么大概就是这个样子。其实他的产品和开源半毛钱关系没有，正如EasyStack的软文：&lt;a href=&#34;http://mini.eastday.com/a/160908193500873-4.html&#34;&gt;以为生来平等，其实IaaS早已“折叠”&lt;/a&gt; 中所称，你加入Linux基金会花点钱，和你自己拥有Linux kernel的定制能力有半毛钱关系？&lt;/p&gt;
-
-&lt;p&gt;市场、媒体这东西就是哗众取宠，哦，我的服务使用了容器，我就是破坏性创新了？和开源就扯上了关系。但是本文的作者哪些关于科技、创新、人道主义等的论述也是够打动人心的了。总而言之，是一个非常能扯的CEO，思维跳跃、没有逻辑性的阐述也是让人醉了。不过全文我就欣赏一句话：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Everything is moving toward open source because people want more control.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;google-是如何使用和贡献开源的:ffb3ae471848fef073b60d2b938d29ab&#34;&gt;Google 是如何使用和贡献开源的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/how-google-uses-and-contributes-open-source&#34;&gt;How Google Uses and Contributes to Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;尊重许可协议！ 他毕竟是别人的劳动成果。其实，软件给人有一个错觉，那就是它的复制成本为零！导致人们会忽略掉它的整个开放过程是有多困难！人类，绝大多数人类，往往关注的就只有表象。&lt;/p&gt;
-
-&lt;p&gt;2004年，Chris DiBona 加入Google ，成立了Google开源能力中心（暂时这么翻译），这是一个无比聪明的决定！也是用事实证明过的！&lt;/p&gt;
-
-&lt;p&gt;剩下的就是Google所发起的哪些不怎么开源的项目——Chrome、Android等，而并没有提到最近崛起的真正意义上的开源项目——kubernetes，以及一大堆关于许可证的解释。好吧，Google是一家商业公司，和Oracle的官司差点毁了整个产业链。还是小心为妙！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

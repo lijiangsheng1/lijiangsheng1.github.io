@@ -7,8 +7,66 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 09 Oct 2016 07:13:04 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Oct 2016 08:15:34 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.10)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.10%29/</link>
+      <pubDate>Mon, 10 Oct 2016 08:15:34 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.10%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:70c98af1259d95e46e24f2769569c7bc&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;在竞争中我们需转向平台的竞争:70c98af1259d95e46e24f2769569c7bc&#34;&gt;在竞争中我们需转向平台的竞争&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/gregsatell/2016/10/07/platforms-are-transforming-how-we-need-to-compete/#bfef25950167&#34;&gt;Here&amp;rsquo;s How Platforms Are Transforming How We Need To Compete&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文是&lt;a href=&#34;http://amzn.to/2cQ9cWy&#34;&gt;Mapping Innovation&lt;/a&gt;一书的书摘，作者论述了竞争的变化，开放与协作是当前竞争的主要策略，影响过去半个多世纪的 Michael Porter 的理论很难在新世纪站住脚跟。&lt;/p&gt;
+
+&lt;p&gt;关于开放，作者提到的Linux的成功，协作的力量，并以微软为例，对待Linux从敌对到拥抱，从而佐证平台的力量。&lt;/p&gt;
+
+&lt;p&gt;Bill Joy &lt;a href=&#34;https://en.wikipedia.org/wiki/Joy%27s_law_(management&#34;&gt;法则&lt;/a&gt;)：&lt;strong&gt;“no matter who you are, most of the smartest people work for someone else.”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-588616024.jpg?w=1294&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;一个去中心化的web将会为人们在线重注力量:70c98af1259d95e46e24f2769569c7bc&#34;&gt;一个去中心化的web将会为人们在线重注力量&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/10/09/a-decentralized-web-would-give-power-back-to-the-people-online/&#34;&gt;A decentralized web would give power back to the people online&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Google 发布了Duo，然而对于本文来说也只是一个引子罢了。&lt;/p&gt;
+
+&lt;p&gt;Web的发展超出了当年Tim Berners-Lee等人提出的样子。未来将会如何发展？竞争、重复劳动，那有如何？世界在往前走！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.unixstuff.net/images/fsf.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;31年前-自由软件基金会成立:70c98af1259d95e46e24f2769569c7bc&#34;&gt;31年前：自由软件基金会成立&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.techdirt.com/articles/20161007/09354035738/this-week-techdirt-history-october-2nd-8th.shtml&#34;&gt;Thirty-One Years Ago&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;1985年10月4日，自由软件基金会创立！ ** has been one of the driving forces and defining voices in the entire open source movement**&lt;/p&gt;
+
+&lt;p&gt;什么叫做改变世界？这就是！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.9)</title>
@@ -920,81 +978,6 @@
 &lt;p&gt;昨天在苏州参加中移（苏研）搞的OpenStack Meetup，和其中的一些活跃人士交流了一些想法：其中之一，就是开源该如何盈利？尤其是面对华为、中兴这样的打法（意指软件几乎免费）。这确实是一个大难题，谁都可以从开源中获益，比如中移本身是使用CentOS的大厂，宁愿去招几个Linux开发者，自己蒙起头来定制，也不会去购买红帽半分服务的。那么以这样的形态来说，如何拿定制的OpenStack向其他客户收费？将开源打造成产品，其中所扩展的部分仅占到开源上游的5%不到，就想收取过去微软、Oracle的许可证费用？这是一个典型的矛盾的想法。&lt;/p&gt;
 
 &lt;p&gt;在本土，非常的难以理解，没有任何的明文或规则可以学习，一切都是说不清、道不明。各种纠缠、各种借口。到底是什么在驱动着这个畸形的经济怪物，是超越我的理解的。归结到文化、习俗、制度、乃至人性的被教育，很是让人绝望！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.10)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.10%29/</link>
-      <pubDate>Sat, 10 Sep 2016 06:19:12 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.10%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:eab34dd8a9804f539e487536c029304f&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;新的研发模式-开源项目:eab34dd8a9804f539e487536c029304f&#34;&gt;新的研发模式－开源项目&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.ucstrategies.com/unified-communications-strategies-views/the-new-research-and-development-rd-model-open-source-projects.aspx&#34;&gt;The New Research and Development (R&amp;amp;D) Model - Open Source Projects&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;你永远会发现这个世界有爬行很慢、进化很慢的人，但是这就是人类，也是整个历史的真实情况。你究竟该如何适应这个世界？仔细想想你的道德感是哪里来的？为什么会觉得丢人？社会性这些东西从什么时候将你洗成现在这个样子？&lt;/p&gt;
-
-&lt;p&gt;此人虽然后知后觉，但是总算是明白了。以Linux为例，以及现在整个的基础设施圈，网络、云平台等等几乎都以开源为模式了。有个问题我没有明白：&lt;strong&gt;“The new R&amp;amp;D model is simple: use open source for 80% of the functionality needed for a product or service and then add 20% secret sauce that differentiate it from the other competitors. ”&lt;/strong&gt; 如果这20%是自己维护都话，代价是多大？这个人究竟是实践过来的？还是常见的思维方式。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://thenewstack.io/wp-content/uploads/2016/09/potatoes-1448405_640.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源分支的简短历史:eab34dd8a9804f539e487536c029304f&#34;&gt;开源分支的简短历史&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thenewstack.io/may-fork-short-history-open-source-forks/&#34;&gt;May the Fork Be with You: A Short History of Open Source Forks&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;原来Linus还说过这样的一段话：翻译出来：&lt;/p&gt;
-
-&lt;p&gt;每次有人将内核切出分支来，我都会想，分支是一件好事，它意味着某些人有自己的需求、以及有充分的理由去做一些现有内核不同的事情。但是绝大多数的分支都失败了，最终他们会发现他们所做的事情毫无意义，最后无疾而终。&lt;/p&gt;
-
-&lt;p&gt;本文的作者似乎是想佐证Docker分支某种程度上是可行的，因为有些项目是可以分支成功的。比下表：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;| 成功的分支 | 原生项目 |
-| &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; | &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;- |
-| Ubuntu| Debian  |
-| Oracle坚不可摧Linux |红帽企业Linux  |
-| CentOS |红帽企业Linux  |
-| OpenBSD | NetBSD |
-| LibreOffice | OpenOffice |
-| MariaDB | MySQL |
-| Jenkins | Hudson |
-| NextCloud | ownCloud |&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;分支是需要实力的！一流的工程师＋资源是必备条件。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;身份-我们最后立足的地方:eab34dd8a9804f539e487536c029304f&#34;&gt;身份：我们最后立足的地方&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.linuxjournal.com/content/identity-our-last-stand&#34;&gt;Identity: Our Last Stand&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;技术是为人来服务的，或者说技术是难以超越人类社会本身而独立存在，正如本文开始所言：Linux并非是真正的大集市，而是由无数个教堂搞出来的。&lt;/p&gt;
-
-&lt;p&gt;作者的意思，我是完全理解的，因为最近读福山的著作实在是感慨颇深，作为技术的终结目标，所有人平等和自由，那么该如何去做？在文中作了哲理性的分析，包括阿基米德的“给我一个支点，我可以撬起地球。”问题在于现实中的我们就是找不到这个支点。甚至是浮士德，将灵魂置换，最后依然要求自我。&lt;/p&gt;
-
-&lt;p&gt;** Making it ours, finally and absolutely, is the only way we secure our independence and liberty online. It is the only way the world&amp;rsquo;s economy becomes a true bazaar.**&lt;/p&gt;
-
-&lt;p&gt;非常深刻的文章。值得仔细阅读！深度阅读！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
