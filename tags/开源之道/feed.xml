@@ -7,8 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 11 Oct 2016 07:33:06 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 13 Oct 2016 07:36:56 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.13)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.13%29/</link>
+      <pubDate>Thu, 13 Oct 2016 07:36:56 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.13%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:9704e906e3567a2dfb6b1564257da4d5&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;红帽2017高峰会议开始召集演讲者了:9704e906e3567a2dfb6b1564257da4d5&#34;&gt;红帽2017高峰会议开始召集演讲者了&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.businesswire.com/news/home/20161011006135/en/Call-Proposals-Red-Hat-Summit-2017-Open&#34;&gt;Call for Proposals for Red Hat Summit 2017 Now Open&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;RedHat Summit 俨然成为了开源者的盛宴，甚至不亚于LinuxCon、OSCON等开源大会，成为了企业级采用开源的风向标。2016年举办的会议，参会人员达到了5500！我个人参加过的大会是东京的OpenStack summit，也不过5000人罢了。&lt;/p&gt;
+
+&lt;p&gt;背景：开源已经是企业选择的主流，开源是业界创新的动力引擎，在企业完成数字转变的过程中拥有举足轻重的作用，&lt;strong&gt;Open source methodologies are changing how work gets done and inspiring new forms of collaboration.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;看看2017年的分类：Linux 即RHEL哪里去了？Middleware哪里去了？世界是否变得陌生？要应对变化！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_darwincloud_520x292_0311LL.png?itok=5yWIaEDe&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;认识一下为openstack做出贡献的活跃用户:9704e906e3567a2dfb6b1564257da4d5&#34;&gt;认识一下为OpenStack做出贡献的活跃用户&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/10/interview-maish-saidel-keesing-openstack-summit&#34;&gt;Recognizing active user contributors to OpenStack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我自己曾经是OpenStack的活跃用户，即AUC（Active User Contributor.）所以知道这些都是真的。&lt;/p&gt;
+
+&lt;p&gt;一个社区犹如一个虚拟的、完美的、小型的社会，所以需要各种各样的规则，尤其是激励方式，因为社区存在的目的是让要生产的内容（如软件）更加的完满，尤其是在没有任何金钱激励的情况下，公平、透明、清晰明了的规则、可见的晋级制度等等，一个都不能少。&lt;/p&gt;
+
+&lt;p&gt;为开源社区做贡献，绝不仅仅是贡献代码！比如做测试、维护基础设施、撰写文档、组织社区活动、提供反馈等等，完善等生态系统，不仅仅是代码，而是围绕代码这个核心形成完善的闭合的生态！加油吧，少年！永远的AUC！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;at-t-将在2017年第一季度开源其软件定义网络的平台ecomp:9704e906e3567a2dfb6b1564257da4d5&#34;&gt;AT&amp;amp;T 将在2017年第一季度开源其软件定义网络的平台ECOMP&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://finance.yahoo.com/news/t-t-unveil-ecomp-open-122212392.html&#34;&gt;AT&amp;amp;T (T) to Unveil ECOMP in Open Source Industry in 1Q17&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;为什么要提前说要开源某个项目？AT&amp;amp;T 背后究竟是如何思考的？&lt;/p&gt;
+
+&lt;p&gt;软件定义网络，网络功能虚拟化，都是电信级巨头们思考的方向，具体的实施、标准，依旧是一片竞争。AT&amp;amp;T 这次选择的开源，毋宁说是开放的合作模式。比较谨慎！&lt;/p&gt;
+
+&lt;p&gt;世界所定义的哪些规则，从来就不是按照你自己的愿望来的。妥协、争取似乎是这个世界的运转方式，偶尔出现的独裁者，绝大多数会被灭亡！开放、参与、共赢、共生。the better world.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.11)</title>
@@ -913,68 +973,6 @@
 &lt;p&gt;本文开始就说，开源侵蚀了网络的所有层面：控制平面、数据平面、编排、OSS/BSS层。然后开始说明华为不想错过任何能够脱颖而出的机会：在全球分布的员工加入到开源开发中、成立两个专门的部门： the Open Source and Industry Executive Council and the Open Source and Industry Technical Council。&lt;/p&gt;
 
 &lt;p&gt;华为在开源方面，尤其是在本土，研究的还是很不错的。在利益与开源之间做的平衡很不错。正如在本土研究民主，只是为了更好的驭民而已，华为本质上的做法是如此，因为可以赚到钱，可以掩盖一切道德上说不过去的事情，正所谓：笑贫不笑娼 。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.11)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.11%29/</link>
-      <pubDate>Sun, 11 Sep 2016 12:23:25 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.11%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:157133766980b208c0163c43a4f32cce&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;从google-到联合国-perth-到-moodle正在撼动世界:157133766980b208c0163c43a4f32cce&#34;&gt;从Google 到联合国，Perth 到 Moodle正在撼动世界&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://au.news.yahoo.com/thewest/wa/a/32578920/from-google-to-the-un-perth-s-moodle-is-making-waves/#page1&#34;&gt;From Google to the UN, Perth’s Moodle is making waves&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Moodle，它是一个非常计算机的几个单词的首字母，即“modular, object-orientated, dynamic learning environment”，意即“模块化、面向对象的，动态的学习环境”，是一款开源的平台，也是商业模式非常成功的典范，尽管他的初衷并非是商业化：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://s.yimg.com/ea/img/-/160909/57d287ab321d4_b88240442z.1_20160909175101_000_gg9mgj9k.2_1-1bt51tb.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;现在已经有232个国家在使用Moodle了。我相信本土一定有，只是又在走“中国特色”，不理世界秩序，搞自娱自乐式的“独角兽”游戏罢了。&lt;/p&gt;
-
-&lt;p&gt;看看发起者的情怀吧，这才是我们应该有的：&lt;strong&gt;“The business supports the mission,It’s about education and it’s about openess and supporting humanity —the business is to just drive that.In this life if you aren’t doing something that you really believe in well you’re wasting your time. If you don’t have a really good reason for working, you should probably find another job, so for me that’s what drives us, we’re here to empower teachers to do what they want to teach, to pass on that knowledge and improve humanity.”&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;为什么说-kubernetes-正在赢得容器的战争:157133766980b208c0163c43a4f32cce&#34;&gt;为什么说 Kubernetes 正在赢得容器的战争&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/07/war-battle-container-battle-100598468-primary.idge.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3118345/cloud-computing/why-kubernetes-is-winning-the-container-war.html&#34;&gt;Why Kubernetes is winning the container war&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;理由虽然辩驳的不能让我信服，但是却可以误导大部分不明觉厉的年轻人了，因为所举的内容都是大众所趋：github的星星数量、OpenHub的哪些图形显示之类的。甚至动不动就搬出这是Google15年来的工程经验总结。也就是说，并没有技术性的对比，比如针对某些应用场景，Kubernetes有何性能和功能上的优势；又比如在和现有开源的生态系统中，上下游的整合，如分布式存储、SDN等等；乃至对于开发人员的友好性等。&lt;/p&gt;
-
-&lt;p&gt;我过去经常被这些东西所误导，也经常在很多人提出来之后无法辩驳，现在学会了慢下来，仔细的思考，然后再比对，最后形成自己的观点和决策。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;如何从开源平台中赚钱系列之三-创建一款产品:157133766980b208c0163c43a4f32cce&#34;&gt;如何从开源平台中赚钱系列之三：创建一款产品&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/how-make-money-open-source-platforms-part-3-creating-product&#34;&gt;How to Make Money from Open Source Platforms, Part 3: Creating a Product&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是我一直以来都在思考的问题，关于文中的内容，我就不愿意多说了，请自便。我只想说说本土的情形。&lt;/p&gt;
-
-&lt;p&gt;昨天在苏州参加中移（苏研）搞的OpenStack Meetup，和其中的一些活跃人士交流了一些想法：其中之一，就是开源该如何盈利？尤其是面对华为、中兴这样的打法（意指软件几乎免费）。这确实是一个大难题，谁都可以从开源中获益，比如中移本身是使用CentOS的大厂，宁愿去招几个Linux开发者，自己蒙起头来定制，也不会去购买红帽半分服务的。那么以这样的形态来说，如何拿定制的OpenStack向其他客户收费？将开源打造成产品，其中所扩展的部分仅占到开源上游的5%不到，就想收取过去微软、Oracle的许可证费用？这是一个典型的矛盾的想法。&lt;/p&gt;
-
-&lt;p&gt;在本土，非常的难以理解，没有任何的明文或规则可以学习，一切都是说不清、道不明。各种纠缠、各种借口。到底是什么在驱动着这个畸形的经济怪物，是超越我的理解的。归结到文化、习俗、制度、乃至人性的被教育，很是让人绝望！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
