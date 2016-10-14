@@ -7,8 +7,86 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 13 Oct 2016 07:36:56 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Oct 2016 07:08:59 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.14)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.14%29/</link>
+      <pubDate>Fri, 14 Oct 2016 07:08:59 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.14%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:aae34f90ac3ec59d713f46b8cfdefb6c&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://fedscoop.com/events/redhatgov/2016/images/RedHat-Header.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;红帽将举办2016政府研讨会:aae34f90ac3ec59d713f46b8cfdefb6c&#34;&gt;红帽将举办2016政府研讨会&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://finance.yahoo.com/news/2016-red-hat-government-symposium-120000006.html&#34;&gt;2016 Red Hat Government Symposium to Highlight Open Source&amp;rsquo;s Role in Government Digital Transformation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;具体安排见&lt;a href=&#34;http://fedscoop.com/events/redhatgov/2016/&#34;&gt;Fedscoop&lt;/a&gt;，可谓是整容强大，合作伙伴／赞助商也是大佬齐聚。&lt;/p&gt;
+
+&lt;p&gt;如此这般，开源该怎么玩？红帽的商业越成功，似乎其它的开源模式就越被它所笼罩。开源的本质是什么？企业如何从开源中获益？&lt;/p&gt;
+
+&lt;p&gt;另外：数字转换，也就是移动互联网、IoT的发展，会倒逼着企业、政府来完成云计算的基础设施变更。耐心的等待吧，深呼吸！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-source-funding.jpg?itok=plRWGQfv&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何为开源项目找到资金:aae34f90ac3ec59d713f46b8cfdefb6c&#34;&gt;如何为开源项目找到资金&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/how-find-funding-open-source-project&#34;&gt;How to Find Funding for an Open Source Project&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;从一开始开源，就找到资金的项目就有很多，比如做VR穿戴的&lt;a href=&#34;https://www.oculus.com/&#34;&gt;Oculus Rift&lt;/a&gt;、或者是作智能手表的&lt;a href=&#34;https://getpebble.com/&#34;&gt;Pebble&lt;/a&gt;、以及大名鼎鼎的树莓派，均有几百万美元的资金投入。那么作为要做开源项目的你，从哪里可能会拿到资金了呢？如下：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mozilla’s MOSS Program&lt;/li&gt;
+&lt;li&gt;The Linux Foundation （这个是不是有点没有想到？）&lt;/li&gt;
+&lt;li&gt;众筹和寻求资助&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;总而言之，不要气馁，只要自己觉得项目有意义，一定是可以找到识“货”的人的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;github上为程序员提供的7个高效工具:aae34f90ac3ec59d713f46b8cfdefb6c&#34;&gt;GitHub上为程序员提供的7个高效工具&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3130986/application-development/githubs-7-top-productivity-tools-for-programmers.html&#34;&gt;GitHub&amp;rsquo;s 7 top productivity tools for programmers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;By developer,For developer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/robbyrussell/oh-my-zsh&#34;&gt;Oh My Zsh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ggreer/the_silver_searcher&#34;&gt;The Silver Search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sindresorhus/quick-look-plugins&#34;&gt;Quick look plugins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ShareX/ShareX&#34;&gt;ShareX&lt;/a&gt; (这个也算？截图工具)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Homebrew&#34;&gt;Homebrew&lt;/a&gt; 好项目，我也在用。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/defunkt/dotjs&#34;&gt;Dotjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/skywinder/github-changelog-generator&#34;&gt;GitHub changelog generator&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;看完这7个，发现了什么？我已经是一个老程序员了，我依然停留在Emacs和vim的插件的年代！现在人际都要截图、js化、前段化、移动手机化&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.13)</title>
@@ -892,85 +970,6 @@
 &lt;p&gt;本文的作者对于开源也是处于狂热期，很多方法论方面的都是引用的，但引用的是蛮好的，比如这篇论文：&lt;a href=&#34;http://link.springer.com/chapter/10.1007/978-3-319-17837-0_13#page-1&#34;&gt;First Results About Motivation and Impact of License Changes in Open Source Projects&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;利用文中的一个段落总结一下：&lt;strong&gt;“Gaining a competitive edge with OSS”&lt;/strong&gt;，这才是未来！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.14)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.14%29/</link>
-      <pubDate>Wed, 14 Sep 2016 06:24:36 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.14%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:7604be94c9e4bc8ce466882efec4e17f&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://about.gitlab.com/images/press/logo/wm.svg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;这家创业公司意图简化企业的软件开发:7604be94c9e4bc8ce466882efec4e17f&#34;&gt;这家创业公司意图简化企业的软件开发&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/09/13/gitlab-seriesb/&#34;&gt;This Startup Wants to Simplify Corporate Software Development&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;做GitLab的这家公司进行了B轮融资，拿到2千万美金。从本文可以获得的信息：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;这是一家毕业于YC的创业公司，在创业之前，两位联合创始人从来都不认识。&lt;/li&gt;
-&lt;li&gt;GitLab的客户有alibaba、IBM、CERN等拥有众多开发者的公司&lt;/li&gt;
-&lt;li&gt;GitLab 的目标客户就是超过100个开发者的公司&lt;/li&gt;
-&lt;li&gt;GitLab 的商业模式是 open core ＋ add value的模式？&lt;/li&gt;
-&lt;li&gt;GitHub 的私有版，这么认为的话，GitHub 作为主流的影响还是很大的。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这就是Inner Source 的意义所在，无论再怎么宣扬，最后终归是要落实的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_creativity.png?itok=x2HTRKVW&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;公司开设开源能力中心的四大好处:7604be94c9e4bc8ce466882efec4e17f&#34;&gt;公司开设开源能力中心的四大好处&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/9/4-big-ways-companies-benefit-having-open-source-program-offices&#34;&gt;4 big ways companies benefit from having open source program offices&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这个世界需要鼓吹者、布道师嘛？非常、非常的需要，尽管这些都是经验而不是创新，这是世界创新者少、而随大流者多。有好的经验当然要学习了。想想本土，确实是需要很多布道师去多讲、多写的。比如乐视这样的公司，其实对于开源来说，利用的多，浪费的多，而贡献的少。对公司的资源本身来说，是一种巨大的浪费，虽然中国号称是不缺人，但是谁都知道，知识经济，人海战术那套东西不管用了。（话说，人海战术什么时候管用过？全是负面的。）但是，这些信息怎么能到他们的决策层了呢？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;四大好处：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;雇佣人才&lt;/li&gt;
-&lt;li&gt;技术影响力&lt;/li&gt;
-&lt;li&gt;市场力量&lt;/li&gt;
-&lt;li&gt;改进内部流程&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;知识经济，就是对人才的高地占领！无他！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.wired.com/wp-content/uploads/2016/08/GettyImages-497452707-open-s2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;在开源软件中每位都是赢家:7604be94c9e4bc8ce466882efec4e17f&#34;&gt;在开源软件中每位都是赢家&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/everyone-wins-open-source-software&#34;&gt;Everyone Wins With Open Source Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Cloud Foundry 基金会在最近举行的ApacheCon上的Keynote演讲，传统的软硬件厂商是零和游戏，而开源软件则是&lt;strong&gt;positive-sum game&lt;/strong&gt;,即： the more contributors there are to the common good, the more good there is for everyone.&lt;/p&gt;
-
-&lt;p&gt;时代在变迁，古老的法则应该被修改，软件撰写困难，复制容易的特性，是该改变一下规则了。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
