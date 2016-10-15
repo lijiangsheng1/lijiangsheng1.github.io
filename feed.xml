@@ -7,8 +7,74 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 14 Oct 2016 07:08:59 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Oct 2016 07:58:22 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.15)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.15%29/</link>
+      <pubDate>Sat, 15 Oct 2016 07:58:22 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.15%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:ba22c41ff9edafbe2daed83535d77320&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;apple-将开放其在日本的研发中心:ba22c41ff9edafbe2daed83535d77320&#34;&gt;Apple 将开放其在日本的研发中心&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/10/14/apple-will-open-another-rd-center-in-japan/&#34;&gt;Apple will open another R&amp;amp;D center in Japan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这样的词汇我们不知道该如何理解。世人对待Apple近乎于痴迷、崇拜。Apple的生意确实仍然火爆！那么其神秘的开发团队又是什么样子？该是什么样子？&lt;/p&gt;
+
+&lt;p&gt;日本、深圳等美国本土之外的研发中心开放究竟是何意思？和开源有多大关系？Apple是构建在开源软件之上的！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;对于openstack-的面临的挑战-看专家怎么说:ba22c41ff9edafbe2daed83535d77320&#34;&gt;对于OpenStack 的面临的挑战，看专家怎么说&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://searchservervirtualization.techtarget.com/tip/Experts-insight-on-overcoming-OpenStack-challenges&#34;&gt;Expert&amp;rsquo;s insight on overcoming OpenStack challenges&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;OpenStack 的峰会再过2周就要开始了，西班牙的巴塞罗纳，人们又开始为OpenStack 造势了，于是各个媒体、社区都在谈论着OpenStack，新版本有何特性？使用者怎么看？开发者是否有多了起来？&lt;/p&gt;
+
+&lt;p&gt;话说 OpenStack面临的最大挑战是什么？就本土来说，我发表一点意见：本土其实开源的生意不好做，大约有几个误区：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;人力成本偏低。宁愿自己招聘人去研究。&lt;/li&gt;
+&lt;li&gt;时间成本承受得起。&lt;/li&gt;
+&lt;li&gt;业务本身没有太多的需求。&lt;/li&gt;
+&lt;li&gt;对于云计算的多数仍然停留在虚拟化阶段。&lt;/li&gt;
+&lt;li&gt;对于供应商的商业模式依然停留在兜售光盘阶段，即产品阶段。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;在本土，OpenStack 的实施并非是技术问题，而是文化、认识、业务需求的问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;白宫鼓励本地政府使用聊天机器人:ba22c41ff9edafbe2daed83535d77320&#34;&gt;白宫鼓励本地政府使用聊天机器人&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.engadget.com/2016/10/14/white-house-releases-its-fb-bot-to-the-world-as-open-source/&#34;&gt;White House encourages local governments to embrace chatbots&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;民主国家的沟通渠道，充分的利用了技术。于是社交平台Facebook（被本土封禁的和遗忘的网站）成了其一个有效的通道。甚至将其Facebook 的机器人开源了，让任何人都可以使用它。&lt;/p&gt;
+
+&lt;p&gt;开源！究竟能走多远？对于人类究竟是好还是坏？&lt;/p&gt;
+
+&lt;p&gt;似乎任何关于道德、自由的东西，都有可能被政治利用。利用有两面。本土的只有搅和。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.14)</title>
@@ -914,68 +980,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;嗯，多数内容已经超出我的理解范围。为什么会有包管理？JSON支持是个蛮好的特性。那么Lambda不是函数式编程语言的功能吗？关编辑器什么事？需要我去慢慢的请教高手，或者是自己又可能用得着。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.19)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.19%29/</link>
-      <pubDate>Mon, 19 Sep 2016 06:50:42 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.19%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:ca90eaf047eb35544f8aac247c76c614&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;什么是云原生应用:ca90eaf047eb35544f8aac247c76c614&#34;&gt;什么是云原生应用？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerweekly.com/blog/Open-Source-Insider/What-is-cloud-native-computing&#34;&gt;What is cloud native computing?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;云原生计算基金会（CNCF）正在逐渐的成长！这不今年11月份要开始开CNCFCon大会了，联合举办的还有KubeCon和PrometheusDay。很是让人陶醉。相比于Linux基金会下如此的组织，比国内的每个厂商的市场活动强太多了。&lt;/p&gt;
-
-&lt;p&gt;central orchestration processing ，是今年的主题。云原生，Each microservice is packaged into its own container。嗯，如此的话，世界将变得更加美好！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://i0.wp.com/thewire.in/wp-content/uploads/2016/09/LinuxKernel.png?w=718&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;印度对待开源软件的冷淡态度需要转变:ca90eaf047eb35544f8aac247c76c614&#34;&gt;印度对待开源软件的冷淡态度需要转变&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thewire.in/66792/softwarefreedom-indias-lukewarm-relationship-with-foss-needs-to-change/&#34;&gt;#SoftwareFreedom: India’s Lukewarm Relationship with FOSS Needs to Change&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;任何以国家为单位的，都会有倾向于将自己强大起来的诉求。这不在自由软件日，印度的布道师开始数论自己的国家应该在教育和政府领域倡导自由软件。作者尝试从各种角度来阐释自由软件对于印度的意义，印度拥有仅次于中国的人口。其实大部分说服力不强，词不达意。我看出来的却是一个拥有国防思维的家伙：&lt;/p&gt;
-
-&lt;p&gt;大部分的软件都是由美国、澳大利亚、西欧开发的。甚至中国都开发自由软件的操作系统NeoKylin。&lt;/p&gt;
-
-&lt;p&gt;大多数时候，这篇文章中的India替换为china，照样成立。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://fossbytes.com/wp-content/uploads/2016/09/MICROSOFT-LOVES-LINUX-CONSPIRACY-CONTROVERSY.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;微软和linux-一首愤怒和鼠辈之歌:ca90eaf047eb35544f8aac247c76c614&#34;&gt;微软和Linux —— 一首愤怒和鼠辈之歌&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://fossbytes.com/microsoft-and-linux-a-song-of-mice-and-ire/&#34;&gt;Microsoft And Linux — A Song Of Mice And Ire&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我喜欢作者的思维方式：&lt;strong&gt;In order to understand the history of computing we need to go back to somewhere near the beginning.&lt;/strong&gt; 寻找事情的真相，就得尽可能找到它的源头，而不是仅仅看眼前的苟且。当然，很多人并不在乎历史，这大概才是最为可悲的事情。&lt;/p&gt;
-
-&lt;p&gt;权力的游戏这部电视剧，我没有看过，据说颇适合国人的口味。最近我读福山，明白人要活下去，必须采取各种手段去赢得竞争对手，然后由赢家来撰写历史。这让我一再的开始怀疑道德的作用，以及是如何套在我头上的，我为什么是个原教旨主义者？为什么对各种规范的犯规者恨之入骨？我能维护什么？&lt;/p&gt;
-
-&lt;p&gt;嗯，一部讲解操作系统的历史！以较短的方式来述说，最后说明微软并不是真心的爱Linux，而是那句经典的背叛者语录：“if you can’t beat them, join them！” 作者并不看好商业上的那些宣传。更在乎本质。在这一点上，作者可能犯的错误和我是一样的。&lt;/p&gt;
-
-&lt;p&gt;究竟让世界变得更加美好的方式是什么？坚守一些被人们抛弃的事物？&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
