@@ -7,8 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 15 Oct 2016 07:58:22 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2016 08:12:17 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.16)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.16%29/</link>
+      <pubDate>Sun, 16 Oct 2016 08:12:17 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.16%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:f1ca2da430706568c61cff603155430d&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i2.wp.com/www.studentnewspaper.org/wp-content/uploads/2016/10/arch.jpg?zoom=2&amp;amp;resize=938%2C535&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源架构的特色文化-没有版权-没有专利:f1ca2da430706568c61cff603155430d&#34;&gt;开源架构的特色文化：没有版权、没有专利&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.studentnewspaper.org/the-culture-of-open-source-architecture-no-copyrights-no-patents/&#34;&gt;The culture of open source architecture: No copyrights, no patents&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;不要被文章的标题吓坏了，这个时代就是这样，大家为了标题吸引眼球，各种极端的言辞都有可能暴露出来，比如InfoQ的“雅虎开源其色情图片检测神经网络”，这篇文章也一样，就是个标题党。为了让人们对下去而已。&lt;/p&gt;
+
+&lt;p&gt;作者先是帮助读者回顾了一下开源的历史，然后引出了开放式设计和开源硬件。然后，然后就不知所云了。和你预想的标题有了太大的出入，说好的版权、专利都哪里去了？论据呢？仅仅是介绍下开源硬件？&lt;/p&gt;
+
+&lt;p&gt;读类似的文章会很是不爽，有种被骗的感觉！要将其视为反例。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.15)</title>
@@ -905,81 +937,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;看完这篇文章，我只能说李浩源不了解中国，回来两天，被一些表面的假象所迷惑。相信假以时日，定会了解真相，希望不要将市场过度的往国内倾斜，否则会死的很难看，那可真叫可惜。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.20)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.20%29/</link>
-      <pubDate>Tue, 20 Sep 2016 06:29:52 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.20%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:c23c83994c9ccd1eba563a9438a6d3a4&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://tr4.cbsistatic.com/hub/i/r/2016/09/19/d82d0017-905e-4908-94a6-8241d1343dae/resize/620x/530381ea4d96393c5bd77306419f67a4/storage.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;为什么说你的下一代存储会依赖于区块链:c23c83994c9ccd1eba563a9438a6d3a4&#34;&gt;为什么说你的下一代存储会依赖于区块链&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-your-next-storage-solution-may-depend-on-blockchain/&#34;&gt;Why your next storage solution may depend on blockchain&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;又见对象存储，一项技术和某些热点扯上关系，就会产生话题，大约就能达到某些市场的效应。让我们先记下这家公司：&lt;a href=&#34;https://github.com/Storj/&#34;&gt;Storj&lt;/a&gt;，将P2P的区块链技术整合到对象存储中，解决重要的安全问题。委实是不错的创新。&lt;/p&gt;
-
-&lt;p&gt;来看下文章的结语：“ I suspect we won&amp;rsquo;t see mass adoption, however, until one of the big cloud providers joins the blockchain storage market, perhaps by acquiring Storj.” 收购，Mirantis近日收购了TCP cloud，要么是R&amp;amp;D模式，要么是M&amp;amp;A模式，总之是要在激烈的竞争中脱颖而出，而不是将精力耗在政治权力上。这是一个重要的文化现象。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/09/linus-dirk-hohndel-100683306-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;官方的证实-linux第一个版本的发布时间是1991年9月17日:c23c83994c9ccd1eba563a9438a6d3a4&#34;&gt;官方的证实，Linux第一个版本的发布时间是1991年9月17日&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3121811/linux/it-s-official-linux-was-released-on-september-17-1991.html&#34;&gt;It’s official, Linux was released on September 17, 1991&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文蛮有意思，Linus就是一逗逼，0.01的Linux和相关的email，他给弄丢了。好吧，还是有人按照时间戳找到了（这个不是很容易造假吗？），本文还有几个有意思的故事：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Linux这个名称是Linus的室友命名的，因为他不喜欢linus所命名的：FREAKX ，即&lt;strong&gt;‘Freaks’ - a mix of ‘free’, ‘ freak’ and UNIX&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;最开始的版本使用的协议并非是GPLv2&lt;/li&gt;
-&lt;li&gt;Linus后来坦承，Linux之所以成功的一个关键就是使用了GPLv2&lt;/li&gt;
-&lt;li&gt;Linux 的成功，吸引了很多后来的企业。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;关于最后作者举的例子，正好有OpenStack的一个同行发表了一个感慨，也是一个同行，在即将举办的巴塞罗那 OpenStack Summit会议上，有人利用AI热点成功的申请到了一个演讲的Topic，即使用OpenStack来搭建Google tensor flow。本文有相类似的影子。开源的项目日见增多。AI的战场，Google打响了这场战争，首当其冲的就是开源！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;十年磨一剑-开源编辑器-vim-8-0-释出:c23c83994c9ccd1eba563a9438a6d3a4&#34;&gt;十年磨一剑，开源编辑器 Vim 8.0 释出&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://news.softpedia.com/news/after-ten-years-vim-vi-improved-8-0-open-source-text-editor-is-here-508447.shtml&#34;&gt;After Ten Years, Vim (Vi IMproved) 8.0 Open-Source Text Editor Is Here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;是的，Vim7.3使用了太多年了，话说我也跟个时髦，来贴个新闻。一个编辑器要这么多特性，用得着吗？我很少用，大约是编码越来越少的缘故：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;异步I/O支持&lt;/li&gt;
-&lt;li&gt;支持频道&lt;/li&gt;
-&lt;li&gt;JSON 支持&lt;/li&gt;
-&lt;li&gt;可通过时间戳来合并viminfo&lt;/li&gt;
-&lt;li&gt;支持jobs、timers、closures、 partials、packages、以及 lambdas。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，多数内容已经超出我的理解范围。为什么会有包管理？JSON支持是个蛮好的特性。那么Lambda不是函数式编程语言的功能吗？关编辑器什么事？需要我去慢慢的请教高手，或者是自己又可能用得着。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
