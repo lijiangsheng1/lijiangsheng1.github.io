@@ -7,8 +7,72 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 16 Oct 2016 08:12:17 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2016 07:35:13 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.17)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.17%29/</link>
+      <pubDate>Mon, 17 Oct 2016 07:35:13 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.17%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.enterpriselinuxinsights.com/wp-content/uploads/2016/07/LinuxCON-Berlin-2016.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;回顾-linuxcon-2016:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;回顾 LinuxCon 2016&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.irishdev.com/Home/News/1898-LinuxCon--Review.html&#34;&gt;LinuxCon 2016 Review&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;LinuxCon ，没错，就是哪个从来没有来过中国的Linux内核大会。具体为什么来不了中国，原因不得而知。&lt;/p&gt;
+
+&lt;p&gt;LinuxCon 2016 欧洲区，今年在柏林举行，“大牌“”云集，本篇文章介绍的是Keynote，所以尽是企业高管，不是VP，就是老总。一来阐述业界趋势，二来声称自己处于领先。要么就是Linux基金会下面的托管项目的宣传。比如如火如荼的区块链。&lt;/p&gt;
+
+&lt;p&gt;商业氛围浓烈，但是Linux基金会仍然是一家非营利组织。颇受各个厂家和个人的信任。本土怎么能够出现这么一个组织？为何引不进中国？这大概是每一个布道开源的人的疑惑。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;红帽公司-为何-rht-股票可以上升40:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;红帽公司：为何 RHT 股票可以上升40%&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.profitconfidential.com/stock/red-hat-inc-why-rht-stock-can-pop-40-percent/&#34;&gt;Red Hat Inc: Why RHT Stock Can Pop 40%&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;答案是红帽赢得了用户的信任！其是最具创新力的公司之一。&lt;/p&gt;
+
+&lt;p&gt;红帽的商业模式，是针对开源领域的基础设施，如操作系统、中间件、IaaS云平台、Paas云平台、容器化等等的订阅，几十年始终如一，终于开始突破，连续多年保持盈利、保持增长！&lt;/p&gt;
+
+&lt;p&gt;另外就是其对于开源人才的战略，可谓是高瞻远瞩！独特的文化，吸引了一大批的优秀人才！&lt;/p&gt;
+
+&lt;p&gt;嗯，开源本身并非是商业模式，你必须基于这样一个事物和现象，发展间接的盈利模式。但是请不要像本土的那些个公司，以开源之名，行商业手段，低估国人的智商，他们又能走多远？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://itbrief.co.nz/media/cache/2f/c4/2fc44cae6ba0caff448d00b096249c8a.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;快速的数据分析需要快速的治理:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;快速的数据分析需要快速的治理&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://itbrief.co.nz/story/fast-data-analytics-requires-even-faster-governance/&#34;&gt;Fast data analytics requires even faster governance&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;提到数据分析，我们一下子就想到了大数据，想到大数据，就会想到生态系统完善的Hadoop！&lt;/p&gt;
+
+&lt;p&gt;这大概就是开源的力量，尽管Hadoop来自于Google的MapReduce论文，但是由于开源，构建了超越原始出处的完善的生态链。&lt;/p&gt;
+
+&lt;p&gt;但是在实践中，仍然需要进行适当的定制，甚至正如本文所论证的，反过来，要求企业在管理和流畅，乃至人才提出一些个适应大数据分析的要求。IT系统和人类组织相互影响，乃常态也。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.16)</title>
@@ -862,81 +926,6 @@
 &lt;p&gt;GitHub 正在努力塑造自己的品牌形象，不想因为开源与否而被一些人抓着把柄。其中关于开源和闭源的参与的比喻：open-source is like volunteering, right? Closed source is like going to work, right? 关于回报前者是经验与名誉，后者是报酬。这是绝大多数人使用的办法。&lt;/p&gt;
 
 &lt;p&gt;然而文章又以GitHub CEO 的一句话结尾：“Open source isn’t just about libraries. It’s about people making a real difference in the world.” 嗯，写这样的文章非常的困难。说开源好，但是就是自己不开源。难为作者了。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.22)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.22%29/</link>
-      <pubDate>Thu, 22 Sep 2016 07:02:17 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.22%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:0715cc8f030df50e4edd870f5b3be946&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;oracle-cto-拉里埃里森直言不讳抨击aws:0715cc8f030df50e4edd870f5b3be946&#34;&gt;Oracle CTO 拉里埃里森直言不讳抨击AWS&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/oracles-larry-ellison-throws-punches-at-aws/&#34;&gt;Oracle&amp;rsquo;s Larry Ellison throws punches at AWS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;有一句话让人啼笑皆非：Oracle并不像AWS那样，应为Oracle是开源的。就是因为这句话，我将之纳入了我的晨读文章。&lt;/p&gt;
-
-&lt;p&gt;不过看Oracle直接和AWS撕逼也是蛮有意思的。不知道AWS以后会不会放弃支持Oracle DB。这只能说明一个问题AWS所提供的各种DBaaS正在蚕食Oracle的传统市场！也就是说，用户使用AWS，很多原来使用Oracle的地方都替换成为：“Aurora、Redshift、DynamoDB”，&lt;/p&gt;
-
-&lt;p&gt;那么我又开始质疑国内的市场，为什么我接触到的都是将IaaS当虚拟化，没有人将问题聚焦到应用层。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;infoworld-发布2016最佳开源项目奖:0715cc8f030df50e4edd870f5b3be946&#34;&gt;InfoWorld 发布2016最佳开源项目奖&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/infoworld-announces-the-2016-best-of-open-source-software-awards-2160365.htm&#34;&gt;InfoWorld Announces the 2016 Best of Open Source Software Awards&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，2016开源项目遍地开花，让人眼花缭乱！InfoWorld这次分了几个类，分别是：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;应用开发&lt;/li&gt;
-&lt;li&gt;应用&lt;/li&gt;
-&lt;li&gt;大数据&lt;/li&gt;
-&lt;li&gt;数据中心和云计算&lt;/li&gt;
-&lt;li&gt;网络及安全&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;尽管绝大多数我不认识，正如我所掌握的知识，在业内根本不算什么。那么我就数数我听说过的得奖的开源项目：Angular、Bootstrap、GitLab、R、Swift、TensorFlow、LibreOffice、Kafka、Kylin、Spark、Ansible、Atomic Host、CoreOS、Docker、Etcd、Kubernetes、Mesos、Nginx、Ubuntu Server。20/72 ，对于网络和安全那部分是一个都没有听说过。还有一个就是开源依然占据基础设施！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://tr1.cbsistatic.com/hub/i/r/2016/09/19/f3e5be69-7a76-48c1-bfb1-13607d2868b4/resize/620x/4c28d21b7c171cd94561b11afbe7832b/china.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;为什么说中国是下一个开源软件的试验场:0715cc8f030df50e4edd870f5b3be946&#34;&gt;为什么说中国是下一个开源软件的试验场&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-china-is-the-next-proving-ground-for-open-source-software/&#34;&gt;Why China is the next proving ground for open source software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;西方的软件创业公司通常是不会care中国的市场的，因为中国这块市场实在是太烂了。没有人掏钱给你，尤其是你的软件是开源的时候。那么李浩源做到了吗？Techrepublic的这篇文章旨在告诉西方，中国准备好为开源付费了？无异于痴人说梦，你荣归故里可以，戴上MIT博士的光环，以开源的方式创业，但是你想赚到钱，以我对国内情形的了解，不抱任何的希望。不过本文反过来，让我了解一下国内的开源状况，能够得到的信息有：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.alluxio.org/&#34;&gt;Alluxio&lt;/a&gt;这家公司蛮厉害的，看CSDN的一篇报道：&lt;a href=&#34;http://geek.csdn.net/news/detail/101312&#34;&gt;Alluxio中国行（一）开源分布式存储系统Alluxio的历史、现状和未来&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;百度开源的那个机器学习项目，佐证了China is not merely consuming the West&amp;rsquo;s best software: It&amp;rsquo;s open sourcing its own？ （我表示怀疑）&lt;/li&gt;
-&lt;li&gt;谁在相信China&amp;rsquo;s Ministry of Industry and Information Technology (MIIT) 这些部门的话，那一定是不了解中国。这些部门什么都不做，就是要政绩。&lt;/li&gt;
-&lt;li&gt;一号专车使用MongoDB这个案例是蛮经典的。但是一号专车绝对是例外。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;看完这篇文章，我只能说李浩源不了解中国，回来两天，被一些表面的假象所迷惑。相信假以时日，定会了解真相，希望不要将市场过度的往国内倾斜，否则会死的很难看，那可真叫可惜。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

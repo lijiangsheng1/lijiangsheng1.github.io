@@ -7,8 +7,72 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 16 Oct 2016 08:12:17 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2016 07:35:13 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.17)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.17%29/</link>
+      <pubDate>Mon, 17 Oct 2016 07:35:13 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.17%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.enterpriselinuxinsights.com/wp-content/uploads/2016/07/LinuxCON-Berlin-2016.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;回顾-linuxcon-2016:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;回顾 LinuxCon 2016&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.irishdev.com/Home/News/1898-LinuxCon--Review.html&#34;&gt;LinuxCon 2016 Review&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;LinuxCon ，没错，就是哪个从来没有来过中国的Linux内核大会。具体为什么来不了中国，原因不得而知。&lt;/p&gt;
+
+&lt;p&gt;LinuxCon 2016 欧洲区，今年在柏林举行，“大牌“”云集，本篇文章介绍的是Keynote，所以尽是企业高管，不是VP，就是老总。一来阐述业界趋势，二来声称自己处于领先。要么就是Linux基金会下面的托管项目的宣传。比如如火如荼的区块链。&lt;/p&gt;
+
+&lt;p&gt;商业氛围浓烈，但是Linux基金会仍然是一家非营利组织。颇受各个厂家和个人的信任。本土怎么能够出现这么一个组织？为何引不进中国？这大概是每一个布道开源的人的疑惑。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;红帽公司-为何-rht-股票可以上升40:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;红帽公司：为何 RHT 股票可以上升40%&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.profitconfidential.com/stock/red-hat-inc-why-rht-stock-can-pop-40-percent/&#34;&gt;Red Hat Inc: Why RHT Stock Can Pop 40%&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;答案是红帽赢得了用户的信任！其是最具创新力的公司之一。&lt;/p&gt;
+
+&lt;p&gt;红帽的商业模式，是针对开源领域的基础设施，如操作系统、中间件、IaaS云平台、Paas云平台、容器化等等的订阅，几十年始终如一，终于开始突破，连续多年保持盈利、保持增长！&lt;/p&gt;
+
+&lt;p&gt;另外就是其对于开源人才的战略，可谓是高瞻远瞩！独特的文化，吸引了一大批的优秀人才！&lt;/p&gt;
+
+&lt;p&gt;嗯，开源本身并非是商业模式，你必须基于这样一个事物和现象，发展间接的盈利模式。但是请不要像本土的那些个公司，以开源之名，行商业手段，低估国人的智商，他们又能走多远？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://itbrief.co.nz/media/cache/2f/c4/2fc44cae6ba0caff448d00b096249c8a.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;快速的数据分析需要快速的治理:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;快速的数据分析需要快速的治理&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://itbrief.co.nz/story/fast-data-analytics-requires-even-faster-governance/&#34;&gt;Fast data analytics requires even faster governance&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;提到数据分析，我们一下子就想到了大数据，想到大数据，就会想到生态系统完善的Hadoop！&lt;/p&gt;
+
+&lt;p&gt;这大概就是开源的力量，尽管Hadoop来自于Google的MapReduce论文，但是由于开源，构建了超越原始出处的完善的生态链。&lt;/p&gt;
+
+&lt;p&gt;但是在实践中，仍然需要进行适当的定制，甚至正如本文所论证的，反过来，要求企业在管理和流畅，乃至人才提出一些个适应大数据分析的要求。IT系统和人类组织相互影响，乃常态也。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.16)</title>
@@ -890,68 +954,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;嗯，多数内容已经超出我的理解范围。为什么会有包管理？JSON支持是个蛮好的特性。那么Lambda不是函数式编程语言的功能吗？关编辑器什么事？需要我去慢慢的请教高手，或者是自己又可能用得着。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.19)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.19%29/</link>
-      <pubDate>Mon, 19 Sep 2016 06:50:42 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.19%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:ca90eaf047eb35544f8aac247c76c614&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;什么是云原生应用:ca90eaf047eb35544f8aac247c76c614&#34;&gt;什么是云原生应用？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerweekly.com/blog/Open-Source-Insider/What-is-cloud-native-computing&#34;&gt;What is cloud native computing?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;云原生计算基金会（CNCF）正在逐渐的成长！这不今年11月份要开始开CNCFCon大会了，联合举办的还有KubeCon和PrometheusDay。很是让人陶醉。相比于Linux基金会下如此的组织，比国内的每个厂商的市场活动强太多了。&lt;/p&gt;
-
-&lt;p&gt;central orchestration processing ，是今年的主题。云原生，Each microservice is packaged into its own container。嗯，如此的话，世界将变得更加美好！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://i0.wp.com/thewire.in/wp-content/uploads/2016/09/LinuxKernel.png?w=718&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;印度对待开源软件的冷淡态度需要转变:ca90eaf047eb35544f8aac247c76c614&#34;&gt;印度对待开源软件的冷淡态度需要转变&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://thewire.in/66792/softwarefreedom-indias-lukewarm-relationship-with-foss-needs-to-change/&#34;&gt;#SoftwareFreedom: India’s Lukewarm Relationship with FOSS Needs to Change&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;任何以国家为单位的，都会有倾向于将自己强大起来的诉求。这不在自由软件日，印度的布道师开始数论自己的国家应该在教育和政府领域倡导自由软件。作者尝试从各种角度来阐释自由软件对于印度的意义，印度拥有仅次于中国的人口。其实大部分说服力不强，词不达意。我看出来的却是一个拥有国防思维的家伙：&lt;/p&gt;
-
-&lt;p&gt;大部分的软件都是由美国、澳大利亚、西欧开发的。甚至中国都开发自由软件的操作系统NeoKylin。&lt;/p&gt;
-
-&lt;p&gt;大多数时候，这篇文章中的India替换为china，照样成立。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://fossbytes.com/wp-content/uploads/2016/09/MICROSOFT-LOVES-LINUX-CONSPIRACY-CONTROVERSY.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;微软和linux-一首愤怒和鼠辈之歌:ca90eaf047eb35544f8aac247c76c614&#34;&gt;微软和Linux —— 一首愤怒和鼠辈之歌&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://fossbytes.com/microsoft-and-linux-a-song-of-mice-and-ire/&#34;&gt;Microsoft And Linux — A Song Of Mice And Ire&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我喜欢作者的思维方式：&lt;strong&gt;In order to understand the history of computing we need to go back to somewhere near the beginning.&lt;/strong&gt; 寻找事情的真相，就得尽可能找到它的源头，而不是仅仅看眼前的苟且。当然，很多人并不在乎历史，这大概才是最为可悲的事情。&lt;/p&gt;
-
-&lt;p&gt;权力的游戏这部电视剧，我没有看过，据说颇适合国人的口味。最近我读福山，明白人要活下去，必须采取各种手段去赢得竞争对手，然后由赢家来撰写历史。这让我一再的开始怀疑道德的作用，以及是如何套在我头上的，我为什么是个原教旨主义者？为什么对各种规范的犯规者恨之入骨？我能维护什么？&lt;/p&gt;
-
-&lt;p&gt;嗯，一部讲解操作系统的历史！以较短的方式来述说，最后说明微软并不是真心的爱Linux，而是那句经典的背叛者语录：“if you can’t beat them, join them！” 作者并不看好商业上的那些宣传。更在乎本质。在这一点上，作者可能犯的错误和我是一样的。&lt;/p&gt;
-
-&lt;p&gt;究竟让世界变得更加美好的方式是什么？坚守一些被人们抛弃的事物？&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

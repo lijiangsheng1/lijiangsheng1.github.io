@@ -7,8 +7,72 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 16 Oct 2016 08:12:17 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2016 07:35:13 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.17)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.17%29/</link>
+      <pubDate>Mon, 17 Oct 2016 07:35:13 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.17%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.enterpriselinuxinsights.com/wp-content/uploads/2016/07/LinuxCON-Berlin-2016.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;回顾-linuxcon-2016:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;回顾 LinuxCon 2016&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.irishdev.com/Home/News/1898-LinuxCon--Review.html&#34;&gt;LinuxCon 2016 Review&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;LinuxCon ，没错，就是哪个从来没有来过中国的Linux内核大会。具体为什么来不了中国，原因不得而知。&lt;/p&gt;
+
+&lt;p&gt;LinuxCon 2016 欧洲区，今年在柏林举行，“大牌“”云集，本篇文章介绍的是Keynote，所以尽是企业高管，不是VP，就是老总。一来阐述业界趋势，二来声称自己处于领先。要么就是Linux基金会下面的托管项目的宣传。比如如火如荼的区块链。&lt;/p&gt;
+
+&lt;p&gt;商业氛围浓烈，但是Linux基金会仍然是一家非营利组织。颇受各个厂家和个人的信任。本土怎么能够出现这么一个组织？为何引不进中国？这大概是每一个布道开源的人的疑惑。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;红帽公司-为何-rht-股票可以上升40:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;红帽公司：为何 RHT 股票可以上升40%&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.profitconfidential.com/stock/red-hat-inc-why-rht-stock-can-pop-40-percent/&#34;&gt;Red Hat Inc: Why RHT Stock Can Pop 40%&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;答案是红帽赢得了用户的信任！其是最具创新力的公司之一。&lt;/p&gt;
+
+&lt;p&gt;红帽的商业模式，是针对开源领域的基础设施，如操作系统、中间件、IaaS云平台、Paas云平台、容器化等等的订阅，几十年始终如一，终于开始突破，连续多年保持盈利、保持增长！&lt;/p&gt;
+
+&lt;p&gt;另外就是其对于开源人才的战略，可谓是高瞻远瞩！独特的文化，吸引了一大批的优秀人才！&lt;/p&gt;
+
+&lt;p&gt;嗯，开源本身并非是商业模式，你必须基于这样一个事物和现象，发展间接的盈利模式。但是请不要像本土的那些个公司，以开源之名，行商业手段，低估国人的智商，他们又能走多远？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://itbrief.co.nz/media/cache/2f/c4/2fc44cae6ba0caff448d00b096249c8a.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;快速的数据分析需要快速的治理:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;快速的数据分析需要快速的治理&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://itbrief.co.nz/story/fast-data-analytics-requires-even-faster-governance/&#34;&gt;Fast data analytics requires even faster governance&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;提到数据分析，我们一下子就想到了大数据，想到大数据，就会想到生态系统完善的Hadoop！&lt;/p&gt;
+
+&lt;p&gt;这大概就是开源的力量，尽管Hadoop来自于Google的MapReduce论文，但是由于开源，构建了超越原始出处的完善的生态链。&lt;/p&gt;
+
+&lt;p&gt;但是在实践中，仍然需要进行适当的定制，甚至正如本文所论证的，反过来，要求企业在管理和流畅，乃至人才提出一些个适应大数据分析的要求。IT系统和人类组织相互影响，乃常态也。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.16)</title>
@@ -871,81 +935,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;看完这篇文章，我只能说李浩源不了解中国，回来两天，被一些表面的假象所迷惑。相信假以时日，定会了解真相，希望不要将市场过度的往国内倾斜，否则会死的很难看，那可真叫可惜。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.20)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.20%29/</link>
-      <pubDate>Tue, 20 Sep 2016 06:29:52 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.20%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:c23c83994c9ccd1eba563a9438a6d3a4&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://tr4.cbsistatic.com/hub/i/r/2016/09/19/d82d0017-905e-4908-94a6-8241d1343dae/resize/620x/530381ea4d96393c5bd77306419f67a4/storage.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;为什么说你的下一代存储会依赖于区块链:c23c83994c9ccd1eba563a9438a6d3a4&#34;&gt;为什么说你的下一代存储会依赖于区块链&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-your-next-storage-solution-may-depend-on-blockchain/&#34;&gt;Why your next storage solution may depend on blockchain&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;又见对象存储，一项技术和某些热点扯上关系，就会产生话题，大约就能达到某些市场的效应。让我们先记下这家公司：&lt;a href=&#34;https://github.com/Storj/&#34;&gt;Storj&lt;/a&gt;，将P2P的区块链技术整合到对象存储中，解决重要的安全问题。委实是不错的创新。&lt;/p&gt;
-
-&lt;p&gt;来看下文章的结语：“ I suspect we won&amp;rsquo;t see mass adoption, however, until one of the big cloud providers joins the blockchain storage market, perhaps by acquiring Storj.” 收购，Mirantis近日收购了TCP cloud，要么是R&amp;amp;D模式，要么是M&amp;amp;A模式，总之是要在激烈的竞争中脱颖而出，而不是将精力耗在政治权力上。这是一个重要的文化现象。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/09/linus-dirk-hohndel-100683306-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;官方的证实-linux第一个版本的发布时间是1991年9月17日:c23c83994c9ccd1eba563a9438a6d3a4&#34;&gt;官方的证实，Linux第一个版本的发布时间是1991年9月17日&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3121811/linux/it-s-official-linux-was-released-on-september-17-1991.html&#34;&gt;It’s official, Linux was released on September 17, 1991&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文蛮有意思，Linus就是一逗逼，0.01的Linux和相关的email，他给弄丢了。好吧，还是有人按照时间戳找到了（这个不是很容易造假吗？），本文还有几个有意思的故事：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Linux这个名称是Linus的室友命名的，因为他不喜欢linus所命名的：FREAKX ，即&lt;strong&gt;‘Freaks’ - a mix of ‘free’, ‘ freak’ and UNIX&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;最开始的版本使用的协议并非是GPLv2&lt;/li&gt;
-&lt;li&gt;Linus后来坦承，Linux之所以成功的一个关键就是使用了GPLv2&lt;/li&gt;
-&lt;li&gt;Linux 的成功，吸引了很多后来的企业。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;关于最后作者举的例子，正好有OpenStack的一个同行发表了一个感慨，也是一个同行，在即将举办的巴塞罗那 OpenStack Summit会议上，有人利用AI热点成功的申请到了一个演讲的Topic，即使用OpenStack来搭建Google tensor flow。本文有相类似的影子。开源的项目日见增多。AI的战场，Google打响了这场战争，首当其冲的就是开源！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;十年磨一剑-开源编辑器-vim-8-0-释出:c23c83994c9ccd1eba563a9438a6d3a4&#34;&gt;十年磨一剑，开源编辑器 Vim 8.0 释出&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://news.softpedia.com/news/after-ten-years-vim-vi-improved-8-0-open-source-text-editor-is-here-508447.shtml&#34;&gt;After Ten Years, Vim (Vi IMproved) 8.0 Open-Source Text Editor Is Here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;是的，Vim7.3使用了太多年了，话说我也跟个时髦，来贴个新闻。一个编辑器要这么多特性，用得着吗？我很少用，大约是编码越来越少的缘故：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;异步I/O支持&lt;/li&gt;
-&lt;li&gt;支持频道&lt;/li&gt;
-&lt;li&gt;JSON 支持&lt;/li&gt;
-&lt;li&gt;可通过时间戳来合并viminfo&lt;/li&gt;
-&lt;li&gt;支持jobs、timers、closures、 partials、packages、以及 lambdas。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，多数内容已经超出我的理解范围。为什么会有包管理？JSON支持是个蛮好的特性。那么Lambda不是函数式编程语言的功能吗？关编辑器什么事？需要我去慢慢的请教高手，或者是自己又可能用得着。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
