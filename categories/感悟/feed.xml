@@ -7,8 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 17 Oct 2016 07:35:13 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Oct 2016 11:06:12 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.18)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.18%29/</link>
+      <pubDate>Tue, 18 Oct 2016 11:06:12 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.18%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:3bb0cc1dadd86742706cc55908373d25&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://kulkulfarmbali.com/wp-content/uploads/2015/09/organic-chickens-in-bali-e1447729615772.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何打造一个强大的开源团队就像是养鸡一样:3bb0cc1dadd86742706cc55908373d25&#34;&gt;如何打造一个强大的开源团队就像是养鸡一样&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/how-building-strong-open-source-teams-raising-chickens&#34;&gt;How Building Strong Open Source Teams Is Like Raising Chickens&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，也许你看到题目，就觉得整个人都不好了。甚至是小编所撰写的内容看了也不怎么好！但是请耐心的将演讲视频看完。&lt;/p&gt;
+
+&lt;p&gt;演讲的题目其实是叫做：&lt;a href=&#34;https://youtu.be/loryKeOPKto&#34;&gt;《超越量化：协作的真正力量和技能》&lt;/a&gt;，关于养鸡的部分，其实是演讲者所分享的一个小故事罢了，旨在说明竞争有时候会形成内耗，将大伙都搞定精疲力尽，过早的将能量耗尽，不如形成一片和谐的景象，大家彼此互助，形成合力。&lt;/p&gt;
+
+&lt;p&gt;IQ 绝非是衡量一个团队的唯一因素，它甚至都不能被列入最为主要的部分。信任，没错，信任这个美好的词汇，可以获得巨大的力量。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fossbytes.com/wp-content/uploads/2016/09/google-open-source-project.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;google的开源成绩单:3bb0cc1dadd86742706cc55908373d25&#34;&gt;Google的开源成绩单&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.googleblog.com/2016/10/google-open-source-report-card.html&#34;&gt;Google Open Source Report Card&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没错，Google 总结了一下自己的开源项目，以及使用到的语言Top10，乃至最具前沿的项目。但是我看到的并非是项目本身，而是其文章开始的一段话，让人倍受鼓舞。其实，美好的事物总是能够让你去重拾美好生活，哪怕它是冷冰冰的科技。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;开源软件让Google能够快速而高效的构建一些事成为了可能，且毋需去重复制造轮子，允许我们将精力聚焦在解决新的问题上。我们站在巨人的肩膀上，我们深刻的明白这一点。而这也是我们始终如一的支持开源的原因所在，且这样也能够让Google人在内部开发完成之后，顺利的去将之开源。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;看看成绩单，是否觉得大多数是被GFW屏蔽的。你觉得会和“闭关锁国”的政策一样嘛？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/03/fingers-100651667-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;是自行从开源构建-还是购买软件-先回答了这5个问题再说:3bb0cc1dadd86742706cc55908373d25&#34;&gt;是自行从开源构建？还是购买软件，先回答了这5个问题再说&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerworld.com/article/3130317/data-analytics/to-build-or-buy-software-ask-these-5-questions-first.html&#34;&gt;Build or Buy Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，我确实犯过非常主观的错误。自认为如此强大的开源项目，为什么企业会如此的保守？在犹豫！在试探！甚至在拒绝。&lt;/p&gt;
+
+&lt;p&gt;遭遇失败和挫折之后，再看到如这篇文章所表达的内容。是深有体会。任何的决策都不是那么容易、轻松、甚至是草率决定的。必须经过深思熟虑，考虑到自身的处境，然后放可。绝非一腔热血能够保证得了的。看看这5个问题，你怎么回答？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;谁是最多使用软件的人？&lt;/li&gt;
+&lt;li&gt;你所构建的产品是如此的独特，以至于你的所在企业能够做的嘛？&lt;/li&gt;
+&lt;li&gt;你所构建的内容，完全能够理解嘛？&lt;/li&gt;
+&lt;li&gt;现有的工具确定是你所需要的嘛？&lt;/li&gt;
+&lt;li&gt;你拥有足够的资源承担得起吗？（构建＋维护）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这大概就是红帽的赚钱之道！此文颇为经典！道破了开源项目、开源软件、试图利用开源赚取钱财的商业模式真正的区别。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.17)</title>
@@ -881,52 +955,6 @@
 &lt;h2 id=&#34;一点感慨:c934fca1e70b074b4cc25373dcb532c8&#34;&gt;一点感慨&lt;/h2&gt;
 
 &lt;p&gt;上述文章，我多少看到了自己当年的一些影子。一个整天埋首于技术，试图想和大家说，这是好东西，请大家使用并贡献自己的力量。然而，多年之后的探索、实践之后，我不敢劝说人们了，人性是复杂的，难以琢磨的，经济、环境、文化、制度等等都会影响到人们的思维、决策。可怜的人类，被自己折磨成什么样子！真的希望有一把魔镜，给每一个人都照一下，告诉ta不应该这样。可是这把魔镜难以寻找。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.23)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.23%29/</link>
-      <pubDate>Fri, 23 Sep 2016 08:20:55 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.23%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:3c20095d61fde2761e79a5e5427069af&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.gannett-cdn.com/-mm-/e597bedc2b32c8ae22f5f9c02d89fe7c266cf2a2/c=120-0-2001-1414&amp;amp;r=x408&amp;amp;c=540x405/local/-/media/2016/09/21/RenoGroup/RGJ/636100748681741324-ThinkstockPhotos-529600299.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;美国国防部的软件考查:3c20095d61fde2761e79a5e5427069af&#34;&gt;美国国防部的软件考查&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://niskanencenter.org/blog/the-department-of-software/&#34;&gt;THE DEPARTMENT OF SOFTWARE?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文一再提到是那篇关于美国国防部的&lt;a href=&#34;http://www.cnas.org/sites/default/files/publications-pdf/CNASReport-OpenSourceSoftware-Final_0.pdf&#34;&gt;报告&lt;/a&gt;。试图从各个角度来考量美国国防部应该去使用开源软件。&lt;/p&gt;
-
-&lt;p&gt;其中一句话，深入我心：&lt;strong&gt;Open Source Useful, Not Panacea&lt;/strong&gt;,&lt;strong&gt;But using open source software by itself is no guarantee of innovation or success.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;去除所有的神话，回归本真！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源并非是非黑即白:3c20095d61fde2761e79a5e5427069af&#34;&gt;开源并非是非黑即白&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://dzone.com/articles/50-shades-of-open-source-its-no-longer-black-or-wh&#34;&gt;50 Shades of Open Source: It&amp;rsquo;s No Longer Black or White&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是对GitHub本身不开源的辩护，没错，为了提高竞争力，或者是为了保护自己，要知道哪些有钱的大公司复制起来就是分分钟的事情，如果有了代码的话（？其实我心存疑问）&lt;/p&gt;
-
-&lt;p&gt;GitHub 正在努力塑造自己的品牌形象，不想因为开源与否而被一些人抓着把柄。其中关于开源和闭源的参与的比喻：open-source is like volunteering, right? Closed source is like going to work, right? 关于回报前者是经验与名誉，后者是报酬。这是绝大多数人使用的办法。&lt;/p&gt;
-
-&lt;p&gt;然而文章又以GitHub CEO 的一句话结尾：“Open source isn’t just about libraries. It’s about people making a real difference in the world.” 嗯，写这样的文章非常的困难。说开源好，但是就是自己不开源。难为作者了。&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
