@@ -7,8 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 19 Oct 2016 07:28:21 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Oct 2016 06:57:23 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.20)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.20%29/</link>
+      <pubDate>Thu, 20 Oct 2016 06:57:23 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.20%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:d2ae7b1ee20fdcdc39f023863c9855f6&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;爱立信和红帽在开源方面结为合作伙伴:d2ae7b1ee20fdcdc39f023863c9855f6&#34;&gt;爱立信和红帽在开源方面结为合作伙伴&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/open-source/openstack/ericsson-red-hat-partner-on-open-source/d/d-id/727101?_mc=RSS_LR_EDT&#34;&gt;Ericsson, Red Hat Partner on Open Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;NFV，SDN，SDI，OpenStack 然后和ICT（信息和通信技术）扯在一起，纠缠不清。这块地盘竞争日益点激烈，但是无论如何，开源是一个焦点，大家似乎心知肚明，不开源，就得被淘汰。AT&amp;amp;T 要开源ECOMP，华为搞了个开源的ONLAB，以及Linux 基金会的OpenDayLight&amp;hellip;&amp;hellip;.不一而足。本篇文章最大的看点在于，爱立信和红帽结盟的合作项：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;上游优先。爱立信要借红帽之力，融入社区！这也是很多有人力、钱财的公司颇为尴尬的一点，就是无论如何融入不了社区。于是借一家开源界的知名厂商来做。（笃定失败）&lt;/li&gt;
+&lt;li&gt;解决方案认证和新的供应&lt;/li&gt;
+&lt;li&gt;Ericsson is expanding its telco NFV solution to also include Red Hat OpenStack Platform to meet the needs of service providers across the globe who require a fully open and agile infrastructure（不翻译了，太长了。）&lt;/li&gt;
+&lt;li&gt;容器的创新与采用。&lt;/li&gt;
+&lt;li&gt;业界领袖的背后&lt;/li&gt;
+&lt;li&gt;专业的服务。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-medical-records.jpg?itok=gMuawq7C&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;利用开源来学习编程-一位医生的亲身经历:d2ae7b1ee20fdcdc39f023863c9855f6&#34;&gt;利用开源来学习编程：一位医生的亲身经历&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/doctor-learns-how-code-through-open-source&#34;&gt;A Doctor Learns How to Code Through Open Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一个非常励志的故事！只要你能够将自己的时间利用起来，没有什么不可能。编程并没有想象中的那么难！&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://openmrs.org/&#34;&gt;OpenMRS&lt;/a&gt;，跨界才是王道。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.gadgetdaily.xyz/wp-content/uploads/2015/01/suseconlogo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;susecon-2016-将在华盛顿盛大举行-发力开源软件定义基础设施的创新:d2ae7b1ee20fdcdc39f023863c9855f6&#34;&gt;SUSECOn 2016 将在华盛顿盛大举行，发力开源软件定义基础设施的创新&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.prnewswire.com/news-releases/suse-to-highlight-open-source-software-defined-infrastructure-innovations-at-susecon-2016-in-washington-dc-300347530.html&#34;&gt;SUSE to Highlight Open Source Software-Defined Infrastructure Innovations at SUSECON 2016 in Washington, D.C&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;似乎近来这些开源的基础设施厂商发力的地方差不多，比如红帽，Mirantis以及本文重点介绍的SUSE。我们来看一下会议上的议题看点：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SUSE 企业版Linux的路线图&lt;/li&gt;
+&lt;li&gt;SUSE 开放云中的网络功能虚拟化（NFV）&lt;/li&gt;
+&lt;li&gt;要想完成传统想软件定义的完美转身，那么先从存储开始&lt;/li&gt;
+&lt;li&gt;SUSE Manager 3 &amp;amp; SaltStack at Tyson Foods&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;从中可以看出SuSE发力的三个点：自身的基础——企业级Linux，OpenStack ＋NFV，Ceph 是不是很眼熟？&lt;/p&gt;
+
+&lt;p&gt;另外一个让我震撼的是，国外这些公司对于市场的看重，IT峰会一个接一个，但是类似的研讨会，正如文中所言：&lt;strong&gt;consuming extremely valuable content and getting face to face with SUSE engineers, executives, partners, other customers and community enthusiasts&lt;/strong&gt; 但是本土，我还没有见过哪家厂商能够办成这样，哪怕是红帽forum也是他们的销售邀请的合作伙伴、代理商居多。真正开放式的释放干货的内容很少！国人急功近利、浮躁的心态什么时候能够治愈？似乎越来越重的趋势。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.19)</title>
@@ -905,52 +979,6 @@
 &lt;h2 id=&#34;一点感慨:c934fca1e70b074b4cc25373dcb532c8&#34;&gt;一点感慨&lt;/h2&gt;
 
 &lt;p&gt;上述文章，我多少看到了自己当年的一些影子。一个整天埋首于技术，试图想和大家说，这是好东西，请大家使用并贡献自己的力量。然而，多年之后的探索、实践之后，我不敢劝说人们了，人性是复杂的，难以琢磨的，经济、环境、文化、制度等等都会影响到人们的思维、决策。可怜的人类，被自己折磨成什么样子！真的希望有一把魔镜，给每一个人都照一下，告诉ta不应该这样。可是这把魔镜难以寻找。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.23)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.23%29/</link>
-      <pubDate>Fri, 23 Sep 2016 08:20:55 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.23%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:3c20095d61fde2761e79a5e5427069af&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.gannett-cdn.com/-mm-/e597bedc2b32c8ae22f5f9c02d89fe7c266cf2a2/c=120-0-2001-1414&amp;amp;r=x408&amp;amp;c=540x405/local/-/media/2016/09/21/RenoGroup/RGJ/636100748681741324-ThinkstockPhotos-529600299.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;美国国防部的软件考查:3c20095d61fde2761e79a5e5427069af&#34;&gt;美国国防部的软件考查&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://niskanencenter.org/blog/the-department-of-software/&#34;&gt;THE DEPARTMENT OF SOFTWARE?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文一再提到是那篇关于美国国防部的&lt;a href=&#34;http://www.cnas.org/sites/default/files/publications-pdf/CNASReport-OpenSourceSoftware-Final_0.pdf&#34;&gt;报告&lt;/a&gt;。试图从各个角度来考量美国国防部应该去使用开源软件。&lt;/p&gt;
-
-&lt;p&gt;其中一句话，深入我心：&lt;strong&gt;Open Source Useful, Not Panacea&lt;/strong&gt;,&lt;strong&gt;But using open source software by itself is no guarantee of innovation or success.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;去除所有的神话，回归本真！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源并非是非黑即白:3c20095d61fde2761e79a5e5427069af&#34;&gt;开源并非是非黑即白&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://dzone.com/articles/50-shades-of-open-source-its-no-longer-black-or-wh&#34;&gt;50 Shades of Open Source: It&amp;rsquo;s No Longer Black or White&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是对GitHub本身不开源的辩护，没错，为了提高竞争力，或者是为了保护自己，要知道哪些有钱的大公司复制起来就是分分钟的事情，如果有了代码的话（？其实我心存疑问）&lt;/p&gt;
-
-&lt;p&gt;GitHub 正在努力塑造自己的品牌形象，不想因为开源与否而被一些人抓着把柄。其中关于开源和闭源的参与的比喻：open-source is like volunteering, right? Closed source is like going to work, right? 关于回报前者是经验与名誉，后者是报酬。这是绝大多数人使用的办法。&lt;/p&gt;
-
-&lt;p&gt;然而文章又以GitHub CEO 的一句话结尾：“Open source isn’t just about libraries. It’s about people making a real difference in the world.” 嗯，写这样的文章非常的困难。说开源好，但是就是自己不开源。难为作者了。&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
