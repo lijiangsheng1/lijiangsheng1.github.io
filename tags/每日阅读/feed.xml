@@ -7,8 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 18 Oct 2016 11:06:12 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Oct 2016 07:28:21 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.19)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.19%29/</link>
+      <pubDate>Wed, 19 Oct 2016 07:28:21 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.19%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:6d3101049c32b939fdffe63f998a83ec&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/10/1018.sdt-disney.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;让我们数数迪斯尼的开源项目:6d3101049c32b939fdffe63f998a83ec&#34;&gt;让我们数数迪斯尼的开源项目&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/disney-open-source-program/&#34;&gt;Disney has its own Open Source Program&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;关于翻译，余光中先生说过：“翻译乃大事，译者独憔悴。” 看下本文的英文标题，直译为“迪斯尼拥有了自己的开源项目”，很别扭，开源、拥有，也不是说不能在一起出现，但是怪怪的。这就是翻译，你自己有很多词汇，有的时候，就是不知道该怎么用。只好意译，按照上下文的含义，很主观的译出。这也是为什么很多人提倡读原文，但是，为什么所有的人都在翻译？而本土原创确实没有什么好的东西。又该论述精英主义了。&lt;/p&gt;
+
+&lt;p&gt;迪士尼是个很大的集团公司，但是是以动画起家的，后来发展到了电影。嗯，动画电影也是人们非常喜爱的形式。目前其开源的项目中，均是和动画电影制作相关的。为什么迪斯尼会选择开源这些对他的业务来说是蛮核心的项目了呢？值得思考，但是我想人才绝对是其中之一。你可能想不到，开源本身也是衡量一名开发者是否具备能力的敲门砖。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么现在的企业会采用开源软件:6d3101049c32b939fdffe63f998a83ec&#34;&gt;为什么现在的企业会采用开源软件&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://forbesindia.com/article/leaderboard/why-enter-prises-are-now-opting-for-open-source-software/44469/1&#34;&gt;Why enterprises are now opting for open source software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇来自印度财富的文章。那么其实是在讲印度的事情。也是在讲红帽的事情。只要是讲企业级，红帽是绕不过的，如今的红帽俨然是一个巨无霸，产品线巨长，无所不包。但是正如其CEO Jim Whitehurst 在今年的红帽峰会上谈到的，亚洲的盈利，尤其是大中华区和东南亚，其实投入产出比是偏低的。但是，印度的情况似乎好一点？&lt;/p&gt;
+
+&lt;p&gt;为什么企业会选择开源？降低成本？人性化管理？笼络创新人才？开源的软件栈全面而卓越？不再需要为昂贵的许可证费用付费，但是还要为订阅服务付费。如果我是一名用户的话，对文中的回答并不满意。&lt;/p&gt;
+
+&lt;p&gt;在本土，没有人在意是否开源，认为开源是理想主义，是情怀。而情怀在本土就是锤子手机，叫好不叫座。但是，本土有一个好处，那就是现在的工程师们都是开源培育出来的一代，爆发之日可待。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源的历史告诉我们什么是战略优势:6d3101049c32b939fdffe63f998a83ec&#34;&gt;开源的历史告诉我们什么是战略优势&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/10/history-open-source-teaches-strategic-advantage&#34;&gt;What the history of open source teaches us about strategic advantage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;绝对好文！精彩绝伦！作者&lt;a href=&#34;https://opensource.com/users/bobbymartin&#34;&gt;Bobby Martin&lt;/a&gt;思路确实与众不同。红帽不是现在很火吗？20亿了，世界上top50的创新公司了。其成功是一定背后有很多故事的。让我们随同作者进入红帽创始人Bob Yang的感悟世界。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;control was users&amp;rsquo; hot button, not features.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m a sales guy. I don&amp;rsquo;t sell features. I sell benefits.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;以及作者最后给出的教训：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ask the right questions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discover your competitive advantage.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一篇好文，就是能够顺利的将自己要说清楚、讲明白的东西给讲出来。我没有想到作者可以将美国的独立战争，UNIX的发展史和Bob Yang联系起来。&lt;strong&gt;生意，需要洞见！倾听与观察，看到别人看不到的，生意成功的可能性就越大！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.18)</title>
@@ -878,81 +950,6 @@
 &lt;p&gt;GitHub 正在努力塑造自己的品牌形象，不想因为开源与否而被一些人抓着把柄。其中关于开源和闭源的参与的比喻：open-source is like volunteering, right? Closed source is like going to work, right? 关于回报前者是经验与名誉，后者是报酬。这是绝大多数人使用的办法。&lt;/p&gt;
 
 &lt;p&gt;然而文章又以GitHub CEO 的一句话结尾：“Open source isn’t just about libraries. It’s about people making a real difference in the world.” 嗯，写这样的文章非常的困难。说开源好，但是就是自己不开源。难为作者了。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.22)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.22%29/</link>
-      <pubDate>Thu, 22 Sep 2016 07:02:17 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.22%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:0715cc8f030df50e4edd870f5b3be946&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;oracle-cto-拉里埃里森直言不讳抨击aws:0715cc8f030df50e4edd870f5b3be946&#34;&gt;Oracle CTO 拉里埃里森直言不讳抨击AWS&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/oracles-larry-ellison-throws-punches-at-aws/&#34;&gt;Oracle&amp;rsquo;s Larry Ellison throws punches at AWS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;有一句话让人啼笑皆非：Oracle并不像AWS那样，应为Oracle是开源的。就是因为这句话，我将之纳入了我的晨读文章。&lt;/p&gt;
-
-&lt;p&gt;不过看Oracle直接和AWS撕逼也是蛮有意思的。不知道AWS以后会不会放弃支持Oracle DB。这只能说明一个问题AWS所提供的各种DBaaS正在蚕食Oracle的传统市场！也就是说，用户使用AWS，很多原来使用Oracle的地方都替换成为：“Aurora、Redshift、DynamoDB”，&lt;/p&gt;
-
-&lt;p&gt;那么我又开始质疑国内的市场，为什么我接触到的都是将IaaS当虚拟化，没有人将问题聚焦到应用层。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;infoworld-发布2016最佳开源项目奖:0715cc8f030df50e4edd870f5b3be946&#34;&gt;InfoWorld 发布2016最佳开源项目奖&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/infoworld-announces-the-2016-best-of-open-source-software-awards-2160365.htm&#34;&gt;InfoWorld Announces the 2016 Best of Open Source Software Awards&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，2016开源项目遍地开花，让人眼花缭乱！InfoWorld这次分了几个类，分别是：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;应用开发&lt;/li&gt;
-&lt;li&gt;应用&lt;/li&gt;
-&lt;li&gt;大数据&lt;/li&gt;
-&lt;li&gt;数据中心和云计算&lt;/li&gt;
-&lt;li&gt;网络及安全&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;尽管绝大多数我不认识，正如我所掌握的知识，在业内根本不算什么。那么我就数数我听说过的得奖的开源项目：Angular、Bootstrap、GitLab、R、Swift、TensorFlow、LibreOffice、Kafka、Kylin、Spark、Ansible、Atomic Host、CoreOS、Docker、Etcd、Kubernetes、Mesos、Nginx、Ubuntu Server。20/72 ，对于网络和安全那部分是一个都没有听说过。还有一个就是开源依然占据基础设施！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://tr1.cbsistatic.com/hub/i/r/2016/09/19/f3e5be69-7a76-48c1-bfb1-13607d2868b4/resize/620x/4c28d21b7c171cd94561b11afbe7832b/china.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;为什么说中国是下一个开源软件的试验场:0715cc8f030df50e4edd870f5b3be946&#34;&gt;为什么说中国是下一个开源软件的试验场&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-china-is-the-next-proving-ground-for-open-source-software/&#34;&gt;Why China is the next proving ground for open source software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;西方的软件创业公司通常是不会care中国的市场的，因为中国这块市场实在是太烂了。没有人掏钱给你，尤其是你的软件是开源的时候。那么李浩源做到了吗？Techrepublic的这篇文章旨在告诉西方，中国准备好为开源付费了？无异于痴人说梦，你荣归故里可以，戴上MIT博士的光环，以开源的方式创业，但是你想赚到钱，以我对国内情形的了解，不抱任何的希望。不过本文反过来，让我了解一下国内的开源状况，能够得到的信息有：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.alluxio.org/&#34;&gt;Alluxio&lt;/a&gt;这家公司蛮厉害的，看CSDN的一篇报道：&lt;a href=&#34;http://geek.csdn.net/news/detail/101312&#34;&gt;Alluxio中国行（一）开源分布式存储系统Alluxio的历史、现状和未来&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;百度开源的那个机器学习项目，佐证了China is not merely consuming the West&amp;rsquo;s best software: It&amp;rsquo;s open sourcing its own？ （我表示怀疑）&lt;/li&gt;
-&lt;li&gt;谁在相信China&amp;rsquo;s Ministry of Industry and Information Technology (MIIT) 这些部门的话，那一定是不了解中国。这些部门什么都不做，就是要政绩。&lt;/li&gt;
-&lt;li&gt;一号专车使用MongoDB这个案例是蛮经典的。但是一号专车绝对是例外。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;看完这篇文章，我只能说李浩源不了解中国，回来两天，被一些表面的假象所迷惑。相信假以时日，定会了解真相，希望不要将市场过度的往国内倾斜，否则会死的很难看，那可真叫可惜。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
