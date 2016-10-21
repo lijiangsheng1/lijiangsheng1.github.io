@@ -7,8 +7,74 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 20 Oct 2016 06:57:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 21 Oct 2016 07:44:23 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.21)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.21%29/</link>
+      <pubDate>Fri, 21 Oct 2016 07:44:23 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.21%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:ce111bee3b814a252a80218b1f53b2e6&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;adtran-为电信业的建议-使用开放平台-或者出局:ce111bee3b814a252a80218b1f53b2e6&#34;&gt;Adtran 为电信业的建议：使用开放平台，或者出局&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/open-source/use-open-platforms-or-die-adtran-tells-telcos/d/d-id/727124&#34;&gt;Use Open Platforms or Die, Adtran Tells Telcos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Adtran，在读这篇文章之前，我从来没有听说过这家公司。嗯，是Nasdaq上市公司（为什么在本土认为上市就是一家牛逼的公司了呢？连我本人都不例外，本土太多的东西需要正本清源了。总是试图想脱离物理、自然规律来搞点伤天害理的事，比如“人定胜天”、“发展有中国特色的社会主义”。），Adtran 是为电信业的服务提供商敲响了警钟。举的几个例子确实能够让很多人闭嘴：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;诺基亚和黑莓，倒数5年那都是无限风光的好手机制造商。但是，因为错过了强大的平台而被历史所淘汰。&lt;/li&gt;
+&lt;li&gt;Uber和Airbnb颠覆了汽车共享和房屋共享。&lt;/li&gt;
+&lt;li&gt;Blockbuster ，拥有1000家门店的DVD租赁公司，被Netflix搞到破产。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，下一代平台是开放平台。该如何抉择？想想本土情形，三大运营商就不会倒闭了？呵呵，那种稳定、守旧、墨守成规是不符合经济规律的，一如前30年的计划经济。他们破产的时候，我们该哭还是该笑？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://s3.amazonaws.com/riqprod/images/uploads/content_images/opensource_5808d7d43ee1a.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源创新驱动着hadoop的需求:ce111bee3b814a252a80218b1f53b2e6&#34;&gt;开源创新驱动着Hadoop的需求&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.readitquik.com/news/off-premises/opensource-innovations-driving-demand-for-hadoop/&#34;&gt;Open-Source Innovations Driving Demand for Hadoop&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;对不起，我错了，我也是被标题给骗了。里面是讲一名叫做AtScale的做商业智能的公司，利用Hadoop生态重新构建了分析服务。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;红帽-开源的巨无霸:ce111bee3b814a252a80218b1f53b2e6&#34;&gt;红帽——开源的巨无霸&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerweekly.com/blog/Quocirca-Insights/Red-Hat-the-open-source-conglomerate&#34;&gt;Red Hat – the open source conglomerate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;近来由于工作关系，开始关注、分析了一下红帽的案例。嗯，正如文中所表达的，红帽已经是一家大而全的软件公司了，几乎可以满足一家公司任何方面的对于软件的需求。以操作系统为核心，今年收购了很多的小公司，包括云平台、监控、部署、API、移动互联网后台不一而足。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;是否会消化不良？彼此打架？&lt;/li&gt;
+&lt;li&gt;红帽与开发者的关系接下来该如何处理？&lt;/li&gt;
+&lt;li&gt;红帽与开源、用户之间始终存在着矛盾。用户对于红帽产品作出修改之后，红帽将不再提供支持。（该如何评价这样的关系？）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/bus-networking.png?itok=3UXFhssB&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.20)</title>
@@ -896,89 +962,6 @@
 
 &lt;p&gt;以上属于自己的亲身经历。但是我对本文对演讲者是蛮有好感的，因为我也是这么解释OpenStack的，OpenStack 不是什么产品，是一个厂商中立的非盈利基金会，balabala，要找对的人来讲。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.26)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.26%29/</link>
-      <pubDate>Mon, 26 Sep 2016 07:16:25 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.26%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:c934fca1e70b074b4cc25373dcb532c8&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;###&lt;a href=&#34;http://www.jianshu.com/p/91c926cacb5a&#34;&gt;中国开源社区离成功还有多远？&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;关于“中国“和“开源”这两个非常不搭的词放在一起的事情，我会专门撰文来阐释。本文只论及此文的矛盾之处，或者是作者没法意识的一些观念。首先来回顾一下本文的内容及观点：&lt;/p&gt;
-
-&lt;p&gt;引言部分似乎是想说明作者意图通过写作来捋一下国内开源（没有去区分软件、社区、商业模式等）的状态，然后试图描述“中国开源社区的现状”，但是很明显，中国是没有开源社区的，谁都心知肚明，作者当然也未在此停留，而是直接切入“中国开源社区的问题”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;中国缺少一个在开源商业化获得巨大成功的企业 。有这样的思维是好事情，大有佛家的舍身取义，但是总是将中国置于世界之外这样的思维太危险，中国真的不是世界的中心。开源需要再商业模式上有更多创新，而开源本身是一种软件的生产模式而已。&lt;/li&gt;
-&lt;li&gt;开源生态不成熟， 上下游厂商进入门槛高， 利润少。 此处的开源应该更改为桌面操作系统。以偏概全，容易误导读者。要知道开源软件中的Hadoop、Docker、OpenStack的生态是非常完善的。&lt;/li&gt;
-&lt;li&gt;版权意识薄弱， 开源的技术优势和长期成本优势被盗版持续打压。 这个是有点道理，但没有抓住问题的根本与实质，是国人不尊重知识产权。秘方文化长期困扰着国民。穷不可怕，可怕的是一直穷下去。&lt;/li&gt;
-&lt;li&gt;开源概念普及不够， 社会对开源的认识和接触度不够。嗯，渐渐的开始有一些霸主思维、西方帝国害我之心不死的国防战略来。&lt;/li&gt;
-&lt;li&gt;学校教育落后开源社区10年以上， 培养不出开源人才。 这个就更不靠谱了，学校的概念范畴太大，大学没有必要，有通识教育（中国除外），职业技校还差不多，但是开源有很多软的技能如沟通、合作、价值观等。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;接下来作者就更加的离谱了，臆想了一个（或者是深度自己的商业社区）和国外社区的对比或差距：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;生态构建意识薄弱。 构建生态这样的事情，一般是非常有钱的公司，如IBM、Google、Intel会去做的事情，比如IBM的 Open By Design开源战略、Google开源人工智能Tenorflow等等。社区从一开始最重要的是保持中立、做好一些开发上的规则、开发者小群体的政治激励等。&lt;/li&gt;
-&lt;li&gt;市场化步伐太慢。 这个作者就有点蛮不讲理，中国是以开源为原型搞自主知识产权、拉投资最快的国家，前两年有以OpenStack为产品的形形色色的创业公司，今有各种以Kubernetes／Mesos&amp;amp;DCOS坑蒙拐骗的伪装者。市场化慢，别忘了2000年左右，中国有多少家做Linux发行版的公司，上市的蓝点还有印象？&lt;/li&gt;
-&lt;li&gt;核心技术落后国外。 永远在跳出世界之外，妄图作宇宙的中心。既然是开源，关键的算法、代码实现你都可以拿到，恨不能自己重新实现一套，以作比较。青少年时期被洗脑的过程，仍然没有完全蜕变。需要小心。&lt;/li&gt;
-&lt;li&gt;不遵守开源原则。这个作者以一颗滚烫的爱国之心来衡量的话，确实痛心疾首是可以理解的。但是不要忘记问题的根本所在，极权制度下依附主义、腐败仅仅是其中一个副产品罢了，加上长达2000年的秘方文化。这个确实是个非常大的难题。&lt;/li&gt;
-&lt;li&gt;开源社区氛围太小，无法靠文化和环境传承。 话说本土有开源社区吗？几个用户组算？&lt;/li&gt;
-&lt;li&gt;测试体系不够完善，测试缺乏标准和无用功太多。 典型的技术圈待得太久，想想5年前的我也是这样。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;但是作者似乎并没有放弃让深度一统全国的决心，但是理论是极度迂腐可笑：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;人口多，市场大到足够容纳超大变革。 莫名其妙的搞思维二元对立。其实也不怪作者，百度就是这么诞生的、淘宝也一样。以水土不服为幌子，以政治手段扼杀。哎，小小年纪，不走正途。&lt;/li&gt;
-&lt;li&gt;中国至古以来都有大国情节， 有全线打通的决心。 明白了吗？这是明白的国家主义，苏联思维。&lt;/li&gt;
-&lt;li&gt;我们更擅长做产品和交互体验。 这很明显是扯淡了。挂羊头卖狗肉啊这是。你深度关开源屁事？&lt;/li&gt;
-&lt;li&gt;中国工程师更勤奋， 工作效率高。 这个一定要闹出点毛病来，才能够明白一天工作8小时，脑力劳动5到6个小时效率最高，延长劳动时间，只能让工作更加的低效。当然，抄袭例外。&lt;/li&gt;
-&lt;li&gt;资源更集中， 更容易集中火力攻克难点。 &lt;strong&gt;这才是最最危险的，也是我一直以来担心的，开源只是被大国梦、强国梦利用的工具罢了，最终会将自由的精神给扼杀！&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;解决方案，更是将奴隶的思维放大到极致，已经失去任何谈开源的资格：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;政府做好裁判， 提供市场， 放权给私有企业去竞争。 政府介入，这个事情基本上就黄了，尤其是中国的政府。政府根本和这事没有半毛钱关系，他最多是营造好周边的环境而已。&lt;/li&gt;
-&lt;li&gt;持续推进生态基础建设， 逼近引爆点。 嗯，走北朝鲜的路线，全国所有政府单位使用深度Linux操作系统。&lt;/li&gt;
-&lt;li&gt;攻克关键技术难点， 降低开源行业准入门槛， 培育更多上下游厂商。&lt;/li&gt;
-&lt;li&gt;建立完整的测试体系，　提高产品质量。&lt;/li&gt;
-&lt;li&gt;像全民创业那样普及开源基本理念&lt;/li&gt;
-&lt;li&gt;版权处罚从电影音乐延伸到软件领域&lt;/li&gt;
-&lt;li&gt;在大学里建立开源根据地， 以3年为周期不断为行业输入高端人才&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;我已经不愿意评价这位小伙子天真而幼稚的想法了。为了“开源”引入国家这个利维坦，到最后的结果可想而知。&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;最后，我想对此文对作者说，回去认认真真写你的代码，哪怕是桌面环境的框架，改进Gnome也可以。要么就去认认真真的了解中国的历史、文化、政治、制度、社会、环境、经济等诸多学科。比如阅读福山、福柯、哈耶克、孙隆基等人的著作。然后再去论道。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;一点感慨:c934fca1e70b074b4cc25373dcb532c8&#34;&gt;一点感慨&lt;/h2&gt;
-
-&lt;p&gt;上述文章，我多少看到了自己当年的一些影子。一个整天埋首于技术，试图想和大家说，这是好东西，请大家使用并贡献自己的力量。然而，多年之后的探索、实践之后，我不敢劝说人们了，人性是复杂的，难以琢磨的，经济、环境、文化、制度等等都会影响到人们的思维、决策。可怜的人类，被自己折磨成什么样子！真的希望有一把魔镜，给每一个人都照一下，告诉ta不应该这样。可是这把魔镜难以寻找。&lt;/p&gt;
 </description>
     </item>
     
