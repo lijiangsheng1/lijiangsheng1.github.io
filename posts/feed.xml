@@ -7,8 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 21 Oct 2016 07:44:23 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Oct 2016 09:11:45 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.22)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.22%29/</link>
+      <pubDate>Sat, 22 Oct 2016 09:11:45 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.22%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:071d91fafc4fa92b0caf95dc7a0ca70e&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;twitter-该及时悔改了:071d91fafc4fa92b0caf95dc7a0ca70e&#34;&gt;Twitter 该及时悔改了&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://seekingalpha.com/article/4013840-fixing-twitter&#34;&gt;Fixing Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;在人人都在开源的时候，Twitter却不走寻常路，坚守封闭的道路！这可能令很多人不满他的客户端开始的。其实本土有一家厂商叫做腾讯，也是这么搞的。客户端别指望我开放。服务端为了招点人还有可能开源一些，客户端想都不用想。&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;我最近在思考着一个大问题，可能是我人生的颠覆和疑虑。为什么小时候总是有人叫你从一而终，我指的是政治观点、人生看法等，和道德无关。我的脑子被人洗过！我甚至是一个很简单的人&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;话说回来，Twitter 一直都是在商业模式盈利上没有什么创新。甚至都开始考虑出售给社会主义国家了。从来不是背负历史使命的公司，一家没有什么文化的公司。只是恰好满足了互联网的撞大运的公司罢了。其实他开不开源，和他走入历史的废墟没有半毛钱关系。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/wp-content/uploads/2016/10/OpenStack-Barcelona.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;openstack-巴塞罗纳峰会-值得关注的内容:071d91fafc4fa92b0caf95dc7a0ca70e&#34;&gt;OpenStack 巴塞罗纳峰会——值得关注的内容&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/cloud/private/openstack-summit-barcelona-essential-guide/&#34;&gt;OpenStack Summit Barcelona – your essential guide to the show&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;OpenStack 基金会对于每隔半年的峰会是异常的重视，嗯，没有几天就要开始了，这周几乎都在造势，当然OpenStack 和开源的圈子里的人都在翘首期盼，期待有什么重大事情发生。&lt;/p&gt;
+
+&lt;p&gt;关于这篇文章我就不想多说什么了。我想谈谈国内近期刷commit的事情，中兴、99狂刷，刷typo，还可能是原来就是故意的typo的问题。说什么？搅局者？义愤填膺？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源之路:071d91fafc4fa92b0caf95dc7a0ca70e&#34;&gt;开源之路&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cioviewpoint/the-open-source-way-nid-23187-cid-92.html&#34;&gt;The Open Source Way&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;参与、贡献、分享。这些开源的内在属性是难以学来的。政府，对比下本土的政府。比如工信部。（我为什么会对比？攀比？中外？）&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.21)</title>
@@ -890,98 +944,6 @@
 &lt;li&gt;明确的业务目标，让员工们能够忙起来，且有的放矢。能够调动出积极主动的精神来最好。&lt;/li&gt;
 &lt;li&gt;切忌大换血，代价过于的高昂。只是从一种坏的情绪转变为更加糟糕的情绪而已。&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.29)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.29%29/</link>
-      <pubDate>Thu, 29 Sep 2016 07:23:03 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.29%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/open-source-fotolia.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源存储正在成为主流:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;开源存储正在成为主流&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerweekly.com/feature/Open-source-storage-hits-the-mainstream&#34;&gt;Open source storage hits the mainstream&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这属必然！文中提到了做低端的存储正在下滑，尤其是带有网络文件系统的。但是文中并没有提到软件定义存储，Ceph提的也比较少。引用几句说的比较好的话：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Switching storage platforms isn’t quite as simple as moving applications or virtual machines to a new server.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;open source storage is not just ready for the mainstream – it is already there.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;红帽为何说印度是开源界的亮点:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;红帽为何说印度是开源界的亮点&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://cio.economictimes.indiatimes.com/news/corporate-news/why-red-hat-calls-india-a-bright-spot-in-open-source/54557335&#34;&gt;Why Red Hat calls India a ‘bright spot’ in Open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;先来数数印度政府和企业使用开源的单位：印度铁路、IRCTC、Bombay交所、Essar, TataSky and Mahindra Finance ，其实对比国内，一点也不比印度的差。但是接下来的对比，就会差上好多：&lt;strong&gt;“India is a land of developers, not only there’s huge number of open source users but also a strong base of contributors to open source from India.”&lt;/strong&gt; 这点能比嘛？还记得的软件外包嘛？印度似乎是真的很认真的在做这件事。而国内就只剩下抱怨、欺骗和半途而废！&lt;/p&gt;
-
-&lt;p&gt;开源的商业模式已经印度生根发芽，可以组成完整的生态系统，印度从外包到开源华丽转身，完成了一次蜕变！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovers1.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;github-所揭示的开源的状态:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;GitHub 所揭示的开源的状态&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.i-programmer.info/news/136-open-source/10126-github-octoverse-reveals-the-state-of-open-source.html&#34;&gt;GitHub Octoverse Reveals The State Of Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本点评其实就是贴几幅图，蛮有意思，比文字省力多了：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;被fork次数的项目排行榜：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovforks.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;仓库最多的：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovrepos.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;贡献开源最多的公司：（这个竟然是微软，微软确实是人多！希望它的KPI里不是按代码行数算的。）&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovorgs.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;review最多的：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovcode.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;编程语言排行榜：没错，前段的最多。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovers2.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源的工具可以帮助小企业节省开支和时间:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;开源的工具可以帮助小企业节省开支和时间&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.theguardian.com/small-business-network/2016/sep/28/open-source-tools-help-small-businesses-cut-costs-save-time&#34;&gt;Open source tools can help small businesses cut costs and save time&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://i.guim.co.uk/img/media/f1b81082fe159c8cbee5f7f8494a75a675d96e3f/0_184_5616_3369/master/5616.jpg?w=620&amp;amp;q=20&amp;amp;auto=format&amp;amp;usm=12&amp;amp;fit=max&amp;amp;dpr=2&amp;amp;s=1df63337d21d808db749fd1dec118a13&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文的作者展示了一个全新的视角，没错，开源现在已经是一棵参天大树了，如此巨大的生态系统，小型的企业总是可以找到自己赖以生存的空间的。作者举了两个例子：web设计公司、电子邮件营销和网站分析业务。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.softwire.com/&#34;&gt;Softwire&lt;/a&gt;这家公司的领导说话蛮有意思：没有开源软件，现在的企业将无法正常运作。&lt;strong&gt;There’s no realistic way we could have built the same code ourselves from scratch,&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;实在不行，还可以亲自上手为社区提交代码，何乐而不为？&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     

@@ -7,8 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 21 Oct 2016 07:44:23 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Oct 2016 09:11:45 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.22)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.22%29/</link>
+      <pubDate>Sat, 22 Oct 2016 09:11:45 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.22%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:071d91fafc4fa92b0caf95dc7a0ca70e&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;twitter-该及时悔改了:071d91fafc4fa92b0caf95dc7a0ca70e&#34;&gt;Twitter 该及时悔改了&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://seekingalpha.com/article/4013840-fixing-twitter&#34;&gt;Fixing Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;在人人都在开源的时候，Twitter却不走寻常路，坚守封闭的道路！这可能令很多人不满他的客户端开始的。其实本土有一家厂商叫做腾讯，也是这么搞的。客户端别指望我开放。服务端为了招点人还有可能开源一些，客户端想都不用想。&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;我最近在思考着一个大问题，可能是我人生的颠覆和疑虑。为什么小时候总是有人叫你从一而终，我指的是政治观点、人生看法等，和道德无关。我的脑子被人洗过！我甚至是一个很简单的人&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;话说回来，Twitter 一直都是在商业模式盈利上没有什么创新。甚至都开始考虑出售给社会主义国家了。从来不是背负历史使命的公司，一家没有什么文化的公司。只是恰好满足了互联网的撞大运的公司罢了。其实他开不开源，和他走入历史的废墟没有半毛钱关系。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/wp-content/uploads/2016/10/OpenStack-Barcelona.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;openstack-巴塞罗纳峰会-值得关注的内容:071d91fafc4fa92b0caf95dc7a0ca70e&#34;&gt;OpenStack 巴塞罗纳峰会——值得关注的内容&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/cloud/private/openstack-summit-barcelona-essential-guide/&#34;&gt;OpenStack Summit Barcelona – your essential guide to the show&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;OpenStack 基金会对于每隔半年的峰会是异常的重视，嗯，没有几天就要开始了，这周几乎都在造势，当然OpenStack 和开源的圈子里的人都在翘首期盼，期待有什么重大事情发生。&lt;/p&gt;
+
+&lt;p&gt;关于这篇文章我就不想多说什么了。我想谈谈国内近期刷commit的事情，中兴、99狂刷，刷typo，还可能是原来就是故意的typo的问题。说什么？搅局者？义愤填膺？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源之路:071d91fafc4fa92b0caf95dc7a0ca70e&#34;&gt;开源之路&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cioviewpoint/the-open-source-way-nid-23187-cid-92.html&#34;&gt;The Open Source Way&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;参与、贡献、分享。这些开源的内在属性是难以学来的。政府，对比下本土的政府。比如工信部。（我为什么会对比？攀比？中外？）&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.21)</title>
@@ -911,56 +965,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;来自RedMonk 的O’Grady的演讲汇总。读过《开源的未来》，也就是在参加完今年OSCON之后，RedMonk发布的文章，都知道，看完之后除了题目之外都没有理解。这个演讲恐怕也一样，记住一句话即可：** You have to make friends. You need to join together, or you might die.**&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.27)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.27%29/</link>
-      <pubDate>Tue, 27 Sep 2016 07:32:33 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.27%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:e11038822d23dbbd07e0f673dd3d333e&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blogs-images.forbes.com/gregsatell/files/2016/09/hand-globe-open-collaboration.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;为何开放和封闭会打起来:e11038822d23dbbd07e0f673dd3d333e&#34;&gt;为何开放和封闭会打起来&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/gregsatell/2016/09/26/why-open-beats-closed/#14d6d26d68e5&#34;&gt;Why Open Beats Closed&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我再次毫不掩饰的称赞一次 Forbes 的文章，将一件事情说明白了，来龙去脉、旁征博引。。。&lt;/p&gt;
-
-&lt;p&gt;在工业时代，商业竞争中采用的封闭的战略，也诞生了伟大的公司，如在彼此的竞争中争相称霸的：GM and Ford, Coke and Pepsi, General Electric and Westinghouse。但是时代变了，**it’s becoming increasingly clear that no one can go it alone and firms must choose where they will cooperate and where they will compete. **&lt;/p&gt;
-
-&lt;p&gt;人才的竞争是这个时代最为悲伤的事情，因为是知识经济时代。而且有论文:&lt;a href=&#34;http://www.executivesondemand.net/managementsourcing/images/stories/artigos_pdf/gestao/The_war_for_talent.pdf&#34;&gt;人才战争&lt;/a&gt;引用。以及沿用Bill Joy的话：这个世界上大多数最聪明的都在为别人工作。既然这样的话，作为老板你该如何利用好这些聪明人了呢？是你该去思考的，而如果利用不好的话：“If you rely solely on your own employees, you’ll never solve all your customers’ needs.”。&lt;/p&gt;
-
-&lt;p&gt;接下来是互联网、信息的时代，其中的支柱——软件，改变了一切，Apache Httpd 开源软件的诞生、Linux的盛行证明了这是事实上的标准。而后就是今年Google开源TensorFlow，特斯拉紧随其后，以及微软宣布拥抱Linux。&lt;/p&gt;
-
-&lt;p&gt;这个世界需要创新，以开放的方式：即&lt;a href=&#34;http://www.digitaltonto.com/2016/a-new-breed-of-innovation/&#34;&gt;新一代的创新者&lt;/a&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;说到底openstack是个什么东西-来自红帽rich-bowen的解释:e11038822d23dbbd07e0f673dd3d333e&#34;&gt;说到底OpenStack是个什么东西？来自红帽Rich Bowen的解释&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/exactly-what-openstack-red-hats-rich-bowen-explains&#34;&gt;Exactly What Is OpenStack? Red Hat&amp;rsquo;s Rich Bowen Explains&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/rich-bowen-linuxcon.png?itok=b0oj2D44&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我在想，让此人来给某些本土的单位／企业以这样的方式讲，过程就是引来一片鼾声，结果就是被教训如何做人。我们才不关心什么社区、产品。有没有利国利民的属性？没有的话，就滚蛋。&lt;/p&gt;
-
-&lt;p&gt;以上属于自己的亲身经历。但是我对本文对演讲者是蛮有好感的，因为我也是这么解释OpenStack的，OpenStack 不是什么产品，是一个厂商中立的非盈利基金会，balabala，要找对的人来讲。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
