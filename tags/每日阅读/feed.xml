@@ -7,8 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 22 Oct 2016 09:11:45 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Oct 2016 08:55:44 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.23)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.23%29/</link>
+      <pubDate>Sun, 23 Oct 2016 08:55:44 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.23%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:9b1995529ec8271446389f72e90a26f1&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;为开源编写代码可以拯救世界吗:9b1995529ec8271446389f72e90a26f1&#34;&gt;为开源编写代码可以拯救世界吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://siliconangle.com/blog/2016/10/21/could-open-source-coding-save-the-world-ghc16/&#34;&gt;Could open-source coding ‘save the world’? &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是的，可以的。但是开源也能够被反向利用，比如Tor就被污染了。&lt;/p&gt;
+
+&lt;p&gt;这个世界有时候看起来简直糟透了，和我们自己所想的，完全不一样，但是话说回来，为什么要和你的想法一样？你又不是上帝。于是，这个世界变得更加的美好了，因为多元！但是你要防止哪些想独霸天下的，走文明的反面的那些人。比如反人道的！&lt;/p&gt;
+
+&lt;p&gt;开源，准确的说是开源软件，依存于互联网和计算机。如果哪里什么都没有，你又如何拯救世界？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://technewsinc.com/wp-content/uploads/2016/10/cow.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;cow-对于-linux-来说是个严重的问题吗:9b1995529ec8271446389f72e90a26f1&#34;&gt;COW 对于 Linux 来说是个严重的问题吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：[](&lt;a href=&#34;https://technewsinc.com/dirty-cow-serious-concern-linux/&#34;&gt;https://technewsinc.com/dirty-cow-serious-concern-linux/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一个隐藏了9年的bug，竟然才刚刚修复。这样是放在微软、Oracle就等着30年之后维基解密吧。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“Prevention is better than cure”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.australiannationalreview.com/wp-content/uploads/2015/06/fbocp-e1434679378775.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;我们会拥有一个开放硬件的未来吗:9b1995529ec8271446389f72e90a26f1&#34;&gt;我们会拥有一个开放硬件的未来吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.datacenterdynamics.com/events/are-we-on-track-to-an-open-hardware-future-for-the-dc/97141.article&#34;&gt;Are we on track to an open hardware future for the DC?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开放计算项目（OCP）俨然已经从Facebook的数据中心走出来，成为了一个全球性的庞大项目。成长的如此之快的原因，就是接纳社区、保持开放。&lt;/p&gt;
+
+&lt;p&gt;IDC 预测，未来在2020年，人们将全面采用OCP。服务器、机架、数据中心的设计都将遍地开花。&lt;/p&gt;
+
+&lt;p&gt;如此看来，开放是未来！世界之后中立的、非盈利的组织，然后就是哪些实用开放平台的其它业务的企业。而人才是自由的！本土的实现，可能要等上个50年。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.22)</title>
@@ -913,58 +973,6 @@
 &lt;p&gt;&lt;a href=&#34;http://www.softwire.com/&#34;&gt;Softwire&lt;/a&gt;这家公司的领导说话蛮有意思：没有开源软件，现在的企业将无法正常运作。&lt;strong&gt;There’s no realistic way we could have built the same code ourselves from scratch,&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;实在不行，还可以亲自上手为社区提交代码，何乐而不为？&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.28)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.28%29/</link>
-      <pubDate>Wed, 28 Sep 2016 07:12:16 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.28%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:2dd7322c915c03042c599771398284a7&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;![]()&lt;/p&gt;
-
-&lt;h3 id=&#34;微软是如何衡量开源的成功的:2dd7322c915c03042c599771398284a7&#34;&gt;微软是如何衡量开源的成功的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.datamation.com/open-source/how-microsoft-measures-open-source-success.html&#34;&gt;How Microsoft Measures Open Source Success&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;没错，前几天GitHub的贡献量最多的是微软，这个意义大否？但是Wim Coekaerts要不断的给世人洗脑，大家依然不相信微软是家开源的公司。于是babalala，请大家多多的往Azure云平台上运行Linux&amp;hellip;&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;世人是否有判断力？没有，微软这么做的结果就是：1、成功的说服了一些人。2、为开源再次蒙上一层利益至上的面纱，验证了绝大多数人的看法。微软，永远的搅局者。有时候，我在想，哪些加入到大公司的价值观是否是非我公司的都是没有前途的？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;apache-spot-孵化中-旨在利用开源社区来对抗cyber犯罪:2dd7322c915c03042c599771398284a7&#34;&gt;Apache Spot （孵化中）旨在利用开源社区来对抗Cyber犯罪&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.econotimes.com/Open-Source-Community-Continues-Fight-Against-Cybercrime-with-Apache-Spot-incubating-321200&#34;&gt;Open Source Community Continues Fight Against Cybercrime with Apache Spot (incubating)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我选上这篇文章，不仅是因为Apache又在孵化了一个项目，幕后的推手还是Cloudera、Intel等，而是说这个项目本身的意义。或者说Cyber空间的犯罪我不熟悉、不了解。利用Apache Hadoop生态系统来分析、预测罪犯，我一下子就想到了《美国队长2》中的洞察计划，但是仔细想想似乎又不一样。这个涉及到伦理问题，Apache真的是无所不包，它该怎么处理？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源项目需凝聚在一起方可活下去:2dd7322c915c03042c599771398284a7&#34;&gt;开源项目需凝聚在一起方可活下去&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/open-source-projects-must-work-together-survive&#34;&gt;Open Source Projects Must Work Together to Survive&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/stephen-ogrady.png?itok=hzlx4xut&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;来自RedMonk 的O’Grady的演讲汇总。读过《开源的未来》，也就是在参加完今年OSCON之后，RedMonk发布的文章，都知道，看完之后除了题目之外都没有理解。这个演讲恐怕也一样，记住一句话即可：** You have to make friends. You need to join together, or you might die.**&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

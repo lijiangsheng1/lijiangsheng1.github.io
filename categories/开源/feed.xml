@@ -7,8 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 22 Oct 2016 09:11:45 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Oct 2016 08:55:44 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.23)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.23%29/</link>
+      <pubDate>Sun, 23 Oct 2016 08:55:44 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.23%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:9b1995529ec8271446389f72e90a26f1&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;为开源编写代码可以拯救世界吗:9b1995529ec8271446389f72e90a26f1&#34;&gt;为开源编写代码可以拯救世界吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://siliconangle.com/blog/2016/10/21/could-open-source-coding-save-the-world-ghc16/&#34;&gt;Could open-source coding ‘save the world’? &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是的，可以的。但是开源也能够被反向利用，比如Tor就被污染了。&lt;/p&gt;
+
+&lt;p&gt;这个世界有时候看起来简直糟透了，和我们自己所想的，完全不一样，但是话说回来，为什么要和你的想法一样？你又不是上帝。于是，这个世界变得更加的美好了，因为多元！但是你要防止哪些想独霸天下的，走文明的反面的那些人。比如反人道的！&lt;/p&gt;
+
+&lt;p&gt;开源，准确的说是开源软件，依存于互联网和计算机。如果哪里什么都没有，你又如何拯救世界？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://technewsinc.com/wp-content/uploads/2016/10/cow.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;cow-对于-linux-来说是个严重的问题吗:9b1995529ec8271446389f72e90a26f1&#34;&gt;COW 对于 Linux 来说是个严重的问题吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：[](&lt;a href=&#34;https://technewsinc.com/dirty-cow-serious-concern-linux/&#34;&gt;https://technewsinc.com/dirty-cow-serious-concern-linux/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一个隐藏了9年的bug，竟然才刚刚修复。这样是放在微软、Oracle就等着30年之后维基解密吧。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“Prevention is better than cure”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.australiannationalreview.com/wp-content/uploads/2015/06/fbocp-e1434679378775.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;我们会拥有一个开放硬件的未来吗:9b1995529ec8271446389f72e90a26f1&#34;&gt;我们会拥有一个开放硬件的未来吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.datacenterdynamics.com/events/are-we-on-track-to-an-open-hardware-future-for-the-dc/97141.article&#34;&gt;Are we on track to an open hardware future for the DC?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开放计算项目（OCP）俨然已经从Facebook的数据中心走出来，成为了一个全球性的庞大项目。成长的如此之快的原因，就是接纳社区、保持开放。&lt;/p&gt;
+
+&lt;p&gt;IDC 预测，未来在2020年，人们将全面采用OCP。服务器、机架、数据中心的设计都将遍地开花。&lt;/p&gt;
+
+&lt;p&gt;如此看来，开放是未来！世界之后中立的、非盈利的组织，然后就是哪些实用开放平台的其它业务的企业。而人才是自由的！本土的实现，可能要等上个50年。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.22)</title>
@@ -878,98 +938,6 @@
 &lt;li&gt;明确的业务目标，让员工们能够忙起来，且有的放矢。能够调动出积极主动的精神来最好。&lt;/li&gt;
 &lt;li&gt;切忌大换血，代价过于的高昂。只是从一种坏的情绪转变为更加糟糕的情绪而已。&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.29)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.29%29/</link>
-      <pubDate>Thu, 29 Sep 2016 07:23:03 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.29%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/open-source-fotolia.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源存储正在成为主流:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;开源存储正在成为主流&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerweekly.com/feature/Open-source-storage-hits-the-mainstream&#34;&gt;Open source storage hits the mainstream&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这属必然！文中提到了做低端的存储正在下滑，尤其是带有网络文件系统的。但是文中并没有提到软件定义存储，Ceph提的也比较少。引用几句说的比较好的话：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Switching storage platforms isn’t quite as simple as moving applications or virtual machines to a new server.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;open source storage is not just ready for the mainstream – it is already there.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;红帽为何说印度是开源界的亮点:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;红帽为何说印度是开源界的亮点&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://cio.economictimes.indiatimes.com/news/corporate-news/why-red-hat-calls-india-a-bright-spot-in-open-source/54557335&#34;&gt;Why Red Hat calls India a ‘bright spot’ in Open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;先来数数印度政府和企业使用开源的单位：印度铁路、IRCTC、Bombay交所、Essar, TataSky and Mahindra Finance ，其实对比国内，一点也不比印度的差。但是接下来的对比，就会差上好多：&lt;strong&gt;“India is a land of developers, not only there’s huge number of open source users but also a strong base of contributors to open source from India.”&lt;/strong&gt; 这点能比嘛？还记得的软件外包嘛？印度似乎是真的很认真的在做这件事。而国内就只剩下抱怨、欺骗和半途而废！&lt;/p&gt;
-
-&lt;p&gt;开源的商业模式已经印度生根发芽，可以组成完整的生态系统，印度从外包到开源华丽转身，完成了一次蜕变！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovers1.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;github-所揭示的开源的状态:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;GitHub 所揭示的开源的状态&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.i-programmer.info/news/136-open-source/10126-github-octoverse-reveals-the-state-of-open-source.html&#34;&gt;GitHub Octoverse Reveals The State Of Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本点评其实就是贴几幅图，蛮有意思，比文字省力多了：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;被fork次数的项目排行榜：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovforks.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;仓库最多的：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovrepos.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;贡献开源最多的公司：（这个竟然是微软，微软确实是人多！希望它的KPI里不是按代码行数算的。）&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovorgs.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;review最多的：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovcode.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;编程语言排行榜：没错，前段的最多。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovers2.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源的工具可以帮助小企业节省开支和时间:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;开源的工具可以帮助小企业节省开支和时间&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.theguardian.com/small-business-network/2016/sep/28/open-source-tools-help-small-businesses-cut-costs-save-time&#34;&gt;Open source tools can help small businesses cut costs and save time&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://i.guim.co.uk/img/media/f1b81082fe159c8cbee5f7f8494a75a675d96e3f/0_184_5616_3369/master/5616.jpg?w=620&amp;amp;q=20&amp;amp;auto=format&amp;amp;usm=12&amp;amp;fit=max&amp;amp;dpr=2&amp;amp;s=1df63337d21d808db749fd1dec118a13&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文的作者展示了一个全新的视角，没错，开源现在已经是一棵参天大树了，如此巨大的生态系统，小型的企业总是可以找到自己赖以生存的空间的。作者举了两个例子：web设计公司、电子邮件营销和网站分析业务。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.softwire.com/&#34;&gt;Softwire&lt;/a&gt;这家公司的领导说话蛮有意思：没有开源软件，现在的企业将无法正常运作。&lt;strong&gt;There’s no realistic way we could have built the same code ourselves from scratch,&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;实在不行，还可以亲自上手为社区提交代码，何乐而不为？&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
