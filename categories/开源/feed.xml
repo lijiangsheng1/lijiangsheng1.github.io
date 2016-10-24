@@ -7,8 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 23 Oct 2016 08:55:44 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Oct 2016 07:48:29 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.24)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.24%29/</link>
+      <pubDate>Mon, 24 Oct 2016 07:48:29 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.24%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:cea44bb9d555bf1fad199f5676312f3d&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_OpenInnovation.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源软件质量保证的基本事项:cea44bb9d555bf1fad199f5676312f3d&#34;&gt;开源软件质量保证的基本事项&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/10/basics-open-source-quality-assurance&#34;&gt;The basics of open source quality assurance&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这又让我想起来 OpenStack 的刷 Commit 事件，我很久一段时间没有关注开发的相关事项了。但是OpenStack 如此则暴露出其 review机制的问题，更深层次的问题是其项目的过渡民主化，或者是core reviewer这样一个角色的失职的惩罚问题。这也就会导致 OpenStack 项目的严重的质量问题。&lt;/p&gt;
+
+&lt;p&gt;抛开机制本身，我们回归到技术。软件的质量保证是测试，而测试会区分为单元测试、功能测试、集成测试等等，唯独不会关心，其版本控制系统提交了多少次，每次Commit是否有意义，是否是每个Commit都应该有对应的单元测试和持续集成和持续开发。&lt;/p&gt;
+
+&lt;p&gt;开源项目的质量保证，确实是个非常大的问题，Fedora、Foreman都还好，毕竟有红帽在后面花钱在让人搞。也唯有靠人类的精英，哪些软件的英雄们去早就牛逼的软件。没有天赋、靠努力、民主，将一事无成。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;at-t-购买时代华纳是希望在未来能够和google较量:cea44bb9d555bf1fad199f5676312f3d&#34;&gt;AT&amp;amp;T 购买时代华纳是希望在未来能够和Google较量&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.wired.com/2016/10/att-buying-time-warner-future-google/&#34;&gt;AT&amp;amp;T Is Buying Time Warner Because the Future is Google&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;连线的文章总是充满洞见，似乎每篇文章都是深度阅读，而不是本土的诸如cnbeta之类的，话说本土有一家像样的媒体吗？InfoQ？脱离了国际的给养，想独立走得更远点？我们拭目以待。&lt;/p&gt;
+
+&lt;p&gt;AT&amp;amp;T 运用的竞争策略，是典型的以进军竞争对手的领域，来继续霸占现有的市场的策略。因为Google、FaceBook、Amazon、乃至Netflix都在妄图进军电信网络提供商这个领域。AT&amp;amp;T不得不做出如此巨大的决策。但是很多人并不看好这样的收购，因为AT&amp;amp;T 尾大不掉，很多公司被他收购之后都垮掉了。&lt;/p&gt;
+
+&lt;p&gt;有时候在想，作为一个个体，讨论一些庞然大物的公司也好，国家也罢，意义何在？在本土最为悲哀的地方，就是标榜自己是某大公司的职工，一如当年自己是国有企业工人一样自豪，螺丝钉精神、抱大腿的态度、缺乏独立精神、拿第二本能当盾牌，我该如何处理这样的人。唯有叹息。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.23)</title>
@@ -882,62 +928,6 @@
 
 &lt;p&gt;但是：&lt;strong&gt;Open-Source does, however, come with its own set of challenges. It is incumbent upon the vendor to find the right monetization strategy to meet their business objectives.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>坏的情绪会在创始团队中蔓延</title>
-      <link>http://lijiangsheng1.github.io/posts/entrepreneur/bad_guy_can_demage_all_team/</link>
-      <pubDate>Thu, 29 Sep 2016 21:48:20 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/bad_guy_can_demage_all_team/</guid>
-      <description>
-
-&lt;h2 id=&#34;再次表明自己的身份:2fca7324f34c53c01fc2954d9b7c8d2e&#34;&gt;再次表明自己的身份&lt;/h2&gt;
-
-&lt;p&gt;我是一名创业者，在经历的短暂的初次失败之后，陷入了可能是将会很长一段时间的酝酿期。但是我依然是一名创业者。那么，我会以一名旁观者的身份来观察自己所能看到的，基于真实、尽可能的实录，好的方面，则吸收之；坏的方面，则远离之。&lt;/p&gt;
-
-&lt;h2 id=&#34;什么是坏的情绪:2fca7324f34c53c01fc2954d9b7c8d2e&#34;&gt;什么是坏的情绪？&lt;/h2&gt;
-
-&lt;p&gt;人人都会有情绪，高兴、快乐、沮丧、愤怒、失落、悲观、紧张、恐惧&amp;hellip;&amp;hellip;但是在现代企业的日常工作中，有些情绪是要去被努力避免的，比如沮丧、抱怨、失望、愤怒、排外等。而有些则是要提倡给员工的，尤其是在如此一个知识经济时代，作为员工的个体，不仅要保持乐观的心态、坚韧的态度、坚定的决心、还得拥有果敢、决绝、毅力，方可取得进步，让自己立于不败之地。&lt;/p&gt;
-
-&lt;p&gt;人类在大多数时候都是脆弱的，不然，不会在整个历史都在倡导忍耐与克制，如果能够做到这两点的人，多数也被载入了史册。有的时候，无法去强制要求人们去做到。但是，创业不是政治与制度建设，而是找到一些价值观一致的人们。所以，必须能够做到摈弃坏的情绪，发扬好的情绪。&lt;/p&gt;
-
-&lt;h2 id=&#34;坏的情绪会蔓延:2fca7324f34c53c01fc2954d9b7c8d2e&#34;&gt;坏的情绪会蔓延&lt;/h2&gt;
-
-&lt;p&gt;创业维艰，而尤其是会犯很多错误。比如现实的境遇与当初的踌躇满志落差很大、比如身边的队友并不是那么的完美，反而在能力和努力上均被受到质疑。也就是遭遇了挫折，作为个人来讲，遇到挫折的时候，会将自己灌醉？找朋友倾述？找个拳馆打它个大汗淋漓？或者干脆换一种方式，但是，作为一家创业公司，团队稍有雏形，面对艰难的外部环境，来自业界的嘲笑、同行的压力，面对惨无人睹的销售业绩，跨地域的多人管理逐渐从散漫到进入不是那么具有人情味的流程中，不能适应团队厂长的队友离开，各种管理制度的变化等等，让人每天都在感觉到变化。而人在适应变化的过程中就会有情绪，有积极的去适应，也有消极的对抗，拒绝改变。&lt;/p&gt;
-
-&lt;p&gt;作为群体效应，坏的情绪会蔓延。尤其是本土的文化，当时隔半载之久，人会有一种动物般的老资格自居。这个时候或许已经有三三两两的开始产生所谓的抱团现象，尤其是缺少共同的目标感的时候。他们会时不时的将公司的某个人当作假想敌，然后开始进行所谓的抱怨、愤怒。甚至会敌视新来的同事。&lt;/p&gt;
-
-&lt;h2 id=&#34;如何将这些坏的情绪驱赶走-并引入好的情绪:2fca7324f34c53c01fc2954d9b7c8d2e&#34;&gt;如何将这些坏的情绪驱赶走，并引入好的情绪？&lt;/h2&gt;
-
-&lt;p&gt;作为一个群体，当内部出现问题的时候，需要一个外部的共同的敌人。这是社会学的结论，那么套在企业中，就是需要一个切实可行的目标，比如升级下一代产品，比如攻克一个看起来非常困难的项目。&lt;/p&gt;
-
-&lt;p&gt;找到那个散布坏的情绪的源头，无论ta功有多高，（一般情况下，功高的那位很难被负能量所感染）都得请ta离开公司，其实，找这样的人也是异常的简单，是否有创业心，准备在贵公司打算养老的，就8、9不离10了。&lt;/p&gt;
-
-&lt;p&gt;以一名员工的视野来看的话，遇到这样的人，要敬而远之。要明确自己的判断，认清自己的方向，不能轻易的被一些表象或某些单方面的花言巧语所蒙蔽。保持自己积极的心态。&lt;/p&gt;
-
-&lt;p&gt;以一名高管或者是本身强大的员工来看的话，要给自己周边的同事鼓励，明确团队、企业的目标，动之以情、晓之以理的去解释一些事情，如失败的案例、开除的员工、平均主义的危害性等等。这个角色最怕的是欲盖弥彰，撒谎！拒绝承认错误。这个不仅会给那些散播坏情绪的人以可乘之机，而且会让自己失去信任。而信任这个高贵的东西，一旦失去就再也建立不起来了，即使重新了，不仅要花去很大的代价，效果也会大不如前。&lt;/p&gt;
-
-&lt;h2 id=&#34;如何从根本上杜绝这样的事情:2fca7324f34c53c01fc2954d9b7c8d2e&#34;&gt;如何从根本上杜绝这样的事情&lt;/h2&gt;
-
-&lt;p&gt;其实，出现这样的状况大多数时候是遇到了如下三种情况：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;招聘到了错误的人。&lt;/li&gt;
-&lt;li&gt;内部出现分歧，有可能是公司业务方向，也有可能是企业文化经营。&lt;/li&gt;
-&lt;li&gt;收购的公司，出现的文化冲突。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;只有第一种情况比较好办，将散播坏情绪、能力差的人开除即可。而后两种情况，则比较棘手。尤其是第三种，是会必然出现的，在新的环境中，绝大多数人表现出来是抵触改变、抱怨新的环境。这个时候有以下几个步骤来解决：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;将新公司的业务方向、企业目标等明确的传递出来。（最不靠谱的是说今年的销售额。）&lt;/li&gt;
-&lt;li&gt;沟通，了解这些人的真实想法，然后，针对他们的想法来想对策。一定不能对他们的想法置之不理。&lt;/li&gt;
-&lt;li&gt;文化的保留与传承。然后才能慢慢的发展新的文化。&lt;/li&gt;
-&lt;li&gt;明确的业务目标，让员工们能够忙起来，且有的放矢。能够调动出积极主动的精神来最好。&lt;/li&gt;
-&lt;li&gt;切忌大换血，代价过于的高昂。只是从一种坏的情绪转变为更加糟糕的情绪而已。&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     

@@ -7,8 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 23 Oct 2016 08:55:44 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Oct 2016 07:48:29 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.24)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.24%29/</link>
+      <pubDate>Mon, 24 Oct 2016 07:48:29 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.24%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:cea44bb9d555bf1fad199f5676312f3d&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_OpenInnovation.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源软件质量保证的基本事项:cea44bb9d555bf1fad199f5676312f3d&#34;&gt;开源软件质量保证的基本事项&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/10/basics-open-source-quality-assurance&#34;&gt;The basics of open source quality assurance&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这又让我想起来 OpenStack 的刷 Commit 事件，我很久一段时间没有关注开发的相关事项了。但是OpenStack 如此则暴露出其 review机制的问题，更深层次的问题是其项目的过渡民主化，或者是core reviewer这样一个角色的失职的惩罚问题。这也就会导致 OpenStack 项目的严重的质量问题。&lt;/p&gt;
+
+&lt;p&gt;抛开机制本身，我们回归到技术。软件的质量保证是测试，而测试会区分为单元测试、功能测试、集成测试等等，唯独不会关心，其版本控制系统提交了多少次，每次Commit是否有意义，是否是每个Commit都应该有对应的单元测试和持续集成和持续开发。&lt;/p&gt;
+
+&lt;p&gt;开源项目的质量保证，确实是个非常大的问题，Fedora、Foreman都还好，毕竟有红帽在后面花钱在让人搞。也唯有靠人类的精英，哪些软件的英雄们去早就牛逼的软件。没有天赋、靠努力、民主，将一事无成。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;at-t-购买时代华纳是希望在未来能够和google较量:cea44bb9d555bf1fad199f5676312f3d&#34;&gt;AT&amp;amp;T 购买时代华纳是希望在未来能够和Google较量&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.wired.com/2016/10/att-buying-time-warner-future-google/&#34;&gt;AT&amp;amp;T Is Buying Time Warner Because the Future is Google&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;连线的文章总是充满洞见，似乎每篇文章都是深度阅读，而不是本土的诸如cnbeta之类的，话说本土有一家像样的媒体吗？InfoQ？脱离了国际的给养，想独立走得更远点？我们拭目以待。&lt;/p&gt;
+
+&lt;p&gt;AT&amp;amp;T 运用的竞争策略，是典型的以进军竞争对手的领域，来继续霸占现有的市场的策略。因为Google、FaceBook、Amazon、乃至Netflix都在妄图进军电信网络提供商这个领域。AT&amp;amp;T不得不做出如此巨大的决策。但是很多人并不看好这样的收购，因为AT&amp;amp;T 尾大不掉，很多公司被他收购之后都垮掉了。&lt;/p&gt;
+
+&lt;p&gt;有时候在想，作为一个个体，讨论一些庞然大物的公司也好，国家也罢，意义何在？在本土最为悲哀的地方，就是标榜自己是某大公司的职工，一如当年自己是国有企业工人一样自豪，螺丝钉精神、抱大腿的态度、缺乏独立精神、拿第二本能当盾牌，我该如何处理这样的人。唯有叹息。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.23)</title>
@@ -881,98 +927,6 @@
 &lt;p&gt;开源界是一篇欣欣向荣的景象：Apache 基金会下孵化的成百上千的优秀项目、Linux及其发行版、数据库、WordPress等以及最大的开源托管平台GitHub依然是人们默认的平台。&lt;/p&gt;
 
 &lt;p&gt;但是：&lt;strong&gt;Open-Source does, however, come with its own set of challenges. It is incumbent upon the vendor to find the right monetization strategy to meet their business objectives.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.9.29)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.29%29/</link>
-      <pubDate>Thu, 29 Sep 2016 07:23:03 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_9/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.9.29%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/open-source-fotolia.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源存储正在成为主流:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;开源存储正在成为主流&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerweekly.com/feature/Open-source-storage-hits-the-mainstream&#34;&gt;Open source storage hits the mainstream&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这属必然！文中提到了做低端的存储正在下滑，尤其是带有网络文件系统的。但是文中并没有提到软件定义存储，Ceph提的也比较少。引用几句说的比较好的话：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Switching storage platforms isn’t quite as simple as moving applications or virtual machines to a new server.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;open source storage is not just ready for the mainstream – it is already there.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;红帽为何说印度是开源界的亮点:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;红帽为何说印度是开源界的亮点&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://cio.economictimes.indiatimes.com/news/corporate-news/why-red-hat-calls-india-a-bright-spot-in-open-source/54557335&#34;&gt;Why Red Hat calls India a ‘bright spot’ in Open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;先来数数印度政府和企业使用开源的单位：印度铁路、IRCTC、Bombay交所、Essar, TataSky and Mahindra Finance ，其实对比国内，一点也不比印度的差。但是接下来的对比，就会差上好多：&lt;strong&gt;“India is a land of developers, not only there’s huge number of open source users but also a strong base of contributors to open source from India.”&lt;/strong&gt; 这点能比嘛？还记得的软件外包嘛？印度似乎是真的很认真的在做这件事。而国内就只剩下抱怨、欺骗和半途而废！&lt;/p&gt;
-
-&lt;p&gt;开源的商业模式已经印度生根发芽，可以组成完整的生态系统，印度从外包到开源华丽转身，完成了一次蜕变！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovers1.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;github-所揭示的开源的状态:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;GitHub 所揭示的开源的状态&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.i-programmer.info/news/136-open-source/10126-github-octoverse-reveals-the-state-of-open-source.html&#34;&gt;GitHub Octoverse Reveals The State Of Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本点评其实就是贴几幅图，蛮有意思，比文字省力多了：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;被fork次数的项目排行榜：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovforks.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;仓库最多的：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovrepos.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;贡献开源最多的公司：（这个竟然是微软，微软确实是人多！希望它的KPI里不是按代码行数算的。）&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovorgs.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;review最多的：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovcode.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;编程语言排行榜：没错，前段的最多。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.i-programmer.info/images/stories/News/2016/Sept/B/octovers2.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源的工具可以帮助小企业节省开支和时间:e9aa96968515432209bc8deda3e6a4c0&#34;&gt;开源的工具可以帮助小企业节省开支和时间&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.theguardian.com/small-business-network/2016/sep/28/open-source-tools-help-small-businesses-cut-costs-save-time&#34;&gt;Open source tools can help small businesses cut costs and save time&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://i.guim.co.uk/img/media/f1b81082fe159c8cbee5f7f8494a75a675d96e3f/0_184_5616_3369/master/5616.jpg?w=620&amp;amp;q=20&amp;amp;auto=format&amp;amp;usm=12&amp;amp;fit=max&amp;amp;dpr=2&amp;amp;s=1df63337d21d808db749fd1dec118a13&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文的作者展示了一个全新的视角，没错，开源现在已经是一棵参天大树了，如此巨大的生态系统，小型的企业总是可以找到自己赖以生存的空间的。作者举了两个例子：web设计公司、电子邮件营销和网站分析业务。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.softwire.com/&#34;&gt;Softwire&lt;/a&gt;这家公司的领导说话蛮有意思：没有开源软件，现在的企业将无法正常运作。&lt;strong&gt;There’s no realistic way we could have built the same code ourselves from scratch,&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;实在不行，还可以亲自上手为社区提交代码，何乐而不为？&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
