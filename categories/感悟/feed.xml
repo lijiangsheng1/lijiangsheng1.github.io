@@ -7,8 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 24 Oct 2016 07:48:29 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Oct 2016 07:32:03 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.25)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.25%29/</link>
+      <pubDate>Tue, 25 Oct 2016 07:32:03 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.25%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:3773f58b29c72fe7510881b2c5181cd5&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;cloudnativecon-有关开源-容器和云原生应用的盛宴:3773f58b29c72fe7510881b2c5181cd5&#34;&gt;CloudNativeCon 有关开源、容器和云原生应用的盛宴&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/cloudnativecon-unites-leaders-open-source-container-and-cloud-native-tech&#34;&gt;CloudNativeCon Unites Leaders in Open Source, Container and Cloud Native Tech&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，每次看到如此的会议，我就忍不住想本土为何就没有如此质量高的会议？&lt;/p&gt;
+
+&lt;p&gt;本土是缺乏原创的，这是众所周知的事情。所谓的容器也好，Kubernetes也罢，顶级的专家都在美国。本土的会议，永远是某个厂商的市场活动。Meetup之类的就更无从谈起了。&lt;/p&gt;
+
+&lt;p&gt;最为可恨的是以技术的名义，发起社交者的聚会。一帮拿着别人的理想混饭吃的家伙们，&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/10/1200px-marionnette-100689246-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;github-开源了其puppet的跟踪和预览工具:3773f58b29c72fe7510881b2c5181cd5&#34;&gt;GitHub 开源了其Puppet的跟踪和预览工具&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3133974/open-source-tools/github-open-sources-tool-to-track-and-preview-puppet-changes.html&#34;&gt;GitHub open-sources tool to track and preview Puppet changes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，GitHub 是一家闭源的互联网厂商，正在慢慢的开源一些服务器、集群、运维的工具。比如前一阵子的负载均衡，以及本次的Puppet工具。&lt;/p&gt;
+
+&lt;p&gt;GitHub 也是找了一些开源的专业人士过去的，比如Jono Bacon就在担任社区总监。它的开源其实只有一个目的：洗清自己被人诟病的闭源罪名。&lt;/p&gt;
+
+&lt;p&gt;GitHub 做的蛮好，其借鉴了 SourceForge的教训，知道如何做到让人们相信它，而且也很好的找到了商业模式，加上社交（面基）的特性。相比而言，本土的几家代码托管厂商，天生的畸形以及难以做到让人信任的地步。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/law/LAW_lawdotgov2.png?itok=YnHs9GMW&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;分布式的加密软件可能是违法的:3773f58b29c72fe7510881b2c5181cd5&#34;&gt;分布式的加密软件可能是违法的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/law/16/10/distributing-encryption-software-may-break-law&#34;&gt;Distributing encryption software may break the law&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;法制国家，出口控制，法律，FOSS。&lt;/p&gt;
+
+&lt;p&gt;好吧，你赢了。我没有看懂这篇文章。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.24)</title>
@@ -872,64 +932,6 @@
 &lt;li&gt;引用的几篇文章，蛮有代表性，开源与金钱，以及什么是Open Core，什么是Open Source。&lt;/li&gt;
 &lt;li&gt;本文的结构，典型的软文，不留一丝的痕迹。堪称经典，因为为范文，毫不为过。&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.10)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.10%29/</link>
-      <pubDate>Mon, 10 Oct 2016 08:15:34 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.10%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:70c98af1259d95e46e24f2769569c7bc&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;在竞争中我们需转向平台的竞争:70c98af1259d95e46e24f2769569c7bc&#34;&gt;在竞争中我们需转向平台的竞争&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/gregsatell/2016/10/07/platforms-are-transforming-how-we-need-to-compete/#bfef25950167&#34;&gt;Here&amp;rsquo;s How Platforms Are Transforming How We Need To Compete&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是&lt;a href=&#34;http://amzn.to/2cQ9cWy&#34;&gt;Mapping Innovation&lt;/a&gt;一书的书摘，作者论述了竞争的变化，开放与协作是当前竞争的主要策略，影响过去半个多世纪的 Michael Porter 的理论很难在新世纪站住脚跟。&lt;/p&gt;
-
-&lt;p&gt;关于开放，作者提到的Linux的成功，协作的力量，并以微软为例，对待Linux从敌对到拥抱，从而佐证平台的力量。&lt;/p&gt;
-
-&lt;p&gt;Bill Joy &lt;a href=&#34;https://en.wikipedia.org/wiki/Joy%27s_law_(management&#34;&gt;法则&lt;/a&gt;)：&lt;strong&gt;“no matter who you are, most of the smartest people work for someone else.”&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/08/gettyimages-588616024.jpg?w=1294&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;一个去中心化的web将会为人们在线重注力量:70c98af1259d95e46e24f2769569c7bc&#34;&gt;一个去中心化的web将会为人们在线重注力量&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/10/09/a-decentralized-web-would-give-power-back-to-the-people-online/&#34;&gt;A decentralized web would give power back to the people online&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Google 发布了Duo，然而对于本文来说也只是一个引子罢了。&lt;/p&gt;
-
-&lt;p&gt;Web的发展超出了当年Tim Berners-Lee等人提出的样子。未来将会如何发展？竞争、重复劳动，那有如何？世界在往前走！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.unixstuff.net/images/fsf.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;31年前-自由软件基金会成立:70c98af1259d95e46e24f2769569c7bc&#34;&gt;31年前：自由软件基金会成立&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.techdirt.com/articles/20161007/09354035738/this-week-techdirt-history-october-2nd-8th.shtml&#34;&gt;Thirty-One Years Ago&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;1985年10月4日，自由软件基金会创立！ ** has been one of the driving forces and defining voices in the entire open source movement**&lt;/p&gt;
-
-&lt;p&gt;什么叫做改变世界？这就是！&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
