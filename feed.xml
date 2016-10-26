@@ -7,8 +7,72 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 25 Oct 2016 07:32:03 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Oct 2016 08:42:12 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.26)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.26%29/</link>
+      <pubDate>Wed, 26 Oct 2016 08:42:12 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.26%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_shift.png?itok=KeIKlym-&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;文章点评:49a4fe1ae8999b23f4e8ac6652685659&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;文化对于鼓励创新作用非常之大:49a4fe1ae8999b23f4e8ac6652685659&#34;&gt;文化对于鼓励创新作用非常之大&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/10/why-organizational-culture-matters&#34;&gt;Culture matters for encouraging innovative behaviors&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没错，本篇就是红帽的CEO&lt;a href=&#34;https://opensource.com/users/jwhitehurst&#34;&gt;Jim Whitehurst&lt;/a&gt;近来的一篇文章，而我们知道的是他的书中文版《开放性组织》刚刚在中国大陆出版。&lt;/p&gt;
+
+&lt;p&gt;自由，很重要！有很大一部分人不理解，为何开源总是和创新挂钩？尤其是国人。因为创新的前提就是自由！尤其是思想的自由！&lt;/p&gt;
+
+&lt;p&gt;本文，如果有机会，我会翻译出来，此处我仅引用一些我认为好的内容。&lt;/p&gt;
+
+&lt;p&gt;**Your organizational culture is actually the relationship between the values your organization espouses and the behaviors of the people who make it up. **&lt;/p&gt;
+
+&lt;p&gt;**Innovation isn&amp;rsquo;t just another outcome of hierarchical machination. In fact, by definition, innovation is something that can&amp;rsquo;t always be predicted or controlled—quite the opposite of what hierarchies are designed to achieve! **&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;沃尔玛是如何激励开源的-openstack-模式的:49a4fe1ae8999b23f4e8ac6652685659&#34;&gt;沃尔玛是如何激励开源的 OpenStack 模式的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.eweek.com/cloud/how-walmart-is-embracing-the-open-source-openstack-model.html&#34;&gt;How Walmart Is Embracing the Open-Source OpenStack Model&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;巴塞罗纳，西班牙，这周你听到的可能不是足球，梅西，而是 OpenStack 峰会。其实，OpenStack 峰会的副作用就是招聘。每家相关的厂商都在自己的展台上打着“We are hiring！” 无论是发行版，还是周边的生态伙伴，乃至是最终用户，开源的项目好是好，就是招聘到能搞定它的人太难了。&lt;/p&gt;
+
+&lt;p&gt;沃尔玛在电子商务崛起的日子里，显然有点没有跟上，竞争力稍显疲软。从ebay 挖来技术高官，拥抱开源，选择 OpenStack ！招聘更多的社区、开源人才。沃尔玛有什么可以炫耀的？嗯，这里是全球第一大零售商，独立的开源小团队，内部实施Inner-Source，积极反馈社区，并会将内部开发的软件剥离出来开源。这就是吸引力，哪家公司又能做到这点了呢？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源的状态-来自rackspace的调查:49a4fe1ae8999b23f4e8ac6652685659&#34;&gt;开源的状态，来自Rackspace的调查&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.enterprisetimes.co.uk/2016/10/25/rackspace-state-open-source/&#34;&gt;The Rackspace State of Open Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;刚刚谈完沃尔玛，现在我们再来看看OpenStack的鼻祖，和NASA一起贡献了OpenStack的厂家。此次的调查结果，也可能是Rackspace的开源策略是否没有走好的一次辩解。但是是一篇思路非常清晰的文章。&lt;/p&gt;
+
+&lt;p&gt;什么是企业级开源？企业为什么会采用开源？&lt;/p&gt;
+
+&lt;p&gt;创新、省钱、提升竞争力是采用开源三大原因。&lt;/p&gt;
+
+&lt;p&gt;我不由的又想到了本土，上述三大原因，恐怕一个也没有。因为国人还没有准备好开源了。而是将开源视为过去兜售产品的一样。这恐怕难以一时半会改变。需要更多的布道。胆小、保守、怯弱、贪婪、奴隶等性格和思维定势，开源的买卖在本土将非常的难做。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.25)</title>
@@ -879,59 +943,6 @@
 
 &lt;p&gt;世界所定义的哪些规则，从来就不是按照你自己的愿望来的。妥协、争取似乎是这个世界的运转方式，偶尔出现的独裁者，绝大多数会被灭亡！开放、参与、共赢、共生。the better world.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.11)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.11%29/</link>
-      <pubDate>Tue, 11 Oct 2016 07:33:06 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.11%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:041dfa1706dd0a044c64e38f60a9e130&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;技术内幕-开源的商业模式:041dfa1706dd0a044c64e38f60a9e130&#34;&gt;技术内幕：开源的商业模式&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.bangaloremirror.com/bangalore/others/Tech-Insider-Open-source-business-models/articleshow/54769417.cms&#34;&gt;TECH INSIDER: OPEN SOURCE BUSINESS MODELS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是写给非开源技术人士看的文章，从传统的经济学来思考开源经济，并探讨了软件的特性，比如开发会花时间和耗费大量的金钱，但是复制却非常的容易。甚至以塑料椅子为例来阐述这些。&lt;/p&gt;
-
-&lt;p&gt;接下来就是我们耳熟能详的，比如Apple的Store模式是如何和开发者分成的，为何Windows10是可以免费下载的，Goolge Chrome为何是开源且免费的，Linux的主要开发者都是有公司为开发者发工资的（占75%）。&lt;/p&gt;
-
-&lt;p&gt;有时候，跳出来看这些事情其实蛮有好处的。开源本身并不能赚钱，红帽靠的是服务和支持，但是正如《营销管理》中所说，没有复制的商业模式是可以成为成功的企业的。所以必须另辟蹊径来做这件事。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_integralintegration.png?itok=bOBwD2sh&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源的力量来自于用户的自由:041dfa1706dd0a044c64e38f60a9e130&#34;&gt;开源的力量来自于用户的自由&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/10/power-open-source-customer-freedom&#34;&gt;The power of open source is customer freedom&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文的作者是鼎鼎大名的&lt;a href=&#34;http://www.percona.com/&#34;&gt;Percona&lt;/a&gt;的CEO——Peter Zaitsev，多年以来经营开源数据库——MySQL的公司，总结了自己一路走过来，如何赢得用户的心得。&lt;/p&gt;
-
-&lt;p&gt;** If you are going to successfully sell to the open source community, you need to demonstrate that you have the same principles that they do. You need to earn their respect. You don&amp;rsquo;t get that by forcing vendor lock-in. You get that from being a trusted advisor.**&lt;/p&gt;
-
-&lt;p&gt;开源没有投机取巧，赢得用户的尊重，持之以恒，能够解决用户的燃眉之急。这就是开源！&lt;/p&gt;
-
-&lt;p&gt;本文的其他看点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;引用的几篇文章，蛮有代表性，开源与金钱，以及什么是Open Core，什么是Open Source。&lt;/li&gt;
-&lt;li&gt;本文的结构，典型的软文，不留一丝的痕迹。堪称经典，因为为范文，毫不为过。&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
