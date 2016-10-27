@@ -7,8 +7,95 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 27 Oct 2016 08:24:28 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Oct 2016 06:47:10 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.28)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.28%29/</link>
+      <pubDate>Fri, 28 Oct 2016 06:47:10 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.28%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;As computing pushes us forward, open source is a positive sum game.&lt;/strong&gt;
+     Jonathan Bryce  (executive director of the OpenStack Foundation)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:342a09d97095852e49a3963f6f9343f0&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://16315-presscdn-0-27.pagely.netdna-cdn.com/wp-content/uploads/2016/02/Fotolia-studio-sarah-86910938_Sub_770px-670x407.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;匹兹堡大学合作为癌症基因数据开发开源软件:342a09d97095852e49a3963f6f9343f0&#34;&gt;匹兹堡大学合作为癌症基因数据开发开源软件&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.bizjournals.com/pittsburgh/news/2016/10/27/pitt-partners-create-open-source-software.html&#34;&gt;Pitt, partners create open source software for cancer genome data&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有梦想与情怀，也许是能够让这个世界进步的真正原因。&lt;/p&gt;
+
+&lt;p&gt;GFW 不是障碍，障碍的是若你未自己设限，那真的就永远不可能超越。这篇文章本身并没有什么，但是你会反观自己身边的发生的事情。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://windowsitpro.com/site-files/windowsitpro.com/files/imagecache/large_img/uploads/2016/10/screenshot-2016-10-27-080018.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开启你作为一名开源开发者的职业生涯:342a09d97095852e49a3963f6f9343f0&#34;&gt;开启你作为一名开源开发者的职业生涯&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://windowsitpro.com/development/starting-career-open-source-developer&#34;&gt;Starting a Career as an Open Source Developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;人们都喜欢赶潮流，往人多的地方走。随大流，总是没有错的。迪斯尼、约翰迪尔、和沃尔玛有何共同之处？那就是均在GitHub上拥有仓库！并踊跃的参与开发当中。&lt;/p&gt;
+
+&lt;p&gt;文中的演讲者／布道师非常的夸张，他说无论一家公司是属于哪个行业的，都有可能成为一家软件公司。但是他在文末提出的4步法，非常的实在：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;you have to have a problem.&lt;/li&gt;
+&lt;li&gt;you have to find (OpenSource)software that solves that problem.&lt;/li&gt;
+&lt;li&gt;you have to find deficiencies in that software.&lt;/li&gt;
+&lt;li&gt;somehow report those deficiencies and start to engage with the project.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源解决的是人本身的问题。解放了被大型企业奴役的人们。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;零售界巨头沃尔玛是如何将开源放在首位的:342a09d97095852e49a3963f6f9343f0&#34;&gt;零售界巨头沃尔玛是如何将开源放在首位的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://diginomica.com/2016/10/27/a-look-at-how-retail-giant-walmart-is-becoming-open-source-first/&#34;&gt;A look at how retail giant Walmart is becoming open source first&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;曾经为InfoQ提供了Inner Source在沃尔玛实践的一篇文章，自那之后，沃尔玛就一直在开源圈里开始打造自己的名誉里。也开源了很多项目，当然频频在媒体报道也是。我们来看看细节：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://16315-presscdn-0-27.pagely.netdna-cdn.com/wp-content/uploads/2016/01/community-768x482.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;倡导开源文化！！&lt;/li&gt;
+&lt;li&gt;切换到开源不是一蹴而就的，要经历重新设计架构、服务，以及技术栈。目标是适应这个数字的时代。&lt;/li&gt;
+&lt;li&gt;every company is a technology company now. 大实话！！！&lt;/li&gt;
+&lt;li&gt;One of the things I love about about the OpenStack community, outside of the software, is the sharing of knowledge and best practices.&lt;/li&gt;
+&lt;li&gt;开源优先:不仅仅是说开源是好的，OK的，而是要鼓励开源、融入、参与开源。&lt;/li&gt;
+&lt;li&gt;参与的力量：&lt;strong&gt;Instead of asking for a roadmap, the operators, such as Walmart, can actually change, accelerate and deliver the roadmap.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;沃尔玛已经掌握了开源的精髓！！为自己的团队打上了深深的烙印，这都得归功于Jeremy King认职CTO以来一直所倡导的文化！&lt;/p&gt;
+
+&lt;p&gt;没有文化作为基础和积淀，实施开源就会完全失败！华为可能就会是一个很好的例子。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.27)</title>
@@ -884,66 +971,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;看完这7个，发现了什么？我已经是一个老程序员了，我依然停留在Emacs和vim的插件的年代！现在人际都要截图、js化、前段化、移动手机化&amp;hellip;&amp;hellip;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.13)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.13%29/</link>
-      <pubDate>Thu, 13 Oct 2016 07:36:56 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.13%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:9704e906e3567a2dfb6b1564257da4d5&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;红帽2017高峰会议开始召集演讲者了:9704e906e3567a2dfb6b1564257da4d5&#34;&gt;红帽2017高峰会议开始召集演讲者了&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.businesswire.com/news/home/20161011006135/en/Call-Proposals-Red-Hat-Summit-2017-Open&#34;&gt;Call for Proposals for Red Hat Summit 2017 Now Open&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;RedHat Summit 俨然成为了开源者的盛宴，甚至不亚于LinuxCon、OSCON等开源大会，成为了企业级采用开源的风向标。2016年举办的会议，参会人员达到了5500！我个人参加过的大会是东京的OpenStack summit，也不过5000人罢了。&lt;/p&gt;
-
-&lt;p&gt;背景：开源已经是企业选择的主流，开源是业界创新的动力引擎，在企业完成数字转变的过程中拥有举足轻重的作用，&lt;strong&gt;Open source methodologies are changing how work gets done and inspiring new forms of collaboration.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;看看2017年的分类：Linux 即RHEL哪里去了？Middleware哪里去了？世界是否变得陌生？要应对变化！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_darwincloud_520x292_0311LL.png?itok=5yWIaEDe&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;认识一下为openstack做出贡献的活跃用户:9704e906e3567a2dfb6b1564257da4d5&#34;&gt;认识一下为OpenStack做出贡献的活跃用户&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/10/interview-maish-saidel-keesing-openstack-summit&#34;&gt;Recognizing active user contributors to OpenStack&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我自己曾经是OpenStack的活跃用户，即AUC（Active User Contributor.）所以知道这些都是真的。&lt;/p&gt;
-
-&lt;p&gt;一个社区犹如一个虚拟的、完美的、小型的社会，所以需要各种各样的规则，尤其是激励方式，因为社区存在的目的是让要生产的内容（如软件）更加的完满，尤其是在没有任何金钱激励的情况下，公平、透明、清晰明了的规则、可见的晋级制度等等，一个都不能少。&lt;/p&gt;
-
-&lt;p&gt;为开源社区做贡献，绝不仅仅是贡献代码！比如做测试、维护基础设施、撰写文档、组织社区活动、提供反馈等等，完善等生态系统，不仅仅是代码，而是围绕代码这个核心形成完善的闭合的生态！加油吧，少年！永远的AUC！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;at-t-将在2017年第一季度开源其软件定义网络的平台ecomp:9704e906e3567a2dfb6b1564257da4d5&#34;&gt;AT&amp;amp;T 将在2017年第一季度开源其软件定义网络的平台ECOMP&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://finance.yahoo.com/news/t-t-unveil-ecomp-open-122212392.html&#34;&gt;AT&amp;amp;T (T) to Unveil ECOMP in Open Source Industry in 1Q17&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;为什么要提前说要开源某个项目？AT&amp;amp;T 背后究竟是如何思考的？&lt;/p&gt;
-
-&lt;p&gt;软件定义网络，网络功能虚拟化，都是电信级巨头们思考的方向，具体的实施、标准，依旧是一片竞争。AT&amp;amp;T 这次选择的开源，毋宁说是开放的合作模式。比较谨慎！&lt;/p&gt;
-
-&lt;p&gt;世界所定义的哪些规则，从来就不是按照你自己的愿望来的。妥协、争取似乎是这个世界的运转方式，偶尔出现的独裁者，绝大多数会被灭亡！开放、参与、共赢、共生。the better world.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
