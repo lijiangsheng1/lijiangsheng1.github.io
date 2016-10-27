@@ -7,8 +7,76 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Oct 2016 08:42:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Oct 2016 08:24:28 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.27)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.27%29/</link>
+      <pubDate>Thu, 27 Oct 2016 08:24:28 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.27%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:71e92f8f76ad21c16453ce0645419d36&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/osdc-all-things-open-inc0297788-0815sw-1.png?itok=NWNqqq-q&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;红帽-ceo-万物皆开放-并非仅仅指技术:71e92f8f76ad21c16453ce0645419d36&#34;&gt;红帽 CEO：“万物皆开放” 并非仅仅指技术&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.bizjournals.com/triangle/news/2016/10/26/red-hat-ceo-all-things-open-isnt-just-about.html&#34;&gt;Red Hat CEO: &amp;lsquo;All things open&amp;rsquo; isn&amp;rsquo;t just about technology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;All things Open 峰会即将举行，作为红帽所倡导的哲学思想，当然会为之摇旗呐喊了。&lt;/p&gt;
+
+&lt;p&gt;是的，开源软件已经用实际行动证明了，开源是可行的，无论是生产模式，还是商业模式。但是，它其实应该在更多的领域发挥它的巨大的创新能力。比如全球变暖问题、治愈癌症等。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“We know that bureaucracies, hierarchies, are really good at driving efficiency,” he says. “They’re not good at innovating.&amp;rdquo;&lt;/strong&gt; 所谓的经济奇迹，也不过是放松了对于人的管制而已。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么说开源专家对于你的企业很重要:71e92f8f76ad21c16453ce0645419d36&#34;&gt;为什么说开源专家对于你的企业很重要&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cxoinsight/why-professional-open-source-management-is-critical-for-your-business-nid-23220-cid-92.html&#34;&gt;Why professional open source management is Critical for your business&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是我不知道第几次听说过这个职位了，一家公司专门主管开源方面工作的，微软、Oracle、VMware、华为（开源能力中心）等，这次是Yahoo，主持了Hadoop、Spark、Zookeeper等，以及内部的项目。相信是蛮有说服力的了。&lt;/p&gt;
+
+&lt;p&gt;作者说道，开源不再是一件可有可无的事情了，已经发展成为一种态势，对于企业提高竞争力一个不得不提到的环节：人才的竞争、开发成本的降低、对于趋势的把握和敏感直觉、乃至创新的动力等等。&lt;/p&gt;
+
+&lt;p&gt;结论是：你的企业需要懂开源的人才，即&lt;strong&gt;Open Source Program office.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-business.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;企业开源势不可挡-无论是技术还是其它领域:71e92f8f76ad21c16453ce0645419d36&#34;&gt;企业开源势不可挡——无论是技术还是其它领域&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/enterprise-open-source-programs-flourish-tech-and-elsewhere&#34;&gt;Enterprise Open Source Programs Flourish &amp;ndash; In Tech and Elsewhere&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;好文！开始先论述15年的人们对待开源的态度，犹如看1958年大跃进的照片一样令人不可思议，微软CEO抨击Linux破坏了整个软件产业。15年之后的今天，微软态度转变，拥抱开源，和红帽联姻，勾搭FreeBSD。然后开始列举哪些默默为开源做贡献的公司：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Netflix:&lt;a href=&#34;https://netflix.github.io/&#34;&gt;开源软件中心&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ericsson.com/article/open_source_1714451213_c&#34;&gt;爱立信&lt;/a&gt;，一下子我就想到了这是一篇说爱立信好的软文。NFV 一共没有多少年。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/openness/default.aspx#home&#34;&gt;微软&lt;/a&gt; 接二连三的开源。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.walmartlabs.com/innovation/open-source/&#34;&gt;沃尔玛&lt;/a&gt;成立了专门的实验室，也是开源界的佳话。&lt;/li&gt;
+&lt;li&gt;Moilla、Facebook、Google等我就不多说了。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;但是似乎没有谈到非软件领域。可能草草收尾。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.26)</title>
@@ -883,66 +951,6 @@
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:d5df6840db42c1047c220ab73aa2919a:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.13)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.13%29/</link>
-      <pubDate>Thu, 13 Oct 2016 07:36:56 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.13%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:9704e906e3567a2dfb6b1564257da4d5&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;红帽2017高峰会议开始召集演讲者了:9704e906e3567a2dfb6b1564257da4d5&#34;&gt;红帽2017高峰会议开始召集演讲者了&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.businesswire.com/news/home/20161011006135/en/Call-Proposals-Red-Hat-Summit-2017-Open&#34;&gt;Call for Proposals for Red Hat Summit 2017 Now Open&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;RedHat Summit 俨然成为了开源者的盛宴，甚至不亚于LinuxCon、OSCON等开源大会，成为了企业级采用开源的风向标。2016年举办的会议，参会人员达到了5500！我个人参加过的大会是东京的OpenStack summit，也不过5000人罢了。&lt;/p&gt;
-
-&lt;p&gt;背景：开源已经是企业选择的主流，开源是业界创新的动力引擎，在企业完成数字转变的过程中拥有举足轻重的作用，&lt;strong&gt;Open source methodologies are changing how work gets done and inspiring new forms of collaboration.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;看看2017年的分类：Linux 即RHEL哪里去了？Middleware哪里去了？世界是否变得陌生？要应对变化！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_darwincloud_520x292_0311LL.png?itok=5yWIaEDe&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;认识一下为openstack做出贡献的活跃用户:9704e906e3567a2dfb6b1564257da4d5&#34;&gt;认识一下为OpenStack做出贡献的活跃用户&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/10/interview-maish-saidel-keesing-openstack-summit&#34;&gt;Recognizing active user contributors to OpenStack&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我自己曾经是OpenStack的活跃用户，即AUC（Active User Contributor.）所以知道这些都是真的。&lt;/p&gt;
-
-&lt;p&gt;一个社区犹如一个虚拟的、完美的、小型的社会，所以需要各种各样的规则，尤其是激励方式，因为社区存在的目的是让要生产的内容（如软件）更加的完满，尤其是在没有任何金钱激励的情况下，公平、透明、清晰明了的规则、可见的晋级制度等等，一个都不能少。&lt;/p&gt;
-
-&lt;p&gt;为开源社区做贡献，绝不仅仅是贡献代码！比如做测试、维护基础设施、撰写文档、组织社区活动、提供反馈等等，完善等生态系统，不仅仅是代码，而是围绕代码这个核心形成完善的闭合的生态！加油吧，少年！永远的AUC！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;at-t-将在2017年第一季度开源其软件定义网络的平台ecomp:9704e906e3567a2dfb6b1564257da4d5&#34;&gt;AT&amp;amp;T 将在2017年第一季度开源其软件定义网络的平台ECOMP&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://finance.yahoo.com/news/t-t-unveil-ecomp-open-122212392.html&#34;&gt;AT&amp;amp;T (T) to Unveil ECOMP in Open Source Industry in 1Q17&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;为什么要提前说要开源某个项目？AT&amp;amp;T 背后究竟是如何思考的？&lt;/p&gt;
-
-&lt;p&gt;软件定义网络，网络功能虚拟化，都是电信级巨头们思考的方向，具体的实施、标准，依旧是一片竞争。AT&amp;amp;T 这次选择的开源，毋宁说是开放的合作模式。比较谨慎！&lt;/p&gt;
-
-&lt;p&gt;世界所定义的哪些规则，从来就不是按照你自己的愿望来的。妥协、争取似乎是这个世界的运转方式，偶尔出现的独裁者，绝大多数会被灭亡！开放、参与、共赢、共生。the better world.&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     

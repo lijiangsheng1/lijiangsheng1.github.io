@@ -7,8 +7,76 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Oct 2016 08:42:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Oct 2016 08:24:28 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.10.27)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.27%29/</link>
+      <pubDate>Thu, 27 Oct 2016 08:24:28 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.27%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:71e92f8f76ad21c16453ce0645419d36&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/osdc-all-things-open-inc0297788-0815sw-1.png?itok=NWNqqq-q&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;红帽-ceo-万物皆开放-并非仅仅指技术:71e92f8f76ad21c16453ce0645419d36&#34;&gt;红帽 CEO：“万物皆开放” 并非仅仅指技术&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.bizjournals.com/triangle/news/2016/10/26/red-hat-ceo-all-things-open-isnt-just-about.html&#34;&gt;Red Hat CEO: &amp;lsquo;All things open&amp;rsquo; isn&amp;rsquo;t just about technology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;All things Open 峰会即将举行，作为红帽所倡导的哲学思想，当然会为之摇旗呐喊了。&lt;/p&gt;
+
+&lt;p&gt;是的，开源软件已经用实际行动证明了，开源是可行的，无论是生产模式，还是商业模式。但是，它其实应该在更多的领域发挥它的巨大的创新能力。比如全球变暖问题、治愈癌症等。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“We know that bureaucracies, hierarchies, are really good at driving efficiency,” he says. “They’re not good at innovating.&amp;rdquo;&lt;/strong&gt; 所谓的经济奇迹，也不过是放松了对于人的管制而已。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么说开源专家对于你的企业很重要:71e92f8f76ad21c16453ce0645419d36&#34;&gt;为什么说开源专家对于你的企业很重要&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cxoinsight/why-professional-open-source-management-is-critical-for-your-business-nid-23220-cid-92.html&#34;&gt;Why professional open source management is Critical for your business&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是我不知道第几次听说过这个职位了，一家公司专门主管开源方面工作的，微软、Oracle、VMware、华为（开源能力中心）等，这次是Yahoo，主持了Hadoop、Spark、Zookeeper等，以及内部的项目。相信是蛮有说服力的了。&lt;/p&gt;
+
+&lt;p&gt;作者说道，开源不再是一件可有可无的事情了，已经发展成为一种态势，对于企业提高竞争力一个不得不提到的环节：人才的竞争、开发成本的降低、对于趋势的把握和敏感直觉、乃至创新的动力等等。&lt;/p&gt;
+
+&lt;p&gt;结论是：你的企业需要懂开源的人才，即&lt;strong&gt;Open Source Program office.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-business.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;企业开源势不可挡-无论是技术还是其它领域:71e92f8f76ad21c16453ce0645419d36&#34;&gt;企业开源势不可挡——无论是技术还是其它领域&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/enterprise-open-source-programs-flourish-tech-and-elsewhere&#34;&gt;Enterprise Open Source Programs Flourish &amp;ndash; In Tech and Elsewhere&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;好文！开始先论述15年的人们对待开源的态度，犹如看1958年大跃进的照片一样令人不可思议，微软CEO抨击Linux破坏了整个软件产业。15年之后的今天，微软态度转变，拥抱开源，和红帽联姻，勾搭FreeBSD。然后开始列举哪些默默为开源做贡献的公司：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Netflix:&lt;a href=&#34;https://netflix.github.io/&#34;&gt;开源软件中心&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ericsson.com/article/open_source_1714451213_c&#34;&gt;爱立信&lt;/a&gt;，一下子我就想到了这是一篇说爱立信好的软文。NFV 一共没有多少年。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/openness/default.aspx#home&#34;&gt;微软&lt;/a&gt; 接二连三的开源。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.walmartlabs.com/innovation/open-source/&#34;&gt;沃尔玛&lt;/a&gt;成立了专门的实验室，也是开源界的佳话。&lt;/li&gt;
+&lt;li&gt;Moilla、Facebook、Google等我就不多说了。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;但是似乎没有谈到非软件领域。可能草草收尾。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.26)</title>
@@ -877,59 +945,6 @@
 
 &lt;p&gt;世界所定义的哪些规则，从来就不是按照你自己的愿望来的。妥协、争取似乎是这个世界的运转方式，偶尔出现的独裁者，绝大多数会被灭亡！开放、参与、共赢、共生。the better world.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.11)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.11%29/</link>
-      <pubDate>Tue, 11 Oct 2016 07:33:06 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.11%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:041dfa1706dd0a044c64e38f60a9e130&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;技术内幕-开源的商业模式:041dfa1706dd0a044c64e38f60a9e130&#34;&gt;技术内幕：开源的商业模式&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.bangaloremirror.com/bangalore/others/Tech-Insider-Open-source-business-models/articleshow/54769417.cms&#34;&gt;TECH INSIDER: OPEN SOURCE BUSINESS MODELS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是写给非开源技术人士看的文章，从传统的经济学来思考开源经济，并探讨了软件的特性，比如开发会花时间和耗费大量的金钱，但是复制却非常的容易。甚至以塑料椅子为例来阐述这些。&lt;/p&gt;
-
-&lt;p&gt;接下来就是我们耳熟能详的，比如Apple的Store模式是如何和开发者分成的，为何Windows10是可以免费下载的，Goolge Chrome为何是开源且免费的，Linux的主要开发者都是有公司为开发者发工资的（占75%）。&lt;/p&gt;
-
-&lt;p&gt;有时候，跳出来看这些事情其实蛮有好处的。开源本身并不能赚钱，红帽靠的是服务和支持，但是正如《营销管理》中所说，没有复制的商业模式是可以成为成功的企业的。所以必须另辟蹊径来做这件事。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_integralintegration.png?itok=bOBwD2sh&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源的力量来自于用户的自由:041dfa1706dd0a044c64e38f60a9e130&#34;&gt;开源的力量来自于用户的自由&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/10/power-open-source-customer-freedom&#34;&gt;The power of open source is customer freedom&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文的作者是鼎鼎大名的&lt;a href=&#34;http://www.percona.com/&#34;&gt;Percona&lt;/a&gt;的CEO——Peter Zaitsev，多年以来经营开源数据库——MySQL的公司，总结了自己一路走过来，如何赢得用户的心得。&lt;/p&gt;
-
-&lt;p&gt;** If you are going to successfully sell to the open source community, you need to demonstrate that you have the same principles that they do. You need to earn their respect. You don&amp;rsquo;t get that by forcing vendor lock-in. You get that from being a trusted advisor.**&lt;/p&gt;
-
-&lt;p&gt;开源没有投机取巧，赢得用户的尊重，持之以恒，能够解决用户的燃眉之急。这就是开源！&lt;/p&gt;
-
-&lt;p&gt;本文的其他看点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;引用的几篇文章，蛮有代表性，开源与金钱，以及什么是Open Core，什么是Open Source。&lt;/li&gt;
-&lt;li&gt;本文的结构，典型的软文，不留一丝的痕迹。堪称经典，因为为范文，毫不为过。&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
