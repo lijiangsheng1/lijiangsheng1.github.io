@@ -7,8 +7,76 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 28 Oct 2016 06:47:10 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Nov 2016 08:11:51 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.01)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.01%29/</link>
+      <pubDate>Tue, 01 Nov 2016 08:11:51 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.01%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:9add4807e5a092b456671492ac1e4ec8&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;微软会真的开源吗:9add4807e5a092b456671492ac1e4ec8&#34;&gt;微软会真的开源吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://rcpmag.com/articles/2016/10/01/microsoft-gets-open.aspx&#34;&gt;Does Microsoft Finally Get Open Source?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;相信很多开源的人，骂了20多年的微软，突然的转向让很多人措手不及。于是开始怀疑，本文就是代表这样的一类人发的声音。&lt;/p&gt;
+
+&lt;p&gt;质疑微软挖开源高官，和红帽联姻，乃至各个开源项目的真实性。其实，很多在开源界混久的人是无法（根本没有兴趣）去检查哪些代码是否是真的开源。&lt;/p&gt;
+
+&lt;p&gt;其实，我也算是质疑者之一。微软尾大不掉，不论是在移动端，还是云计算都失掉了先机，主要是和开源站在了对立面，没有想过开源会发展为这样的局势。现在青睐，确实需要做很多事情，然而还得不能一副媚俗的嘴脸。好吧，我们拭目以待吧。它融入开源需要很长的路。整个技术stack都不一样。一直是自己玩自己的。&lt;/p&gt;
+
+&lt;p&gt;开源绝不仅仅是将代码开放，还有很多的因素需要考虑进来。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/wp-content/uploads/2016/10/Open-Patient.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源将改变保健行业:9add4807e5a092b456671492ac1e4ec8&#34;&gt;开源将改变保健行业&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/verticals/ehealth/open-source-can-change-healthcare/&#34;&gt;How open source can change the face of healthcare&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;软文的前提是一定要提大厂，比如本文就会说IBM、Google、微软是如何支撑开源的了，然后说开放是21世纪最为优秀的创新模式之一。&lt;/p&gt;
+
+&lt;p&gt;红帽，一家优秀的商业公司。确实做的不简单。比如品牌，人家的VP会这么说：“Red Hat is a mission-based company.  People come to work at Red Hat because we fundamentally believe in the goodness of open source.  It’s not just about code, it’s about transparency and accessibility of information.” 我知道，在本土，你要是这么说一定有人诋毁你、攻击你！这些攻击你的人，恰恰会拿过去30年走过的路来攻击你，而他们号称自己是相信我党的。&lt;/p&gt;
+
+&lt;p&gt;嗯，有的时候，人们似乎需要这些媒体的引导！否则，堕落、腐败、固步自封的他们该如何选择一家厂商，而自己又不会将饭碗丢掉。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.outsideonline.com/sites/default/files/styles/img_900x500/public/sustainable-patagonia-wetsuit_h.jpg?itok=ZP8IHdzu&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;哪些搞户外的公司-是时候开源你们的技术了:9add4807e5a092b456671492ac1e4ec8&#34;&gt;哪些搞户外的公司：是时候开源你们的技术了&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.outsideonline.com/sites/default/files/styles/img_900x500/public/sustainable-patagonia-wetsuit_h.jpg?itok=ZP8IHdzu&#34;&gt;Outdoor Gear Companies: It&amp;rsquo;s Time to Open-Source Your Technology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源已经不再是软件的事情了。它已经走进了很多的领域，且看下面几个例子：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2010, Nike set up what it called the GreenXChange, a Creative Commons–style marketplace for intellectual property, with other large companies like Best Buy and DuPont.&lt;/li&gt;
+&lt;li&gt;In March, as a part of World Water Day, Levi’s released its Water&amp;lt;Less washing process, which it developed after realizing it took 3,781 liters of water to make a single pair of jeans.&lt;/li&gt;
+&lt;li&gt;Tesla—where opening up intellectual property is viewed as a way to improve the quality of an entire industry.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;比如服装行业，开源可以让他们能够盈利更多、环保更多！不愧为21世界最佳的创新模式之一。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.10.28)</title>
@@ -893,84 +961,6 @@
 &lt;p&gt;开源！究竟能走多远？对于人类究竟是好还是坏？&lt;/p&gt;
 
 &lt;p&gt;似乎任何关于道德、自由的东西，都有可能被政治利用。利用有两面。本土的只有搅和。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.14)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.14%29/</link>
-      <pubDate>Fri, 14 Oct 2016 07:08:59 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.14%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:aae34f90ac3ec59d713f46b8cfdefb6c&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://fedscoop.com/events/redhatgov/2016/images/RedHat-Header.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;红帽将举办2016政府研讨会:aae34f90ac3ec59d713f46b8cfdefb6c&#34;&gt;红帽将举办2016政府研讨会&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://finance.yahoo.com/news/2016-red-hat-government-symposium-120000006.html&#34;&gt;2016 Red Hat Government Symposium to Highlight Open Source&amp;rsquo;s Role in Government Digital Transformation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;具体安排见&lt;a href=&#34;http://fedscoop.com/events/redhatgov/2016/&#34;&gt;Fedscoop&lt;/a&gt;，可谓是整容强大，合作伙伴／赞助商也是大佬齐聚。&lt;/p&gt;
-
-&lt;p&gt;如此这般，开源该怎么玩？红帽的商业越成功，似乎其它的开源模式就越被它所笼罩。开源的本质是什么？企业如何从开源中获益？&lt;/p&gt;
-
-&lt;p&gt;另外：数字转换，也就是移动互联网、IoT的发展，会倒逼着企业、政府来完成云计算的基础设施变更。耐心的等待吧，深呼吸！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-source-funding.jpg?itok=plRWGQfv&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;如何为开源项目找到资金:aae34f90ac3ec59d713f46b8cfdefb6c&#34;&gt;如何为开源项目找到资金&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/how-find-funding-open-source-project&#34;&gt;How to Find Funding for an Open Source Project&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;从一开始开源，就找到资金的项目就有很多，比如做VR穿戴的&lt;a href=&#34;https://www.oculus.com/&#34;&gt;Oculus Rift&lt;/a&gt;、或者是作智能手表的&lt;a href=&#34;https://getpebble.com/&#34;&gt;Pebble&lt;/a&gt;、以及大名鼎鼎的树莓派，均有几百万美元的资金投入。那么作为要做开源项目的你，从哪里可能会拿到资金了呢？如下：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mozilla’s MOSS Program&lt;/li&gt;
-&lt;li&gt;The Linux Foundation （这个是不是有点没有想到？）&lt;/li&gt;
-&lt;li&gt;众筹和寻求资助&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;总而言之，不要气馁，只要自己觉得项目有意义，一定是可以找到识“货”的人的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;github上为程序员提供的7个高效工具:aae34f90ac3ec59d713f46b8cfdefb6c&#34;&gt;GitHub上为程序员提供的7个高效工具&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3130986/application-development/githubs-7-top-productivity-tools-for-programmers.html&#34;&gt;GitHub&amp;rsquo;s 7 top productivity tools for programmers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;By developer,For developer.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/robbyrussell/oh-my-zsh&#34;&gt;Oh My Zsh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ggreer/the_silver_searcher&#34;&gt;The Silver Search&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sindresorhus/quick-look-plugins&#34;&gt;Quick look plugins&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ShareX/ShareX&#34;&gt;ShareX&lt;/a&gt; (这个也算？截图工具)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Homebrew&#34;&gt;Homebrew&lt;/a&gt; 好项目，我也在用。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/defunkt/dotjs&#34;&gt;Dotjs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/skywinder/github-changelog-generator&#34;&gt;GitHub changelog generator&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;看完这7个，发现了什么？我已经是一个老程序员了，我依然停留在Emacs和vim的插件的年代！现在人际都要截图、js化、前段化、移动手机化&amp;hellip;&amp;hellip;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

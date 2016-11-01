@@ -7,8 +7,76 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 31 Oct 2016 21:11:14 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Nov 2016 08:11:51 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.01)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.01%29/</link>
+      <pubDate>Tue, 01 Nov 2016 08:11:51 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.01%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:9add4807e5a092b456671492ac1e4ec8&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;微软会真的开源吗:9add4807e5a092b456671492ac1e4ec8&#34;&gt;微软会真的开源吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://rcpmag.com/articles/2016/10/01/microsoft-gets-open.aspx&#34;&gt;Does Microsoft Finally Get Open Source?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;相信很多开源的人，骂了20多年的微软，突然的转向让很多人措手不及。于是开始怀疑，本文就是代表这样的一类人发的声音。&lt;/p&gt;
+
+&lt;p&gt;质疑微软挖开源高官，和红帽联姻，乃至各个开源项目的真实性。其实，很多在开源界混久的人是无法（根本没有兴趣）去检查哪些代码是否是真的开源。&lt;/p&gt;
+
+&lt;p&gt;其实，我也算是质疑者之一。微软尾大不掉，不论是在移动端，还是云计算都失掉了先机，主要是和开源站在了对立面，没有想过开源会发展为这样的局势。现在青睐，确实需要做很多事情，然而还得不能一副媚俗的嘴脸。好吧，我们拭目以待吧。它融入开源需要很长的路。整个技术stack都不一样。一直是自己玩自己的。&lt;/p&gt;
+
+&lt;p&gt;开源绝不仅仅是将代码开放，还有很多的因素需要考虑进来。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/wp-content/uploads/2016/10/Open-Patient.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源将改变保健行业:9add4807e5a092b456671492ac1e4ec8&#34;&gt;开源将改变保健行业&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/verticals/ehealth/open-source-can-change-healthcare/&#34;&gt;How open source can change the face of healthcare&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;软文的前提是一定要提大厂，比如本文就会说IBM、Google、微软是如何支撑开源的了，然后说开放是21世纪最为优秀的创新模式之一。&lt;/p&gt;
+
+&lt;p&gt;红帽，一家优秀的商业公司。确实做的不简单。比如品牌，人家的VP会这么说：“Red Hat is a mission-based company.  People come to work at Red Hat because we fundamentally believe in the goodness of open source.  It’s not just about code, it’s about transparency and accessibility of information.” 我知道，在本土，你要是这么说一定有人诋毁你、攻击你！这些攻击你的人，恰恰会拿过去30年走过的路来攻击你，而他们号称自己是相信我党的。&lt;/p&gt;
+
+&lt;p&gt;嗯，有的时候，人们似乎需要这些媒体的引导！否则，堕落、腐败、固步自封的他们该如何选择一家厂商，而自己又不会将饭碗丢掉。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.outsideonline.com/sites/default/files/styles/img_900x500/public/sustainable-patagonia-wetsuit_h.jpg?itok=ZP8IHdzu&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;哪些搞户外的公司-是时候开源你们的技术了:9add4807e5a092b456671492ac1e4ec8&#34;&gt;哪些搞户外的公司：是时候开源你们的技术了&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.outsideonline.com/sites/default/files/styles/img_900x500/public/sustainable-patagonia-wetsuit_h.jpg?itok=ZP8IHdzu&#34;&gt;Outdoor Gear Companies: It&amp;rsquo;s Time to Open-Source Your Technology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源已经不再是软件的事情了。它已经走进了很多的领域，且看下面几个例子：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 2010, Nike set up what it called the GreenXChange, a Creative Commons–style marketplace for intellectual property, with other large companies like Best Buy and DuPont.&lt;/li&gt;
+&lt;li&gt;In March, as a part of World Water Day, Levi’s released its Water&amp;lt;Less washing process, which it developed after realizing it took 3,781 liters of water to make a single pair of jeans.&lt;/li&gt;
+&lt;li&gt;Tesla—where opening up intellectual property is viewed as a way to improve the quality of an entire industry.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;比如服装行业，开源可以让他们能够盈利更多、环保更多！不愧为21世界最佳的创新模式之一。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>《中国国民性演变历程》读后感</title>
@@ -875,72 +943,6 @@
 &lt;p&gt;作者先是帮助读者回顾了一下开源的历史，然后引出了开放式设计和开源硬件。然后，然后就不知所云了。和你预想的标题有了太大的出入，说好的版权、专利都哪里去了？论据呢？仅仅是介绍下开源硬件？&lt;/p&gt;
 
 &lt;p&gt;读类似的文章会很是不爽，有种被骗的感觉！要将其视为反例。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.15)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.15%29/</link>
-      <pubDate>Sat, 15 Oct 2016 07:58:22 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.15%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:ba22c41ff9edafbe2daed83535d77320&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;apple-将开放其在日本的研发中心:ba22c41ff9edafbe2daed83535d77320&#34;&gt;Apple 将开放其在日本的研发中心&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/10/14/apple-will-open-another-rd-center-in-japan/&#34;&gt;Apple will open another R&amp;amp;D center in Japan&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这样的词汇我们不知道该如何理解。世人对待Apple近乎于痴迷、崇拜。Apple的生意确实仍然火爆！那么其神秘的开发团队又是什么样子？该是什么样子？&lt;/p&gt;
-
-&lt;p&gt;日本、深圳等美国本土之外的研发中心开放究竟是何意思？和开源有多大关系？Apple是构建在开源软件之上的！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;对于openstack-的面临的挑战-看专家怎么说:ba22c41ff9edafbe2daed83535d77320&#34;&gt;对于OpenStack 的面临的挑战，看专家怎么说&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://searchservervirtualization.techtarget.com/tip/Experts-insight-on-overcoming-OpenStack-challenges&#34;&gt;Expert&amp;rsquo;s insight on overcoming OpenStack challenges&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;OpenStack 的峰会再过2周就要开始了，西班牙的巴塞罗纳，人们又开始为OpenStack 造势了，于是各个媒体、社区都在谈论着OpenStack，新版本有何特性？使用者怎么看？开发者是否有多了起来？&lt;/p&gt;
-
-&lt;p&gt;话说 OpenStack面临的最大挑战是什么？就本土来说，我发表一点意见：本土其实开源的生意不好做，大约有几个误区：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;人力成本偏低。宁愿自己招聘人去研究。&lt;/li&gt;
-&lt;li&gt;时间成本承受得起。&lt;/li&gt;
-&lt;li&gt;业务本身没有太多的需求。&lt;/li&gt;
-&lt;li&gt;对于云计算的多数仍然停留在虚拟化阶段。&lt;/li&gt;
-&lt;li&gt;对于供应商的商业模式依然停留在兜售光盘阶段，即产品阶段。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;在本土，OpenStack 的实施并非是技术问题，而是文化、认识、业务需求的问题。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;白宫鼓励本地政府使用聊天机器人:ba22c41ff9edafbe2daed83535d77320&#34;&gt;白宫鼓励本地政府使用聊天机器人&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.engadget.com/2016/10/14/white-house-releases-its-fb-bot-to-the-world-as-open-source/&#34;&gt;White House encourages local governments to embrace chatbots&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;民主国家的沟通渠道，充分的利用了技术。于是社交平台Facebook（被本土封禁的和遗忘的网站）成了其一个有效的通道。甚至将其Facebook 的机器人开源了，让任何人都可以使用它。&lt;/p&gt;
-
-&lt;p&gt;开源！究竟能走多远？对于人类究竟是好还是坏？&lt;/p&gt;
-
-&lt;p&gt;似乎任何关于道德、自由的东西，都有可能被政治利用。利用有两面。本土的只有搅和。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
