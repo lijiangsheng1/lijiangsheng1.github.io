@@ -7,8 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Nov 2016 08:09:45 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Nov 2016 06:55:36 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.03)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.03%29/</link>
+      <pubDate>Thu, 03 Nov 2016 06:55:36 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.03%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:5e0e13643fd9c79f7d42808672eec3fc&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;linux-基金会又添一大将-著名开源领导者-nithya-ruff加盟:5e0e13643fd9c79f7d42808672eec3fc&#34;&gt;Linux 基金会又添一大将，著名开源领导者 Nithya Ruff加盟&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3137948/linux/open-source-leader-nithya-ruff-joins-the-linux-foundation-board-of-directors.html&#34;&gt;Open Source leader Nithya Ruff joins the Linux Foundation Board of Directors&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Linux 基金会确实需要一个女性的领导者，看看Ruff的工作内容：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;为参加研讨会的女性和没有经济能力的团体提供奖学金，而这通常是他们进入开源的入口。&lt;/li&gt;
+&lt;li&gt;对一些Outreachy和指导机构提供支持，帮助人们进入开源的世界。&lt;/li&gt;
+&lt;li&gt;为研讨会的运作定义良好的准则，包括照顾儿童、女性在开源的演讲等。&lt;/li&gt;
+&lt;li&gt;和一些组织结成合作伙伴，聚焦到各个领域，如经济、性别、性取向以及未被充分代表的少数人群。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ruff 曾经被CIO评选为开源界最具影响力女性之一。在西部数据任首席开源战略官。祝福她在Linux 基金会有好的表现！其他堂而皇之的话，看看就可以了，比如Linux基金会执行主席说的。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/OSDC_BUS_cloudagenda_20140341_jehb.png?itok=GZcST0pV&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源技术大会的新目录:5e0e13643fd9c79f7d42808672eec3fc&#34;&gt;开源技术大会的新目录&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/11/new-listing-open-source-technology-events&#34;&gt;A new directory of open source technology events&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这个世界上有心人真的很多，但是能够实际作出行动和成果的人很少，那么这名叫做Gabor Szabo的编辑算是做到了。&lt;a href=&#34;http://conferences.szabgab.com/conferences&#34;&gt;这份开源会议的清单&lt;/a&gt;，会列出接下来的几个月将会举办的开源会议，哪些会议正在召集演讲议题，都会特别标注等等。&lt;/p&gt;
+
+&lt;p&gt;重要的是此项目利用GitHub 来进行协作。嗯，GitHub 不仅仅是程序员的天堂，它的作用应该更广一些。比如莆田系医院列表等等。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/09/open-source-license-primary.jpg-100682570-primary.idge.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;微软为开放计算项目贡献了一款开放式设计:5e0e13643fd9c79f7d42808672eec3fc&#34;&gt;微软为开放计算项目贡献了一款开放式设计&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerworld.com/article/3137565/open-source-tools/microsoft-offers-open-source-designs-to-open-compute-project.html&#34;&gt;Microsoft offers open source designs to Open Compute Project&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;微软也是在2014年加入的开放计算项目，FaceBook发起的开源硬件项目。仓库地址：&lt;a href=&#34;https://github.com/opencomputeproject/Project_Olympus&#34;&gt;Olympus&lt;/a&gt;，注意，它不是代码，it will be hardware and software specifications as well as collateral files like schematics, board files, and mechanical assemblies.&lt;/p&gt;
+
+&lt;p&gt;云计算，Azure ，让这个世界不再纯粹。拥有或运营云计算的公司，比如Google，不能说是一家纯软件的公司，像过去的Oracle、SAP那样去归类。&lt;/p&gt;
+
+&lt;p&gt;大的公司，总是在战略上有所行动。洞见是洞察未来的能力，这一点必须做到，否则，就会落后，落后就意味着失去竞争力，裁员、负面新闻、失去社会担当，继而消失于历史舞台！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.02)</title>
@@ -930,38 +995,6 @@
 &lt;p&gt;这大概就是开源的力量，尽管Hadoop来自于Google的MapReduce论文，但是由于开源，构建了超越原始出处的完善的生态链。&lt;/p&gt;
 
 &lt;p&gt;但是在实践中，仍然需要进行适当的定制，甚至正如本文所论证的，反过来，要求企业在管理和流畅，乃至人才提出一些个适应大数据分析的要求。IT系统和人类组织相互影响，乃常态也。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.16)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.16%29/</link>
-      <pubDate>Sun, 16 Oct 2016 08:12:17 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.16%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:f1ca2da430706568c61cff603155430d&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://i2.wp.com/www.studentnewspaper.org/wp-content/uploads/2016/10/arch.jpg?zoom=2&amp;amp;resize=938%2C535&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源架构的特色文化-没有版权-没有专利:f1ca2da430706568c61cff603155430d&#34;&gt;开源架构的特色文化：没有版权、没有专利&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.studentnewspaper.org/the-culture-of-open-source-architecture-no-copyrights-no-patents/&#34;&gt;The culture of open source architecture: No copyrights, no patents&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;不要被文章的标题吓坏了，这个时代就是这样，大家为了标题吸引眼球，各种极端的言辞都有可能暴露出来，比如InfoQ的“雅虎开源其色情图片检测神经网络”，这篇文章也一样，就是个标题党。为了让人们对下去而已。&lt;/p&gt;
-
-&lt;p&gt;作者先是帮助读者回顾了一下开源的历史，然后引出了开放式设计和开源硬件。然后，然后就不知所云了。和你预想的标题有了太大的出入，说好的版权、专利都哪里去了？论据呢？仅仅是介绍下开源硬件？&lt;/p&gt;
-
-&lt;p&gt;读类似的文章会很是不爽，有种被骗的感觉！要将其视为反例。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

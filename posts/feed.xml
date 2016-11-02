@@ -7,8 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Nov 2016 08:09:45 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Nov 2016 06:55:36 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.03)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.03%29/</link>
+      <pubDate>Thu, 03 Nov 2016 06:55:36 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.03%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:5e0e13643fd9c79f7d42808672eec3fc&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;linux-基金会又添一大将-著名开源领导者-nithya-ruff加盟:5e0e13643fd9c79f7d42808672eec3fc&#34;&gt;Linux 基金会又添一大将，著名开源领导者 Nithya Ruff加盟&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3137948/linux/open-source-leader-nithya-ruff-joins-the-linux-foundation-board-of-directors.html&#34;&gt;Open Source leader Nithya Ruff joins the Linux Foundation Board of Directors&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Linux 基金会确实需要一个女性的领导者，看看Ruff的工作内容：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;为参加研讨会的女性和没有经济能力的团体提供奖学金，而这通常是他们进入开源的入口。&lt;/li&gt;
+&lt;li&gt;对一些Outreachy和指导机构提供支持，帮助人们进入开源的世界。&lt;/li&gt;
+&lt;li&gt;为研讨会的运作定义良好的准则，包括照顾儿童、女性在开源的演讲等。&lt;/li&gt;
+&lt;li&gt;和一些组织结成合作伙伴，聚焦到各个领域，如经济、性别、性取向以及未被充分代表的少数人群。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ruff 曾经被CIO评选为开源界最具影响力女性之一。在西部数据任首席开源战略官。祝福她在Linux 基金会有好的表现！其他堂而皇之的话，看看就可以了，比如Linux基金会执行主席说的。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/OSDC_BUS_cloudagenda_20140341_jehb.png?itok=GZcST0pV&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源技术大会的新目录:5e0e13643fd9c79f7d42808672eec3fc&#34;&gt;开源技术大会的新目录&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/11/new-listing-open-source-technology-events&#34;&gt;A new directory of open source technology events&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这个世界上有心人真的很多，但是能够实际作出行动和成果的人很少，那么这名叫做Gabor Szabo的编辑算是做到了。&lt;a href=&#34;http://conferences.szabgab.com/conferences&#34;&gt;这份开源会议的清单&lt;/a&gt;，会列出接下来的几个月将会举办的开源会议，哪些会议正在召集演讲议题，都会特别标注等等。&lt;/p&gt;
+
+&lt;p&gt;重要的是此项目利用GitHub 来进行协作。嗯，GitHub 不仅仅是程序员的天堂，它的作用应该更广一些。比如莆田系医院列表等等。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/09/open-source-license-primary.jpg-100682570-primary.idge.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;微软为开放计算项目贡献了一款开放式设计:5e0e13643fd9c79f7d42808672eec3fc&#34;&gt;微软为开放计算项目贡献了一款开放式设计&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerworld.com/article/3137565/open-source-tools/microsoft-offers-open-source-designs-to-open-compute-project.html&#34;&gt;Microsoft offers open source designs to Open Compute Project&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;微软也是在2014年加入的开放计算项目，FaceBook发起的开源硬件项目。仓库地址：&lt;a href=&#34;https://github.com/opencomputeproject/Project_Olympus&#34;&gt;Olympus&lt;/a&gt;，注意，它不是代码，it will be hardware and software specifications as well as collateral files like schematics, board files, and mechanical assemblies.&lt;/p&gt;
+
+&lt;p&gt;云计算，Azure ，让这个世界不再纯粹。拥有或运营云计算的公司，比如Google，不能说是一家纯软件的公司，像过去的Oracle、SAP那样去归类。&lt;/p&gt;
+
+&lt;p&gt;大的公司，总是在战略上有所行动。洞见是洞察未来的能力，这一点必须做到，否则，就会落后，落后就意味着失去竞争力，裁员、负面新闻、失去社会担当，继而消失于历史舞台！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.02)</title>
@@ -914,70 +979,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;这大概就是红帽的赚钱之道！此文颇为经典！道破了开源项目、开源软件、试图利用开源赚取钱财的商业模式真正的区别。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.17)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.17%29/</link>
-      <pubDate>Mon, 17 Oct 2016 07:35:13 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.17%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.enterpriselinuxinsights.com/wp-content/uploads/2016/07/LinuxCON-Berlin-2016.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;回顾-linuxcon-2016:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;回顾 LinuxCon 2016&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.irishdev.com/Home/News/1898-LinuxCon--Review.html&#34;&gt;LinuxCon 2016 Review&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;LinuxCon ，没错，就是哪个从来没有来过中国的Linux内核大会。具体为什么来不了中国，原因不得而知。&lt;/p&gt;
-
-&lt;p&gt;LinuxCon 2016 欧洲区，今年在柏林举行，“大牌“”云集，本篇文章介绍的是Keynote，所以尽是企业高管，不是VP，就是老总。一来阐述业界趋势，二来声称自己处于领先。要么就是Linux基金会下面的托管项目的宣传。比如如火如荼的区块链。&lt;/p&gt;
-
-&lt;p&gt;商业氛围浓烈，但是Linux基金会仍然是一家非营利组织。颇受各个厂家和个人的信任。本土怎么能够出现这么一个组织？为何引不进中国？这大概是每一个布道开源的人的疑惑。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;红帽公司-为何-rht-股票可以上升40:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;红帽公司：为何 RHT 股票可以上升40%&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.profitconfidential.com/stock/red-hat-inc-why-rht-stock-can-pop-40-percent/&#34;&gt;Red Hat Inc: Why RHT Stock Can Pop 40%&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;答案是红帽赢得了用户的信任！其是最具创新力的公司之一。&lt;/p&gt;
-
-&lt;p&gt;红帽的商业模式，是针对开源领域的基础设施，如操作系统、中间件、IaaS云平台、Paas云平台、容器化等等的订阅，几十年始终如一，终于开始突破，连续多年保持盈利、保持增长！&lt;/p&gt;
-
-&lt;p&gt;另外就是其对于开源人才的战略，可谓是高瞻远瞩！独特的文化，吸引了一大批的优秀人才！&lt;/p&gt;
-
-&lt;p&gt;嗯，开源本身并非是商业模式，你必须基于这样一个事物和现象，发展间接的盈利模式。但是请不要像本土的那些个公司，以开源之名，行商业手段，低估国人的智商，他们又能走多远？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://itbrief.co.nz/media/cache/2f/c4/2fc44cae6ba0caff448d00b096249c8a.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;快速的数据分析需要快速的治理:e6d31aa8500935f2f51bc45b1f0080f5&#34;&gt;快速的数据分析需要快速的治理&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://itbrief.co.nz/story/fast-data-analytics-requires-even-faster-governance/&#34;&gt;Fast data analytics requires even faster governance&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;提到数据分析，我们一下子就想到了大数据，想到大数据，就会想到生态系统完善的Hadoop！&lt;/p&gt;
-
-&lt;p&gt;这大概就是开源的力量，尽管Hadoop来自于Google的MapReduce论文，但是由于开源，构建了超越原始出处的完善的生态链。&lt;/p&gt;
-
-&lt;p&gt;但是在实践中，仍然需要进行适当的定制，甚至正如本文所论证的，反过来，要求企业在管理和流畅，乃至人才提出一些个适应大数据分析的要求。IT系统和人类组织相互影响，乃常态也。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
