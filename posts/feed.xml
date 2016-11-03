@@ -7,8 +7,96 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 03 Nov 2016 06:55:36 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Nov 2016 04:52:00 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mirantis 走上了开放云精选之路</title>
+      <link>http://lijiangsheng1.github.io/posts/entrepreneur/mirantis_follow_ocselected_step/</link>
+      <pubDate>Fri, 04 Nov 2016 04:52:00 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/mirantis_follow_ocselected_step/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;郑重声明，本博客观点只代表个人观点。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;开放云精选:bf06e220c0ddb61e2f30a50d24a9b741&#34;&gt;开放云精选&lt;/h2&gt;
+
+&lt;p&gt;开放云精选的&lt;a href=&#34;http://www.ocselected.com&#34;&gt;商业网站&lt;/a&gt;已经关闭，停止了经营，其&lt;a href=&#34;http://www.ocselected.org&#34;&gt;社区站点&lt;/a&gt;和&lt;a href=&#34;http://docs.ocselected.org&#34;&gt;文档站点&lt;/a&gt;仍然可以访问，但是已经是很久没有更新了。嗯，没错，所有这一切都是我——开放云精选的创始人做的。&lt;/p&gt;
+
+&lt;p&gt;开放云精选的理念，来自于我对开源、云计算、人才、商业模式、社区运营的综合看法和洞见，以及采取的外在行动。引用下&lt;a href=&#34;http://www.ocselected.org/wiki/Open_Cloud_selected:%E5%85%B3%E4%BA%8E&#34;&gt;关于ocselected&lt;/a&gt;的一段话 &lt;del&gt;（将人称更改为我们是出于代入感的考虑）&lt;/del&gt;：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我们深信开源软件的价值！ 值得使用和传播。&lt;/p&gt;
+
+&lt;p&gt;我们也深信云计算的未来！&lt;/p&gt;
+
+&lt;p&gt;更加深信开源软件在云计算未来占有重要的位置，这个事实！&lt;/p&gt;
+
+&lt;p&gt;于是我们创建了开放云精选。我们精心选择Open Cloud，为开发工程师、测试工程师、文档工程师提供一个向导性的指南，为系统管理员提供技术上的支持。&lt;/p&gt;
+
+&lt;p&gt;我们秉承代码为王的开源项目哲学，也是社区能够存在的根本。&lt;/p&gt;
+
+&lt;p&gt;我们鼓励能进入本社区的人们参与到上游的开源项目中，&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;其实，我已经将我的第一次创业之路归于失败，从我开始找工作的那一刻开始！但是很凑巧的是，我现在所在公司的老东家之一——Mirantis，近来做出了很大的战略性调整。无独有偶的，它竟然在技术的选型上，和开放云精选有着惊人的相似之处。&lt;/p&gt;
+
+&lt;p&gt;再次感受一下开放云精选的初心：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6431931/ocselected.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mirantis-选了哪些开源项目:bf06e220c0ddb61e2f30a50d24a9b741&#34;&gt;Mirantis 选了哪些开源项目&lt;/h2&gt;
+
+&lt;p&gt;Mirantis&lt;a href=&#34;https://www.mirantis.com/software/community&#34;&gt;社区站点&lt;/a&gt; 列出了如下几个项目（我将之顺手归类了一下，开放云精选之思路。）：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IaaS 平台
+
+&lt;ul&gt;
+&lt;li&gt;OpenStack&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;部署和管理工具
+
+&lt;ul&gt;
+&lt;li&gt;Salt&lt;/li&gt;
+&lt;li&gt;StackLight&lt;/li&gt;
+&lt;li&gt;Kubernetes&lt;/li&gt;
+&lt;li&gt;Fuel&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;分布式存储
+
+&lt;ul&gt;
+&lt;li&gt;ceph&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;软件定义网络，网络功能虚拟化
+
+&lt;ul&gt;
+&lt;li&gt;OpenContrail&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;仍然在开放云精选的大框架下，没有涵盖到的领域有：PaaS平台、混合云管理、Hypervisor和容器等。&lt;/p&gt;
+
+&lt;p&gt;其实，从这里看出，Mirantis 似乎作出一番和红帽之类的开源厂商的分庭抗礼的姿态，比如Salt的选用，在商业化浓厚的社区中结交联盟，不如高冷的Kubernetes、OpenContrail。Slat的选用看起来似乎不是很明智，但是技术上永远无法说清楚谁孰优孰略，只能是萝卜青菜，各有所爱。&lt;/p&gt;
+
+&lt;h2 id=&#34;能够学习到什么:bf06e220c0ddb61e2f30a50d24a9b741&#34;&gt;能够学习到什么？&lt;/h2&gt;
+
+&lt;p&gt;其实，我想将这个小节使用“能够证明什么？”更为妥当，但是又觉得哪里不对，毕竟我失败，说明我什么都不是。&lt;/p&gt;
+
+&lt;p&gt;在企业级，尤以基础设施领域，商业模式似乎很难脱离出红帽的服务、订阅模式。当然更加不用提本土，本土的思路，是无法用某些明显的规则来衡量的。然而，红帽现在的地位是无人可以撼动的，Mirantis 想纯粹以OpenStack 作为商业项目，越来越捉肘见襟，上下游难以打通，用户不买账，来来回回什么都得干，日益高涨的人力成本，会让其不堪重负。&lt;/p&gt;
+
+&lt;p&gt;然而，开源乃未来之大势所趋也，无论是传统企业，还是从人本身出发。对于企业来说，创新和竞争力提升才是根本，而对于人来说，更好的薪资和更自由的选择也是王道。那么对于供应商而言，是一个很尴尬的问题，也是很多人的怀疑，我为什么需要购买你的产品和服务？you are not RedHat!!&lt;/p&gt;
+
+&lt;p&gt;该如何突围？Mirantis 现在的行动和表现，正是我2015年初创办开放云精选时的思路：&lt;strong&gt;开源不存在单一的产品，重新利用各种组合满足特定的需求。&lt;/strong&gt; 甚至连建立社区的思路都极为的相似。&lt;/p&gt;
+
+&lt;h2 id=&#34;感慨及祝福:bf06e220c0ddb61e2f30a50d24a9b741&#34;&gt;感慨及祝福&lt;/h2&gt;
+
+&lt;p&gt;我的失败绝不仅仅是因为我身在天朝，有很多其它因素，比如冒险精神不足、对于本土文化的更加深刻理解、品牌的建设等等。以合格的CEO来衡量的话，我仅满足一条：有想法！&lt;/p&gt;
+
+&lt;p&gt;Mirantis 还有很长的一段路要走！比如人才战略！比如开源的品牌建设！比如跨地域管理的挑战！祝福Mirantis！能够做对的事情！&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.03)</title>
@@ -905,80 +993,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;一篇好文，就是能够顺利的将自己要说清楚、讲明白的东西给讲出来。我没有想到作者可以将美国的独立战争，UNIX的发展史和Bob Yang联系起来。&lt;strong&gt;生意，需要洞见！倾听与观察，看到别人看不到的，生意成功的可能性就越大！&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.18)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.18%29/</link>
-      <pubDate>Tue, 18 Oct 2016 11:06:12 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.18%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:3bb0cc1dadd86742706cc55908373d25&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://kulkulfarmbali.com/wp-content/uploads/2015/09/organic-chickens-in-bali-e1447729615772.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;如何打造一个强大的开源团队就像是养鸡一样:3bb0cc1dadd86742706cc55908373d25&#34;&gt;如何打造一个强大的开源团队就像是养鸡一样&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/how-building-strong-open-source-teams-raising-chickens&#34;&gt;How Building Strong Open Source Teams Is Like Raising Chickens&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，也许你看到题目，就觉得整个人都不好了。甚至是小编所撰写的内容看了也不怎么好！但是请耐心的将演讲视频看完。&lt;/p&gt;
-
-&lt;p&gt;演讲的题目其实是叫做：&lt;a href=&#34;https://youtu.be/loryKeOPKto&#34;&gt;《超越量化：协作的真正力量和技能》&lt;/a&gt;，关于养鸡的部分，其实是演讲者所分享的一个小故事罢了，旨在说明竞争有时候会形成内耗，将大伙都搞定精疲力尽，过早的将能量耗尽，不如形成一片和谐的景象，大家彼此互助，形成合力。&lt;/p&gt;
-
-&lt;p&gt;IQ 绝非是衡量一个团队的唯一因素，它甚至都不能被列入最为主要的部分。信任，没错，信任这个美好的词汇，可以获得巨大的力量。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://fossbytes.com/wp-content/uploads/2016/09/google-open-source-project.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;google的开源成绩单:3bb0cc1dadd86742706cc55908373d25&#34;&gt;Google的开源成绩单&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.googleblog.com/2016/10/google-open-source-report-card.html&#34;&gt;Google Open Source Report Card&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;没错，Google 总结了一下自己的开源项目，以及使用到的语言Top10，乃至最具前沿的项目。但是我看到的并非是项目本身，而是其文章开始的一段话，让人倍受鼓舞。其实，美好的事物总是能够让你去重拾美好生活，哪怕它是冷冰冰的科技。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;开源软件让Google能够快速而高效的构建一些事成为了可能，且毋需去重复制造轮子，允许我们将精力聚焦在解决新的问题上。我们站在巨人的肩膀上，我们深刻的明白这一点。而这也是我们始终如一的支持开源的原因所在，且这样也能够让Google人在内部开发完成之后，顺利的去将之开源。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;看看成绩单，是否觉得大多数是被GFW屏蔽的。你觉得会和“闭关锁国”的政策一样嘛？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/03/fingers-100651667-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;是自行从开源构建-还是购买软件-先回答了这5个问题再说:3bb0cc1dadd86742706cc55908373d25&#34;&gt;是自行从开源构建？还是购买软件，先回答了这5个问题再说&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerworld.com/article/3130317/data-analytics/to-build-or-buy-software-ask-these-5-questions-first.html&#34;&gt;Build or Buy Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，我确实犯过非常主观的错误。自认为如此强大的开源项目，为什么企业会如此的保守？在犹豫！在试探！甚至在拒绝。&lt;/p&gt;
-
-&lt;p&gt;遭遇失败和挫折之后，再看到如这篇文章所表达的内容。是深有体会。任何的决策都不是那么容易、轻松、甚至是草率决定的。必须经过深思熟虑，考虑到自身的处境，然后放可。绝非一腔热血能够保证得了的。看看这5个问题，你怎么回答？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;谁是最多使用软件的人？&lt;/li&gt;
-&lt;li&gt;你所构建的产品是如此的独特，以至于你的所在企业能够做的嘛？&lt;/li&gt;
-&lt;li&gt;你所构建的内容，完全能够理解嘛？&lt;/li&gt;
-&lt;li&gt;现有的工具确定是你所需要的嘛？&lt;/li&gt;
-&lt;li&gt;你拥有足够的资源承担得起吗？（构建＋维护）&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这大概就是红帽的赚钱之道！此文颇为经典！道破了开源项目、开源软件、试图利用开源赚取钱财的商业模式真正的区别。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
