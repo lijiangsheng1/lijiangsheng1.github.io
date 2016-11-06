@@ -7,8 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 05 Nov 2016 10:25:24 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Nov 2016 07:37:26 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.06)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.06%29/</link>
+      <pubDate>Sun, 06 Nov 2016 07:37:26 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.06%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:0cf2ed9519e9496d6239e7ffd47cb525&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;原-bitcoin-核心开发者-jeff-garzik-加入linux基金董事会:0cf2ed9519e9496d6239e7ffd47cb525&#34;&gt;原 Bitcoin 核心开发者 Jeff Garzik 加入Linux基金董事会&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://cointelegraph.com/news/former-bitcoin-core-developer-jeff-garzik-joins-linux-foundation-board&#34;&gt;Former Bitcoin Core Developer Jeff Garzik Joins Linux Foundation Board&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有人说昨天流行的技术是云计算，当下是物联网，未来将会是区块链的天下。嗯，说的蛮有道理，但是人不能一味盲目的去追随潮流，要知道，人类自身的局限性，时间是有限的，学习一样东西是要花费很大精力的。要提防一味追新的糟糕的氛围。但是也要应对变化，至少在技术领域不应被淘汰。&lt;/p&gt;
+
+&lt;p&gt;说回Jeff，他是一家叫做Bloq的创始人兼CEO，Bloq就是一家围绕区块链开发的公司，我们知道，加入Linux基金会席位，也就是缴点会费的事情。为公司增加影响力才是根本原因。比如中科创达。&lt;/p&gt;
+
+&lt;p&gt;Jeff的战略是想做区块链的红帽，希望向红帽为企业提供Linux操作系统一样，为企业提供区块链解决方案：应用、网络、协议等。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;红帽的模式非常难以复制，它的成功只是露出水面的冰山一角！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.nextplatform.com/wp-content/uploads/2015/04/openstack-cloud-logo-bw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;基于openstack再铸辉煌:0cf2ed9519e9496d6239e7ffd47cb525&#34;&gt;基于OpenStack再铸辉煌&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.nextplatform.com/2016/11/03/building-stack-openstack/&#34;&gt;Building The Stack Above And Below OpenStack&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一篇了解OpenStack的前世、今生非常好的文章，虽然没有具体的技术分析，但是就用户而言的数据也是很多人愿意去拿来参考的。当然，有一些人更加的在意未来。比如容器，包括OpenStack服务组件的容器化和基于OpenStack提供的容器服务。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;operations-transformation-summit-2016-和华为有关:0cf2ed9519e9496d6239e7ffd47cb525&#34;&gt;Operations Transformation Summit 2016 和华为有关&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/nfv/nfv-mano/its-showtime-for-open-o-/d/d-id/727537&#34;&gt;It&amp;rsquo;s Showtime for OPEN-O&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/business-employment/business-transformation/software-or-hardware-china-telcos-tell-huawei-to-decide-/d/d-id/727533&#34;&gt;Software or Hardware: China Telcos Tell Huawei to Decide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这两篇文章，我读出了一些颇有意思的东西，比如移动、电信想甩开华为而又不能，只能抱怨几句，华为为何 不能更加的开放点？然而，关于Open－O的演讲就更有意思了。&lt;/p&gt;
+
+&lt;p&gt;来自华为的 Joe Hou 说到：&amp;rdquo;The code is the de facto standard,It is also a standard but it&amp;rsquo;s not on paper &amp;ndash; it is code.&amp;rdquo; 注意这样的战略，这是IBM&lt;a href=&#34;https://www.zybuluo.com/lijiansheng/note/405058&#34;&gt;精心布局的开源&lt;/a&gt;的翻版。&lt;/p&gt;
+
+&lt;p&gt;新闻需要对比的看！跨越时空！可以更近一步的理解真相！佩服华为的一点是他学习的态度和笼络人才的战略。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.05)</title>
@@ -935,78 +995,6 @@
 &lt;p&gt;从中可以看出SuSE发力的三个点：自身的基础——企业级Linux，OpenStack ＋NFV，Ceph 是不是很眼熟？&lt;/p&gt;
 
 &lt;p&gt;另外一个让我震撼的是，国外这些公司对于市场的看重，IT峰会一个接一个，但是类似的研讨会，正如文中所言：&lt;strong&gt;consuming extremely valuable content and getting face to face with SUSE engineers, executives, partners, other customers and community enthusiasts&lt;/strong&gt; 但是本土，我还没有见过哪家厂商能够办成这样，哪怕是红帽forum也是他们的销售邀请的合作伙伴、代理商居多。真正开放式的释放干货的内容很少！国人急功近利、浮躁的心态什么时候能够治愈？似乎越来越重的趋势。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.19)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.19%29/</link>
-      <pubDate>Wed, 19 Oct 2016 07:28:21 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.19%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:6d3101049c32b939fdffe63f998a83ec&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/10/1018.sdt-disney.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;让我们数数迪斯尼的开源项目:6d3101049c32b939fdffe63f998a83ec&#34;&gt;让我们数数迪斯尼的开源项目&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/disney-open-source-program/&#34;&gt;Disney has its own Open Source Program&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;关于翻译，余光中先生说过：“翻译乃大事，译者独憔悴。” 看下本文的英文标题，直译为“迪斯尼拥有了自己的开源项目”，很别扭，开源、拥有，也不是说不能在一起出现，但是怪怪的。这就是翻译，你自己有很多词汇，有的时候，就是不知道该怎么用。只好意译，按照上下文的含义，很主观的译出。这也是为什么很多人提倡读原文，但是，为什么所有的人都在翻译？而本土原创确实没有什么好的东西。又该论述精英主义了。&lt;/p&gt;
-
-&lt;p&gt;迪士尼是个很大的集团公司，但是是以动画起家的，后来发展到了电影。嗯，动画电影也是人们非常喜爱的形式。目前其开源的项目中，均是和动画电影制作相关的。为什么迪斯尼会选择开源这些对他的业务来说是蛮核心的项目了呢？值得思考，但是我想人才绝对是其中之一。你可能想不到，开源本身也是衡量一名开发者是否具备能力的敲门砖。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;为什么现在的企业会采用开源软件:6d3101049c32b939fdffe63f998a83ec&#34;&gt;为什么现在的企业会采用开源软件&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://forbesindia.com/article/leaderboard/why-enter-prises-are-now-opting-for-open-source-software/44469/1&#34;&gt;Why enterprises are now opting for open source software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一篇来自印度财富的文章。那么其实是在讲印度的事情。也是在讲红帽的事情。只要是讲企业级，红帽是绕不过的，如今的红帽俨然是一个巨无霸，产品线巨长，无所不包。但是正如其CEO Jim Whitehurst 在今年的红帽峰会上谈到的，亚洲的盈利，尤其是大中华区和东南亚，其实投入产出比是偏低的。但是，印度的情况似乎好一点？&lt;/p&gt;
-
-&lt;p&gt;为什么企业会选择开源？降低成本？人性化管理？笼络创新人才？开源的软件栈全面而卓越？不再需要为昂贵的许可证费用付费，但是还要为订阅服务付费。如果我是一名用户的话，对文中的回答并不满意。&lt;/p&gt;
-
-&lt;p&gt;在本土，没有人在意是否开源，认为开源是理想主义，是情怀。而情怀在本土就是锤子手机，叫好不叫座。但是，本土有一个好处，那就是现在的工程师们都是开源培育出来的一代，爆发之日可待。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源的历史告诉我们什么是战略优势:6d3101049c32b939fdffe63f998a83ec&#34;&gt;开源的历史告诉我们什么是战略优势&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/10/history-open-source-teaches-strategic-advantage&#34;&gt;What the history of open source teaches us about strategic advantage&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;绝对好文！精彩绝伦！作者&lt;a href=&#34;https://opensource.com/users/bobbymartin&#34;&gt;Bobby Martin&lt;/a&gt;思路确实与众不同。红帽不是现在很火吗？20亿了，世界上top50的创新公司了。其成功是一定背后有很多故事的。让我们随同作者进入红帽创始人Bob Yang的感悟世界。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;control was users&amp;rsquo; hot button, not features.&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;m a sales guy. I don&amp;rsquo;t sell features. I sell benefits.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;以及作者最后给出的教训：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Ask the right questions.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Discover your competitive advantage.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;一篇好文，就是能够顺利的将自己要说清楚、讲明白的东西给讲出来。我没有想到作者可以将美国的独立战争，UNIX的发展史和Bob Yang联系起来。&lt;strong&gt;生意，需要洞见！倾听与观察，看到别人看不到的，生意成功的可能性就越大！&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
