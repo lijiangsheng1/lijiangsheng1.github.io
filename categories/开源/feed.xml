@@ -7,8 +7,72 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 06 Nov 2016 07:37:26 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Nov 2016 08:25:08 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.07)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.07%29/</link>
+      <pubDate>Mon, 07 Nov 2016 08:25:08 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.07%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:659f2bb46e5acdec5e9bc873d84e4f35&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blog.davidecoppola.com/wp-content/uploads/2016/11/GitHub-logo-header.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何为-github-上的开源项目贡献代码:659f2bb46e5acdec5e9bc873d84e4f35&#34;&gt;如何为 GitHub 上的开源项目贡献代码&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/&#34;&gt;How to contribute to an open source project on GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;方法论是可以反过来影响思维的，这是我坚信的一点，虽然有些勉强。但总比连方法论都没有的好。本文就是为小白特意写的入门教程，深入浅出、简单易懂、化复杂为简易。不可多得的好文。&lt;/p&gt;
+
+&lt;p&gt;之所以选上这篇文章，是因为无论是开放云精选也好，我自己本身也罢，能够让更多的人参与到社区开发、测试、撰写文档、提交issue、交流，都是非常想做的一件事情。&lt;/p&gt;
+
+&lt;p&gt;此文带给我很大的灵感，包括昨天爱人给我的提示，&lt;strong&gt;要找对你的受众群体!!!&lt;/strong&gt; 我想我应该知道自己接下来该做些什么了。开放云精选的野心太大，个人的能力和时间都有限，在没有更多人参与进来的话，不妨先将最重要的开始做起。哪些抽离具体项目进度的方法论！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cdn.mos.cms.futurecdn.net/aDB9wPqUtsRSRKLmwZDRb8.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;企业必须知道的有关-容器化-的姿势:659f2bb46e5acdec5e9bc873d84e4f35&#34;&gt;企业必须知道的有关“容器化”的姿势&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itproportal.com/features/containerisation-what-businesses-need-to-know/&#34;&gt;Containerisation: What businesses need to know&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是我读过的最好的关于容器的科普文章。没有之一！三言两语，就将容器的来龙去脉讲得清清楚楚、明明白白，这份功力不一般。甚至还偷空介绍了微软的容器技术跟进，以及和Linux的关系。&lt;/p&gt;
+
+&lt;p&gt;除了学习容器化的知识以外，本文使用浅显易懂的语言，精湛的比喻等方式，而且没有丝毫的夸张，有种科学论文般的冷静。尤其是对于容器化未来的那段描述，没有当下哪些夸张的革命式的颠覆，也没有面对传统应用的改造困难的悲观。客观的叙述了能够做到容器化的好处。&lt;/p&gt;
+
+&lt;p&gt;容器化！简单的包装，就可以做到微妙的隔离，将各种环境分离和共用！ 难得一见的好文！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/code1.png?itok=50CGHetL&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源开发者的日常:659f2bb46e5acdec5e9bc873d84e4f35&#34;&gt;开源开发者的日常&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://dzone.com/articles/life-as-an-open-source-developer&#34;&gt;Life as an Open Source Developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;文章的作者自称是一名开发的布道师，用事实证明自己是做的到的。他有一段话我非常的喜欢：&lt;/p&gt;
+
+&lt;p&gt;As a developer evangelist, I get to create my own job. That means that I can speak at the conferences I want to, write the code I want to, create the blog posts I want to, and everything else in between.&lt;/p&gt;
+
+&lt;p&gt;做到了按照自己意愿行事。其实，我想说的是，我需要这样的人才！你一样也可以做得到：&lt;strong&gt;Open Source  Developer！！！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.06)</title>
@@ -922,80 +986,6 @@
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/bus-networking.png?itok=3UXFhssB&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.20)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.20%29/</link>
-      <pubDate>Thu, 20 Oct 2016 06:57:23 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.20%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:d2ae7b1ee20fdcdc39f023863c9855f6&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;爱立信和红帽在开源方面结为合作伙伴:d2ae7b1ee20fdcdc39f023863c9855f6&#34;&gt;爱立信和红帽在开源方面结为合作伙伴&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/open-source/openstack/ericsson-red-hat-partner-on-open-source/d/d-id/727101?_mc=RSS_LR_EDT&#34;&gt;Ericsson, Red Hat Partner on Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;NFV，SDN，SDI，OpenStack 然后和ICT（信息和通信技术）扯在一起，纠缠不清。这块地盘竞争日益点激烈，但是无论如何，开源是一个焦点，大家似乎心知肚明，不开源，就得被淘汰。AT&amp;amp;T 要开源ECOMP，华为搞了个开源的ONLAB，以及Linux 基金会的OpenDayLight&amp;hellip;&amp;hellip;.不一而足。本篇文章最大的看点在于，爱立信和红帽结盟的合作项：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;上游优先。爱立信要借红帽之力，融入社区！这也是很多有人力、钱财的公司颇为尴尬的一点，就是无论如何融入不了社区。于是借一家开源界的知名厂商来做。（笃定失败）&lt;/li&gt;
-&lt;li&gt;解决方案认证和新的供应&lt;/li&gt;
-&lt;li&gt;Ericsson is expanding its telco NFV solution to also include Red Hat OpenStack Platform to meet the needs of service providers across the globe who require a fully open and agile infrastructure（不翻译了，太长了。）&lt;/li&gt;
-&lt;li&gt;容器的创新与采用。&lt;/li&gt;
-&lt;li&gt;业界领袖的背后&lt;/li&gt;
-&lt;li&gt;专业的服务。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-medical-records.jpg?itok=gMuawq7C&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;利用开源来学习编程-一位医生的亲身经历:d2ae7b1ee20fdcdc39f023863c9855f6&#34;&gt;利用开源来学习编程：一位医生的亲身经历&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/doctor-learns-how-code-through-open-source&#34;&gt;A Doctor Learns How to Code Through Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一个非常励志的故事！只要你能够将自己的时间利用起来，没有什么不可能。编程并没有想象中的那么难！&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://openmrs.org/&#34;&gt;OpenMRS&lt;/a&gt;，跨界才是王道。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.gadgetdaily.xyz/wp-content/uploads/2015/01/suseconlogo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;susecon-2016-将在华盛顿盛大举行-发力开源软件定义基础设施的创新:d2ae7b1ee20fdcdc39f023863c9855f6&#34;&gt;SUSECOn 2016 将在华盛顿盛大举行，发力开源软件定义基础设施的创新&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.prnewswire.com/news-releases/suse-to-highlight-open-source-software-defined-infrastructure-innovations-at-susecon-2016-in-washington-dc-300347530.html&#34;&gt;SUSE to Highlight Open Source Software-Defined Infrastructure Innovations at SUSECON 2016 in Washington, D.C&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;似乎近来这些开源的基础设施厂商发力的地方差不多，比如红帽，Mirantis以及本文重点介绍的SUSE。我们来看一下会议上的议题看点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;SUSE 企业版Linux的路线图&lt;/li&gt;
-&lt;li&gt;SUSE 开放云中的网络功能虚拟化（NFV）&lt;/li&gt;
-&lt;li&gt;要想完成传统想软件定义的完美转身，那么先从存储开始&lt;/li&gt;
-&lt;li&gt;SUSE Manager 3 &amp;amp; SaltStack at Tyson Foods&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;从中可以看出SuSE发力的三个点：自身的基础——企业级Linux，OpenStack ＋NFV，Ceph 是不是很眼熟？&lt;/p&gt;
-
-&lt;p&gt;另外一个让我震撼的是，国外这些公司对于市场的看重，IT峰会一个接一个，但是类似的研讨会，正如文中所言：&lt;strong&gt;consuming extremely valuable content and getting face to face with SUSE engineers, executives, partners, other customers and community enthusiasts&lt;/strong&gt; 但是本土，我还没有见过哪家厂商能够办成这样，哪怕是红帽forum也是他们的销售邀请的合作伙伴、代理商居多。真正开放式的释放干货的内容很少！国人急功近利、浮躁的心态什么时候能够治愈？似乎越来越重的趋势。&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     

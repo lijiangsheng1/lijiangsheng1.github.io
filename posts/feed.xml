@@ -7,8 +7,72 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 06 Nov 2016 07:37:26 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Nov 2016 08:25:08 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.07)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.07%29/</link>
+      <pubDate>Mon, 07 Nov 2016 08:25:08 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.07%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:659f2bb46e5acdec5e9bc873d84e4f35&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blog.davidecoppola.com/wp-content/uploads/2016/11/GitHub-logo-header.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何为-github-上的开源项目贡献代码:659f2bb46e5acdec5e9bc873d84e4f35&#34;&gt;如何为 GitHub 上的开源项目贡献代码&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/&#34;&gt;How to contribute to an open source project on GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;方法论是可以反过来影响思维的，这是我坚信的一点，虽然有些勉强。但总比连方法论都没有的好。本文就是为小白特意写的入门教程，深入浅出、简单易懂、化复杂为简易。不可多得的好文。&lt;/p&gt;
+
+&lt;p&gt;之所以选上这篇文章，是因为无论是开放云精选也好，我自己本身也罢，能够让更多的人参与到社区开发、测试、撰写文档、提交issue、交流，都是非常想做的一件事情。&lt;/p&gt;
+
+&lt;p&gt;此文带给我很大的灵感，包括昨天爱人给我的提示，&lt;strong&gt;要找对你的受众群体!!!&lt;/strong&gt; 我想我应该知道自己接下来该做些什么了。开放云精选的野心太大，个人的能力和时间都有限，在没有更多人参与进来的话，不妨先将最重要的开始做起。哪些抽离具体项目进度的方法论！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cdn.mos.cms.futurecdn.net/aDB9wPqUtsRSRKLmwZDRb8.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;企业必须知道的有关-容器化-的姿势:659f2bb46e5acdec5e9bc873d84e4f35&#34;&gt;企业必须知道的有关“容器化”的姿势&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itproportal.com/features/containerisation-what-businesses-need-to-know/&#34;&gt;Containerisation: What businesses need to know&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是我读过的最好的关于容器的科普文章。没有之一！三言两语，就将容器的来龙去脉讲得清清楚楚、明明白白，这份功力不一般。甚至还偷空介绍了微软的容器技术跟进，以及和Linux的关系。&lt;/p&gt;
+
+&lt;p&gt;除了学习容器化的知识以外，本文使用浅显易懂的语言，精湛的比喻等方式，而且没有丝毫的夸张，有种科学论文般的冷静。尤其是对于容器化未来的那段描述，没有当下哪些夸张的革命式的颠覆，也没有面对传统应用的改造困难的悲观。客观的叙述了能够做到容器化的好处。&lt;/p&gt;
+
+&lt;p&gt;容器化！简单的包装，就可以做到微妙的隔离，将各种环境分离和共用！ 难得一见的好文！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/code1.png?itok=50CGHetL&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源开发者的日常:659f2bb46e5acdec5e9bc873d84e4f35&#34;&gt;开源开发者的日常&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://dzone.com/articles/life-as-an-open-source-developer&#34;&gt;Life as an Open Source Developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;文章的作者自称是一名开发的布道师，用事实证明自己是做的到的。他有一段话我非常的喜欢：&lt;/p&gt;
+
+&lt;p&gt;As a developer evangelist, I get to create my own job. That means that I can speak at the conferences I want to, write the code I want to, create the blog posts I want to, and everything else in between.&lt;/p&gt;
+
+&lt;p&gt;做到了按照自己意愿行事。其实，我想说的是，我需要这样的人才！你一样也可以做得到：&lt;strong&gt;Open Source  Developer！！！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.06)</title>
@@ -904,72 +968,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;参与、贡献、分享。这些开源的内在属性是难以学来的。政府，对比下本土的政府。比如工信部。（我为什么会对比？攀比？中外？）&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.21)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.21%29/</link>
-      <pubDate>Fri, 21 Oct 2016 07:44:23 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.21%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:ce111bee3b814a252a80218b1f53b2e6&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;adtran-为电信业的建议-使用开放平台-或者出局:ce111bee3b814a252a80218b1f53b2e6&#34;&gt;Adtran 为电信业的建议：使用开放平台，或者出局&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/open-source/use-open-platforms-or-die-adtran-tells-telcos/d/d-id/727124&#34;&gt;Use Open Platforms or Die, Adtran Tells Telcos&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Adtran，在读这篇文章之前，我从来没有听说过这家公司。嗯，是Nasdaq上市公司（为什么在本土认为上市就是一家牛逼的公司了呢？连我本人都不例外，本土太多的东西需要正本清源了。总是试图想脱离物理、自然规律来搞点伤天害理的事，比如“人定胜天”、“发展有中国特色的社会主义”。），Adtran 是为电信业的服务提供商敲响了警钟。举的几个例子确实能够让很多人闭嘴：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;诺基亚和黑莓，倒数5年那都是无限风光的好手机制造商。但是，因为错过了强大的平台而被历史所淘汰。&lt;/li&gt;
-&lt;li&gt;Uber和Airbnb颠覆了汽车共享和房屋共享。&lt;/li&gt;
-&lt;li&gt;Blockbuster ，拥有1000家门店的DVD租赁公司，被Netflix搞到破产。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，下一代平台是开放平台。该如何抉择？想想本土情形，三大运营商就不会倒闭了？呵呵，那种稳定、守旧、墨守成规是不符合经济规律的，一如前30年的计划经济。他们破产的时候，我们该哭还是该笑？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://s3.amazonaws.com/riqprod/images/uploads/content_images/opensource_5808d7d43ee1a.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源创新驱动着hadoop的需求:ce111bee3b814a252a80218b1f53b2e6&#34;&gt;开源创新驱动着Hadoop的需求&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.readitquik.com/news/off-premises/opensource-innovations-driving-demand-for-hadoop/&#34;&gt;Open-Source Innovations Driving Demand for Hadoop&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;对不起，我错了，我也是被标题给骗了。里面是讲一名叫做AtScale的做商业智能的公司，利用Hadoop生态重新构建了分析服务。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;红帽-开源的巨无霸:ce111bee3b814a252a80218b1f53b2e6&#34;&gt;红帽——开源的巨无霸&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerweekly.com/blog/Quocirca-Insights/Red-Hat-the-open-source-conglomerate&#34;&gt;Red Hat – the open source conglomerate&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;近来由于工作关系，开始关注、分析了一下红帽的案例。嗯，正如文中所表达的，红帽已经是一家大而全的软件公司了，几乎可以满足一家公司任何方面的对于软件的需求。以操作系统为核心，今年收购了很多的小公司，包括云平台、监控、部署、API、移动互联网后台不一而足。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;是否会消化不良？彼此打架？&lt;/li&gt;
-&lt;li&gt;红帽与开发者的关系接下来该如何处理？&lt;/li&gt;
-&lt;li&gt;红帽与开源、用户之间始终存在着矛盾。用户对于红帽产品作出修改之后，红帽将不再提供支持。（该如何评价这样的关系？）&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/bus-networking.png?itok=3UXFhssB&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

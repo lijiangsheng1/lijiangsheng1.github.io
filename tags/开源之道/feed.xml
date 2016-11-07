@@ -7,8 +7,72 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 06 Nov 2016 07:37:26 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Nov 2016 08:25:08 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.07)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.07%29/</link>
+      <pubDate>Mon, 07 Nov 2016 08:25:08 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.07%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:659f2bb46e5acdec5e9bc873d84e4f35&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://blog.davidecoppola.com/wp-content/uploads/2016/11/GitHub-logo-header.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何为-github-上的开源项目贡献代码:659f2bb46e5acdec5e9bc873d84e4f35&#34;&gt;如何为 GitHub 上的开源项目贡献代码&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/&#34;&gt;How to contribute to an open source project on GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;方法论是可以反过来影响思维的，这是我坚信的一点，虽然有些勉强。但总比连方法论都没有的好。本文就是为小白特意写的入门教程，深入浅出、简单易懂、化复杂为简易。不可多得的好文。&lt;/p&gt;
+
+&lt;p&gt;之所以选上这篇文章，是因为无论是开放云精选也好，我自己本身也罢，能够让更多的人参与到社区开发、测试、撰写文档、提交issue、交流，都是非常想做的一件事情。&lt;/p&gt;
+
+&lt;p&gt;此文带给我很大的灵感，包括昨天爱人给我的提示，&lt;strong&gt;要找对你的受众群体!!!&lt;/strong&gt; 我想我应该知道自己接下来该做些什么了。开放云精选的野心太大，个人的能力和时间都有限，在没有更多人参与进来的话，不妨先将最重要的开始做起。哪些抽离具体项目进度的方法论！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cdn.mos.cms.futurecdn.net/aDB9wPqUtsRSRKLmwZDRb8.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;企业必须知道的有关-容器化-的姿势:659f2bb46e5acdec5e9bc873d84e4f35&#34;&gt;企业必须知道的有关“容器化”的姿势&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itproportal.com/features/containerisation-what-businesses-need-to-know/&#34;&gt;Containerisation: What businesses need to know&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是我读过的最好的关于容器的科普文章。没有之一！三言两语，就将容器的来龙去脉讲得清清楚楚、明明白白，这份功力不一般。甚至还偷空介绍了微软的容器技术跟进，以及和Linux的关系。&lt;/p&gt;
+
+&lt;p&gt;除了学习容器化的知识以外，本文使用浅显易懂的语言，精湛的比喻等方式，而且没有丝毫的夸张，有种科学论文般的冷静。尤其是对于容器化未来的那段描述，没有当下哪些夸张的革命式的颠覆，也没有面对传统应用的改造困难的悲观。客观的叙述了能够做到容器化的好处。&lt;/p&gt;
+
+&lt;p&gt;容器化！简单的包装，就可以做到微妙的隔离，将各种环境分离和共用！ 难得一见的好文！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/code1.png?itok=50CGHetL&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源开发者的日常:659f2bb46e5acdec5e9bc873d84e4f35&#34;&gt;开源开发者的日常&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://dzone.com/articles/life-as-an-open-source-developer&#34;&gt;Life as an Open Source Developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;文章的作者自称是一名开发的布道师，用事实证明自己是做的到的。他有一段话我非常的喜欢：&lt;/p&gt;
+
+&lt;p&gt;As a developer evangelist, I get to create my own job. That means that I can speak at the conferences I want to, write the code I want to, create the blog posts I want to, and everything else in between.&lt;/p&gt;
+
+&lt;p&gt;做到了按照自己意愿行事。其实，我想说的是，我需要这样的人才！你一样也可以做得到：&lt;strong&gt;Open Source  Developer！！！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.06)</title>
@@ -907,78 +971,6 @@
 &lt;p&gt;从中可以看出SuSE发力的三个点：自身的基础——企业级Linux，OpenStack ＋NFV，Ceph 是不是很眼熟？&lt;/p&gt;
 
 &lt;p&gt;另外一个让我震撼的是，国外这些公司对于市场的看重，IT峰会一个接一个，但是类似的研讨会，正如文中所言：&lt;strong&gt;consuming extremely valuable content and getting face to face with SUSE engineers, executives, partners, other customers and community enthusiasts&lt;/strong&gt; 但是本土，我还没有见过哪家厂商能够办成这样，哪怕是红帽forum也是他们的销售邀请的合作伙伴、代理商居多。真正开放式的释放干货的内容很少！国人急功近利、浮躁的心态什么时候能够治愈？似乎越来越重的趋势。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.19)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.19%29/</link>
-      <pubDate>Wed, 19 Oct 2016 07:28:21 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.19%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:6d3101049c32b939fdffe63f998a83ec&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/10/1018.sdt-disney.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;让我们数数迪斯尼的开源项目:6d3101049c32b939fdffe63f998a83ec&#34;&gt;让我们数数迪斯尼的开源项目&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/disney-open-source-program/&#34;&gt;Disney has its own Open Source Program&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;关于翻译，余光中先生说过：“翻译乃大事，译者独憔悴。” 看下本文的英文标题，直译为“迪斯尼拥有了自己的开源项目”，很别扭，开源、拥有，也不是说不能在一起出现，但是怪怪的。这就是翻译，你自己有很多词汇，有的时候，就是不知道该怎么用。只好意译，按照上下文的含义，很主观的译出。这也是为什么很多人提倡读原文，但是，为什么所有的人都在翻译？而本土原创确实没有什么好的东西。又该论述精英主义了。&lt;/p&gt;
-
-&lt;p&gt;迪士尼是个很大的集团公司，但是是以动画起家的，后来发展到了电影。嗯，动画电影也是人们非常喜爱的形式。目前其开源的项目中，均是和动画电影制作相关的。为什么迪斯尼会选择开源这些对他的业务来说是蛮核心的项目了呢？值得思考，但是我想人才绝对是其中之一。你可能想不到，开源本身也是衡量一名开发者是否具备能力的敲门砖。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;为什么现在的企业会采用开源软件:6d3101049c32b939fdffe63f998a83ec&#34;&gt;为什么现在的企业会采用开源软件&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://forbesindia.com/article/leaderboard/why-enter-prises-are-now-opting-for-open-source-software/44469/1&#34;&gt;Why enterprises are now opting for open source software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一篇来自印度财富的文章。那么其实是在讲印度的事情。也是在讲红帽的事情。只要是讲企业级，红帽是绕不过的，如今的红帽俨然是一个巨无霸，产品线巨长，无所不包。但是正如其CEO Jim Whitehurst 在今年的红帽峰会上谈到的，亚洲的盈利，尤其是大中华区和东南亚，其实投入产出比是偏低的。但是，印度的情况似乎好一点？&lt;/p&gt;
-
-&lt;p&gt;为什么企业会选择开源？降低成本？人性化管理？笼络创新人才？开源的软件栈全面而卓越？不再需要为昂贵的许可证费用付费，但是还要为订阅服务付费。如果我是一名用户的话，对文中的回答并不满意。&lt;/p&gt;
-
-&lt;p&gt;在本土，没有人在意是否开源，认为开源是理想主义，是情怀。而情怀在本土就是锤子手机，叫好不叫座。但是，本土有一个好处，那就是现在的工程师们都是开源培育出来的一代，爆发之日可待。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源的历史告诉我们什么是战略优势:6d3101049c32b939fdffe63f998a83ec&#34;&gt;开源的历史告诉我们什么是战略优势&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/open-organization/16/10/history-open-source-teaches-strategic-advantage&#34;&gt;What the history of open source teaches us about strategic advantage&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;绝对好文！精彩绝伦！作者&lt;a href=&#34;https://opensource.com/users/bobbymartin&#34;&gt;Bobby Martin&lt;/a&gt;思路确实与众不同。红帽不是现在很火吗？20亿了，世界上top50的创新公司了。其成功是一定背后有很多故事的。让我们随同作者进入红帽创始人Bob Yang的感悟世界。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;control was users&amp;rsquo; hot button, not features.&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;m a sales guy. I don&amp;rsquo;t sell features. I sell benefits.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;以及作者最后给出的教训：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Ask the right questions.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Discover your competitive advantage.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;一篇好文，就是能够顺利的将自己要说清楚、讲明白的东西给讲出来。我没有想到作者可以将美国的独立战争，UNIX的发展史和Bob Yang联系起来。&lt;strong&gt;生意，需要洞见！倾听与观察，看到别人看不到的，生意成功的可能性就越大！&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
