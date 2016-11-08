@@ -7,8 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 07 Nov 2016 08:25:08 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Nov 2016 09:25:29 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.08)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.08%29/</link>
+      <pubDate>Tue, 08 Nov 2016 09:25:29 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.08%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:5444c8228cb6a765e40bcce4e455f75f&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;linux-基金会发布开放云2016指南:5444c8228cb6a765e40bcce4e455f75f&#34;&gt;Linux 基金会发布开放云2016指南&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://sports.yahoo.com/news/linux-foundation-releases-2016-guide-170000069.html&#34;&gt;Linux Foundation Releases 2016 Guide to the Open Cloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;原来叫做《open Cloud profile》，也是开放云精选最初的灵感来源。相比于以往，今年确实有了一些变化，分类也更加的细致了，说明做这件事情的人也进步了不少！&lt;/p&gt;
+
+&lt;p&gt;下载PDF文档，深度阅读之！没有二话。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://d1s8mqgwixvb29.cloudfront.net/article/article_extra_large_image/6511460449282city-digital.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;为什么说开源是软件定义基础设施的未来:5444c8228cb6a765e40bcce4e455f75f&#34;&gt;为什么说开源是软件定义基础设施的未来&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://businessworld.in/article/Why-Open-Source-Is-The-Future-of-Software-Defined-Infrastructure/07-11-2016-107860/&#34;&gt;Why Open Source Is The Future of Software-Defined-Infrastructure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;标题党，但是是对的，尽管内容说的乏善可陈！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;微软开源了-azure-容器服务:5444c8228cb6a765e40bcce4e455f75f&#34;&gt;微软开源了 Azure 容器服务&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/janakirammsv/2016/11/07/microsoft-open-sources-azure-container-service-adds-support-for-kubernetes/#183ff1cb70ad&#34;&gt;Microsoft Open Sources Azure Container Service - Adds Support for Kubernetes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如此的话，微软对于主流的容器编排工具：Docker Swarm、Mesospher DC/OS、Kubernetes都进行了支持，而且还要开源其core engine behind ACS，这个项目类似于OpenStack 中的　Magnum，显然作者没有分清楚Hypervisor和容器的差异。对于这个编排工具的理解实属败笔。&lt;/p&gt;
+
+&lt;p&gt;微软开源的决心似乎真的不可阻挡，文中提到其从Google挖了几个人过去。包括Kubernetes的核心。看文章的结尾话，让人慢慢的转变微软对于开源的作秀，看起来就像真的一样。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The decision of supporting Kubernetes and open sourcing ACS reflects the new culture at Microsoft.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.07)</title>
@@ -898,80 +952,6 @@
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/bus-networking.png?itok=3UXFhssB&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.20)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.20%29/</link>
-      <pubDate>Thu, 20 Oct 2016 06:57:23 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.20%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:d2ae7b1ee20fdcdc39f023863c9855f6&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;爱立信和红帽在开源方面结为合作伙伴:d2ae7b1ee20fdcdc39f023863c9855f6&#34;&gt;爱立信和红帽在开源方面结为合作伙伴&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/open-source/openstack/ericsson-red-hat-partner-on-open-source/d/d-id/727101?_mc=RSS_LR_EDT&#34;&gt;Ericsson, Red Hat Partner on Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;NFV，SDN，SDI，OpenStack 然后和ICT（信息和通信技术）扯在一起，纠缠不清。这块地盘竞争日益点激烈，但是无论如何，开源是一个焦点，大家似乎心知肚明，不开源，就得被淘汰。AT&amp;amp;T 要开源ECOMP，华为搞了个开源的ONLAB，以及Linux 基金会的OpenDayLight&amp;hellip;&amp;hellip;.不一而足。本篇文章最大的看点在于，爱立信和红帽结盟的合作项：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;上游优先。爱立信要借红帽之力，融入社区！这也是很多有人力、钱财的公司颇为尴尬的一点，就是无论如何融入不了社区。于是借一家开源界的知名厂商来做。（笃定失败）&lt;/li&gt;
-&lt;li&gt;解决方案认证和新的供应&lt;/li&gt;
-&lt;li&gt;Ericsson is expanding its telco NFV solution to also include Red Hat OpenStack Platform to meet the needs of service providers across the globe who require a fully open and agile infrastructure（不翻译了，太长了。）&lt;/li&gt;
-&lt;li&gt;容器的创新与采用。&lt;/li&gt;
-&lt;li&gt;业界领袖的背后&lt;/li&gt;
-&lt;li&gt;专业的服务。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-medical-records.jpg?itok=gMuawq7C&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;利用开源来学习编程-一位医生的亲身经历:d2ae7b1ee20fdcdc39f023863c9855f6&#34;&gt;利用开源来学习编程：一位医生的亲身经历&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/doctor-learns-how-code-through-open-source&#34;&gt;A Doctor Learns How to Code Through Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一个非常励志的故事！只要你能够将自己的时间利用起来，没有什么不可能。编程并没有想象中的那么难！&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://openmrs.org/&#34;&gt;OpenMRS&lt;/a&gt;，跨界才是王道。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.gadgetdaily.xyz/wp-content/uploads/2015/01/suseconlogo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;susecon-2016-将在华盛顿盛大举行-发力开源软件定义基础设施的创新:d2ae7b1ee20fdcdc39f023863c9855f6&#34;&gt;SUSECOn 2016 将在华盛顿盛大举行，发力开源软件定义基础设施的创新&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.prnewswire.com/news-releases/suse-to-highlight-open-source-software-defined-infrastructure-innovations-at-susecon-2016-in-washington-dc-300347530.html&#34;&gt;SUSE to Highlight Open Source Software-Defined Infrastructure Innovations at SUSECON 2016 in Washington, D.C&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;似乎近来这些开源的基础设施厂商发力的地方差不多，比如红帽，Mirantis以及本文重点介绍的SUSE。我们来看一下会议上的议题看点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;SUSE 企业版Linux的路线图&lt;/li&gt;
-&lt;li&gt;SUSE 开放云中的网络功能虚拟化（NFV）&lt;/li&gt;
-&lt;li&gt;要想完成传统想软件定义的完美转身，那么先从存储开始&lt;/li&gt;
-&lt;li&gt;SUSE Manager 3 &amp;amp; SaltStack at Tyson Foods&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;从中可以看出SuSE发力的三个点：自身的基础——企业级Linux，OpenStack ＋NFV，Ceph 是不是很眼熟？&lt;/p&gt;
-
-&lt;p&gt;另外一个让我震撼的是，国外这些公司对于市场的看重，IT峰会一个接一个，但是类似的研讨会，正如文中所言：&lt;strong&gt;consuming extremely valuable content and getting face to face with SUSE engineers, executives, partners, other customers and community enthusiasts&lt;/strong&gt; 但是本土，我还没有见过哪家厂商能够办成这样，哪怕是红帽forum也是他们的销售邀请的合作伙伴、代理商居多。真正开放式的释放干货的内容很少！国人急功近利、浮躁的心态什么时候能够治愈？似乎越来越重的趋势。&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
