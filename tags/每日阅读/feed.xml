@@ -7,8 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 08 Nov 2016 09:25:29 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Nov 2016 08:47:40 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.09)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.09%29/</link>
+      <pubDate>Wed, 09 Nov 2016 08:47:40 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.09%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:ba8cc3e3dc50789cf02d2d59eb2aede5&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://regmedia.co.uk/2016/11/07/java_image_by_gil_c_via_shutterstock.jpg?x=648&amp;amp;y=348&amp;amp;crop=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;阿里巴巴承诺的java大事件哪里去了:ba8cc3e3dc50789cf02d2d59eb2aede5&#34;&gt;阿里巴巴承诺的Java大事件哪里去了？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.theregister.co.uk/2016/11/08/alibaba_brings_weight_to_jcp_ec_elections/&#34;&gt;Open-source Sesame! Alibaba promises super-size magic for Java&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;阿里巴巴在三个月前加入了JCP的执行董事会，为什么了呢？因为这家电商巨头拥有大量的java应用，不想被Oracle牵制？还是有很多特殊的问题，需要得到JCP的帮忙？&lt;/p&gt;
+
+&lt;p&gt;而JCP的成员就更加天真可爱了，他们竟然说哦，终于有中国的团队加入了，相信阿里巴巴的加入也会带动其他厂商的加入的。嗯，好吧，这话背后只有懂的人才能品出它的苦涩。&lt;/p&gt;
+
+&lt;p&gt;终究是件好事，阿里巴巴在章文嵩博士出走之后，对于开源错误的做法，很是让人费解，但是他利用了国人的无知，比如MySQL的哪个，本来是违反协议的，把本该做的事情放大为市场宣传，怪谁？这不加入JCP，就是恬不知耻的为了解决问题。有时候，我也会怀疑布道的意义。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;linux-基金会为软件定义存储创建了开放的控制器-opensds:ba8cc3e3dc50789cf02d2d59eb2aede5&#34;&gt;Linux 基金会为软件定义存储创建了开放的控制器——OpenSDS&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/the-linux-foundation-creates-open-controller-for-software-defined-storage-2173754.htm&#34;&gt;The Linux Foundation Creates Open Controller for Software-Defined Storage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我模糊的记忆里，试图做虚拟的存储控制层的公司和产品很多。试图像hypervisor那样将计算资源抽象出来，但是，各个存储厂家都在彼此争夺，最后最多也就是做到将自家产品能够统一管理而已。&lt;/p&gt;
+
+&lt;p&gt;红帽的libstorage、IBM的virtualStorage等等不一而足。但是我不知道OpenSDS是什么东西。妄图以网络的方式理解存储？技术上似乎已经超出我的理解范畴。（没见Ceph也像SDN那样区分为控制平面、数据平面。）回来好好调研一番。&lt;/p&gt;
+
+&lt;p&gt;华为自认为掌控了Linux基金会的运转规则？这样宽松的既不Apache也不OpenStack的项目，以基金会的名义托管一个项目。其实，Linux基金会托管的一些伪项目，照样死去的居多。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/osdc-docdish-typewriterkeys.png?itok=WMrMf9SL&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;撰写更好的文档四步法-如何获得用户最需回答的问题:ba8cc3e3dc50789cf02d2d59eb2aede5&#34;&gt;撰写更好的文档四步法：如何获得用户最需回答的问题&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/11/right-way-help-users-learn-your-software&#34;&gt;4 steps to better documentation: How to get users the exact answer to the problem&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;文档，就是连这么简单的名次，在公司中很多角色都是不同的理解。sales理解为产品介绍、售前工程师理解为案例研究、行业实践，研发理解为代码注释、架构实践，service理解为指南、手册，市场人员理解为软文、宣传页、后勤人员理解为制度解释、规章条例。&lt;/p&gt;
+
+&lt;p&gt;这个世界进化到无比复杂的地步，而科技究竟是让绝大多数人盲目的自信，让眼光永远盯着自己的一小部分。比如，哪些电商网站的推荐系统，它真的能推荐到你需要的东西吗？&lt;/p&gt;
+
+&lt;p&gt;回到本文，写文档也要做到有的放矢！尽量少将自己的基础知识代入。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.08)</title>
@@ -886,72 +948,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;参与、贡献、分享。这些开源的内在属性是难以学来的。政府，对比下本土的政府。比如工信部。（我为什么会对比？攀比？中外？）&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.21)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.21%29/</link>
-      <pubDate>Fri, 21 Oct 2016 07:44:23 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.21%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:ce111bee3b814a252a80218b1f53b2e6&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;adtran-为电信业的建议-使用开放平台-或者出局:ce111bee3b814a252a80218b1f53b2e6&#34;&gt;Adtran 为电信业的建议：使用开放平台，或者出局&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/open-source/use-open-platforms-or-die-adtran-tells-telcos/d/d-id/727124&#34;&gt;Use Open Platforms or Die, Adtran Tells Telcos&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Adtran，在读这篇文章之前，我从来没有听说过这家公司。嗯，是Nasdaq上市公司（为什么在本土认为上市就是一家牛逼的公司了呢？连我本人都不例外，本土太多的东西需要正本清源了。总是试图想脱离物理、自然规律来搞点伤天害理的事，比如“人定胜天”、“发展有中国特色的社会主义”。），Adtran 是为电信业的服务提供商敲响了警钟。举的几个例子确实能够让很多人闭嘴：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;诺基亚和黑莓，倒数5年那都是无限风光的好手机制造商。但是，因为错过了强大的平台而被历史所淘汰。&lt;/li&gt;
-&lt;li&gt;Uber和Airbnb颠覆了汽车共享和房屋共享。&lt;/li&gt;
-&lt;li&gt;Blockbuster ，拥有1000家门店的DVD租赁公司，被Netflix搞到破产。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，下一代平台是开放平台。该如何抉择？想想本土情形，三大运营商就不会倒闭了？呵呵，那种稳定、守旧、墨守成规是不符合经济规律的，一如前30年的计划经济。他们破产的时候，我们该哭还是该笑？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://s3.amazonaws.com/riqprod/images/uploads/content_images/opensource_5808d7d43ee1a.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源创新驱动着hadoop的需求:ce111bee3b814a252a80218b1f53b2e6&#34;&gt;开源创新驱动着Hadoop的需求&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.readitquik.com/news/off-premises/opensource-innovations-driving-demand-for-hadoop/&#34;&gt;Open-Source Innovations Driving Demand for Hadoop&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;对不起，我错了，我也是被标题给骗了。里面是讲一名叫做AtScale的做商业智能的公司，利用Hadoop生态重新构建了分析服务。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;红帽-开源的巨无霸:ce111bee3b814a252a80218b1f53b2e6&#34;&gt;红帽——开源的巨无霸&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerweekly.com/blog/Quocirca-Insights/Red-Hat-the-open-source-conglomerate&#34;&gt;Red Hat – the open source conglomerate&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;近来由于工作关系，开始关注、分析了一下红帽的案例。嗯，正如文中所表达的，红帽已经是一家大而全的软件公司了，几乎可以满足一家公司任何方面的对于软件的需求。以操作系统为核心，今年收购了很多的小公司，包括云平台、监控、部署、API、移动互联网后台不一而足。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;是否会消化不良？彼此打架？&lt;/li&gt;
-&lt;li&gt;红帽与开发者的关系接下来该如何处理？&lt;/li&gt;
-&lt;li&gt;红帽与开源、用户之间始终存在着矛盾。用户对于红帽产品作出修改之后，红帽将不再提供支持。（该如何评价这样的关系？）&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/bus-networking.png?itok=3UXFhssB&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
