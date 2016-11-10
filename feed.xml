@@ -7,8 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Nov 2016 08:47:40 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Nov 2016 08:50:45 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.10)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.10%29/</link>
+      <pubDate>Thu, 10 Nov 2016 08:50:45 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.10%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:cd51b63cc27c3067493c8e4211781610&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/wp-content/uploads/2016/11/open-source2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源需要更多女性的参与:cd51b63cc27c3067493c8e4211781610&#34;&gt;开源需要更多女性的参与&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://cointelegraph.com/news/the-open-source-world-is-worth-billions&#34;&gt;GUEST BLOG: Open source needs to deliver diversity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;大约是因为开放、自由、共享等理念的倡导，开源界向来是尊重女性的，也一直呼吁女性的更多参与。&lt;/p&gt;
+
+&lt;p&gt;是的，我们需要更多的多样性、多元化。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/09/open-source-license-primary.jpg-100682570-primary.idge.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;4个急需帮助的开源项目:cd51b63cc27c3067493c8e4211781610&#34;&gt;4个急需帮助的开源项目&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3136580/open-source-tools/4-open-source-initiatives-that-need-your-help.html&#34;&gt;4 open source initiatives that need your help&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是的，几乎每隔一阵子都会有开源项目死去，纵观SourceForge、GitHub的历史，死去的开源项目占了绝大多数，不是它不优秀。一个项目的生命周期，有太多的维度来衡量。比如文中提到的PyPi项目，为什么Python基金会没有为它提供帮助？OpenBSD 走到如此地步，怪它不够安全？&lt;/p&gt;
+
+&lt;p&gt;有的时候，无论是撰写《失控》的 KK，还是生物界的达尔文，政治界的福山，都会谈到变化，适应环境。也就是所谓的进化论。&lt;/p&gt;
+
+&lt;p&gt;不是我冷酷，我也受到过同样的冷遇。得认清事实。振腕之余，需要反思的东西太多了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/LIFE_opensourcejob.png?itok=NSABHFru&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;苹果打算在开源投入更多:cd51b63cc27c3067493c8e4211781610&#34;&gt;苹果打算在开源投入更多&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/apple-is-doubling-down-on-open-source/&#34;&gt;Apple is doubling down on open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;doubling down 这个词我不知道怎么翻译合适，希望有识之士帮忙。&lt;/p&gt;
+
+&lt;p&gt;开源乃大势所趋，我认同文中的一句话：&lt;strong&gt;“In a world fueled by developers, enterprises must speak their language: open source code.”&lt;/strong&gt; 从文化的本质来讲，开源是解放了程序员——即人类本身，不在牢牢的被绑死在某个资本主义企业家身上。技术上更多的自由、也拥有更多的创新和空间。&lt;/p&gt;
+
+&lt;p&gt;Apple 即使如此有钱，也难免会底下高贵的头颅。开发者是它的命根子！没有开源，就没有今天Siri后台的架构&amp;hellip;&amp;hellip; 这家全世界最封闭的公司，在后Jobs时代，该如何处理Hacker和自由的关系，确实是一大挑战。光是玩高冷，会出事的。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.09)</title>
@@ -923,52 +985,6 @@
 &lt;p&gt;法制国家，出口控制，法律，FOSS。&lt;/p&gt;
 
 &lt;p&gt;好吧，你赢了。我没有看懂这篇文章。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.24)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.24%29/</link>
-      <pubDate>Mon, 24 Oct 2016 07:48:29 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.24%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:cea44bb9d555bf1fad199f5676312f3d&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_OpenInnovation.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源软件质量保证的基本事项:cea44bb9d555bf1fad199f5676312f3d&#34;&gt;开源软件质量保证的基本事项&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/10/basics-open-source-quality-assurance&#34;&gt;The basics of open source quality assurance&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这又让我想起来 OpenStack 的刷 Commit 事件，我很久一段时间没有关注开发的相关事项了。但是OpenStack 如此则暴露出其 review机制的问题，更深层次的问题是其项目的过渡民主化，或者是core reviewer这样一个角色的失职的惩罚问题。这也就会导致 OpenStack 项目的严重的质量问题。&lt;/p&gt;
-
-&lt;p&gt;抛开机制本身，我们回归到技术。软件的质量保证是测试，而测试会区分为单元测试、功能测试、集成测试等等，唯独不会关心，其版本控制系统提交了多少次，每次Commit是否有意义，是否是每个Commit都应该有对应的单元测试和持续集成和持续开发。&lt;/p&gt;
-
-&lt;p&gt;开源项目的质量保证，确实是个非常大的问题，Fedora、Foreman都还好，毕竟有红帽在后面花钱在让人搞。也唯有靠人类的精英，哪些软件的英雄们去早就牛逼的软件。没有天赋、靠努力、民主，将一事无成。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;at-t-购买时代华纳是希望在未来能够和google较量:cea44bb9d555bf1fad199f5676312f3d&#34;&gt;AT&amp;amp;T 购买时代华纳是希望在未来能够和Google较量&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.wired.com/2016/10/att-buying-time-warner-future-google/&#34;&gt;AT&amp;amp;T Is Buying Time Warner Because the Future is Google&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;连线的文章总是充满洞见，似乎每篇文章都是深度阅读，而不是本土的诸如cnbeta之类的，话说本土有一家像样的媒体吗？InfoQ？脱离了国际的给养，想独立走得更远点？我们拭目以待。&lt;/p&gt;
-
-&lt;p&gt;AT&amp;amp;T 运用的竞争策略，是典型的以进军竞争对手的领域，来继续霸占现有的市场的策略。因为Google、FaceBook、Amazon、乃至Netflix都在妄图进军电信网络提供商这个领域。AT&amp;amp;T不得不做出如此巨大的决策。但是很多人并不看好这样的收购，因为AT&amp;amp;T 尾大不掉，很多公司被他收购之后都垮掉了。&lt;/p&gt;
-
-&lt;p&gt;有时候在想，作为一个个体，讨论一些庞然大物的公司也好，国家也罢，意义何在？在本土最为悲哀的地方，就是标榜自己是某大公司的职工，一如当年自己是国有企业工人一样自豪，螺丝钉精神、抱大腿的态度、缺乏独立精神、拿第二本能当盾牌，我该如何处理这样的人。唯有叹息。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

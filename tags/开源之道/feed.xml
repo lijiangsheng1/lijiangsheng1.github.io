@@ -7,8 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Nov 2016 08:47:40 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Nov 2016 08:50:45 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.10)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.10%29/</link>
+      <pubDate>Thu, 10 Nov 2016 08:50:45 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.10%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:cd51b63cc27c3067493c8e4211781610&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/wp-content/uploads/2016/11/open-source2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源需要更多女性的参与:cd51b63cc27c3067493c8e4211781610&#34;&gt;开源需要更多女性的参与&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://cointelegraph.com/news/the-open-source-world-is-worth-billions&#34;&gt;GUEST BLOG: Open source needs to deliver diversity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;大约是因为开放、自由、共享等理念的倡导，开源界向来是尊重女性的，也一直呼吁女性的更多参与。&lt;/p&gt;
+
+&lt;p&gt;是的，我们需要更多的多样性、多元化。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/09/open-source-license-primary.jpg-100682570-primary.idge.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;4个急需帮助的开源项目:cd51b63cc27c3067493c8e4211781610&#34;&gt;4个急需帮助的开源项目&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3136580/open-source-tools/4-open-source-initiatives-that-need-your-help.html&#34;&gt;4 open source initiatives that need your help&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是的，几乎每隔一阵子都会有开源项目死去，纵观SourceForge、GitHub的历史，死去的开源项目占了绝大多数，不是它不优秀。一个项目的生命周期，有太多的维度来衡量。比如文中提到的PyPi项目，为什么Python基金会没有为它提供帮助？OpenBSD 走到如此地步，怪它不够安全？&lt;/p&gt;
+
+&lt;p&gt;有的时候，无论是撰写《失控》的 KK，还是生物界的达尔文，政治界的福山，都会谈到变化，适应环境。也就是所谓的进化论。&lt;/p&gt;
+
+&lt;p&gt;不是我冷酷，我也受到过同样的冷遇。得认清事实。振腕之余，需要反思的东西太多了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/LIFE_opensourcejob.png?itok=NSABHFru&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;苹果打算在开源投入更多:cd51b63cc27c3067493c8e4211781610&#34;&gt;苹果打算在开源投入更多&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/apple-is-doubling-down-on-open-source/&#34;&gt;Apple is doubling down on open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;doubling down 这个词我不知道怎么翻译合适，希望有识之士帮忙。&lt;/p&gt;
+
+&lt;p&gt;开源乃大势所趋，我认同文中的一句话：&lt;strong&gt;“In a world fueled by developers, enterprises must speak their language: open source code.”&lt;/strong&gt; 从文化的本质来讲，开源是解放了程序员——即人类本身，不在牢牢的被绑死在某个资本主义企业家身上。技术上更多的自由、也拥有更多的创新和空间。&lt;/p&gt;
+
+&lt;p&gt;Apple 即使如此有钱，也难免会底下高贵的头颅。开发者是它的命根子！没有开源，就没有今天Siri后台的架构&amp;hellip;&amp;hellip; 这家全世界最封闭的公司，在后Jobs时代，该如何处理Hacker和自由的关系，确实是一大挑战。光是玩高冷，会出事的。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.09)</title>
@@ -893,60 +955,6 @@
 &lt;p&gt;IDC 预测，未来在2020年，人们将全面采用OCP。服务器、机架、数据中心的设计都将遍地开花。&lt;/p&gt;
 
 &lt;p&gt;如此看来，开放是未来！世界之后中立的、非盈利的组织，然后就是哪些实用开放平台的其它业务的企业。而人才是自由的！本土的实现，可能要等上个50年。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.22)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.22%29/</link>
-      <pubDate>Sat, 22 Oct 2016 09:11:45 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.22%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:071d91fafc4fa92b0caf95dc7a0ca70e&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;twitter-该及时悔改了:071d91fafc4fa92b0caf95dc7a0ca70e&#34;&gt;Twitter 该及时悔改了&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://seekingalpha.com/article/4013840-fixing-twitter&#34;&gt;Fixing Twitter&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;在人人都在开源的时候，Twitter却不走寻常路，坚守封闭的道路！这可能令很多人不满他的客户端开始的。其实本土有一家厂商叫做腾讯，也是这么搞的。客户端别指望我开放。服务端为了招点人还有可能开源一些，客户端想都不用想。&lt;/p&gt;
-
-&lt;p&gt;&lt;del&gt;我最近在思考着一个大问题，可能是我人生的颠覆和疑虑。为什么小时候总是有人叫你从一而终，我指的是政治观点、人生看法等，和道德无关。我的脑子被人洗过！我甚至是一个很简单的人&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;话说回来，Twitter 一直都是在商业模式盈利上没有什么创新。甚至都开始考虑出售给社会主义国家了。从来不是背负历史使命的公司，一家没有什么文化的公司。只是恰好满足了互联网的撞大运的公司罢了。其实他开不开源，和他走入历史的废墟没有半毛钱关系。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/wp-content/uploads/2016/10/OpenStack-Barcelona.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;openstack-巴塞罗纳峰会-值得关注的内容:071d91fafc4fa92b0caf95dc7a0ca70e&#34;&gt;OpenStack 巴塞罗纳峰会——值得关注的内容&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/cloud/private/openstack-summit-barcelona-essential-guide/&#34;&gt;OpenStack Summit Barcelona – your essential guide to the show&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;OpenStack 基金会对于每隔半年的峰会是异常的重视，嗯，没有几天就要开始了，这周几乎都在造势，当然OpenStack 和开源的圈子里的人都在翘首期盼，期待有什么重大事情发生。&lt;/p&gt;
-
-&lt;p&gt;关于这篇文章我就不想多说什么了。我想谈谈国内近期刷commit的事情，中兴、99狂刷，刷typo，还可能是原来就是故意的typo的问题。说什么？搅局者？义愤填膺？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源之路:071d91fafc4fa92b0caf95dc7a0ca70e&#34;&gt;开源之路&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cioviewpoint/the-open-source-way-nid-23187-cid-92.html&#34;&gt;The Open Source Way&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;参与、贡献、分享。这些开源的内在属性是难以学来的。政府，对比下本土的政府。比如工信部。（我为什么会对比？攀比？中外？）&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
