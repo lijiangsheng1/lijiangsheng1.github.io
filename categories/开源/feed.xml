@@ -7,8 +7,78 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 11 Nov 2016 08:41:15 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 12 Nov 2016 06:43:02 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.12)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.12%29/</link>
+      <pubDate>Sat, 12 Nov 2016 06:43:02 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.12%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:b96717706c5808319ead78a6ca25b40d&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://udemy-images.udemy.com/course/750x422/514422_242b.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;java-开源十年-依旧争议不断:b96717706c5808319ead78a6ca25b40d&#34;&gt;Java 开源十年，依旧争议不断&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworld.com/article/3138505/java/open-source-java-at-10-big-benefits-but-detractors-remain.html&#34;&gt;After a decade, open source Java is still controversial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;正如前 Java 布道师 Reza Rahman 所总结的，Java 若不是开源，真的无法想象今天是什么样子。开源对于Java 的发展可谓是至关重要的决定。&lt;/p&gt;
+
+&lt;p&gt;但是，Sun当年选择的协议，乃至后来的Oracle，将Java的控制权牢牢的掌握着，去年的Android Google和Oracle的官司，想必还记忆犹新吧。&lt;/p&gt;
+
+&lt;p&gt;Java 已经20多年了，基于它的框架、应用都成了云原生应用的阻力了。该换换口味了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;apache-cassandra-项目发生的-撕逼-事件:b96717706c5808319ead78a6ca25b40d&#34;&gt;Apache Cassandra 项目发生的“撕逼”事件&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/the-battle-for-apache-cassandra-highlights-major-problem-with-open-source-projects/&#34;&gt;The battle for Apache Cassandra highlights major problem with open source projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;首先，声明以下此文是商业公司Datastax妄图对自己做出辩解！作为一家媒体网站，没有做到中立，客观的进行评价，是件颇为遗憾的事情。&lt;/p&gt;
+
+&lt;p&gt;我很反感说开源赚钱很难，比如文章谈到的：“Selling open source is hard. Really hard. ”，开源的初衷并不是让你去赚钱的，你能够找到商业模式，弥补其中的空隙，那是你自己的事情，和中立组织有何关系？竟然能恬不知耻的说出这事了：“The ASF may be unwittingly making it harder.”&lt;/p&gt;
+
+&lt;p&gt;过分商业化的开源，还是会闹出很多纠纷的，OpenStack 相信也会有那么一天，ASF 已经做的够好的了。可是总是有太多的投机者，打着开源的幌子，然后异想天开的以为开源之后即可财源滚滚，一下子就成了某某界的红帽了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-592663558.png?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;需要从netflix及其外包的技术中汲取灵感的5大行业:b96717706c5808319ead78a6ca25b40d&#34;&gt;需要从Netflix及其外包的技术中汲取灵感的5大行业&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/10/5-industries-that-should-take-a-cue-from-netflix-and-crowdsource-parts-of-its-tech/&#34;&gt;Five industries that should take a cue from Netflix and crowdsource parts of its tech&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Netflix Prize 可谓是鼎鼎大名的商业成功案例了。能够为人们推荐影片，以数学知识来替代人本身的思考和寻找，无论从哪个角度讲都是成功的。&lt;/p&gt;
+
+&lt;p&gt;这才是媒体应该去做的，那么Netflix 的如此做法，那几个行业该从善如流了呢？数字安全、健康和药理、广告和营销、交通和运输、精准农业。是的，数据化的时代，如何挖掘出有益于人类的事情，才是Netflix这样的模式成功的至关重要的事情。引用几段文中强调的话：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If we were able to input every piece of data from every drug study, we could potentially make better predictions about drugs.&lt;/li&gt;
+&lt;li&gt;Machine learning could create a more efficient transportation environment and experience.&lt;/li&gt;
+&lt;li&gt;Ten years ago, the Netflix Prize used data and science to change recommendation engines for the better. Algorithmic intelligence changed the things we watched on our screens.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;相信世界变得更加美好！相信也会让我们更加的数字痴呆化。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.11)</title>
@@ -962,66 +1032,6 @@
 &lt;p&gt;创新、省钱、提升竞争力是采用开源三大原因。&lt;/p&gt;
 
 &lt;p&gt;我不由的又想到了本土，上述三大原因，恐怕一个也没有。因为国人还没有准备好开源了。而是将开源视为过去兜售产品的一样。这恐怕难以一时半会改变。需要更多的布道。胆小、保守、怯弱、贪婪、奴隶等性格和思维定势，开源的买卖在本土将非常的难做。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.25)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.25%29/</link>
-      <pubDate>Tue, 25 Oct 2016 07:32:03 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.25%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:3773f58b29c72fe7510881b2c5181cd5&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;cloudnativecon-有关开源-容器和云原生应用的盛宴:3773f58b29c72fe7510881b2c5181cd5&#34;&gt;CloudNativeCon 有关开源、容器和云原生应用的盛宴&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/cloudnativecon-unites-leaders-open-source-container-and-cloud-native-tech&#34;&gt;CloudNativeCon Unites Leaders in Open Source, Container and Cloud Native Tech&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，每次看到如此的会议，我就忍不住想本土为何就没有如此质量高的会议？&lt;/p&gt;
-
-&lt;p&gt;本土是缺乏原创的，这是众所周知的事情。所谓的容器也好，Kubernetes也罢，顶级的专家都在美国。本土的会议，永远是某个厂商的市场活动。Meetup之类的就更无从谈起了。&lt;/p&gt;
-
-&lt;p&gt;最为可恨的是以技术的名义，发起社交者的聚会。一帮拿着别人的理想混饭吃的家伙们，&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/10/1200px-marionnette-100689246-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;github-开源了其puppet的跟踪和预览工具:3773f58b29c72fe7510881b2c5181cd5&#34;&gt;GitHub 开源了其Puppet的跟踪和预览工具&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3133974/open-source-tools/github-open-sources-tool-to-track-and-preview-puppet-changes.html&#34;&gt;GitHub open-sources tool to track and preview Puppet changes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，GitHub 是一家闭源的互联网厂商，正在慢慢的开源一些服务器、集群、运维的工具。比如前一阵子的负载均衡，以及本次的Puppet工具。&lt;/p&gt;
-
-&lt;p&gt;GitHub 也是找了一些开源的专业人士过去的，比如Jono Bacon就在担任社区总监。它的开源其实只有一个目的：洗清自己被人诟病的闭源罪名。&lt;/p&gt;
-
-&lt;p&gt;GitHub 做的蛮好，其借鉴了 SourceForge的教训，知道如何做到让人们相信它，而且也很好的找到了商业模式，加上社交（面基）的特性。相比而言，本土的几家代码托管厂商，天生的畸形以及难以做到让人信任的地步。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/law/LAW_lawdotgov2.png?itok=YnHs9GMW&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;分布式的加密软件可能是违法的:3773f58b29c72fe7510881b2c5181cd5&#34;&gt;分布式的加密软件可能是违法的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/law/16/10/distributing-encryption-software-may-break-law&#34;&gt;Distributing encryption software may break the law&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;法制国家，出口控制，法律，FOSS。&lt;/p&gt;
-
-&lt;p&gt;好吧，你赢了。我没有看懂这篇文章。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

@@ -7,8 +7,78 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 11 Nov 2016 08:41:15 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 12 Nov 2016 06:43:02 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.12)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.12%29/</link>
+      <pubDate>Sat, 12 Nov 2016 06:43:02 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.12%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:b96717706c5808319ead78a6ca25b40d&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://udemy-images.udemy.com/course/750x422/514422_242b.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;java-开源十年-依旧争议不断:b96717706c5808319ead78a6ca25b40d&#34;&gt;Java 开源十年，依旧争议不断&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworld.com/article/3138505/java/open-source-java-at-10-big-benefits-but-detractors-remain.html&#34;&gt;After a decade, open source Java is still controversial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;正如前 Java 布道师 Reza Rahman 所总结的，Java 若不是开源，真的无法想象今天是什么样子。开源对于Java 的发展可谓是至关重要的决定。&lt;/p&gt;
+
+&lt;p&gt;但是，Sun当年选择的协议，乃至后来的Oracle，将Java的控制权牢牢的掌握着，去年的Android Google和Oracle的官司，想必还记忆犹新吧。&lt;/p&gt;
+
+&lt;p&gt;Java 已经20多年了，基于它的框架、应用都成了云原生应用的阻力了。该换换口味了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;apache-cassandra-项目发生的-撕逼-事件:b96717706c5808319ead78a6ca25b40d&#34;&gt;Apache Cassandra 项目发生的“撕逼”事件&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/the-battle-for-apache-cassandra-highlights-major-problem-with-open-source-projects/&#34;&gt;The battle for Apache Cassandra highlights major problem with open source projects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;首先，声明以下此文是商业公司Datastax妄图对自己做出辩解！作为一家媒体网站，没有做到中立，客观的进行评价，是件颇为遗憾的事情。&lt;/p&gt;
+
+&lt;p&gt;我很反感说开源赚钱很难，比如文章谈到的：“Selling open source is hard. Really hard. ”，开源的初衷并不是让你去赚钱的，你能够找到商业模式，弥补其中的空隙，那是你自己的事情，和中立组织有何关系？竟然能恬不知耻的说出这事了：“The ASF may be unwittingly making it harder.”&lt;/p&gt;
+
+&lt;p&gt;过分商业化的开源，还是会闹出很多纠纷的，OpenStack 相信也会有那么一天，ASF 已经做的够好的了。可是总是有太多的投机者，打着开源的幌子，然后异想天开的以为开源之后即可财源滚滚，一下子就成了某某界的红帽了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-592663558.png?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;需要从netflix及其外包的技术中汲取灵感的5大行业:b96717706c5808319ead78a6ca25b40d&#34;&gt;需要从Netflix及其外包的技术中汲取灵感的5大行业&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/10/5-industries-that-should-take-a-cue-from-netflix-and-crowdsource-parts-of-its-tech/&#34;&gt;Five industries that should take a cue from Netflix and crowdsource parts of its tech&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Netflix Prize 可谓是鼎鼎大名的商业成功案例了。能够为人们推荐影片，以数学知识来替代人本身的思考和寻找，无论从哪个角度讲都是成功的。&lt;/p&gt;
+
+&lt;p&gt;这才是媒体应该去做的，那么Netflix 的如此做法，那几个行业该从善如流了呢？数字安全、健康和药理、广告和营销、交通和运输、精准农业。是的，数据化的时代，如何挖掘出有益于人类的事情，才是Netflix这样的模式成功的至关重要的事情。引用几段文中强调的话：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If we were able to input every piece of data from every drug study, we could potentially make better predictions about drugs.&lt;/li&gt;
+&lt;li&gt;Machine learning could create a more efficient transportation environment and experience.&lt;/li&gt;
+&lt;li&gt;Ten years ago, the Netflix Prize used data and science to change recommendation engines for the better. Algorithmic intelligence changed the things we watched on our screens.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;相信世界变得更加美好！相信也会让我们更加的数字痴呆化。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.11)</title>
@@ -934,52 +1004,6 @@
 &lt;p&gt;法制国家，出口控制，法律，FOSS。&lt;/p&gt;
 
 &lt;p&gt;好吧，你赢了。我没有看懂这篇文章。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.24)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.24%29/</link>
-      <pubDate>Mon, 24 Oct 2016 07:48:29 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.24%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:cea44bb9d555bf1fad199f5676312f3d&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BIZ_OpenInnovation.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源软件质量保证的基本事项:cea44bb9d555bf1fad199f5676312f3d&#34;&gt;开源软件质量保证的基本事项&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/10/basics-open-source-quality-assurance&#34;&gt;The basics of open source quality assurance&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这又让我想起来 OpenStack 的刷 Commit 事件，我很久一段时间没有关注开发的相关事项了。但是OpenStack 如此则暴露出其 review机制的问题，更深层次的问题是其项目的过渡民主化，或者是core reviewer这样一个角色的失职的惩罚问题。这也就会导致 OpenStack 项目的严重的质量问题。&lt;/p&gt;
-
-&lt;p&gt;抛开机制本身，我们回归到技术。软件的质量保证是测试，而测试会区分为单元测试、功能测试、集成测试等等，唯独不会关心，其版本控制系统提交了多少次，每次Commit是否有意义，是否是每个Commit都应该有对应的单元测试和持续集成和持续开发。&lt;/p&gt;
-
-&lt;p&gt;开源项目的质量保证，确实是个非常大的问题，Fedora、Foreman都还好，毕竟有红帽在后面花钱在让人搞。也唯有靠人类的精英，哪些软件的英雄们去早就牛逼的软件。没有天赋、靠努力、民主，将一事无成。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;at-t-购买时代华纳是希望在未来能够和google较量:cea44bb9d555bf1fad199f5676312f3d&#34;&gt;AT&amp;amp;T 购买时代华纳是希望在未来能够和Google较量&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.wired.com/2016/10/att-buying-time-warner-future-google/&#34;&gt;AT&amp;amp;T Is Buying Time Warner Because the Future is Google&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;连线的文章总是充满洞见，似乎每篇文章都是深度阅读，而不是本土的诸如cnbeta之类的，话说本土有一家像样的媒体吗？InfoQ？脱离了国际的给养，想独立走得更远点？我们拭目以待。&lt;/p&gt;
-
-&lt;p&gt;AT&amp;amp;T 运用的竞争策略，是典型的以进军竞争对手的领域，来继续霸占现有的市场的策略。因为Google、FaceBook、Amazon、乃至Netflix都在妄图进军电信网络提供商这个领域。AT&amp;amp;T不得不做出如此巨大的决策。但是很多人并不看好这样的收购，因为AT&amp;amp;T 尾大不掉，很多公司被他收购之后都垮掉了。&lt;/p&gt;
-
-&lt;p&gt;有时候在想，作为一个个体，讨论一些庞然大物的公司也好，国家也罢，意义何在？在本土最为悲哀的地方，就是标榜自己是某大公司的职工，一如当年自己是国有企业工人一样自豪，螺丝钉精神、抱大腿的态度、缺乏独立精神、拿第二本能当盾牌，我该如何处理这样的人。唯有叹息。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
