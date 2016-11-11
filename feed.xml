@@ -7,8 +7,93 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 10 Nov 2016 08:50:45 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Nov 2016 08:41:15 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.11)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.11%29/</link>
+      <pubDate>Fri, 11 Nov 2016 08:41:15 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.11%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:c91e8563953dd02e97bab7562805fa13&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;昔日采用开源的标杆-近日重投微软的怀抱:c91e8563953dd02e97bab7562805fa13&#34;&gt;昔日采用开源的标杆，近日重投微软的怀抱&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techeye.net/news/open-source-champion-mulls-return-to-microsoft&#34;&gt;Open source champion mulls return to Microsoft&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;文首直接点明意思，“After a decade of being the Open Saucy champion of the world, Munich  is now considering going back to Vole’s loving arms.”&lt;/p&gt;
+
+&lt;p&gt;这意味着什么了呢？LibreOffice 的全面崩盘！伴随着Google等云计算的在线办公，以及微软的开源战略，Linux 的桌面应用更加的举步维艰。&lt;/p&gt;
+
+&lt;p&gt;在此背后，除了经济学之外，还有甚么能够解释的呢？日益加速的生活节奏所导致的对于时间的珍惜，恐怕是一个难以摆脱的理由。社区的随性质量问题，也企待人们尽快的解决。开源就意味着质量问题？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/11/DEC16-1109-GUESTVIEW-PITTENGER.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;嘉宾观点-为什么政府会对开源很感冒:c91e8563953dd02e97bab7562805fa13&#34;&gt;嘉宾观点：为什么政府会对开源很感冒&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/guest-view-open-sourcing-software-government-makes-sense/&#34;&gt;Guest View: Why open-sourcing software for the government makes sense&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;基于以下几点：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;更开放&lt;/li&gt;
+&lt;li&gt;更多的眼睛&lt;/li&gt;
+&lt;li&gt;更加的透明&lt;/li&gt;
+&lt;li&gt;更有效&lt;/li&gt;
+&lt;li&gt;更具创新性&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;会节省纳税人的钱！更加灵活的IT架构。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://stech1.firstpost.com/tech2images/640x359/proportional/jpeg/2016/11/tensor-flow-cover-image-624x352.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;google-庆祝机器学习框架-tensorflow-开源一周年:c91e8563953dd02e97bab7562805fa13&#34;&gt;Google 庆祝机器学习框架 TensorFlow 开源一周年&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://tech.firstpost.com/news-analysis/google-celebrates-one-year-of-open-sourcing-machine-learning-framework-tensorflow-346451.html&#34;&gt;Google celebrates one year of open sourcing machine learning framework TensorFlow&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;2015年11月9号，Google 将其人工智能的机器学习框架开源了，项目名称叫做TensorFlow。新版本增加了分布式计算以及对iOS的支持。&lt;/p&gt;
+
+&lt;p&gt;本文总结了一年多来TensorFlow的应用成绩：GitHub  有超过3000多个和它有关的项目，Google自己内部使用TensorFlow 来驱动他的业务，比如自然语言处理等，且GCE也提供TensorFlow的业务。项目Magenta是可以创作音乐的，Google著名人工智能项目DeepMind也用到了TensorFlow，而DeepMind在挑战完围棋冠军之后，开始挑战暴雪著名游戏《星际争霸》。&lt;/p&gt;
+
+&lt;p&gt;After desktop computers, the internet, smartphones, it is now time for the advent of machine learning, and TensorFlow is at the heart of the machine learning capabilities by Google.&lt;/p&gt;
+
+&lt;p&gt;自从TensorFlow开源之后，来自全球各地的人都受益，利用TensofFlow进行各种创新的应用：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;澳大利亚海洋生物学家用来监视受到威胁的海牛数量。&lt;/li&gt;
+&lt;li&gt;一位来自日本的种植黄瓜的农民，从DeepMind战胜围棋冠军的事件中获得灵感，可以将黄瓜分类，如下图所示。&lt;/li&gt;
+&lt;li&gt;来自硅谷的数据科学家则利用摄像机、microphone、树莓派和TensorFlow来跟踪Caltrain。&lt;/li&gt;
+&lt;li&gt;而放射科的医生则用来自动诊断帕金森的病人。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://tech.firstpost.com/wp-content/uploads/2016/11/cucumber-farmer-9.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源让所有人受益，包括TensorFlow本身：** There have been 10,000 code commits on GitHub after just a year of being open source. **&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.10)</title>
@@ -925,66 +1010,6 @@
 &lt;p&gt;创新、省钱、提升竞争力是采用开源三大原因。&lt;/p&gt;
 
 &lt;p&gt;我不由的又想到了本土，上述三大原因，恐怕一个也没有。因为国人还没有准备好开源了。而是将开源视为过去兜售产品的一样。这恐怕难以一时半会改变。需要更多的布道。胆小、保守、怯弱、贪婪、奴隶等性格和思维定势，开源的买卖在本土将非常的难做。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.25)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.25%29/</link>
-      <pubDate>Tue, 25 Oct 2016 07:32:03 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.25%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:3773f58b29c72fe7510881b2c5181cd5&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;cloudnativecon-有关开源-容器和云原生应用的盛宴:3773f58b29c72fe7510881b2c5181cd5&#34;&gt;CloudNativeCon 有关开源、容器和云原生应用的盛宴&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/cloudnativecon-unites-leaders-open-source-container-and-cloud-native-tech&#34;&gt;CloudNativeCon Unites Leaders in Open Source, Container and Cloud Native Tech&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，每次看到如此的会议，我就忍不住想本土为何就没有如此质量高的会议？&lt;/p&gt;
-
-&lt;p&gt;本土是缺乏原创的，这是众所周知的事情。所谓的容器也好，Kubernetes也罢，顶级的专家都在美国。本土的会议，永远是某个厂商的市场活动。Meetup之类的就更无从谈起了。&lt;/p&gt;
-
-&lt;p&gt;最为可恨的是以技术的名义，发起社交者的聚会。一帮拿着别人的理想混饭吃的家伙们，&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/10/1200px-marionnette-100689246-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;github-开源了其puppet的跟踪和预览工具:3773f58b29c72fe7510881b2c5181cd5&#34;&gt;GitHub 开源了其Puppet的跟踪和预览工具&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3133974/open-source-tools/github-open-sources-tool-to-track-and-preview-puppet-changes.html&#34;&gt;GitHub open-sources tool to track and preview Puppet changes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，GitHub 是一家闭源的互联网厂商，正在慢慢的开源一些服务器、集群、运维的工具。比如前一阵子的负载均衡，以及本次的Puppet工具。&lt;/p&gt;
-
-&lt;p&gt;GitHub 也是找了一些开源的专业人士过去的，比如Jono Bacon就在担任社区总监。它的开源其实只有一个目的：洗清自己被人诟病的闭源罪名。&lt;/p&gt;
-
-&lt;p&gt;GitHub 做的蛮好，其借鉴了 SourceForge的教训，知道如何做到让人们相信它，而且也很好的找到了商业模式，加上社交（面基）的特性。相比而言，本土的几家代码托管厂商，天生的畸形以及难以做到让人信任的地步。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/law/LAW_lawdotgov2.png?itok=YnHs9GMW&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;分布式的加密软件可能是违法的:3773f58b29c72fe7510881b2c5181cd5&#34;&gt;分布式的加密软件可能是违法的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/law/16/10/distributing-encryption-software-may-break-law&#34;&gt;Distributing encryption software may break the law&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;法制国家，出口控制，法律，FOSS。&lt;/p&gt;
-
-&lt;p&gt;好吧，你赢了。我没有看懂这篇文章。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
