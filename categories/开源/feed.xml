@@ -7,8 +7,66 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 15 Nov 2016 15:01:30 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Nov 2016 06:55:44 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.16)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.16%29/</link>
+      <pubDate>Wed, 16 Nov 2016 06:55:44 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.16%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:c1f54cbb49a664948e900e9c29687882&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://searchengineland.com/figz/wp-content/seloads/2016/11/common-search-flowchart2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;将搜索带回-pagerank-年代的开源项目-通用搜索:c1f54cbb49a664948e900e9c29687882&#34;&gt;将搜索带回 PageRank 年代的开源项目———通用搜索&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://searchengineland.com/common-search-open-source-project-bringing-back-pagerank-262736&#34;&gt;Common Search: The open source project bringing back PageRank&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;世界的运转是依赖于信息的，然而，是谁掌控着信息？作为普罗大众的你，该如何去应对这些信息？你所处的环境不是信息匮乏，而是泛滥，该如何筛选？这成为了未来人才想要脱颖而出的必备技能。&lt;/p&gt;
+
+&lt;p&gt;那么此文就是带领我们了解搜索：爬虫、数据存放、分析、前端等大的组件。另外就是哪些免费为大众存放数据的地方，比如AWS等，免费的后面总有人买单！！而买单的人的目的，我们无法判定，也不该道德判定？对吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/01/nothing-to-fear-thinkstock-100563717-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;linux-基金会双管齐下-预防哪些-捣蛋-软件:c1f54cbb49a664948e900e9c29687882&#34;&gt;Linux 基金会双管齐下，预防哪些“捣蛋“软件&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3141305/open-source-tools/linux-foundation-doubles-down-on-support-for-tamper-free-software.html&#34;&gt;Linux Foundation doubles down on support for tamper-free software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我喜欢这篇文章的配图，让我想起了诺兰的《蝙蝠侠》系列，恐惧对于蝙蝠侠的成长来说可谓是至关重要，从害怕，到无畏，再到敬畏。&lt;/p&gt;
+
+&lt;p&gt;开源界有时候也得照顾下贪玩的人性！总是有些捣蛋鬼喜欢恶作剧，比如前一阵子发生的Linux Mint仓库服务器被攻击吗？以及2003年GNU的服务器被黑吗？以及不计其数的发生的事情。总得有人站出来，既然无法杜绝，不如做好预防准备，&lt;a href=&#34;https://reproducible-builds.org&#34;&gt;可再生构建程序&lt;/a&gt;顺势而生！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;angular-创始人-miško-hevery-谈开源语言是如何重新定义企业级软件的:c1f54cbb49a664948e900e9c29687882&#34;&gt;Angular 创始人 Miško Hevery 谈开源语言是如何重新定义企业级软件的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/louiscolumbus/2016/11/14/misko-hevery-inventor-of-angular-and-how-open-source-languages-are-redefining-enterprise-software/#5d6551314351&#34;&gt;Miško Hevery, Inventor of Angular And How Open Source Languages Are Redefining Enterprise Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;福布斯出品，必是精品。这是一篇典型的范文！毫无瑕疵！软文就应该这么写。我们不妨分析下结构：&lt;/p&gt;
+
+&lt;p&gt;开始交代了这篇文章的起因，因为在Angular的大会上遇到大神级人物（作简短介绍），然后，在交代采访内容之前，向读者阐述了Angular是个什么东东，有何成就！最后总结开源、技术趋势所成就等。&lt;/p&gt;
+
+&lt;p&gt;对于我而言，我一直在试图尝试寻找开源对于企业的意义，对于某个技术的个体来说的赚钱意义。然后在此寻找自己立足的机会。&lt;strong&gt;The days of charging for upgrades and new features went away with the perpetual, on-premise business models of the past.&lt;/strong&gt; 参与到开源项目中是最好的出路，将项目开源是唯一的出路，作为个体提升价值的地方就是去参与！！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.15)</title>
@@ -970,74 +1028,6 @@
 
 &lt;p&gt;没有文化作为基础和积淀，实施开源就会完全失败！华为可能就会是一个很好的例子。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.27)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.27%29/</link>
-      <pubDate>Thu, 27 Oct 2016 08:24:28 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.27%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:71e92f8f76ad21c16453ce0645419d36&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/osdc-all-things-open-inc0297788-0815sw-1.png?itok=NWNqqq-q&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;红帽-ceo-万物皆开放-并非仅仅指技术:71e92f8f76ad21c16453ce0645419d36&#34;&gt;红帽 CEO：“万物皆开放” 并非仅仅指技术&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.bizjournals.com/triangle/news/2016/10/26/red-hat-ceo-all-things-open-isnt-just-about.html&#34;&gt;Red Hat CEO: &amp;lsquo;All things open&amp;rsquo; isn&amp;rsquo;t just about technology&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;All things Open 峰会即将举行，作为红帽所倡导的哲学思想，当然会为之摇旗呐喊了。&lt;/p&gt;
-
-&lt;p&gt;是的，开源软件已经用实际行动证明了，开源是可行的，无论是生产模式，还是商业模式。但是，它其实应该在更多的领域发挥它的巨大的创新能力。比如全球变暖问题、治愈癌症等。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;“We know that bureaucracies, hierarchies, are really good at driving efficiency,” he says. “They’re not good at innovating.&amp;rdquo;&lt;/strong&gt; 所谓的经济奇迹，也不过是放松了对于人的管制而已。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;为什么说开源专家对于你的企业很重要:71e92f8f76ad21c16453ce0645419d36&#34;&gt;为什么说开源专家对于你的企业很重要&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cxoinsight/why-professional-open-source-management-is-critical-for-your-business-nid-23220-cid-92.html&#34;&gt;Why professional open source management is Critical for your business&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是我不知道第几次听说过这个职位了，一家公司专门主管开源方面工作的，微软、Oracle、VMware、华为（开源能力中心）等，这次是Yahoo，主持了Hadoop、Spark、Zookeeper等，以及内部的项目。相信是蛮有说服力的了。&lt;/p&gt;
-
-&lt;p&gt;作者说道，开源不再是一件可有可无的事情了，已经发展成为一种态势，对于企业提高竞争力一个不得不提到的环节：人才的竞争、开发成本的降低、对于趋势的把握和敏感直觉、乃至创新的动力等等。&lt;/p&gt;
-
-&lt;p&gt;结论是：你的企业需要懂开源的人才，即&lt;strong&gt;Open Source Program office.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-business.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;企业开源势不可挡-无论是技术还是其它领域:71e92f8f76ad21c16453ce0645419d36&#34;&gt;企业开源势不可挡——无论是技术还是其它领域&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/enterprise-open-source-programs-flourish-tech-and-elsewhere&#34;&gt;Enterprise Open Source Programs Flourish &amp;ndash; In Tech and Elsewhere&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;好文！开始先论述15年的人们对待开源的态度，犹如看1958年大跃进的照片一样令人不可思议，微软CEO抨击Linux破坏了整个软件产业。15年之后的今天，微软态度转变，拥抱开源，和红帽联姻，勾搭FreeBSD。然后开始列举哪些默默为开源做贡献的公司：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Netflix:&lt;a href=&#34;https://netflix.github.io/&#34;&gt;开源软件中心&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ericsson.com/article/open_source_1714451213_c&#34;&gt;爱立信&lt;/a&gt;，一下子我就想到了这是一篇说爱立信好的软文。NFV 一共没有多少年。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/openness/default.aspx#home&#34;&gt;微软&lt;/a&gt; 接二连三的开源。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.walmartlabs.com/innovation/open-source/&#34;&gt;沃尔玛&lt;/a&gt;成立了专门的实验室，也是开源界的佳话。&lt;/li&gt;
-&lt;li&gt;Moilla、Facebook、Google等我就不多说了。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;但是似乎没有谈到非软件领域。可能草草收尾。&lt;/p&gt;
 </description>
     </item>
     
