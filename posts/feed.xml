@@ -7,8 +7,77 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 12 Nov 2016 06:43:02 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2016 15:01:30 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.15)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.15%29/</link>
+      <pubDate>Tue, 15 Nov 2016 15:01:30 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.15%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:6151772c4ab79dc9d700f97e5e0ed8a7&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_crowdvsopen.png?itok=072owz9m&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;capital-one-是如何拥抱开源的:6151772c4ab79dc9d700f97e5e0ed8a7&#34;&gt;Capital One 是如何拥抱开源的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/11/capital-one-open-source&#34;&gt;How Capital One is embracing open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;现下的开源成为大势所趋，某种程度上解放了程序员，但是，对于企业来说，开源这班顺风车，究竟该怎么搭，很多公司并没有想好，在犹豫，甚至过分的是在开历史的倒车。即使是硅谷也一样。&lt;/p&gt;
+
+&lt;p&gt;对于企业使用开源的好处是显而易见的。 **lower costs, strong community support, better quality, and more reliability. **&lt;/p&gt;
+
+&lt;p&gt;但是天下没有免费的午餐，总是等着公地的不劳而获，最后是自己出局，无法把握趋势。所以，要想法积极的参与！而这也是我布道的原始动力。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://zdnet2.cbsistatic.com/hub/i/r/2016/05/17/98d0d7e7-8025-4ca1-b503-45d6bab98db0/resize/770xauto/089847944f3df30e046e137017d8df20/hard-drive-failure.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;suse-重点推出旗舰产品开源存储系统:6151772c4ab79dc9d700f97e5e0ed8a7&#34;&gt;SUSE 重点推出旗舰产品开源存储系统&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/suse-advances-its-open-source-storage-system/&#34;&gt;SUSE advances its open-source storage system&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;将开源项目做成产品来售卖是有很大学问的，因为这么多年看来，成功的企业凤毛麟角，失败的不计其数。SUSE 历经波折，然而，依然能够苟延残喘，也是有道理的。因为它确实对于产品化有独到之处。&lt;/p&gt;
+
+&lt;p&gt;Ceph 软件定义存储开源项目中的翘楚！Mirantis、红帽几乎三分天下。SUSE 能做出什么来呢？让我们看看其中的门道。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;整合企业的痛点：&lt;a href=&#34;https://github.com/nfs-ganesha/nfs-ganesha/wiki&#34;&gt;NFS Ganesha&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;考虑到上下游的关系：兼容64位 ARM架构&lt;/li&gt;
+&lt;li&gt;兼容自身已有的市场：重点推出Cepf FS，毕竟文件系统也是有市场的，尤其是使用旧的SUSE  Linux 企业版的用户。&lt;/li&gt;
+&lt;li&gt;重视低端用户体验：收购了&lt;a href=&#34;http://openattic.org/home.html&#34;&gt;OpenATTIC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;现如今的企业必须转型到平台战略:6151772c4ab79dc9d700f97e5e0ed8a7&#34;&gt;现如今的企业必须转型到平台战略&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/gregsatell/2016/11/13/today-every-business-must-transform-itself-into-a-platform/#504ff5cc6b09&#34;&gt;Today, Every Business Must Transform Itself Into A Platform&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是一篇非常重量级的文章。尽管使用的词汇是很商业的，但是符合开源的未来发展！推荐所有对开放的商业模式有兴趣的人阅读。&lt;/p&gt;
+
+&lt;p&gt;知识经济时代，归根结底是人才的&lt;a href=&#34;http://www.fastcompany.com/34512/war-talent&#34;&gt;竞争&lt;/a&gt;，技术日新月异，企业得找到最能学习的人才，而不是现在掌握了什么的人才！而且还得保持开放，这里举的成功的案例就是Google的机器学习开源项目TenSorFlow的成功。&lt;/p&gt;
+
+&lt;p&gt;再从技术的生态系统来说，世界呈竞争状态，作为用户有太多的选择，然后形成自己的竞争力，例如用AWS的物理网平台、用微软的语音识别和声音认证、再用IBM Watson来做决策。所以必须保持开放。&lt;/p&gt;
+
+&lt;p&gt;Competitive advantage is no longer the sum of all efficiencies, but the sum of all connections.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.12)</title>
@@ -949,74 +1018,6 @@
 
 &lt;p&gt;没有文化作为基础和积淀，实施开源就会完全失败！华为可能就会是一个很好的例子。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.10.27)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.27%29/</link>
-      <pubDate>Thu, 27 Oct 2016 08:24:28 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_10/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.10.27%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:71e92f8f76ad21c16453ce0645419d36&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/osdc-all-things-open-inc0297788-0815sw-1.png?itok=NWNqqq-q&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;红帽-ceo-万物皆开放-并非仅仅指技术:71e92f8f76ad21c16453ce0645419d36&#34;&gt;红帽 CEO：“万物皆开放” 并非仅仅指技术&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.bizjournals.com/triangle/news/2016/10/26/red-hat-ceo-all-things-open-isnt-just-about.html&#34;&gt;Red Hat CEO: &amp;lsquo;All things open&amp;rsquo; isn&amp;rsquo;t just about technology&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;All things Open 峰会即将举行，作为红帽所倡导的哲学思想，当然会为之摇旗呐喊了。&lt;/p&gt;
-
-&lt;p&gt;是的，开源软件已经用实际行动证明了，开源是可行的，无论是生产模式，还是商业模式。但是，它其实应该在更多的领域发挥它的巨大的创新能力。比如全球变暖问题、治愈癌症等。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;“We know that bureaucracies, hierarchies, are really good at driving efficiency,” he says. “They’re not good at innovating.&amp;rdquo;&lt;/strong&gt; 所谓的经济奇迹，也不过是放松了对于人的管制而已。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;为什么说开源专家对于你的企业很重要:71e92f8f76ad21c16453ce0645419d36&#34;&gt;为什么说开源专家对于你的企业很重要&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cxoinsight/why-professional-open-source-management-is-critical-for-your-business-nid-23220-cid-92.html&#34;&gt;Why professional open source management is Critical for your business&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是我不知道第几次听说过这个职位了，一家公司专门主管开源方面工作的，微软、Oracle、VMware、华为（开源能力中心）等，这次是Yahoo，主持了Hadoop、Spark、Zookeeper等，以及内部的项目。相信是蛮有说服力的了。&lt;/p&gt;
-
-&lt;p&gt;作者说道，开源不再是一件可有可无的事情了，已经发展成为一种态势，对于企业提高竞争力一个不得不提到的环节：人才的竞争、开发成本的降低、对于趋势的把握和敏感直觉、乃至创新的动力等等。&lt;/p&gt;
-
-&lt;p&gt;结论是：你的企业需要懂开源的人才，即&lt;strong&gt;Open Source Program office.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/open-business.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;企业开源势不可挡-无论是技术还是其它领域:71e92f8f76ad21c16453ce0645419d36&#34;&gt;企业开源势不可挡——无论是技术还是其它领域&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/enterprise-open-source-programs-flourish-tech-and-elsewhere&#34;&gt;Enterprise Open Source Programs Flourish &amp;ndash; In Tech and Elsewhere&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;好文！开始先论述15年的人们对待开源的态度，犹如看1958年大跃进的照片一样令人不可思议，微软CEO抨击Linux破坏了整个软件产业。15年之后的今天，微软态度转变，拥抱开源，和红帽联姻，勾搭FreeBSD。然后开始列举哪些默默为开源做贡献的公司：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Netflix:&lt;a href=&#34;https://netflix.github.io/&#34;&gt;开源软件中心&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ericsson.com/article/open_source_1714451213_c&#34;&gt;爱立信&lt;/a&gt;，一下子我就想到了这是一篇说爱立信好的软文。NFV 一共没有多少年。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/openness/default.aspx#home&#34;&gt;微软&lt;/a&gt; 接二连三的开源。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.walmartlabs.com/innovation/open-source/&#34;&gt;沃尔玛&lt;/a&gt;成立了专门的实验室，也是开源界的佳话。&lt;/li&gt;
-&lt;li&gt;Moilla、Facebook、Google等我就不多说了。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;但是似乎没有谈到非软件领域。可能草草收尾。&lt;/p&gt;
 </description>
     </item>
     
