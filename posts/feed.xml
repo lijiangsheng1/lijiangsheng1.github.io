@@ -7,8 +7,139 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 16 Nov 2016 06:55:44 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Nov 2016 13:17:35 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>为开源和商业正名</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/Naming_OpenSource_and_Marketing/</link>
+      <pubDate>Wed, 16 Nov 2016 13:17:35 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/Naming_OpenSource_and_Marketing/</guid>
+      <description>
+
+&lt;h2 id=&#34;起因:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;起因&lt;/h2&gt;
+
+&lt;p&gt;上海出差的路上，打开新浪微博，不经意刚好刷到了这么一条：“听到一种说法，‘没本事才开源，是为了跟领先者竞争才开源’，有点意思，为什么开源？Linux的诞生是为了以一种区别于传统‘大教堂’模式的‘集市’模式提升软件开发效率以及质量，占领Unix市场纯属意外。后来变了，Android为挑战iOS而存在，被kill掉的是诺基亚；OpenStack 为挑战AWS而存在，受伤的是VMware。”&lt;/p&gt;
+
+&lt;p&gt;下面截图：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lijiangsheng1/lijiansheng_github_pages/master/content/posts/OpenSource/naming_opensource.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;类似的话，我听的太多了，我一般懒得理会，此次看到的却是鼎鼎大名的@葑菲daffodil，甚至是@陈沙克竟然也调侃认同，我有点坐不住了，以开源布道师自居的我，必须为开源正名，于是有了此文。至于我对这段话的批判见文章末尾。&lt;/p&gt;
+
+&lt;h2 id=&#34;观点:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;观点&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;开源就是开源，和商业无关&lt;/li&gt;
+&lt;li&gt;和商业有关的开源，是被为了蒙蔽不明真相的人们的商人们强行牵扯上的&lt;/li&gt;
+&lt;li&gt;开源拥有领先的技术，不是“没本事”&lt;/li&gt;
+&lt;li&gt;Android不是为了 iOS 而存在，OpenStack 也不是为 AWS 而存在&lt;/li&gt;
+&lt;li&gt;诺基亚的失败，与VMware的市场下滑和开源的关系是有，但不大，甚至他们都曾试图利用开源来突围&lt;/li&gt;
+&lt;li&gt;开源是未来，因为以人为本&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;论述:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;论述&lt;/h2&gt;
+
+&lt;p&gt;较真，这个词，在本土已经快成了一个悲情的代名词了。这是个缺乏较真的时代和环境。而这些却每时每刻不是你所处的身边的人而存在的，抬起头来，看下你的四周围，就是找不出一个较真的人来。那么，我的正名的意义也在于此。&lt;/p&gt;
+
+&lt;p&gt;历史是复杂的，世界更是如此。你必须去以严谨的学术精神去对待这些误解，然后抽丝剥茧的去寻找说服世人。&lt;/p&gt;
+
+&lt;h3 id=&#34;开源的意义:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;开源的意义&lt;/h3&gt;
+
+&lt;p&gt;追溯开源的历史，其实是一部人类美好品质胜利的历史，是一部从垄断到解放的历史，然而凑巧的是在这个过程中，还成就了一些商业的企业，而且最重要的是让更多的人有了稳定、可靠、不菲的收入。毕竟人类的近代史，其实就是商业所驱动、资本所驱动的历史。&lt;/p&gt;
+
+&lt;p&gt;让我们回到上世纪70年代，毕业于MIT的理查德 斯托曼在贝尔实验室做人工智能相关的工作，当他和同事要一份打印机驱动程序源代码的时候遭到了拒绝，要知道Unix下是Hacker精神所驱动，默认情况下，代码是公开和共享的。而这次拒绝彻底的改变了软件的历史。随后，斯托曼发起了GUN项目，开启了撰写自由软件的宏伟目标，并在1982年成立了自由软件基金会，至今仍在推动着软件的代码应该被全人类共享的伟大目标而奋斗！&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“自由的代价是昂贵的，向来如此!  ”           －－《美国队长2:冬日战士》&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;斯托曼以其强大的毅力和崇高的目标，当然也拥有高超的编码能力，开始了一些非常重要的项目，如GCC、Emaca等，但是在内核方面却进展不大，时代总是存在某些意想不到的巧合，1991年，还是赫尔辛基大学的学生的Linus，发起了一个操作系统内核的项目，随后发布的0.9叫做Linux，Linux和GNU的组合，可以形成完整而强大的操作系统功能，完全可以替代掉处于各大公司垄断的Unix 操作系统，这让很多人兴奋起来了。GNU／Linux一发不可收拾，随着互联网时代、云计算时代、大数据时代、移动互联网时代的来临，Linux集全球智慧，赫然屹立于世界，运行在我们所处世界的各个角落：智能手机、智能家电、天气预报运算、金融股票市场、汽车&amp;hellip;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;受Linux的成功的影响，引起了一些人Hacker们的好奇，最为著名的就是&lt;a href=&#34;https://en.wikipedia.org/wiki/Eric_S._Raymond&#34;&gt;Eric S. Raymond&lt;/a&gt; ，开始探索这样的软件开发模式，并在1999年，以一篇《大教堂与集市》横空出世，也直接影响了被微软捆绑IE浏览器逼到墙脚的 NetScape 开源的真正动力。微软免费的市场策略，让&lt;a href=&#34;https://en.wikipedia.org/wiki/Netscape_Navigator&#34;&gt;Navgaitor&lt;/a&gt; 渐渐失去了很大一部分市场。而没有人愿意web的标准被某一个具体的厂商所垄断。而这才是 Firefox 后来积极发展的真正意义。&lt;/p&gt;
+
+&lt;p&gt;开源发展到现在，已经成为了默认的方式，最为经典的故事，莫过于微软：微软在1998年，时任CEO的鲍尔默痛斥Linux是癌症，而今年新上任的CEO 称：&lt;strong&gt;Microsoft love  Linux&lt;/strong&gt;，并开源了.NET框架、Azure 容器引擎等等一系列重量级的项目。再看国内的IT巨人华为，成立开源能力中心，赞助Linux基金会、OpenStack基金会，在OSCON上强势KeyNote，主导开源项目OpenSDS、OnLab（SUN）等等举措。&lt;/p&gt;
+
+&lt;h3 id=&#34;开源和商业模式:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;开源和商业模式&lt;/h3&gt;
+
+&lt;p&gt;没有哪家公司从开源本身赚到了钱，迄今为止，可以分析下现有的开源的几种商业模式：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;卖报纸模式，即订阅模式，提供服务与支持。成功案例：红帽&lt;/li&gt;
+&lt;li&gt;软件即服务模式，软件开源，服务收费。成功案例：WordPress&lt;/li&gt;
+&lt;li&gt;开放核心，插件／外挂付费，类似共享软件模式。成功案例：cloudera&lt;/li&gt;
+&lt;li&gt;间接赚钱模式，成功案例：IBM、Intel、Google、AWS、FaceBook&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;再翻过头来看，以开源项目为背景的相关技术人员：开发者、架构师、技术支持、技术咨询、布道师等等，受益颇多，首先，随着各家使用开源的项目，个人不会被某个公司捆绑，大大提高了自己的薪资筹码，第二，早就了很多新的岗位，首席开源管（Chief OpenSource Office）、社区经理等等。&lt;/p&gt;
+
+&lt;p&gt;开源本身并不能够赚到钱，因为它让所有人垂手可得。&lt;strong&gt;源代码面前人人平等&lt;/strong&gt;，没有任何公司去也不应该去强行收取过去商业软件的许可费用。&lt;/p&gt;
+
+&lt;h3 id=&#34;开源的技术是领先的:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;开源的技术是领先的&lt;/h3&gt;
+
+&lt;p&gt;随意举几个例子来论证这个论点：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Docker， 容器技术或者是操作系统虚拟化的技术发展不是一朝一夕的事情了，商业产品如OpenVZ等，但是Docker绝对是胜利者，因为它已经是事实上的标准。开源的对手有LXD和Rocket，闭源产品是没有人考虑的。&lt;/li&gt;
+&lt;li&gt;TensorFlow，Google开源的人工智能机器学习框架，刚刚在前几日度过了它的一周年生日，看看它的成就吧：&lt;a href=&#34;http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.11%29/&#34;&gt;TensorFlow 开源一周年&lt;/a&gt;，DeepMind打败围棋世界冠军，真是让它风光了一把。&lt;/li&gt;
+&lt;li&gt;Hdaoop生态，在大数据领域，很难再找到一个能够和Hadoop生态相媲美的项目或产品了，Spark、Hive、Kylin等等，甚至有人认为是Hadoop成就了今天的Apache社区。&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;android-openstack:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;Android,OpenStack&lt;/h3&gt;
+
+&lt;h4 id=&#34;android-和-ios-都是基于开源的操作系统内核:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;Android 和 iOS  都是基于开源的操作系统内核&lt;/h4&gt;
+
+&lt;p&gt;Android 从来不是为了对抗 iOS 而生的，同样是智能手机，一个走开放的路线，一个走封闭的路线。本无可厚非，至于商业上的胜负，那也很难说，Google 似乎从Android直接的盈利机会不多，赚钱的生意更多看到是三星、华为、HTC、小米之类的手机制造商。&lt;/p&gt;
+
+&lt;p&gt;话再说回来，Android也罢，iOS也好，基于的操作系统内核都是开源的，Android基于Linux，iOS基于Darwin（BSD），而Linux和BSD都是开源的，再说开发语言，Android是基于Java，iOS是基于Swift，后者也是开源的编程语言。&lt;/p&gt;
+
+&lt;p&gt;再说回来，Android 是2003年开始的项目，而Jobs有iPhone的想法时是2005年。&lt;/p&gt;
+
+&lt;h4 id=&#34;openstack-发展概要:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;OpenStack 发展概要&lt;/h4&gt;
+
+&lt;p&gt;OpenStack最初的发起者是RackSpace和NASA，前者贡献了项目Swift，后者贡献了Nova，但是后来OpenStack的发展模式，已经超越了所有人的预期，成为了既Linux项目之后，最大的开源项目，而其中的一个关键决策就在于成立了OpenStack基金会。&lt;/p&gt;
+
+&lt;p&gt;不可否认的是，在公有云市场上，AWS 是领导者，也是云计算产品事实上的标杆，但是，私有云市场是另外一番天地，至今还无人能够撼动OpenStack的占有率，尽管这个和虚拟化管理会有一些令人疑惑的地方。但是Gartner对此有明确的解释，大家不妨找出今年的报告看看。&lt;/p&gt;
+
+&lt;h3 id=&#34;诺基亚-vmware-纯属躺枪:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;诺基亚、VMware 纯属躺枪&lt;/h3&gt;
+
+&lt;p&gt;诺基亚手机业务，昨天还是人人持有，Connect People，今天几乎消失殆尽。没有抓住智能手机这个快速发展的契机，这个是可以用熊彼特的颠覆性创新解释的清楚点，或许正是因为Nokia在前智能手机时代的占有率，导致他发展缓慢。这个历史上的案例数不胜数：柯达的胶卷相机被数码颠覆、索尼的CD随身听被iPod颠覆。&lt;/p&gt;
+
+&lt;p&gt;另外，诺基亚也在发展自己的智能手机操作系统，收购QT所属公司 Trolltech ASA，并在2010年发布Nokia Qt SDK，要知道这是和Android一样的框架。很可惜，晚了那么几步。&lt;/p&gt;
+
+&lt;p&gt;说到VMware，不应该在这里出现，无论从技术角度，开源布局、还是商业境况来讲，VMWare都不应该出现在这里。AWS、OpenStack、VMware 这三个名词放在一起都是非常蹩脚的事情。AWS是公有云，OpenStack是开源的IaaS平台项目，而VMWare是一家成功的虚拟化管理平台的市场领导者。VMware布局Spring 开发框架，后来发展为PaaS的Cloud Foundry绝对是开源布局的经典案例，值得业内人士、欲拥有战略眼光的人崇拜不已。&lt;/p&gt;
+
+&lt;p&gt;说到可能威胁到VMware业务的，可能就是近来崛起的容器：以Docker为核心的一系列操作系统虚拟化生态。尽管VMWare也很早就在Docker上、编排工具上布局，但是，仍然难以逃脱熊彼特的颠覆性创新理论。&lt;/p&gt;
+
+&lt;h3 id=&#34;开源是未来:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;开源是未来&lt;/h3&gt;
+
+&lt;p&gt;上周福布斯发表了一篇文章，&lt;a href=&#34;http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.10%29/&#34;&gt;Apple 将加大开源的力度&lt;/a&gt;，回顾下今年的开源大事件，比如沃尔玛、耐克等传统公司加入开源阵营、微软拥抱Linux、华为发布SUN和OpenSDS、Linux基金会新成立了区块链、CNCF等子组织&amp;hellip;&amp;hellip;其实，今年的信息技术界有一个关键词：开源，几乎每天都有重量级的公司开源重量级的项目：Netflix、Linkedin、Amazon、Google、IBM&amp;hellip;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;知识经济时代，企业的竞争归根结底是人才的竞争，技术日新月异，企业得找到最能学习的人才，而不是现在掌握了什么的人才！我想引用一句话，最贴切不过了：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;In a world fueled by developers, enterprises must speak their language: open source code.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;结语:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;国人受体制化太过于严重，思维严重受阻，这需要一个历程。但也要心存希望！&lt;/p&gt;
+
+&lt;p&gt;我无从得知菲姐是从哪里听来的，但是我可以逆向推出来说这话的人的知识结构、文化背景。大约是如下一些特征：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;可怜的开源历史知识，也缺乏一定的商业、市场常识。&lt;/li&gt;
+&lt;li&gt;集权主义思维，典型的“心中住着一位皇帝”那种。&lt;/li&gt;
+&lt;li&gt;数字化时代的受害者，碎片信息的奴隶。&lt;/li&gt;
+&lt;li&gt;小农意识的历史观，东拉西扯，强行嫁接和随意的偷换概念。&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;我不愿意在说下去了，身边太多这样的人的了，再批判就成了鲁迅先生的“爱其不争、怒其不幸”了。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.16)</title>
@@ -941,54 +1072,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;比如服装行业，开源可以让他们能够盈利更多、环保更多！不愧为21世界最佳的创新模式之一。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>《中国国民性演变历程》读后感</title>
-      <link>http://lijiangsheng1.github.io/posts/reading/The_Chinese_national_character_evolution/</link>
-      <pubDate>Mon, 31 Oct 2016 21:11:14 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/reading/The_Chinese_national_character_evolution/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://images-cn.ssl-images-amazon.com/images/I/91hS84JDd2L.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;关于自己阅读过的研究-探讨国民性的回忆:ce6f4f7c3ab5b2253d3cd45223fcfc1e&#34;&gt;关于自己阅读过的研究、探讨国民性的回忆&lt;/h2&gt;
-
-&lt;p&gt;相信很多和我年龄差不多的人，在上世纪90年代读完的初、高中，&lt;strong&gt;国民性&lt;/strong&gt;这个词是从鲁迅先生哪里习得的，于是，阿Q、祥林嫂、狂人、九斤老太、闰土&amp;hellip;&amp;hellip;等等一系列代表国民的人物形象变植根于脑海，随着世俗的成长，也颇增长了一些阅历，进入现在也读了一些不同的视野，比如读孙隆基先生的作品《中国文化的深层结构》，让我理解到了“他律”这个非常关键的词汇描述。乃至胡适先生的作品。我不知道，张纯如女士的《南京大屠杀》算不算，但是里面讲到的情节将我震撼到了。细极思恐。&lt;/p&gt;
-
-&lt;p&gt;我自己隐隐约约的也在探索着周边的人性，比如亲人、同学、发小、朋友、同事，以及打交道的业务来往的人、社区的人等等，文化在其中究竟影响有多大，也在困扰着我。很多时候，我无法理解周边的人的想法，比如面子，比如虚荣，比如爱国，比如没办法的深逻辑。每当我和人谈起的时候，我总是被教训的那一方，让我去学会顺从，“你改变不了任何事情，你只能顺着走。” 可惜，我是一个愿意花时间去挖源头的一个人。&lt;/p&gt;
-
-&lt;p&gt;这本书，便是其中之一！我苦苦搜索到的探讨国民性的非正式学术著作。&lt;/p&gt;
-
-&lt;h2 id=&#34;作者的写作目的是打动我的地方之一:ce6f4f7c3ab5b2253d3cd45223fcfc1e&#34;&gt;作者的写作目的是打动我的地方之一&lt;/h2&gt;
-
-&lt;p&gt;“顺民”，那种对于准备在任何公权力、暴力、不合理现象面前低头的人们，无论何时所表现出来的自私、冷漠和麻木，这些究竟是怎么一回事？&lt;/p&gt;
-
-&lt;p&gt;作者根据自己的亲历的一些现象，以及读书、新闻等听到的“匪夷所思”却又“司空见惯”的事情，想探究一下为什么会这样？究其原因在哪里？“哀其不幸？怒其不争？”并非是作者的本意，只是希望以一个热爱这片土地的人，能够冷静的分析问题的原因。&lt;/p&gt;
-
-&lt;p&gt;我个人也有类似的想法，但是没有国民性这样的高度。我是对于职场中、生活上遇到的事情，想不明白。比如我在文章&lt;a href=&#34;http://lijiangsheng1.github.io/posts/entrepreneur/the_evil_of_human_nature/&#34;&gt;《那些人性中的恶》&lt;/a&gt; 所记录的，他们为什么会迷失？最后堕落成那样子？这些都是我努力去苦苦寻找答案的悲惨现状，是制度？是文化？是人性？&lt;/p&gt;
-
-&lt;h2 id=&#34;本书的脉络:ce6f4f7c3ab5b2253d3cd45223fcfc1e&#34;&gt;本书的脉络&lt;/h2&gt;
-
-&lt;p&gt;以中国3千年的朝代史来叙述的：春秋、先秦、秦、汉、魏晋、隋唐、宋、元、明、清的顺序走过来的，从制度、文化的角度来尝试给出“国民性”的答案。并最后描述了民国以来，妄图改造“国民性”的文化和政治人物，最后以悲剧结束。其中，作者还对比了西方，以希腊文明为代表的西方“国民性”。&lt;/p&gt;
-
-&lt;p&gt;历史积淀说，可能是作者潜移默化的一个，也就是说现在的某个人的、或者某个群体所表现出来的国民性是中华三千年来所积淀下来的。听起来是不是有点扯？但是，似乎又有一些道理。正如作者在后记中所载，本书不是一本严谨的学术著作，很多地方具有作者的主观色彩。&lt;/p&gt;
-
-&lt;p&gt;如果有那么一个人，活了三千年，历经了各种残暴，死了N次，一直未曾反抗过，一直在鼠目寸光、苟延残喘，冷漠、自私、麻木，不具有对正义和自由的向往和追求能力，在得过且过，默默的承认现状，不思考未来。永远在周边的二亩三分地勾心斗角&amp;hellip;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;结语:ce6f4f7c3ab5b2253d3cd45223fcfc1e&#34;&gt;结语&lt;/h2&gt;
-
-&lt;p&gt;作者表现的非常的无奈，只能尝试去描述出这样一个现象，却给不出答案来。我这边摘抄一段以结束我的这篇读后感，无奈通常让人有些绝望，但你不得不去拥有希望，找到根治的良方。&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;在现代化的外衣之下，传统中国的内核正在如几千年前一样安详地、不动声色地可怕地静静旋转。这种传统与现代的交错，造成了中国社会的变幻莫测、光怪陆离。这种错综复杂，不但让外国人迷惑，也让中国人眩晕。世界诸重要国家中，只有中国的现代化进程最为崎岖曲折，多次重复缴纳高昂的学费，依然在同一个地方不断跌倒。西方国家的事物移植到中国，似乎逃不了被染上“中国特色”的命运。到现在为止，在中国人与中国人的面对面斗争中，成功者无一不是更“中国”的人。在晚清，慈禧太后与康有为、梁启超等人的斗争中，那个深懂中国权力运作机要的老太太胜了。在民国初，从海外回来的孙中山被土生土长的官僚袁世凯轻而易举地打败了。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;因此，认识清楚古老中国的内核，是生存在这片土地上的人必须做的。这是我们走下去的前提和基础。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;当我无法去改变别人的时候，我唯一能做的就是保持自己不被改变，不被柏杨的“酱缸”给湮灭。&lt;/p&gt;
 </description>
     </item>
     
