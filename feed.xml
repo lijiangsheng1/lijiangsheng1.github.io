@@ -7,8 +7,75 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 16 Nov 2016 13:17:35 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Nov 2016 08:55:50 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.17)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.17%29/</link>
+      <pubDate>Thu, 17 Nov 2016 08:55:50 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.17%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:6a86b6dd54573cdb87c62b32e9a27d62&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://static.seattletimes.com/wp-content/uploads/2016/11/79a0fa5a-ac29-11e6-8658-f19bfd35e388-1560x877.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;微软加入linux基金会:6a86b6dd54573cdb87c62b32e9a27d62&#34;&gt;微软加入Linux基金会&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.seattletimes.com/business/microsoft/microsoft-joins-linux-foundation-in-another-nod-to-open-source-code/&#34;&gt;Microsoft joins Linux Foundation in another nod to open-source code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这个新闻昨晚没朋友圈刷屏，今日头条也找业内人士报道了此事。当然，如此重大的开源事件，我也不例外。&lt;/p&gt;
+
+&lt;p&gt;微软拥抱开源的决心，确实比我们所有人预料的都坚决。但是加入基金会本身也就是贡献一些钱而已。试图掌控一些项目的走向，制定一些兼容性的标准等等。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://news.microsoft.com/2016/11/16/microsoft-contributes-to-open-ecosystem-by-joining-linux-foundation-and-welcoming-google-to-the-net-community/#sm.000009jxj9lkw3eq7t5ugkw3o667c&#34;&gt;微软的官方声明&lt;/a&gt;，终究是件好事情。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;inner-source-和-软件交付:6a86b6dd54573cdb87c62b32e9a27d62&#34;&gt;Inner Source 和 软件交付&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://news.sys-con.com/node/3944789&#34;&gt;Inner Source and Software Delivery | @DevOpsSummit &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我个人以为Inner Source可能是一个开源在现在企业的一个机会，所以我在今年的开源社举办的会议上分享了有关Inner Source 的内容。但是，这么一看，我还是落后，文中的&lt;a href=&#34;www.collab.net.&#34;&gt;collab.net&lt;/a&gt; 连协作软件都做出来了。&lt;/p&gt;
+
+&lt;p&gt;当遇到文化和制度的障碍的时候，工具又可能成为突破的一把利器。应该深度学习之。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/11/party-like-its-1999-100693970-large.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;现在的开源犹如回到1999年的互联网泡沫:6a86b6dd54573cdb87c62b32e9a27d62&#34;&gt;现在的开源犹如回到1999年的互联网泡沫&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3141651/open-source-tools/party-like-its-1999.html&#34;&gt;Party like it’s 1999&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;熟悉IT历史的人，应该对于.com泡沫记忆犹新，那时候融资是一件非常简单的事情。可是现在情况变了，哪些狂欢的日子变了。哪些开源的人们是不是应该仔细的考虑一下下面几个问题：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;那部分选择开源？&lt;/li&gt;
+&lt;li&gt;打算怎么赚钱？&lt;/li&gt;
+&lt;li&gt;Are you building an ecosystem around your product,&lt;/li&gt;
+&lt;li&gt;how are you going to nurture that without alienating other players in your ecosystem when you start making money from your open source IP?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;引用文中的一句话：** Developers don’t love anything more than an open source product where they can look under the hood and tinker.** 当年的Bob Young就是看到了这点，创造了今天的红帽。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>为开源和商业正名</title>
@@ -49,13 +116,13 @@
 
 &lt;p&gt;追溯开源的历史，其实是一部人类美好品质胜利的历史，是一部从垄断到解放的历史，然而凑巧的是在这个过程中，还成就了一些商业的企业，而且最重要的是让更多的人有了稳定、可靠、不菲的收入。毕竟人类的近代史，其实就是商业所驱动、资本所驱动的历史。&lt;/p&gt;
 
-&lt;p&gt;让我们回到上世纪70年代，毕业于MIT的理查德 斯托曼在贝尔实验室做人工智能相关的工作，当他和同事要一份打印机驱动程序源代码的时候遭到了拒绝，要知道Unix下是Hacker精神所驱动，默认情况下，代码是公开和共享的。而这次拒绝彻底的改变了软件的历史。随后，斯托曼发起了GUN项目，开启了撰写自由软件的宏伟目标，并在1982年成立了自由软件基金会，至今仍在推动着软件的代码应该被全人类共享的伟大目标而奋斗！&lt;/p&gt;
+&lt;p&gt;让我们回到上世纪70年代，毕业于MIT的理查德 斯托曼在贝尔实验室做人工智能相关的工作，当他和同事索要一份打印机驱动程序源代码的时候遭到了拒绝，要知道Unix下是Hacker精神所驱动，默认情况下，代码是公开和共享的。而这次拒绝彻底的改变了软件的历史。随后，斯托曼发起了GUN项目，开启了撰写自由软件的宏伟目标，并在1982年成立了自由软件基金会，至今仍在推动着软件的代码应该被全人类共享的伟大目标而奋斗！&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;“自由的代价是昂贵的，向来如此!  ”           －－《美国队长2:冬日战士》&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;斯托曼以其强大的毅力和崇高的目标，当然也拥有高超的编码能力，开始了一些非常重要的项目，如GCC、Emaca等，但是在内核方面却进展不大，时代总是存在某些意想不到的巧合，1991年，还是赫尔辛基大学的学生的Linus，发起了一个操作系统内核的项目，随后发布的0.9叫做Linux，Linux和GNU的组合，可以形成完整而强大的操作系统功能，完全可以替代掉处于各大公司垄断的Unix 操作系统，这让很多人兴奋起来了。GNU／Linux一发不可收拾，随着互联网时代、云计算时代、大数据时代、移动互联网时代的来临，Linux集全球智慧，赫然屹立于世界，运行在我们所处世界的各个角落：智能手机、智能家电、天气预报运算、金融股票市场、汽车&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;斯托曼以其强大的毅力和崇高的目标，当然也拥有高超的编码能力，开始了一些非常重要的项目，如GCC、Emacs等，但是在内核方面却进展不大，时代总是存在某些意想不到的巧合，1991年，还是赫尔辛基大学的学生的Linus，发起了一个操作系统内核的项目，随后发布的0.9叫做Linux，Linux和GNU的组合，可以形成完整而强大的操作系统功能，完全可以替代掉处于各大公司垄断的Unix 操作系统，这让很多人兴奋起来了。GNU／Linux一发不可收拾，随着互联网时代、云计算时代、大数据时代、移动互联网时代的来临，Linux集全球智慧，赫然屹立于世界，运行在我们所处世界的各个角落：智能手机、智能家电、天气预报运算、金融股票市场、汽车&amp;hellip;&amp;hellip;&lt;/p&gt;
 
 &lt;p&gt;受Linux的成功的影响，引起了一些人Hacker们的好奇，最为著名的就是&lt;a href=&#34;https://en.wikipedia.org/wiki/Eric_S._Raymond&#34;&gt;Eric S. Raymond&lt;/a&gt; ，开始探索这样的软件开发模式，并在1999年，以一篇《大教堂与集市》横空出世，也直接影响了被微软捆绑IE浏览器逼到墙脚的 NetScape 开源的真正动力。微软免费的市场策略，让&lt;a href=&#34;https://en.wikipedia.org/wiki/Netscape_Navigator&#34;&gt;Navgaitor&lt;/a&gt; 渐渐失去了很大一部分市场。而没有人愿意web的标准被某一个具体的厂商所垄断。而这才是 Firefox 后来积极发展的真正意义。&lt;/p&gt;
 
@@ -72,7 +139,7 @@
 &lt;li&gt;间接赚钱模式，成功案例：IBM、Intel、Google、AWS、FaceBook&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;再翻过头来看，以开源项目为背景的相关技术人员：开发者、架构师、技术支持、技术咨询、布道师等等，受益颇多，首先，随着各家使用开源的项目，个人不会被某个公司捆绑，大大提高了自己的薪资筹码，第二，早就了很多新的岗位，首席开源管（Chief OpenSource Office）、社区经理等等。&lt;/p&gt;
+&lt;p&gt;再返过头来看，以开源项目为背景的相关技术人员：开发者、架构师、技术支持、技术咨询、布道师等等，受益颇多，首先，随着各家使用开源的项目，个人不会被某个公司捆绑，大大提高了自己的薪资筹码，第二，还造就了很多新的岗位，首席开源官（Chief OpenSource Office）、社区经理等等。&lt;/p&gt;
 
 &lt;p&gt;开源本身并不能够赚到钱，因为它让所有人垂手可得。&lt;strong&gt;源代码面前人人平等&lt;/strong&gt;，没有任何公司去也不应该去强行收取过去商业软件的许可费用。&lt;/p&gt;
 
@@ -1004,74 +1071,6 @@
 
 &lt;p&gt;OpenStack 最大的竞争对手是公有云，当公有云被世人认可的时候，OpenStack的空间是相当的下，或许有那么几家公司会因为理念、政策压力等因素会使用，但是他们更多的是依靠自身的人力资源来掌控，而不会去依赖发行版。所以，OpenStack 发行版的公司商业模式堪忧。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.01)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.01%29/</link>
-      <pubDate>Tue, 01 Nov 2016 08:11:51 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.01%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:9add4807e5a092b456671492ac1e4ec8&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;微软会真的开源吗:9add4807e5a092b456671492ac1e4ec8&#34;&gt;微软会真的开源吗？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://rcpmag.com/articles/2016/10/01/microsoft-gets-open.aspx&#34;&gt;Does Microsoft Finally Get Open Source?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;相信很多开源的人，骂了20多年的微软，突然的转向让很多人措手不及。于是开始怀疑，本文就是代表这样的一类人发的声音。&lt;/p&gt;
-
-&lt;p&gt;质疑微软挖开源高官，和红帽联姻，乃至各个开源项目的真实性。其实，很多在开源界混久的人是无法（根本没有兴趣）去检查哪些代码是否是真的开源。&lt;/p&gt;
-
-&lt;p&gt;其实，我也算是质疑者之一。微软尾大不掉，不论是在移动端，还是云计算都失掉了先机，主要是和开源站在了对立面，没有想过开源会发展为这样的局势。现在青睐，确实需要做很多事情，然而还得不能一副媚俗的嘴脸。好吧，我们拭目以待吧。它融入开源需要很长的路。整个技术stack都不一样。一直是自己玩自己的。&lt;/p&gt;
-
-&lt;p&gt;开源绝不仅仅是将代码开放，还有很多的因素需要考虑进来。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/wp-content/uploads/2016/10/Open-Patient.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源将改变保健行业:9add4807e5a092b456671492ac1e4ec8&#34;&gt;开源将改变保健行业&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/verticals/ehealth/open-source-can-change-healthcare/&#34;&gt;How open source can change the face of healthcare&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;软文的前提是一定要提大厂，比如本文就会说IBM、Google、微软是如何支撑开源的了，然后说开放是21世纪最为优秀的创新模式之一。&lt;/p&gt;
-
-&lt;p&gt;红帽，一家优秀的商业公司。确实做的不简单。比如品牌，人家的VP会这么说：“Red Hat is a mission-based company.  People come to work at Red Hat because we fundamentally believe in the goodness of open source.  It’s not just about code, it’s about transparency and accessibility of information.” 我知道，在本土，你要是这么说一定有人诋毁你、攻击你！这些攻击你的人，恰恰会拿过去30年走过的路来攻击你，而他们号称自己是相信我党的。&lt;/p&gt;
-
-&lt;p&gt;嗯，有的时候，人们似乎需要这些媒体的引导！否则，堕落、腐败、固步自封的他们该如何选择一家厂商，而自己又不会将饭碗丢掉。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.outsideonline.com/sites/default/files/styles/img_900x500/public/sustainable-patagonia-wetsuit_h.jpg?itok=ZP8IHdzu&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;哪些搞户外的公司-是时候开源你们的技术了:9add4807e5a092b456671492ac1e4ec8&#34;&gt;哪些搞户外的公司：是时候开源你们的技术了&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.outsideonline.com/sites/default/files/styles/img_900x500/public/sustainable-patagonia-wetsuit_h.jpg?itok=ZP8IHdzu&#34;&gt;Outdoor Gear Companies: It&amp;rsquo;s Time to Open-Source Your Technology&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源已经不再是软件的事情了。它已经走进了很多的领域，且看下面几个例子：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In 2010, Nike set up what it called the GreenXChange, a Creative Commons–style marketplace for intellectual property, with other large companies like Best Buy and DuPont.&lt;/li&gt;
-&lt;li&gt;In March, as a part of World Water Day, Levi’s released its Water&amp;lt;Less washing process, which it developed after realizing it took 3,781 liters of water to make a single pair of jeans.&lt;/li&gt;
-&lt;li&gt;Tesla—where opening up intellectual property is viewed as a way to improve the quality of an entire industry.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;比如服装行业，开源可以让他们能够盈利更多、环保更多！不愧为21世界最佳的创新模式之一。&lt;/p&gt;
 </description>
     </item>
     
