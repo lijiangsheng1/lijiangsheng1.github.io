@@ -7,8 +7,74 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 18 Nov 2016 07:19:29 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Nov 2016 08:48:46 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.22)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.22%29/</link>
+      <pubDate>Tue, 22 Nov 2016 08:48:46 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.22%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:0a1e6076b577386b1f86c05a0726b348&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.ciodive.com/user_media/cache/19/f2/19f203779ca78528520bf4145783f28f.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;红帽首席执行官解释为何当下这么多的技术巨头们都转向开源:0a1e6076b577386b1f86c05a0726b348&#34;&gt;红帽首席执行官解释为何当下这么多的技术巨头们都转向开源&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.ciodive.com/news/red-hat-ceo-explains-why-tech-giants-are-turning-to-open-source/430829/&#34;&gt;Red Hat CEO explains why tech giants are turning to open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是的，最近几周发生的事情蛮多，主要是微软加入Linux基金会这事让所有人似乎都认为微软加入开源的决心是真的。废话少说，我们来看Jim是如何解释的吧：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;在软件领域中，创新是由用户来驱动的。&lt;/li&gt;
+&lt;li&gt;正是因为开源是创新的源泉，而且是由开发者所驱动的，他们是被迫参与的。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;并不是说某个开源项目能够带来什么样的价值，而是说因为它是开源的，自由的，它带给你的价值是独一无二的：你拥有它！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/11/microsoft_cloud_open-source-100694853-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;微软在云计算和按需付费业务中青睐开源:0a1e6076b577386b1f86c05a0726b348&#34;&gt;微软在云计算和按需付费业务中青睐开源&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3143653/open-source-tools/microsoft-embraces-open-source-in-the-cloud-and-on-premises.html&#34;&gt;Microsoft embraces open source in the cloud and on-premises&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;微软一而再、再而三的表白自己的决心，热爱开源！并作出实际行动。&lt;/p&gt;
+
+&lt;p&gt;但是，还是难以让人信服，SQL Server 支持Linux和Docker，这个开源没有半毛钱关系，加入Linux基金会只是花了点钱而已，对于那点会费，九牛一毛而已。即使是开放JDBC连接器就能让人信服了？&lt;/p&gt;
+
+&lt;p&gt;微软开源类似于本土的民主制度实行一样，意图通过开源这个话题来打造自己的品牌，制造更多的话题而已。这是现时代开源最大的敌人！犹如OpenStack基金会所加入的那么多的中国公司是一个道理。天下熙熙，兼为利来！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/OSDC_BUS_ArchitectureOfParticipation_520x292.png?itok=tzfeycyR&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源项目基础设施构建四步法:0a1e6076b577386b1f86c05a0726b348&#34;&gt;开源项目基础设施构建四步法&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/11/lessons-maintaining-infrastructure-open&#34;&gt;4 ways to open up your project&amp;rsquo;s infrastructure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Open source isn&amp;rsquo;t just about opening up your code—it&amp;rsquo;s also about building a supporting infrastructure that invites people to contribute.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;是的，一个开源项目不是说随意放出点代码就可以了。其实，这只是冰山的露出水面的一小部分而已。社区建设、提交规则、晋升制度、公平组织、品牌建设、宣传使用、布道大使等等诸多需要考虑的问题，一个开源的成功，是需要做很多工作的，不可能一蹴而就！&lt;/p&gt;
+
+&lt;p&gt;本土的文化中，缺少版权意识以及相应的法律保护，加上自古以来民间的秘方文化，开源这件事本身就被大家认为是低等的、劣质的。还是那句话：“西方带来的不仅仅是知识本身，还有产生知识的思考方式。” 身边太多的专注于技能本身，不敢越雷池一步。深恐陷入什么似的。而这一点才是最为让人痛心和恐怖的事情。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.18)</title>
@@ -919,74 +985,6 @@
 
 &lt;p&gt;OpenStack 最大的竞争对手是公有云，当公有云被世人认可的时候，OpenStack的空间是相当的下，或许有那么几家公司会因为理念、政策压力等因素会使用，但是他们更多的是依靠自身的人力资源来掌控，而不会去依赖发行版。所以，OpenStack 发行版的公司商业模式堪忧。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.01)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.01%29/</link>
-      <pubDate>Tue, 01 Nov 2016 08:11:51 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.01%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:9add4807e5a092b456671492ac1e4ec8&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;微软会真的开源吗:9add4807e5a092b456671492ac1e4ec8&#34;&gt;微软会真的开源吗？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://rcpmag.com/articles/2016/10/01/microsoft-gets-open.aspx&#34;&gt;Does Microsoft Finally Get Open Source?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;相信很多开源的人，骂了20多年的微软，突然的转向让很多人措手不及。于是开始怀疑，本文就是代表这样的一类人发的声音。&lt;/p&gt;
-
-&lt;p&gt;质疑微软挖开源高官，和红帽联姻，乃至各个开源项目的真实性。其实，很多在开源界混久的人是无法（根本没有兴趣）去检查哪些代码是否是真的开源。&lt;/p&gt;
-
-&lt;p&gt;其实，我也算是质疑者之一。微软尾大不掉，不论是在移动端，还是云计算都失掉了先机，主要是和开源站在了对立面，没有想过开源会发展为这样的局势。现在青睐，确实需要做很多事情，然而还得不能一副媚俗的嘴脸。好吧，我们拭目以待吧。它融入开源需要很长的路。整个技术stack都不一样。一直是自己玩自己的。&lt;/p&gt;
-
-&lt;p&gt;开源绝不仅仅是将代码开放，还有很多的因素需要考虑进来。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/wp-content/uploads/2016/10/Open-Patient.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源将改变保健行业:9add4807e5a092b456671492ac1e4ec8&#34;&gt;开源将改变保健行业&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cbronline.com/news/verticals/ehealth/open-source-can-change-healthcare/&#34;&gt;How open source can change the face of healthcare&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;软文的前提是一定要提大厂，比如本文就会说IBM、Google、微软是如何支撑开源的了，然后说开放是21世纪最为优秀的创新模式之一。&lt;/p&gt;
-
-&lt;p&gt;红帽，一家优秀的商业公司。确实做的不简单。比如品牌，人家的VP会这么说：“Red Hat is a mission-based company.  People come to work at Red Hat because we fundamentally believe in the goodness of open source.  It’s not just about code, it’s about transparency and accessibility of information.” 我知道，在本土，你要是这么说一定有人诋毁你、攻击你！这些攻击你的人，恰恰会拿过去30年走过的路来攻击你，而他们号称自己是相信我党的。&lt;/p&gt;
-
-&lt;p&gt;嗯，有的时候，人们似乎需要这些媒体的引导！否则，堕落、腐败、固步自封的他们该如何选择一家厂商，而自己又不会将饭碗丢掉。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.outsideonline.com/sites/default/files/styles/img_900x500/public/sustainable-patagonia-wetsuit_h.jpg?itok=ZP8IHdzu&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;哪些搞户外的公司-是时候开源你们的技术了:9add4807e5a092b456671492ac1e4ec8&#34;&gt;哪些搞户外的公司：是时候开源你们的技术了&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.outsideonline.com/sites/default/files/styles/img_900x500/public/sustainable-patagonia-wetsuit_h.jpg?itok=ZP8IHdzu&#34;&gt;Outdoor Gear Companies: It&amp;rsquo;s Time to Open-Source Your Technology&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源已经不再是软件的事情了。它已经走进了很多的领域，且看下面几个例子：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In 2010, Nike set up what it called the GreenXChange, a Creative Commons–style marketplace for intellectual property, with other large companies like Best Buy and DuPont.&lt;/li&gt;
-&lt;li&gt;In March, as a part of World Water Day, Levi’s released its Water&amp;lt;Less washing process, which it developed after realizing it took 3,781 liters of water to make a single pair of jeans.&lt;/li&gt;
-&lt;li&gt;Tesla—where opening up intellectual property is viewed as a way to improve the quality of an entire industry.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;比如服装行业，开源可以让他们能够盈利更多、环保更多！不愧为21世界最佳的创新模式之一。&lt;/p&gt;
 </description>
     </item>
     
