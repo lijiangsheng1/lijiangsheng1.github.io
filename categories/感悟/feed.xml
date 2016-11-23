@@ -7,8 +7,81 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 22 Nov 2016 08:48:46 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Nov 2016 08:12:06 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.23)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.23%29/</link>
+      <pubDate>Wed, 23 Nov 2016 08:12:06 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.23%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:f21412aca76985655f7d64ee52e0a7df&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;为什么说开放会战胜封闭:f21412aca76985655f7d64ee52e0a7df&#34;&gt;为什么说开放会战胜封闭&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.digitaltonto.com/2016/why-open-beats-closed/&#34;&gt;Why Open Beats Closed&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一篇高瞻远瞩的文章，除了极为深刻的洞见之外，就是还能够旁征博引，用事理将问题说明白、将观点讲透彻了。本文即是这样的。&lt;/p&gt;
+
+&lt;p&gt;开篇是从历史上伟大的走封闭路线的公司的遍历，随后话锋一转，这样封闭的公司正在走向没落！上个世纪的经典迈克尔 波特的竞争论正在失效。一切兼因为世界向平民化、世俗化行进。开放为何会胜利？聪明的人是不会冒任何风险的，但是希望看到事情的所有元素。开放的标准更加重要，消费者不希望被任何一家公司垄断和捆绑。开放带来的创新更加的靠谱，因为宽松的环境所发明创造的事物才是人真正需要的。&lt;/p&gt;
+
+&lt;p&gt;你有何理由不读本文？有可能需要多读几遍方能更加深入的理解。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://zdnet3.cbsistatic.com/hub/i/r/2016/11/18/a99d0e89-4964-4237-873c-cb7fe6e8ed2c/resize/770xauto/5ddd856909064f39b5fab5794a6b1e45/linux-open-source-money-penguin.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;好东西永远值钱-linux和开源公司如何赚钱:f21412aca76985655f7d64ee52e0a7df&#34;&gt;好东西永远值钱：Linux和开源公司如何赚钱&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/how-do-linux-and-open-source-companies-make-money-from-free-software/&#34;&gt;Nothing good is free: How Linux and open source companies make money&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这个问题我一直在探索着，在维基百科上文章：&lt;a href=&#34;https://en.wikipedia.org/wiki/Business_models_for_open-source_software&#34;&gt;16种开源软件的商业模式&lt;/a&gt;有着很好的描述，而且我本人也就本土特色补充了一些:&lt;a href=&#34;https://iaaslee.blogspot.com/?view=magazine&#34;&gt;适兕的博客&lt;/a&gt;，因为我生活在本土，而经济这种行为离不开文化、风俗、环境的因素。&lt;/p&gt;
+
+&lt;p&gt;正如我前几天的文章：为开源和商业正名，一样不会引起本土人们的共鸣，只是认为我过于天真。国人真的很聪明，明明知道自己在撒谎，可是一句“没办法”就搪塞过去了，理由就是整个环境如是。&lt;/p&gt;
+
+&lt;p&gt;所以本文也就是给哪些本土的骗子们做宣传和偷换概念用的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fortunedotcom.files.wordpress.com/2015/09/jim-whitehurst.jpg?w=840&amp;amp;h=485&amp;amp;crop=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;红帽ceo-对于微软-google以及前沿软件的观点:f21412aca76985655f7d64ee52e0a7df&#34;&gt;红帽CEO 对于微软、Google以及前沿软件的观点&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/11/18/red-hat-ceo-james-whitehurst-microsoft-google-software/&#34;&gt;Red Hat CEO on Microsoft, Google, and Cutting Edge Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;作为大型媒体，得照顾到非专业背景的人士，需要打比方、类比等解释性的语句和段落出现。虽然比喻这种修辞会损失语义，不够严谨，但是可以达到沟通的目的。我比较反感比喻这种方式，但是似乎还真找不到更好的方式在短时间内向小白们表达。&lt;/p&gt;
+
+&lt;p&gt;让我们来看看Whitehurst 的一些犀利的观点：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;红帽是一家有使命感的公司，你可以诟病它虚伪，但是是这么高调宣传和执行的：：“We’re on a mission from God.”&lt;/li&gt;
+&lt;li&gt;Google、FaceBook等互联网公司的崛起，推动了开源，说明了一个问题：&lt;strong&gt;Open source basically has become a place where user-driven innovation happens in software.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;微软对待开源态度转变的根本原因：Because open source is where innovation is coming from and is what developers are consuming, it forces vendors to participate.&lt;/li&gt;
+&lt;li&gt;红帽所找到的精准Gap：If you’re running on a three-year old version of Linux, nobody’s looking at that version for a bug or a security hole, but you don’t want to re-integrate and re-test your SAP system every time there’s a new version. That’s what Red Hat does.&lt;/li&gt;
+&lt;li&gt;给哪些新晋的探索新的商业模式（增值）的建议：There’s a big difference between creating value for your users and extracting some of that value for your owners.&lt;/li&gt;
+&lt;li&gt;A rough line would be almost to say most infrastructure is going to be open source and most business functionality above it is going to be proprietary.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;做开源的基础设施软件，红帽俨然是个巨人，难以绕开！其实本土有很多公司都是靠红帽支撑的项目活着的，比如普华、中标等等。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.22)</title>
@@ -72,6 +145,88 @@
 &lt;p&gt;是的，一个开源项目不是说随意放出点代码就可以了。其实，这只是冰山的露出水面的一小部分而已。社区建设、提交规则、晋升制度、公平组织、品牌建设、宣传使用、布道大使等等诸多需要考虑的问题，一个开源的成功，是需要做很多工作的，不可能一蹴而就！&lt;/p&gt;
 
 &lt;p&gt;本土的文化中，缺少版权意识以及相应的法律保护，加上自古以来民间的秘方文化，开源这件事本身就被大家认为是低等的、劣质的。还是那句话：“西方带来的不仅仅是知识本身，还有产生知识的思考方式。” 身边太多的专注于技能本身，不敢越雷池一步。深恐陷入什么似的。而这一点才是最为让人痛心和恐怖的事情。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>我眼中的现东家所犯的致命错误</title>
+      <link>http://lijiangsheng1.github.io/posts/entrepreneur/what_is_mistake_make_about_umcloud/</link>
+      <pubDate>Sun, 20 Nov 2016 09:14:14 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/what_is_mistake_make_about_umcloud/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;题记：一家公司的成功，需要很多的条件、因素都做出最正确的决定，产品的研发、目标用户的精准定位、管理到位、人才的战略、现金流的重要等等，但是，如果一家公司所有的这些因素中都烦了错误，那么它活下去的几率都是大大的降低。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;想起一个故事:ddefefcbfc50d080dad173d01d721bf1&#34;&gt;想起一个故事&lt;/h2&gt;
+
+&lt;p&gt;故事的出处和来源我已经记不起来了，大意是这样子的：二战时，说一位掌握先进技术的科学家被俘虏了，人们希望从他这里获得最新的成果，于是，严刑逼供、软膜硬泡、贿赂等各种伎俩都使了，这位科学家都是久经考验，丝毫不动摇。最后，有人想出一招来，那就是在他面前做错误的试验，嗯，没错，就是当着这位科学家的面做！没多久，他就撑不住了：忍受不了这样会导致失败的做法！&lt;/p&gt;
+
+&lt;p&gt;我差不多也是这个意思，虽然这样有点高估自己，但是我个人觉得这个蛮合适我的心境的！&lt;/p&gt;
+
+&lt;h2 id=&#34;没有对错-只有生死:ddefefcbfc50d080dad173d01d721bf1&#34;&gt;没有对错，只有生死&lt;/h2&gt;
+
+&lt;p&gt;商业的环境，不比自然界那么残酷和鲜血淋漓，但一定和人类政治、战争想媲美！稍有不慎，便万劫不复。正是由于其昂贵的回报，虽然概率极低，但是依然有很多能人异士，前赴后继的加入这个阵营。&lt;/p&gt;
+
+&lt;p&gt;我尝试着以一名首席执行官的角度来看待一家公司，这是我对于这份未来的职业的一个准备，也是正式上场前的磨练，虽然评价现东家的这些话未必能够让决策者听到，但是希望他们能够看到。&lt;/p&gt;
+
+&lt;h3 id=&#34;ceo-占着茅坑不拉屎:ddefefcbfc50d080dad173d01d721bf1&#34;&gt;CEO 占着茅坑不拉屎&lt;/h3&gt;
+
+&lt;p&gt;CEO 是兼任的，而另外的公有云市场的盘子很大了已经，接近千名的员工、几亿人民币的营业额、强大的竞争对手围剿、上海北京两地团队管理、事业部机制的匆匆建立、人员过于快速扩张带来的层次不齐、过度追求销售额带来的愿景、战略失衡&amp;hellip;&amp;hellip;足以让任何一名地上人杰忙上一阵子的了。可惜，他还是和Mirantis合并之后的CEO，无暇顾及相比很是弱小的公司。&lt;/p&gt;
+
+&lt;h3 id=&#34;cto-出走:ddefefcbfc50d080dad173d01d721bf1&#34;&gt;CTO 出走&lt;/h3&gt;
+
+&lt;p&gt;从去年东京接洽，Mirantis China 的老大在合并之后成为了新公司的CTO，这个新成立的公司并没有像外界所想的那样找到了攻打“中国特色”市场的“灵丹妙药”，那么在无法坚守自己的见解与原则的情况下，黯然离职也是每个有志气、胸怀男人应该的选择。&lt;/p&gt;
+
+&lt;h3 id=&#34;着急的摆脱-mirantis-这个优秀的品牌:ddefefcbfc50d080dad173d01d721bf1&#34;&gt;着急的摆脱 Mirantis 这个优秀的品牌&lt;/h3&gt;
+
+&lt;p&gt;“每只猫看到镜子的自己都是老虎！” Mirantis 在 OpenStack 的品牌建立是顶级棒的，业界所佩服的，然而，新成立的合并的公司，在国内的宣传却是急于摆脱的姿态，但是，要知道从头建立一个牌子是有多困难。&lt;/p&gt;
+
+&lt;h3 id=&#34;人员和办公的盲目扩张:ddefefcbfc50d080dad173d01d721bf1&#34;&gt;人员和办公的盲目扩张&lt;/h3&gt;
+
+&lt;h3 id=&#34;考勤的错误嫁接:ddefefcbfc50d080dad173d01d721bf1&#34;&gt;考勤的错误嫁接&lt;/h3&gt;
+
+&lt;p&gt;非常令人神奇的是，这里不是一个搞R&amp;amp;D的公司，竟然没有考勤制度。显然对于国人的文化了解程度是肤浅的。要知道国人的文化中有一条，那就是没有自律，是一个他律的社会，如果你没有考勤制度，那就得有紧迫的任务，快速更改的业务驱动，否则就是散漫，能少干就少干。那效率及户都没有了。&lt;/p&gt;
+
+&lt;h3 id=&#34;造神运动:ddefefcbfc50d080dad173d01d721bf1&#34;&gt;造神运动&lt;/h3&gt;
+
+&lt;p&gt;上文提到的CEO不作为，CTO出走，那么仅剩下CMO一人了，然而，忙归忙，是几乎看不到任何输出的，但是只要是面试，几乎都是晚上10点钟，火车站附近。还有就是，有问题讨论，需要提前和销售助理预约，邮件、微信、电话从来不回。最为让人失望的莫过于围绕着他的哪些小姑娘将他的命令当圣旨一样的不容有任何质疑的去执行。&lt;/p&gt;
+
+&lt;h3 id=&#34;愿景-战略的缺失:ddefefcbfc50d080dad173d01d721bf1&#34;&gt;愿景、战略的缺失&lt;/h3&gt;
+
+&lt;p&gt;这个很可能是大多数公司最难回答的问题，但是没有愿景和战略的公司，比如一说话就是业内前三、目标2个亿这样的宏伟目标，多数熬不过三、五年。&lt;/p&gt;
+
+&lt;h3 id=&#34;以为经营的产品是独角兽:ddefefcbfc50d080dad173d01d721bf1&#34;&gt;以为经营的产品是独角兽&lt;/h3&gt;
+
+&lt;h3 id=&#34;寸步难行的hrbp:ddefefcbfc50d080dad173d01d721bf1&#34;&gt;寸步难行的HRBP&lt;/h3&gt;
+
+&lt;h2 id=&#34;慢性自杀-结果从来没有臆想中的那么的快:ddefefcbfc50d080dad173d01d721bf1&#34;&gt;慢性自杀，结果从来没有臆想中的那么的快&lt;/h2&gt;
+
+&lt;p&gt;是的，在过去我犯的错误是错误的预估一家公司犯了错误之后&lt;/p&gt;
+
+&lt;h2 id=&#34;寄语:ddefefcbfc50d080dad173d01d721bf1&#34;&gt;寄语&lt;/h2&gt;
+
+&lt;p&gt;回顾下我职业生涯中的公司，最具潜力的红旗倒下了，普华也几乎是奄奄一息了，云端正在忙着饮鸩止渴，易云早已入土半截。我自己的创业蓝图，未开始就撑不下去了，接下来，努力的提高自己，尽最大可能在未来的路上少犯、不犯错误。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;千里之堤，溃于蚁穴&lt;/strong&gt;做一件事情，成功的去做一件事情，步步为营，都不敢在每件小事情上犯错误，比如海尔的崛起就是靠，不随地在工厂小便。更何况在明眼处犯错！但是，算一算开销，现代的公司死的都比想象中慢一些，比如不是几个月就能看到结果的，可能是一年、两年。因为毕竟每月的开销和拿到的投资是有个比例的。而且一般人也会拥有常识，至少留半年的工资低给员工。所以，看死亡从裁员和停止招聘开始！&lt;/p&gt;
+
+&lt;p&gt;《论语》有云：&lt;strong&gt;“见贤思齐焉，见不贤而内自省也。”&lt;/strong&gt; 成功从来都不是一蹴而就的！&lt;/p&gt;
+
+&lt;p&gt;附一些奇葩的事件：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;侯斌，周迅
+近日从客户处获悉，在刚签定的广发证券项目中有价值近12w元的Mirantis OS培训业务以赠送的形式送给客户。但是在合同当中却并未列出任何该业务需求及报价。
+该项目培训需求在事前完全没有知会培训部，培训部毫不知情，客户经理从未与培训部有过任何沟通，事后项目报价更没有经过培训部核准。
+这种暗箱操作、绕过培训部随意定价的事件此前曾发生多次，在江苏电力续约case当中，培训部就明确告知客户经理与周迅，培训业务不得在培训部毫不知情的情况下随意赠送客户，并且要事前知会沟通需求，我认为这也是最基本最基本的职业操守与业务流程。
+培训部也曾多次向周迅提出，为了配合公司整体业务开展，培训部可以适当灵活调整报价及交付形式，但是首先需要明确内部结算制度及确认沟通流程。杨大江老师也多次催促周迅尽快明确制定出内部制度，但对于该制度，周迅至今未有任何答复！
+如今，此类事件再次上演！
+这样的行为已经严重破坏培训业务，扰乱市场价格体系，违反培训财务收款制度，严重干扰培训部正常业务开展！
+并且，在那些已经付费参加培训的企业客户当中，会导致客户提出要求退款或增加赠送培训名额，将对公司名誉造成极其不良的影响。
+针对此类事件，请侯斌、周迅能够给培训部及公司管理层作出合理解释，给出明确说法。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -910,156 +1065,6 @@
 
 &lt;p&gt;新闻需要对比的看！跨越时空！可以更近一步的理解真相！佩服华为的一点是他学习的态度和笼络人才的战略。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.05)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.05%29/</link>
-      <pubDate>Sat, 05 Nov 2016 10:25:24 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.05%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:b25c5609a9cea3354763cf7ab0710392&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/osdc-lead-happybirthday.png?itok=38SOo5_T&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;著名的文本编辑器-vim-庆祝25岁生日:b25c5609a9cea3354763cf7ab0710392&#34;&gt;著名的文本编辑器 Vim 庆祝25岁生日&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/11/happy-birthday-vim-25&#34;&gt;The iconic text editor Vim celebrates 25 years&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;相信在很多人的职业生涯中（开源相关：开发、运维、技术写作），vim是手头必不可少的工具。&lt;/p&gt;
-
-&lt;p&gt;一款开源的编辑器走过了25个年月，当初的创始人依旧是开发的领导者，就是这么的有魅力，这也是让世界更加美好的原因吧。因为它并没有任何的盈利，即使是售卖T恤和相关logo周边的产品，也都捐献给了ICCF。&lt;/p&gt;
-
-&lt;p&gt;Vim 有很多铁杆的粉丝，当然其本身的优秀和卓越也是有目共睹的。没什么好说的，情怀，有时候在技术领域也能前行！与时俱进，积淀式的发展自己，才是最佳的成长模式。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;code-gov-美国政府的开源软件站点正式运行:b25c5609a9cea3354763cf7ab0710392&#34;&gt;Code.gov ，美国政府的开源软件站点正式运行&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.engadget.com/2016/11/04/code-gov-us-government-open-source-hub/&#34;&gt;Code.gov is the US government&amp;rsquo;s open-source software hub&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;自从8月份，美国政府颁布了新的政策，要求政府部门要使用至少20%的开源软件，这样有利于部门之间的资源共享，从而达到节省资源，避免重复浪费。然后，陆续的就有一些项目开放了，Data.gov、Facebook的聊天机器人项目等等。&lt;/p&gt;
-
-&lt;p&gt;这个事情好处蛮多，但是遇到本土一样的强政府，某种程度上影响到很多部门的寻租空间。但是，一定有人在研究，也一定有变质的政策实施。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源和协作的力量:b25c5609a9cea3354763cf7ab0710392&#34;&gt;开源和协作的力量&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://dzone.com/articles/the-power-of-collaboration-and-open-source&#34;&gt;The Power of Collaboration and Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是为何开源如此的流行，以及它为何会是未来的个人佐证。&lt;/p&gt;
-
-&lt;p&gt;IoT 解决方案，我们都见识过某些号称是IoT的公司，但是他们仅仅只能做到庞大架构中的一小部分。而开源却能够做到。当然，这也是开放云精选所看到的未来趋势。&lt;/p&gt;
-
-&lt;p&gt;Eclipse 开始找大厂合作！以及 Apache的各种项目。&lt;/p&gt;
-
-&lt;p&gt;最后作者的感慨，太过于振聋发聩：&lt;/p&gt;
-
-&lt;p&gt;In my spare time, I decided to start sharing my knowledge and improving it developing open source software and, I have to say, &lt;strong&gt;it changed my life.&lt;/strong&gt;From that time on, I gave something to the community, but I received 10 times what I have put in. Thanks to open sourcing what I was doing, my knowledge has increased exponentially because developers all around the world were able to see my code giving me suggestions and improvements. 这就是开源的魅力所在！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mirantis 走上了开放云精选之路</title>
-      <link>http://lijiangsheng1.github.io/posts/entrepreneur/mirantis_follow_ocselected_step/</link>
-      <pubDate>Fri, 04 Nov 2016 04:52:00 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/mirantis_follow_ocselected_step/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;郑重声明，本博客观点只代表个人观点。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;开放云精选:bf06e220c0ddb61e2f30a50d24a9b741&#34;&gt;开放云精选&lt;/h2&gt;
-
-&lt;p&gt;开放云精选的&lt;a href=&#34;http://www.ocselected.com&#34;&gt;商业网站&lt;/a&gt;已经关闭，停止了经营，其&lt;a href=&#34;http://www.ocselected.org&#34;&gt;社区站点&lt;/a&gt;和&lt;a href=&#34;http://docs.ocselected.org&#34;&gt;文档站点&lt;/a&gt;仍然可以访问，但是已经是很久没有更新了。嗯，没错，所有这一切都是我——开放云精选的创始人做的。&lt;/p&gt;
-
-&lt;p&gt;开放云精选的理念，来自于我对开源、云计算、人才、商业模式、社区运营的综合看法和洞见，以及采取的外在行动。引用下&lt;a href=&#34;http://www.ocselected.org/wiki/Open_Cloud_selected:%E5%85%B3%E4%BA%8E&#34;&gt;关于ocselected&lt;/a&gt;的一段话 &lt;del&gt;（将人称更改为我们是出于代入感的考虑）&lt;/del&gt;：&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我们深信开源软件的价值！ 值得使用和传播。&lt;/p&gt;
-
-&lt;p&gt;我们也深信云计算的未来！&lt;/p&gt;
-
-&lt;p&gt;更加深信开源软件在云计算未来占有重要的位置，这个事实！&lt;/p&gt;
-
-&lt;p&gt;于是我们创建了开放云精选。我们精心选择Open Cloud，为开发工程师、测试工程师、文档工程师提供一个向导性的指南，为系统管理员提供技术上的支持。&lt;/p&gt;
-
-&lt;p&gt;我们秉承代码为王的开源项目哲学，也是社区能够存在的根本。&lt;/p&gt;
-
-&lt;p&gt;我们鼓励能进入本社区的人们参与到上游的开源项目中，&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;其实，我已经将我的第一次创业之路归于失败，从我开始找工作的那一刻开始！但是很凑巧的是，我现在所在公司的老东家之一——Mirantis，近来做出了很大的战略性调整。无独有偶的，它竟然在技术的选型上，和开放云精选有着惊人的相似之处。&lt;/p&gt;
-
-&lt;p&gt;再次感受一下开放云精选的初心：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6431931/ocselected.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;mirantis-选了哪些开源项目:bf06e220c0ddb61e2f30a50d24a9b741&#34;&gt;Mirantis 选了哪些开源项目&lt;/h2&gt;
-
-&lt;p&gt;Mirantis&lt;a href=&#34;https://www.mirantis.com/software/community&#34;&gt;社区站点&lt;/a&gt; 列出了如下几个项目（我将之顺手归类了一下，开放云精选之思路。）：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;IaaS 平台
-
-&lt;ul&gt;
-&lt;li&gt;OpenStack&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;部署和管理工具
-
-&lt;ul&gt;
-&lt;li&gt;Salt&lt;/li&gt;
-&lt;li&gt;StackLight&lt;/li&gt;
-&lt;li&gt;Kubernetes&lt;/li&gt;
-&lt;li&gt;Fuel&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;分布式存储
-
-&lt;ul&gt;
-&lt;li&gt;ceph&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;软件定义网络，网络功能虚拟化
-
-&lt;ul&gt;
-&lt;li&gt;OpenContrail&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;仍然在开放云精选的大框架下，没有涵盖到的领域有：PaaS平台、混合云管理、Hypervisor和容器等。&lt;/p&gt;
-
-&lt;p&gt;其实，从这里看出，Mirantis 似乎作出一番和红帽之类的开源厂商的分庭抗礼的姿态，比如Salt的选用，在商业化浓厚的社区中结交联盟，不如高冷的Kubernetes、OpenContrail。Slat的选用看起来似乎不是很明智，但是技术上永远无法说清楚谁孰优孰略，只能是萝卜青菜，各有所爱。&lt;/p&gt;
-
-&lt;h2 id=&#34;能够学习到什么:bf06e220c0ddb61e2f30a50d24a9b741&#34;&gt;能够学习到什么？&lt;/h2&gt;
-
-&lt;p&gt;其实，我想将这个小节使用“能够证明什么？”更为妥当，但是又觉得哪里不对，毕竟我失败，说明我什么都不是。&lt;/p&gt;
-
-&lt;p&gt;在企业级，尤以基础设施领域，商业模式似乎很难脱离出红帽的服务、订阅模式。当然更加不用提本土，本土的思路，是无法用某些明显的规则来衡量的。然而，红帽现在的地位是无人可以撼动的，Mirantis 想纯粹以OpenStack 作为商业项目，越来越捉肘见襟，上下游难以打通，用户不买账，来来回回什么都得干，日益高涨的人力成本，会让其不堪重负。&lt;/p&gt;
-
-&lt;p&gt;然而，开源乃未来之大势所趋也，无论是传统企业，还是从人本身出发。对于企业来说，创新和竞争力提升才是根本，而对于人来说，更好的薪资和更自由的选择也是王道。那么对于供应商而言，是一个很尴尬的问题，也是很多人的怀疑，我为什么需要购买你的产品和服务？you are not RedHat!!&lt;/p&gt;
-
-&lt;p&gt;该如何突围？Mirantis 现在的行动和表现，正是我2015年初创办开放云精选时的思路：&lt;strong&gt;开源不存在单一的产品，重新利用各种组合满足特定的需求。&lt;/strong&gt; 甚至连建立社区的思路都极为的相似。&lt;/p&gt;
-
-&lt;h2 id=&#34;感慨及祝福:bf06e220c0ddb61e2f30a50d24a9b741&#34;&gt;感慨及祝福&lt;/h2&gt;
-
-&lt;p&gt;我的失败绝不仅仅是因为我身在天朝，有很多其它因素，比如冒险精神不足、对于本土文化的更加深刻理解、品牌的建设等等。以合格的CEO来衡量的话，我仅满足一条：有想法！&lt;/p&gt;
-
-&lt;p&gt;Mirantis 还有很长的一段路要走！比如人才战略！比如开源的品牌建设！比如跨地域管理的挑战！祝福Mirantis！能够做对的事情！&lt;/p&gt;
 </description>
     </item>
     

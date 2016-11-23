@@ -7,8 +7,81 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 22 Nov 2016 08:48:46 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Nov 2016 08:12:06 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.23)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.23%29/</link>
+      <pubDate>Wed, 23 Nov 2016 08:12:06 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.23%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:f21412aca76985655f7d64ee52e0a7df&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;为什么说开放会战胜封闭:f21412aca76985655f7d64ee52e0a7df&#34;&gt;为什么说开放会战胜封闭&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.digitaltonto.com/2016/why-open-beats-closed/&#34;&gt;Why Open Beats Closed&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一篇高瞻远瞩的文章，除了极为深刻的洞见之外，就是还能够旁征博引，用事理将问题说明白、将观点讲透彻了。本文即是这样的。&lt;/p&gt;
+
+&lt;p&gt;开篇是从历史上伟大的走封闭路线的公司的遍历，随后话锋一转，这样封闭的公司正在走向没落！上个世纪的经典迈克尔 波特的竞争论正在失效。一切兼因为世界向平民化、世俗化行进。开放为何会胜利？聪明的人是不会冒任何风险的，但是希望看到事情的所有元素。开放的标准更加重要，消费者不希望被任何一家公司垄断和捆绑。开放带来的创新更加的靠谱，因为宽松的环境所发明创造的事物才是人真正需要的。&lt;/p&gt;
+
+&lt;p&gt;你有何理由不读本文？有可能需要多读几遍方能更加深入的理解。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://zdnet3.cbsistatic.com/hub/i/r/2016/11/18/a99d0e89-4964-4237-873c-cb7fe6e8ed2c/resize/770xauto/5ddd856909064f39b5fab5794a6b1e45/linux-open-source-money-penguin.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;好东西永远值钱-linux和开源公司如何赚钱:f21412aca76985655f7d64ee52e0a7df&#34;&gt;好东西永远值钱：Linux和开源公司如何赚钱&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/how-do-linux-and-open-source-companies-make-money-from-free-software/&#34;&gt;Nothing good is free: How Linux and open source companies make money&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这个问题我一直在探索着，在维基百科上文章：&lt;a href=&#34;https://en.wikipedia.org/wiki/Business_models_for_open-source_software&#34;&gt;16种开源软件的商业模式&lt;/a&gt;有着很好的描述，而且我本人也就本土特色补充了一些:&lt;a href=&#34;https://iaaslee.blogspot.com/?view=magazine&#34;&gt;适兕的博客&lt;/a&gt;，因为我生活在本土，而经济这种行为离不开文化、风俗、环境的因素。&lt;/p&gt;
+
+&lt;p&gt;正如我前几天的文章：为开源和商业正名，一样不会引起本土人们的共鸣，只是认为我过于天真。国人真的很聪明，明明知道自己在撒谎，可是一句“没办法”就搪塞过去了，理由就是整个环境如是。&lt;/p&gt;
+
+&lt;p&gt;所以本文也就是给哪些本土的骗子们做宣传和偷换概念用的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fortunedotcom.files.wordpress.com/2015/09/jim-whitehurst.jpg?w=840&amp;amp;h=485&amp;amp;crop=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;红帽ceo-对于微软-google以及前沿软件的观点:f21412aca76985655f7d64ee52e0a7df&#34;&gt;红帽CEO 对于微软、Google以及前沿软件的观点&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/11/18/red-hat-ceo-james-whitehurst-microsoft-google-software/&#34;&gt;Red Hat CEO on Microsoft, Google, and Cutting Edge Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;作为大型媒体，得照顾到非专业背景的人士，需要打比方、类比等解释性的语句和段落出现。虽然比喻这种修辞会损失语义，不够严谨，但是可以达到沟通的目的。我比较反感比喻这种方式，但是似乎还真找不到更好的方式在短时间内向小白们表达。&lt;/p&gt;
+
+&lt;p&gt;让我们来看看Whitehurst 的一些犀利的观点：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;红帽是一家有使命感的公司，你可以诟病它虚伪，但是是这么高调宣传和执行的：：“We’re on a mission from God.”&lt;/li&gt;
+&lt;li&gt;Google、FaceBook等互联网公司的崛起，推动了开源，说明了一个问题：&lt;strong&gt;Open source basically has become a place where user-driven innovation happens in software.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;微软对待开源态度转变的根本原因：Because open source is where innovation is coming from and is what developers are consuming, it forces vendors to participate.&lt;/li&gt;
+&lt;li&gt;红帽所找到的精准Gap：If you’re running on a three-year old version of Linux, nobody’s looking at that version for a bug or a security hole, but you don’t want to re-integrate and re-test your SAP system every time there’s a new version. That’s what Red Hat does.&lt;/li&gt;
+&lt;li&gt;给哪些新晋的探索新的商业模式（增值）的建议：There’s a big difference between creating value for your users and extracting some of that value for your owners.&lt;/li&gt;
+&lt;li&gt;A rough line would be almost to say most infrastructure is going to be open source and most business functionality above it is going to be proprietary.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;做开源的基础设施软件，红帽俨然是个巨人，难以绕开！其实本土有很多公司都是靠红帽支撑的项目活着的，比如普华、中标等等。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.22)</title>
@@ -972,94 +1045,6 @@
 
 &lt;p&gt;In my spare time, I decided to start sharing my knowledge and improving it developing open source software and, I have to say, &lt;strong&gt;it changed my life.&lt;/strong&gt;From that time on, I gave something to the community, but I received 10 times what I have put in. Thanks to open sourcing what I was doing, my knowledge has increased exponentially because developers all around the world were able to see my code giving me suggestions and improvements. 这就是开源的魅力所在！&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mirantis 走上了开放云精选之路</title>
-      <link>http://lijiangsheng1.github.io/posts/entrepreneur/mirantis_follow_ocselected_step/</link>
-      <pubDate>Fri, 04 Nov 2016 04:52:00 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/mirantis_follow_ocselected_step/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;郑重声明，本博客观点只代表个人观点。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;开放云精选:bf06e220c0ddb61e2f30a50d24a9b741&#34;&gt;开放云精选&lt;/h2&gt;
-
-&lt;p&gt;开放云精选的&lt;a href=&#34;http://www.ocselected.com&#34;&gt;商业网站&lt;/a&gt;已经关闭，停止了经营，其&lt;a href=&#34;http://www.ocselected.org&#34;&gt;社区站点&lt;/a&gt;和&lt;a href=&#34;http://docs.ocselected.org&#34;&gt;文档站点&lt;/a&gt;仍然可以访问，但是已经是很久没有更新了。嗯，没错，所有这一切都是我——开放云精选的创始人做的。&lt;/p&gt;
-
-&lt;p&gt;开放云精选的理念，来自于我对开源、云计算、人才、商业模式、社区运营的综合看法和洞见，以及采取的外在行动。引用下&lt;a href=&#34;http://www.ocselected.org/wiki/Open_Cloud_selected:%E5%85%B3%E4%BA%8E&#34;&gt;关于ocselected&lt;/a&gt;的一段话 &lt;del&gt;（将人称更改为我们是出于代入感的考虑）&lt;/del&gt;：&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我们深信开源软件的价值！ 值得使用和传播。&lt;/p&gt;
-
-&lt;p&gt;我们也深信云计算的未来！&lt;/p&gt;
-
-&lt;p&gt;更加深信开源软件在云计算未来占有重要的位置，这个事实！&lt;/p&gt;
-
-&lt;p&gt;于是我们创建了开放云精选。我们精心选择Open Cloud，为开发工程师、测试工程师、文档工程师提供一个向导性的指南，为系统管理员提供技术上的支持。&lt;/p&gt;
-
-&lt;p&gt;我们秉承代码为王的开源项目哲学，也是社区能够存在的根本。&lt;/p&gt;
-
-&lt;p&gt;我们鼓励能进入本社区的人们参与到上游的开源项目中，&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;其实，我已经将我的第一次创业之路归于失败，从我开始找工作的那一刻开始！但是很凑巧的是，我现在所在公司的老东家之一——Mirantis，近来做出了很大的战略性调整。无独有偶的，它竟然在技术的选型上，和开放云精选有着惊人的相似之处。&lt;/p&gt;
-
-&lt;p&gt;再次感受一下开放云精选的初心：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6431931/ocselected.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;mirantis-选了哪些开源项目:bf06e220c0ddb61e2f30a50d24a9b741&#34;&gt;Mirantis 选了哪些开源项目&lt;/h2&gt;
-
-&lt;p&gt;Mirantis&lt;a href=&#34;https://www.mirantis.com/software/community&#34;&gt;社区站点&lt;/a&gt; 列出了如下几个项目（我将之顺手归类了一下，开放云精选之思路。）：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;IaaS 平台
-
-&lt;ul&gt;
-&lt;li&gt;OpenStack&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;部署和管理工具
-
-&lt;ul&gt;
-&lt;li&gt;Salt&lt;/li&gt;
-&lt;li&gt;StackLight&lt;/li&gt;
-&lt;li&gt;Kubernetes&lt;/li&gt;
-&lt;li&gt;Fuel&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;分布式存储
-
-&lt;ul&gt;
-&lt;li&gt;ceph&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;软件定义网络，网络功能虚拟化
-
-&lt;ul&gt;
-&lt;li&gt;OpenContrail&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;仍然在开放云精选的大框架下，没有涵盖到的领域有：PaaS平台、混合云管理、Hypervisor和容器等。&lt;/p&gt;
-
-&lt;p&gt;其实，从这里看出，Mirantis 似乎作出一番和红帽之类的开源厂商的分庭抗礼的姿态，比如Salt的选用，在商业化浓厚的社区中结交联盟，不如高冷的Kubernetes、OpenContrail。Slat的选用看起来似乎不是很明智，但是技术上永远无法说清楚谁孰优孰略，只能是萝卜青菜，各有所爱。&lt;/p&gt;
-
-&lt;h2 id=&#34;能够学习到什么:bf06e220c0ddb61e2f30a50d24a9b741&#34;&gt;能够学习到什么？&lt;/h2&gt;
-
-&lt;p&gt;其实，我想将这个小节使用“能够证明什么？”更为妥当，但是又觉得哪里不对，毕竟我失败，说明我什么都不是。&lt;/p&gt;
-
-&lt;p&gt;在企业级，尤以基础设施领域，商业模式似乎很难脱离出红帽的服务、订阅模式。当然更加不用提本土，本土的思路，是无法用某些明显的规则来衡量的。然而，红帽现在的地位是无人可以撼动的，Mirantis 想纯粹以OpenStack 作为商业项目，越来越捉肘见襟，上下游难以打通，用户不买账，来来回回什么都得干，日益高涨的人力成本，会让其不堪重负。&lt;/p&gt;
-
-&lt;p&gt;然而，开源乃未来之大势所趋也，无论是传统企业，还是从人本身出发。对于企业来说，创新和竞争力提升才是根本，而对于人来说，更好的薪资和更自由的选择也是王道。那么对于供应商而言，是一个很尴尬的问题，也是很多人的怀疑，我为什么需要购买你的产品和服务？you are not RedHat!!&lt;/p&gt;
-
-&lt;p&gt;该如何突围？Mirantis 现在的行动和表现，正是我2015年初创办开放云精选时的思路：&lt;strong&gt;开源不存在单一的产品，重新利用各种组合满足特定的需求。&lt;/strong&gt; 甚至连建立社区的思路都极为的相似。&lt;/p&gt;
-
-&lt;h2 id=&#34;感慨及祝福:bf06e220c0ddb61e2f30a50d24a9b741&#34;&gt;感慨及祝福&lt;/h2&gt;
-
-&lt;p&gt;我的失败绝不仅仅是因为我身在天朝，有很多其它因素，比如冒险精神不足、对于本土文化的更加深刻理解、品牌的建设等等。以合格的CEO来衡量的话，我仅满足一条：有想法！&lt;/p&gt;
-
-&lt;p&gt;Mirantis 还有很长的一段路要走！比如人才战略！比如开源的品牌建设！比如跨地域管理的挑战！祝福Mirantis！能够做对的事情！&lt;/p&gt;
 </description>
     </item>
     

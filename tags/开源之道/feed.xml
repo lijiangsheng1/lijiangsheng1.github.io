@@ -7,8 +7,81 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 22 Nov 2016 08:48:46 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Nov 2016 08:12:06 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.23)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.23%29/</link>
+      <pubDate>Wed, 23 Nov 2016 08:12:06 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.23%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:f21412aca76985655f7d64ee52e0a7df&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;为什么说开放会战胜封闭:f21412aca76985655f7d64ee52e0a7df&#34;&gt;为什么说开放会战胜封闭&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.digitaltonto.com/2016/why-open-beats-closed/&#34;&gt;Why Open Beats Closed&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一篇高瞻远瞩的文章，除了极为深刻的洞见之外，就是还能够旁征博引，用事理将问题说明白、将观点讲透彻了。本文即是这样的。&lt;/p&gt;
+
+&lt;p&gt;开篇是从历史上伟大的走封闭路线的公司的遍历，随后话锋一转，这样封闭的公司正在走向没落！上个世纪的经典迈克尔 波特的竞争论正在失效。一切兼因为世界向平民化、世俗化行进。开放为何会胜利？聪明的人是不会冒任何风险的，但是希望看到事情的所有元素。开放的标准更加重要，消费者不希望被任何一家公司垄断和捆绑。开放带来的创新更加的靠谱，因为宽松的环境所发明创造的事物才是人真正需要的。&lt;/p&gt;
+
+&lt;p&gt;你有何理由不读本文？有可能需要多读几遍方能更加深入的理解。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://zdnet3.cbsistatic.com/hub/i/r/2016/11/18/a99d0e89-4964-4237-873c-cb7fe6e8ed2c/resize/770xauto/5ddd856909064f39b5fab5794a6b1e45/linux-open-source-money-penguin.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;好东西永远值钱-linux和开源公司如何赚钱:f21412aca76985655f7d64ee52e0a7df&#34;&gt;好东西永远值钱：Linux和开源公司如何赚钱&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/how-do-linux-and-open-source-companies-make-money-from-free-software/&#34;&gt;Nothing good is free: How Linux and open source companies make money&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这个问题我一直在探索着，在维基百科上文章：&lt;a href=&#34;https://en.wikipedia.org/wiki/Business_models_for_open-source_software&#34;&gt;16种开源软件的商业模式&lt;/a&gt;有着很好的描述，而且我本人也就本土特色补充了一些:&lt;a href=&#34;https://iaaslee.blogspot.com/?view=magazine&#34;&gt;适兕的博客&lt;/a&gt;，因为我生活在本土，而经济这种行为离不开文化、风俗、环境的因素。&lt;/p&gt;
+
+&lt;p&gt;正如我前几天的文章：为开源和商业正名，一样不会引起本土人们的共鸣，只是认为我过于天真。国人真的很聪明，明明知道自己在撒谎，可是一句“没办法”就搪塞过去了，理由就是整个环境如是。&lt;/p&gt;
+
+&lt;p&gt;所以本文也就是给哪些本土的骗子们做宣传和偷换概念用的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fortunedotcom.files.wordpress.com/2015/09/jim-whitehurst.jpg?w=840&amp;amp;h=485&amp;amp;crop=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;红帽ceo-对于微软-google以及前沿软件的观点:f21412aca76985655f7d64ee52e0a7df&#34;&gt;红帽CEO 对于微软、Google以及前沿软件的观点&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/11/18/red-hat-ceo-james-whitehurst-microsoft-google-software/&#34;&gt;Red Hat CEO on Microsoft, Google, and Cutting Edge Software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;作为大型媒体，得照顾到非专业背景的人士，需要打比方、类比等解释性的语句和段落出现。虽然比喻这种修辞会损失语义，不够严谨，但是可以达到沟通的目的。我比较反感比喻这种方式，但是似乎还真找不到更好的方式在短时间内向小白们表达。&lt;/p&gt;
+
+&lt;p&gt;让我们来看看Whitehurst 的一些犀利的观点：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;红帽是一家有使命感的公司，你可以诟病它虚伪，但是是这么高调宣传和执行的：：“We’re on a mission from God.”&lt;/li&gt;
+&lt;li&gt;Google、FaceBook等互联网公司的崛起，推动了开源，说明了一个问题：&lt;strong&gt;Open source basically has become a place where user-driven innovation happens in software.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;微软对待开源态度转变的根本原因：Because open source is where innovation is coming from and is what developers are consuming, it forces vendors to participate.&lt;/li&gt;
+&lt;li&gt;红帽所找到的精准Gap：If you’re running on a three-year old version of Linux, nobody’s looking at that version for a bug or a security hole, but you don’t want to re-integrate and re-test your SAP system every time there’s a new version. That’s what Red Hat does.&lt;/li&gt;
+&lt;li&gt;给哪些新晋的探索新的商业模式（增值）的建议：There’s a big difference between creating value for your users and extracting some of that value for your owners.&lt;/li&gt;
+&lt;li&gt;A rough line would be almost to say most infrastructure is going to be open source and most business functionality above it is going to be proprietary.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;做开源的基础设施软件，红帽俨然是个巨人，难以绕开！其实本土有很多公司都是靠红帽支撑的项目活着的，比如普华、中标等等。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.22)</title>
@@ -917,73 +990,6 @@
 &lt;p&gt;云计算，Azure ，让这个世界不再纯粹。拥有或运营云计算的公司，比如Google，不能说是一家纯软件的公司，像过去的Oracle、SAP那样去归类。&lt;/p&gt;
 
 &lt;p&gt;大的公司，总是在战略上有所行动。洞见是洞察未来的能力，这一点必须做到，否则，就会落后，落后就意味着失去竞争力，裁员、负面新闻、失去社会担当，继而消失于历史舞台！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.02)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.02%29/</link>
-      <pubDate>Wed, 02 Nov 2016 08:09:45 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.02%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:c9bb2b517365a7afd52b9f8108fe0c62&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.huffingtonpost.com/2016-10-28-1477617868-3704002-Javascript-thumb.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;编码是很容易学会的-即使你不是科班出身:c9bb2b517365a7afd52b9f8108fe0c62&#34;&gt;编码是很容易学会的，即使你不是科班出身&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.huffingtonpost.com/shinjini-das/learn-to-code-with-ease-e_b_12484862.html?ir=Technology&#34;&gt;Learn To Code With Ease, Even If You Are Not A Computer Science Graduate&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一篇标准的忽悠文章，而且我还亲身经历了被这些文章忽悠过的大学生！此文属于典型，可以当做范文来进行警示：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;计算机人才紧俏，严重的供应不足。&lt;/li&gt;
-&lt;li&gt;开源只是为了让我们更好的学习，更低的入门门槛。&lt;/li&gt;
-&lt;li&gt;前端是最容易见效果的。&lt;/li&gt;
-&lt;li&gt;各大IT公司都在招聘前端JavaScript人才。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;你是不是也有点心动了？都是骗人的，不懂编译原理的也可以编码，纯粹是扯淡！我只所以列出此文，是因为其持错误的观点：开源的门槛低，容易学习！ 开源门槛很高！需要你付出大量的时间和精力方能入门！自由的代价一向是高昂的！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;在-allthingsopen-上对来自oracle的-blaine-carter-的采访:c9bb2b517365a7afd52b9f8108fe0c62&#34;&gt;在 AllthingsOpen 上对来自Oracle的 Blaine Carter 的采访&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://dzone.com/articles/allthingsopen-with-blaine-carter-of-oracle&#34;&gt;AllThingsOpen With Blaine Carter of Oracle&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;AllThingsOpen 正在进行中，这是红帽对于开源文化输出的又一重要领地，虽然比不上opensource.com，但是越来越多的开源界人士开始参与进来了。&lt;/p&gt;
-
-&lt;p&gt;Oracle 这家公司虽然臃肿、庞大、官僚、精英，但是一直都没有脱离和开源的关系，嗯，比如坚不可摧Linux，比如今年被微软挖走的高管，Blaine Carter是做数据库语言的版本控制的。他的观点和愿望是蛮好的！引用一下：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;being nice to the newbies.  Open source needs more people involved, not fewer.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;hpe-mirantis裁员-openstack人才-基金会称这并不表示开源iaas陷入危机:c9bb2b517365a7afd52b9f8108fe0c62&#34;&gt;HPE,Mirantis裁员 OpenStack人才，基金会称这并不表示开源IaaS陷入危机&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://talkincloud.com/cloud-computing-and-open-source/openstack-layoffs-hpe-mirantis-not-indicative-open-source-trouble-fo&#34;&gt;OpenStack Layoffs at HPE, Mirantis Not Indicative of Open Source Trouble, Foundation Says&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;继 Mirantis 裁员之后，HPE确认了将旗下的 OpenStack 人才全部裁掉。&lt;/p&gt;
-
-&lt;p&gt;其实，无论再怎么辩解，OpenStack 的市场热炒期已经过去，巴塞罗纳的参会者人数其实就证明了这一点，君不见，中国的公司在独自狂欢吗？&lt;/p&gt;
-
-&lt;p&gt;OpenStack 最大的竞争对手是公有云，当公有云被世人认可的时候，OpenStack的空间是相当的下，或许有那么几家公司会因为理念、政策压力等因素会使用，但是他们更多的是依靠自身的人力资源来掌控，而不会去依赖发行版。所以，OpenStack 发行版的公司商业模式堪忧。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
