@@ -7,8 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 23 Nov 2016 08:12:06 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Nov 2016 11:01:58 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.24)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.24%29/</link>
+      <pubDate>Thu, 24 Nov 2016 11:01:58 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.24%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:fddd9605e8fa96a752f9a7356325b8f3&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/05/disney-castle-100663870-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;迪斯尼的最佳产品也许是这些开源的工具:fddd9605e8fa96a752f9a7356325b8f3&#34;&gt;迪斯尼的最佳产品也许是这些开源的工具&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworld.com/article/3142034/application-development/disneys-best-releases-may-be-its-open-source-tools.html&#34;&gt;Disney&amp;rsquo;s best releases may be its open source tools&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;当你和人们谈论迪斯尼的时候，人们的第一反应是什么？猫和老鼠？迪斯尼动画片？主题公园？是的，没错，这是原来的迪斯尼形象。现下的迪斯尼又给人们新增了一个印象：开源软件！&lt;/p&gt;
+
+&lt;p&gt;确实在过去的一年当中迪斯尼开源的项目很多，也很重量级。目的其实只有一个：引起开发者的注意和青睐！&lt;/p&gt;
+
+&lt;p&gt;作为艺术的始作俑者，理解起来创意、协作、公开是否有偏差？技术领导世界，艺术也是技术的跟风者。这样理解起来就没有任何难度了。但是依然禁不起“秘方”文化的侵袭。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cdn.ttgtmedia.com/visuals/searchDataCenter/IBM_mainframe/datacenter_article_006.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;企业级采用-openstack-仍然在观望中:fddd9605e8fa96a752f9a7356325b8f3&#34;&gt;企业级采用 OpenStack 仍然在观望中&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://searchdatacenter.techtarget.com/news/450403403/OpenStack-enterprise-adoption-still-awaits-full-embrace&#34;&gt;OpenStack enterprise adoption still awaits full embrace&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是的，容器的出现是革了一回虚拟机的命，VMWare 疲软，OpenStack 强作镇静。正如赵本山的哪个蚁力神的广告：“谁用谁知道。” 唱衰 OpenStack 的不止一天两天了，但是这么有理有据的还真是第一次见。&lt;/p&gt;
+
+&lt;p&gt;开源如此流行，人才辈出，作为OpenStack的发行商究竟有何意义？ 大型企业原先购买许可证书的方式，在开源的潮流下根本就没发达到节省成本的作用。&lt;/p&gt;
+
+&lt;p&gt;Linux 商业发行版，基本仅剩下了三家：红帽、SuSE、Canonical。OpenStack 却依然有很多，不过已经开始有公司撑不住了。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;At the end of the day, if people see VMs as yesterday&amp;rsquo;s technology and containers as tomorrow&amp;rsquo;s technology, and OpenStack is associated with VMs, OpenStack is quickly going to become legacy stuff, rather than future stuff,&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/OSDC_Penguin_Image_520x292_12324207_0714_mm_v1a.png?itok=WfAkwbFy&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;5分钟极速回顾linux25年历史战绩:fddd9605e8fa96a752f9a7356325b8f3&#34;&gt;5分钟极速回顾Linux25年历史战绩&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/11/25-years-linux-5-minutes&#34;&gt;25 years of Linux in 5 minutes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;只需要看Linux现在的成绩就可以了：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;有超过135,000 位开发者参与了Kernel的开发！&lt;/li&gt;
+&lt;li&gt;这些开发者，其中有公司背景的有1300多家公司。&lt;/li&gt;
+&lt;li&gt;22 million lines of code&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Linux 的成绩是伟大的！难以逾越的！其中是Linus最高的政治技术？还是他自始自终坚持了中立的立场——不加入任何一家Linux公司？让全人类受益。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.23)</title>
@@ -925,71 +997,6 @@
 &lt;p&gt;最后作者的感慨，太过于振聋发聩：&lt;/p&gt;
 
 &lt;p&gt;In my spare time, I decided to start sharing my knowledge and improving it developing open source software and, I have to say, &lt;strong&gt;it changed my life.&lt;/strong&gt;From that time on, I gave something to the community, but I received 10 times what I have put in. Thanks to open sourcing what I was doing, my knowledge has increased exponentially because developers all around the world were able to see my code giving me suggestions and improvements. 这就是开源的魅力所在！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.03)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.03%29/</link>
-      <pubDate>Thu, 03 Nov 2016 06:55:36 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.03%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:5e0e13643fd9c79f7d42808672eec3fc&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;linux-基金会又添一大将-著名开源领导者-nithya-ruff加盟:5e0e13643fd9c79f7d42808672eec3fc&#34;&gt;Linux 基金会又添一大将，著名开源领导者 Nithya Ruff加盟&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3137948/linux/open-source-leader-nithya-ruff-joins-the-linux-foundation-board-of-directors.html&#34;&gt;Open Source leader Nithya Ruff joins the Linux Foundation Board of Directors&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Linux 基金会确实需要一个女性的领导者，看看Ruff的工作内容：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;为参加研讨会的女性和没有经济能力的团体提供奖学金，而这通常是他们进入开源的入口。&lt;/li&gt;
-&lt;li&gt;对一些Outreachy和指导机构提供支持，帮助人们进入开源的世界。&lt;/li&gt;
-&lt;li&gt;为研讨会的运作定义良好的准则，包括照顾儿童、女性在开源的演讲等。&lt;/li&gt;
-&lt;li&gt;和一些组织结成合作伙伴，聚焦到各个领域，如经济、性别、性取向以及未被充分代表的少数人群。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ruff 曾经被CIO评选为开源界最具影响力女性之一。在西部数据任首席开源战略官。祝福她在Linux 基金会有好的表现！其他堂而皇之的话，看看就可以了，比如Linux基金会执行主席说的。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/OSDC_BUS_cloudagenda_20140341_jehb.png?itok=GZcST0pV&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源技术大会的新目录:5e0e13643fd9c79f7d42808672eec3fc&#34;&gt;开源技术大会的新目录&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/11/new-listing-open-source-technology-events&#34;&gt;A new directory of open source technology events&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这个世界上有心人真的很多，但是能够实际作出行动和成果的人很少，那么这名叫做Gabor Szabo的编辑算是做到了。&lt;a href=&#34;http://conferences.szabgab.com/conferences&#34;&gt;这份开源会议的清单&lt;/a&gt;，会列出接下来的几个月将会举办的开源会议，哪些会议正在召集演讲议题，都会特别标注等等。&lt;/p&gt;
-
-&lt;p&gt;重要的是此项目利用GitHub 来进行协作。嗯，GitHub 不仅仅是程序员的天堂，它的作用应该更广一些。比如莆田系医院列表等等。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/09/open-source-license-primary.jpg-100682570-primary.idge.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;微软为开放计算项目贡献了一款开放式设计:5e0e13643fd9c79f7d42808672eec3fc&#34;&gt;微软为开放计算项目贡献了一款开放式设计&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.computerworld.com/article/3137565/open-source-tools/microsoft-offers-open-source-designs-to-open-compute-project.html&#34;&gt;Microsoft offers open source designs to Open Compute Project&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;微软也是在2014年加入的开放计算项目，FaceBook发起的开源硬件项目。仓库地址：&lt;a href=&#34;https://github.com/opencomputeproject/Project_Olympus&#34;&gt;Olympus&lt;/a&gt;，注意，它不是代码，it will be hardware and software specifications as well as collateral files like schematics, board files, and mechanical assemblies.&lt;/p&gt;
-
-&lt;p&gt;云计算，Azure ，让这个世界不再纯粹。拥有或运营云计算的公司，比如Google，不能说是一家纯软件的公司，像过去的Oracle、SAP那样去归类。&lt;/p&gt;
-
-&lt;p&gt;大的公司，总是在战略上有所行动。洞见是洞察未来的能力，这一点必须做到，否则，就会落后，落后就意味着失去竞争力，裁员、负面新闻、失去社会担当，继而消失于历史舞台！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
