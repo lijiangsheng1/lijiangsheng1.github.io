@@ -7,8 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 25 Nov 2016 08:41:56 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Nov 2016 07:02:03 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.26)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.26%29/</link>
+      <pubDate>Sat, 26 Nov 2016 07:02:03 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.26%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评:a0d8b5ec05732f675e4fa03dbbb20795&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/open-source-leadership-summit.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源领导者峰会:a0d8b5ec05732f675e4fa03dbbb20795&#34;&gt;开源领导者峰会&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/event/open-source-leadership-summit&#34;&gt;Open Source Leadership Summit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;会议，举办各式各样的会议。大家似乎也找到了相应的方法和技能，这是人类获取信息和交流的重要方式之一，通过聆听他人的演讲，与他人的交谈来获得信息，或者是表达自我、展示自我。更多的是背后支撑是商家的广告。商家需要告诉世人。&lt;/p&gt;
+
+&lt;p&gt;说实话，开源领导力峰会，我是第一次听到，也是第一次知道是Linux基金会搞的这个项目。这对于我蛮有吸引力！&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;this is where open source business leaders and technologists can advance their company’s open source strategy.&lt;/strong&gt; 相信慢慢国内会慢慢认可这样一个职位的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://thestack.com/wp-content/uploads/2016/11/hyperscale-it.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源硬件是如何定义数据中心创新的:a0d8b5ec05732f675e4fa03dbbb20795&#34;&gt;开源硬件是如何定义数据中心创新的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://thestack.com/data-centre/2016/11/25/how-open-source-hardware-is-defining-data-centre-innovation/&#34;&gt;How open source hardware is defining data centre innovation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开放硬件项目：OCP 的功劳究竟有多大？ 这会革了很多硬件厂商的命！FaceBook发起这个项目的5年之后，Google发布了几款服务器的设计，紧跟着微软也发布了Azure的几款服务器。FaceBook还发布了BackPack的交换机设计。尤其是软件定义数据中心，需要大量的符合标准（开源）的白牌设备。&lt;/p&gt;
+
+&lt;p&gt;嗯，开放硬件项目也是必然的趋势，设计、生产、上架几乎都是自己可以控制的。什么超融合的模式一直都不成立。&lt;/p&gt;
+
+&lt;p&gt;另外我想说的一点就是人类喜欢有现成的案例可以模仿，失败的概率会低一点。这是我所见到的客户的起码的保守的思维方式。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://itsfoss.com/wp-content/uploads/2016/04/apple-open-source.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;apple-开源了macos-10-12:a0d8b5ec05732f675e4fa03dbbb20795&#34;&gt;Apple 开源了MacOS 10.12&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://fossbytes.com/apple-open-source-darwin-code-os-x-macos/&#34;&gt;Apple Releases Open Source Darwin Code For macOS 10.12 Sierra&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Apple 说了要加大开源的力度，人才不是难找，而是培养的成本过高。以及影响未来的趋势，成为事实上标准的可能性。微软最近对于开源的战略和策略，显得步骤非常的大。尤其是最近加入Linux基金会。&lt;/p&gt;
+
+&lt;p&gt;Apple 一向以封闭著称，但是从根上，Apple从最开始都是Hacking精神非常浓厚的公司，包括后来Jobs出走开发的NexT，回归之后，新的MacOS采用BSD Darwin内核。以精英的态度漠视这个世界。可能是Swift让他尝到了甜头。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.25)</title>
@@ -937,66 +999,6 @@
 &lt;p&gt;As a developer evangelist, I get to create my own job. That means that I can speak at the conferences I want to, write the code I want to, create the blog posts I want to, and everything else in between.&lt;/p&gt;
 
 &lt;p&gt;做到了按照自己意愿行事。其实，我想说的是，我需要这样的人才！你一样也可以做得到：&lt;strong&gt;Open Source  Developer！！！&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.06)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.06%29/</link>
-      <pubDate>Sun, 06 Nov 2016 07:37:26 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.06%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:0cf2ed9519e9496d6239e7ffd47cb525&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;原-bitcoin-核心开发者-jeff-garzik-加入linux基金董事会:0cf2ed9519e9496d6239e7ffd47cb525&#34;&gt;原 Bitcoin 核心开发者 Jeff Garzik 加入Linux基金董事会&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://cointelegraph.com/news/former-bitcoin-core-developer-jeff-garzik-joins-linux-foundation-board&#34;&gt;Former Bitcoin Core Developer Jeff Garzik Joins Linux Foundation Board&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;有人说昨天流行的技术是云计算，当下是物联网，未来将会是区块链的天下。嗯，说的蛮有道理，但是人不能一味盲目的去追随潮流，要知道，人类自身的局限性，时间是有限的，学习一样东西是要花费很大精力的。要提防一味追新的糟糕的氛围。但是也要应对变化，至少在技术领域不应被淘汰。&lt;/p&gt;
-
-&lt;p&gt;说回Jeff，他是一家叫做Bloq的创始人兼CEO，Bloq就是一家围绕区块链开发的公司，我们知道，加入Linux基金会席位，也就是缴点会费的事情。为公司增加影响力才是根本原因。比如中科创达。&lt;/p&gt;
-
-&lt;p&gt;Jeff的战略是想做区块链的红帽，希望向红帽为企业提供Linux操作系统一样，为企业提供区块链解决方案：应用、网络、协议等。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;红帽的模式非常难以复制，它的成功只是露出水面的冰山一角！&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.nextplatform.com/wp-content/uploads/2015/04/openstack-cloud-logo-bw.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;基于openstack再铸辉煌:0cf2ed9519e9496d6239e7ffd47cb525&#34;&gt;基于OpenStack再铸辉煌&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.nextplatform.com/2016/11/03/building-stack-openstack/&#34;&gt;Building The Stack Above And Below OpenStack&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;一篇了解OpenStack的前世、今生非常好的文章，虽然没有具体的技术分析，但是就用户而言的数据也是很多人愿意去拿来参考的。当然，有一些人更加的在意未来。比如容器，包括OpenStack服务组件的容器化和基于OpenStack提供的容器服务。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;operations-transformation-summit-2016-和华为有关:0cf2ed9519e9496d6239e7ffd47cb525&#34;&gt;Operations Transformation Summit 2016 和华为有关&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/nfv/nfv-mano/its-showtime-for-open-o-/d/d-id/727537&#34;&gt;It&amp;rsquo;s Showtime for OPEN-O&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.lightreading.com/business-employment/business-transformation/software-or-hardware-china-telcos-tell-huawei-to-decide-/d/d-id/727533&#34;&gt;Software or Hardware: China Telcos Tell Huawei to Decide&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这两篇文章，我读出了一些颇有意思的东西，比如移动、电信想甩开华为而又不能，只能抱怨几句，华为为何 不能更加的开放点？然而，关于Open－O的演讲就更有意思了。&lt;/p&gt;
-
-&lt;p&gt;来自华为的 Joe Hou 说到：&amp;rdquo;The code is the de facto standard,It is also a standard but it&amp;rsquo;s not on paper &amp;ndash; it is code.&amp;rdquo; 注意这样的战略，这是IBM&lt;a href=&#34;https://www.zybuluo.com/lijiansheng/note/405058&#34;&gt;精心布局的开源&lt;/a&gt;的翻版。&lt;/p&gt;
-
-&lt;p&gt;新闻需要对比的看！跨越时空！可以更近一步的理解真相！佩服华为的一点是他学习的态度和笼络人才的战略。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
