@@ -7,8 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Nov 2016 11:01:58 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 25 Nov 2016 08:41:56 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016.11.25)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.25%29/</link>
+      <pubDate>Fri, 25 Nov 2016 08:41:56 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.25%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/thankyou-2015-osdc-lead.png?itok=iHkUt9WS&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;文章点评:edb5b6186e74973599b5752facb5b51d&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;你是否让你的业务采用开源技术-本文告诉你答案:edb5b6186e74973599b5752facb5b51d&#34;&gt;你是否让你的业务采用开源技术？本文告诉你答案&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://anthillonline.com/powering-business-open-source-technologies/&#34;&gt;Are you powering your business with open source tech? Here’s why you should&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源技术，有时候得去贴近用户的应用方能达到交流的目的。每个人都在坐井观天，井口的大小直接决定了人的格局。这就是为什么政治可以安排教育的核心所在。经济学没有说明如何解决就业问题，而是探讨人性是自利的。受教育的目的是认清这个世界，不是做一颗别人安排好的螺丝钉。&lt;/p&gt;
+
+&lt;p&gt;意识的觉醒，恐怕才是开源的真正意义之所在。每个人都有贪图小利的潜在可能，对于开源软件有很多误解。&lt;/p&gt;
+
+&lt;p&gt;为什么需要布道师，0、没有人愿意学习，更何况是不能吃不能和的文化。1、习俗导致的圈子文化，决断了自我的认知。比如本文就很好的诠释了这一问题。用户使用开源技术的理由很简单：因为强大，用的人多。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/people_remote_teams_world.png?itok=wI-GW8zX&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;在开源社区获得激情的几点技巧:edb5b6186e74973599b5752facb5b51d&#34;&gt;在开源社区获得激情的几点技巧&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/11/communities-emotions-matter&#34;&gt;Get emotional: Tips for open source communities&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开篇一句话就说明了问题之所在：&lt;strong&gt;Technology is social before it&amp;rsquo;s technical. —Gilles Deleuze&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;这点在本土非常的难以做到。我无话可说。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;kubernets-创始人出来创业了-成立了-heptio公司-拿到融资-8-5m:edb5b6186e74973599b5752facb5b51d&#34;&gt;Kubernets 创始人出来创业了！ 成立了 Heptio公司，拿到融资 $8.5M&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/17/kubernetes-founders-launch-heptio-with-8-5m-in-funding-to-help-bring-containers-to-the-enterprise/&#34;&gt;Kubernetes founders launch Heptio with $8.5M in funding to help bring containers to the enterprise&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;昨天读到唱衰 OpenStack的文章，认为虚拟化是致命伤。而容器的崛起，也得这些编排工具的功劳。Google号称是十多年的容器编排使用经验而发起了Kubernentes项目。但是它真的那么值钱吗？&lt;/p&gt;
+
+&lt;p&gt;国内如时速云之类的利用Kubernetes来创业的也不在少数，是利用了GFW的信息不对称，妄图在传统的企业市场杀出一条血路。&lt;/p&gt;
+
+&lt;p&gt;文中的一句话：&lt;strong&gt;a new pure-play Kubernetes company.&lt;/strong&gt; 让我想起来一家OpenStack的公司也是这么玩的，最后因为不了解开源，走上了扩张、裁员，继续外包、托管之路。失去了创新的先机。&lt;/p&gt;
+
+&lt;p&gt;目前的Heptio 只有两个人，McLuckie and Beda, 但是却可以拿到如此多的钱。可见在业界的名气和获得的信任。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.24)</title>
@@ -935,68 +997,6 @@
 &lt;p&gt;来自华为的 Joe Hou 说到：&amp;rdquo;The code is the de facto standard,It is also a standard but it&amp;rsquo;s not on paper &amp;ndash; it is code.&amp;rdquo; 注意这样的战略，这是IBM&lt;a href=&#34;https://www.zybuluo.com/lijiansheng/note/405058&#34;&gt;精心布局的开源&lt;/a&gt;的翻版。&lt;/p&gt;
 
 &lt;p&gt;新闻需要对比的看！跨越时空！可以更近一步的理解真相！佩服华为的一点是他学习的态度和笼络人才的战略。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.05)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.05%29/</link>
-      <pubDate>Sat, 05 Nov 2016 10:25:24 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.05%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评:b25c5609a9cea3354763cf7ab0710392&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/osdc-lead-happybirthday.png?itok=38SOo5_T&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;著名的文本编辑器-vim-庆祝25岁生日:b25c5609a9cea3354763cf7ab0710392&#34;&gt;著名的文本编辑器 Vim 庆祝25岁生日&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/11/happy-birthday-vim-25&#34;&gt;The iconic text editor Vim celebrates 25 years&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;相信在很多人的职业生涯中（开源相关：开发、运维、技术写作），vim是手头必不可少的工具。&lt;/p&gt;
-
-&lt;p&gt;一款开源的编辑器走过了25个年月，当初的创始人依旧是开发的领导者，就是这么的有魅力，这也是让世界更加美好的原因吧。因为它并没有任何的盈利，即使是售卖T恤和相关logo周边的产品，也都捐献给了ICCF。&lt;/p&gt;
-
-&lt;p&gt;Vim 有很多铁杆的粉丝，当然其本身的优秀和卓越也是有目共睹的。没什么好说的，情怀，有时候在技术领域也能前行！与时俱进，积淀式的发展自己，才是最佳的成长模式。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;code-gov-美国政府的开源软件站点正式运行:b25c5609a9cea3354763cf7ab0710392&#34;&gt;Code.gov ，美国政府的开源软件站点正式运行&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.engadget.com/2016/11/04/code-gov-us-government-open-source-hub/&#34;&gt;Code.gov is the US government&amp;rsquo;s open-source software hub&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;自从8月份，美国政府颁布了新的政策，要求政府部门要使用至少20%的开源软件，这样有利于部门之间的资源共享，从而达到节省资源，避免重复浪费。然后，陆续的就有一些项目开放了，Data.gov、Facebook的聊天机器人项目等等。&lt;/p&gt;
-
-&lt;p&gt;这个事情好处蛮多，但是遇到本土一样的强政府，某种程度上影响到很多部门的寻租空间。但是，一定有人在研究，也一定有变质的政策实施。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;开源和协作的力量:b25c5609a9cea3354763cf7ab0710392&#34;&gt;开源和协作的力量&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://dzone.com/articles/the-power-of-collaboration-and-open-source&#34;&gt;The Power of Collaboration and Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文是为何开源如此的流行，以及它为何会是未来的个人佐证。&lt;/p&gt;
-
-&lt;p&gt;IoT 解决方案，我们都见识过某些号称是IoT的公司，但是他们仅仅只能做到庞大架构中的一小部分。而开源却能够做到。当然，这也是开放云精选所看到的未来趋势。&lt;/p&gt;
-
-&lt;p&gt;Eclipse 开始找大厂合作！以及 Apache的各种项目。&lt;/p&gt;
-
-&lt;p&gt;最后作者的感慨，太过于振聋发聩：&lt;/p&gt;
-
-&lt;p&gt;In my spare time, I decided to start sharing my knowledge and improving it developing open source software and, I have to say, &lt;strong&gt;it changed my life.&lt;/strong&gt;From that time on, I gave something to the community, but I received 10 times what I have put in. Thanks to open sourcing what I was doing, my knowledge has increased exponentially because developers all around the world were able to see my code giving me suggestions and improvements. 这就是开源的魅力所在！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
