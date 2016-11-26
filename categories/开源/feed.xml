@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>开源 on 适兕的博客</title>
-    <link>http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/</link>
-    <description>Recent content in 开源 on 适兕的博客</description>
+    <title>适兕的博客</title>
+    <link>http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml</link>
+    <description>Recent content on 适兕的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 27 Nov 2016 06:31:21 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>开源之道(2016.11.27)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.27%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Sun, 27 Nov 2016 06:31:21 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.27%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评:552535f6cfec6eb7afc9f41dbbeacaef&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unix_history-simple.svg/2000px-Unix_history-simple.svg.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;unix整个历史代码现在托管到了github上:552535f6cfec6eb7afc9f41dbbeacaef&#34;&gt;Unix整个历史代码现在托管到了GitHub上&lt;/h3&gt;
+&lt;h3 id=&#34;unix整个历史代码现在托管到了github上&#34;&gt;Unix整个历史代码现在托管到了GitHub上&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.osnews.com/story/29513/Unix_history_repository_now_on_GitHub&#34;&gt;Unix history repository, now on GitHub&lt;/a&gt;&lt;/p&gt;
 
@@ -40,7 +39,7 @@
 &lt;p&gt;托管到GitHub，并非像其他绝大多数项目接受PR，静态的，用于研究之用。这无疑是学生们和操作系统爱好者的福音。历史代码是值得研究的事物！&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;企业中使用开源:552535f6cfec6eb7afc9f41dbbeacaef&#34;&gt;企业中使用开源&lt;/h3&gt;
+&lt;h3 id=&#34;企业中使用开源&#34;&gt;企业中使用开源&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.mis-asia.com/resource/it-management/using-open-source-in-the-enterprise/?page=1&#34;&gt;Using open source in the enterprise&lt;/a&gt;&lt;/p&gt;
 
@@ -63,7 +62,7 @@
 &lt;p&gt;其他的意义就不太大了，更多的是说自己使用了开源，并且用的很好。总结起来，使用开源有一个共同的好处：&lt;strong&gt;可以按照自己的需求去修改！！&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;lpi-新添了针对开源社区的devops认证:552535f6cfec6eb7afc9f41dbbeacaef&#34;&gt;LPI 新添了针对开源社区的DevOps认证&lt;/h3&gt;
+&lt;h3 id=&#34;lpi-新添了针对开源社区的devops认证&#34;&gt;LPI 新添了针对开源社区的DevOps认证&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/lpi-expands-certifications-recognize-importance-devops-open-source-community-2178053.htm&#34;&gt;LPI Expands Certifications to Recognize the Importance of DevOps to the Open Source Community&lt;/a&gt;&lt;/p&gt;
 
@@ -75,7 +74,7 @@
 &lt;p&gt;但是这么厉害的公司在中国却失败了。和投入有关吗？和糟糕的氛围有关。这大概也是“开源力量”发展乏力的重大原因之一，几乎所有搞开源技术的培训看起来都不赚钱。很是让人莫名其妙。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;cloud-foundry-基金会首席执行官-sam-ramji-离职去了-google:552535f6cfec6eb7afc9f41dbbeacaef&#34;&gt;Cloud Foundry 基金会首席执行官 Sam Ramji 离职去了 Google&lt;/h3&gt;
+&lt;h3 id=&#34;cloud-foundry-基金会首席执行官-sam-ramji-离职去了-google&#34;&gt;Cloud Foundry 基金会首席执行官 Sam Ramji 离职去了 Google&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/17/cloud-foundry-foundation-ceo-sam-ramji-departs-for-google/&#34;&gt;Cloud Foundry Foundation CEO Sam Ramji departs for Google&lt;/a&gt;&lt;/p&gt;
 
@@ -91,21 +90,21 @@
     
     <item>
       <title>开源之道(2016.11.26)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.26%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Sat, 26 Nov 2016 07:02:03 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.26%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评:a0d8b5ec05732f675e4fa03dbbb20795&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/open-source-leadership-summit.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;开源领导者峰会:a0d8b5ec05732f675e4fa03dbbb20795&#34;&gt;开源领导者峰会&lt;/h3&gt;
+&lt;h3 id=&#34;开源领导者峰会&#34;&gt;开源领导者峰会&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/event/open-source-leadership-summit&#34;&gt;Open Source Leadership Summit&lt;/a&gt;&lt;/p&gt;
 
@@ -121,7 +120,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://thestack.com/wp-content/uploads/2016/11/hyperscale-it.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;开源硬件是如何定义数据中心创新的:a0d8b5ec05732f675e4fa03dbbb20795&#34;&gt;开源硬件是如何定义数据中心创新的&lt;/h3&gt;
+&lt;h3 id=&#34;开源硬件是如何定义数据中心创新的&#34;&gt;开源硬件是如何定义数据中心创新的&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;https://thestack.com/data-centre/2016/11/25/how-open-source-hardware-is-defining-data-centre-innovation/&#34;&gt;How open source hardware is defining data centre innovation&lt;/a&gt;&lt;/p&gt;
 
@@ -137,7 +136,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://itsfoss.com/wp-content/uploads/2016/04/apple-open-source.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;apple-开源了macos-10-12:a0d8b5ec05732f675e4fa03dbbb20795&#34;&gt;Apple 开源了MacOS 10.12&lt;/h3&gt;
+&lt;h3 id=&#34;apple-开源了macos-10-12&#34;&gt;Apple 开源了MacOS 10.12&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;https://fossbytes.com/apple-open-source-darwin-code-os-x-macos/&#34;&gt;Apple Releases Open Source Darwin Code For macOS 10.12 Sierra&lt;/a&gt;&lt;/p&gt;
 
@@ -153,10 +152,10 @@
     
     <item>
       <title>开源之道(2016.11.25)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.25%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Fri, 25 Nov 2016 08:41:56 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.25%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
@@ -165,9 +164,9 @@
 
 &lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/thankyou-2015-osdc-lead.png?itok=iHkUt9WS&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;文章点评:edb5b6186e74973599b5752facb5b51d&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
-&lt;h3 id=&#34;你是否让你的业务采用开源技术-本文告诉你答案:edb5b6186e74973599b5752facb5b51d&#34;&gt;你是否让你的业务采用开源技术？本文告诉你答案&lt;/h3&gt;
+&lt;h3 id=&#34;你是否让你的业务采用开源技术-本文告诉你答案&#34;&gt;你是否让你的业务采用开源技术？本文告诉你答案&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://anthillonline.com/powering-business-open-source-technologies/&#34;&gt;Are you powering your business with open source tech? Here’s why you should&lt;/a&gt;&lt;/p&gt;
 
@@ -183,7 +182,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/people_remote_teams_world.png?itok=wI-GW8zX&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;在开源社区获得激情的几点技巧:edb5b6186e74973599b5752facb5b51d&#34;&gt;在开源社区获得激情的几点技巧&lt;/h3&gt;
+&lt;h3 id=&#34;在开源社区获得激情的几点技巧&#34;&gt;在开源社区获得激情的几点技巧&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/11/communities-emotions-matter&#34;&gt;Get emotional: Tips for open source communities&lt;/a&gt;&lt;/p&gt;
 
@@ -195,7 +194,7 @@
 &lt;p&gt;这点在本土非常的难以做到。我无话可说。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;kubernets-创始人出来创业了-成立了-heptio公司-拿到融资-8-5m:edb5b6186e74973599b5752facb5b51d&#34;&gt;Kubernets 创始人出来创业了！ 成立了 Heptio公司，拿到融资 $8.5M&lt;/h3&gt;
+&lt;h3 id=&#34;kubernets-创始人出来创业了-成立了-heptio公司-拿到融资-8-5m&#34;&gt;Kubernets 创始人出来创业了！ 成立了 Heptio公司，拿到融资 $8.5M&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/17/kubernetes-founders-launch-heptio-with-8-5m-in-funding-to-help-bring-containers-to-the-enterprise/&#34;&gt;Kubernetes founders launch Heptio with $8.5M in funding to help bring containers to the enterprise&lt;/a&gt;&lt;/p&gt;
 
@@ -215,21 +214,21 @@
     
     <item>
       <title>开源之道(2016.11.24)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.24%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Thu, 24 Nov 2016 11:01:58 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.24%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评:fddd9605e8fa96a752f9a7356325b8f3&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/05/disney-castle-100663870-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;迪斯尼的最佳产品也许是这些开源的工具:fddd9605e8fa96a752f9a7356325b8f3&#34;&gt;迪斯尼的最佳产品也许是这些开源的工具&lt;/h3&gt;
+&lt;h3 id=&#34;迪斯尼的最佳产品也许是这些开源的工具&#34;&gt;迪斯尼的最佳产品也许是这些开源的工具&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworld.com/article/3142034/application-development/disneys-best-releases-may-be-its-open-source-tools.html&#34;&gt;Disney&amp;rsquo;s best releases may be its open source tools&lt;/a&gt;&lt;/p&gt;
 
@@ -245,7 +244,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://cdn.ttgtmedia.com/visuals/searchDataCenter/IBM_mainframe/datacenter_article_006.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;企业级采用-openstack-仍然在观望中:fddd9605e8fa96a752f9a7356325b8f3&#34;&gt;企业级采用 OpenStack 仍然在观望中&lt;/h3&gt;
+&lt;h3 id=&#34;企业级采用-openstack-仍然在观望中&#34;&gt;企业级采用 OpenStack 仍然在观望中&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://searchdatacenter.techtarget.com/news/450403403/OpenStack-enterprise-adoption-still-awaits-full-embrace&#34;&gt;OpenStack enterprise adoption still awaits full embrace&lt;/a&gt;&lt;/p&gt;
 
@@ -263,7 +262,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/OSDC_Penguin_Image_520x292_12324207_0714_mm_v1a.png?itok=WfAkwbFy&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;5分钟极速回顾linux25年历史战绩:fddd9605e8fa96a752f9a7356325b8f3&#34;&gt;5分钟极速回顾Linux25年历史战绩&lt;/h3&gt;
+&lt;h3 id=&#34;5分钟极速回顾linux25年历史战绩&#34;&gt;5分钟极速回顾Linux25年历史战绩&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/11/25-years-linux-5-minutes&#34;&gt;25 years of Linux in 5 minutes&lt;/a&gt;&lt;/p&gt;
 
@@ -287,19 +286,19 @@
     
     <item>
       <title>开源之道(2016.11.23)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.23%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Wed, 23 Nov 2016 08:12:06 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.23%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评:f21412aca76985655f7d64ee52e0a7df&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
-&lt;h3 id=&#34;为什么说开放会战胜封闭:f21412aca76985655f7d64ee52e0a7df&#34;&gt;为什么说开放会战胜封闭&lt;/h3&gt;
+&lt;h3 id=&#34;为什么说开放会战胜封闭&#34;&gt;为什么说开放会战胜封闭&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.digitaltonto.com/2016/why-open-beats-closed/&#34;&gt;Why Open Beats Closed&lt;/a&gt;&lt;/p&gt;
 
@@ -315,7 +314,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://zdnet3.cbsistatic.com/hub/i/r/2016/11/18/a99d0e89-4964-4237-873c-cb7fe6e8ed2c/resize/770xauto/5ddd856909064f39b5fab5794a6b1e45/linux-open-source-money-penguin.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;好东西永远值钱-linux和开源公司如何赚钱:f21412aca76985655f7d64ee52e0a7df&#34;&gt;好东西永远值钱：Linux和开源公司如何赚钱&lt;/h3&gt;
+&lt;h3 id=&#34;好东西永远值钱-linux和开源公司如何赚钱&#34;&gt;好东西永远值钱：Linux和开源公司如何赚钱&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/how-do-linux-and-open-source-companies-make-money-from-free-software/&#34;&gt;Nothing good is free: How Linux and open source companies make money&lt;/a&gt;&lt;/p&gt;
 
@@ -331,7 +330,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://fortunedotcom.files.wordpress.com/2015/09/jim-whitehurst.jpg?w=840&amp;amp;h=485&amp;amp;crop=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;红帽ceo-对于微软-google以及前沿软件的观点:f21412aca76985655f7d64ee52e0a7df&#34;&gt;红帽CEO 对于微软、Google以及前沿软件的观点&lt;/h3&gt;
+&lt;h3 id=&#34;红帽ceo-对于微软-google以及前沿软件的观点&#34;&gt;红帽CEO 对于微软、Google以及前沿软件的观点&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/11/18/red-hat-ceo-james-whitehurst-microsoft-google-software/&#34;&gt;Red Hat CEO on Microsoft, Google, and Cutting Edge Software&lt;/a&gt;&lt;/p&gt;
 
@@ -360,21 +359,21 @@
     
     <item>
       <title>开源之道(2016.11.22)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.22%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Tue, 22 Nov 2016 08:48:46 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.22%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评:0a1e6076b577386b1f86c05a0726b348&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://www.ciodive.com/user_media/cache/19/f2/19f203779ca78528520bf4145783f28f.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;红帽首席执行官解释为何当下这么多的技术巨头们都转向开源:0a1e6076b577386b1f86c05a0726b348&#34;&gt;红帽首席执行官解释为何当下这么多的技术巨头们都转向开源&lt;/h3&gt;
+&lt;h3 id=&#34;红帽首席执行官解释为何当下这么多的技术巨头们都转向开源&#34;&gt;红帽首席执行官解释为何当下这么多的技术巨头们都转向开源&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.ciodive.com/news/red-hat-ceo-explains-why-tech-giants-are-turning-to-open-source/430829/&#34;&gt;Red Hat CEO explains why tech giants are turning to open source&lt;/a&gt;&lt;/p&gt;
 
@@ -392,7 +391,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/11/microsoft_cloud_open-source-100694853-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;微软在云计算和按需付费业务中青睐开源:0a1e6076b577386b1f86c05a0726b348&#34;&gt;微软在云计算和按需付费业务中青睐开源&lt;/h3&gt;
+&lt;h3 id=&#34;微软在云计算和按需付费业务中青睐开源&#34;&gt;微软在云计算和按需付费业务中青睐开源&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3143653/open-source-tools/microsoft-embraces-open-source-in-the-cloud-and-on-premises.html&#34;&gt;Microsoft embraces open source in the cloud and on-premises&lt;/a&gt;&lt;/p&gt;
 
@@ -408,7 +407,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/OSDC_BUS_ArchitectureOfParticipation_520x292.png?itok=tzfeycyR&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;开源项目基础设施构建四步法:0a1e6076b577386b1f86c05a0726b348&#34;&gt;开源项目基础设施构建四步法&lt;/h3&gt;
+&lt;h3 id=&#34;开源项目基础设施构建四步法&#34;&gt;开源项目基础设施构建四步法&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/11/lessons-maintaining-infrastructure-open&#34;&gt;4 ways to open up your project&amp;rsquo;s infrastructure&lt;/a&gt;&lt;/p&gt;
 
@@ -426,23 +425,23 @@
     
     <item>
       <title>开源之道(2016.11.18)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.18%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Fri, 18 Nov 2016 07:19:29 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.18%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评:7d19d74f443902824b62ed9a417940ed&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://zdnet4.cbsistatic.com/hub/i/r/2016/08/01/f54d221b-dc12-4fdb-984c-f8b790472c92/resize/770xauto/f8df47e5022bdebe4b58476005b68228/2012-10-18-01-white-house-620x399.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;图片说明：开源真的能让美国政府节省几十亿美金？&lt;/p&gt;
 
-&lt;h3 id=&#34;开源在政府的信息技术-除了省钱之外还有更多:7d19d74f443902824b62ed9a417940ed&#34;&gt;开源在政府的信息技术：除了省钱之外还有更多&lt;/h3&gt;
+&lt;h3 id=&#34;开源在政府的信息技术-除了省钱之外还有更多&#34;&gt;开源在政府的信息技术：除了省钱之外还有更多&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/open-source-in-government-it-it-is-about-savings-but-thats-not-the-whole-story/&#34;&gt;Open source in government IT: It is about savings but that&amp;rsquo;s not the whole story&lt;/a&gt;&lt;/p&gt;
 
@@ -456,7 +455,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-678912279.jpg?w=1294&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;开源和协作已成常态:7d19d74f443902824b62ed9a417940ed&#34;&gt;开源和协作已成常态&lt;/h3&gt;
+&lt;h3 id=&#34;开源和协作已成常态&#34;&gt;开源和协作已成常态&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/17/strange-days-indeed-2/&#34;&gt;Open source and coopetition are the new normal&lt;/a&gt;&lt;/p&gt;
 
@@ -477,7 +476,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://www.ciol.com/wp-content/uploads/2016/11/ID-100159494.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;开源云和商业云-智者之选:7d19d74f443902824b62ed9a417940ed&#34;&gt;开源云和商业云：智者之选&lt;/h3&gt;
+&lt;h3 id=&#34;开源云和商业云-智者之选&#34;&gt;开源云和商业云：智者之选&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.ciol.com/open-source-vs-proprietary-cloud-choose-wisely/&#34;&gt;Open Source vs Proprietary Cloud: Choose Wisely&lt;/a&gt;&lt;/p&gt;
 
@@ -493,21 +492,21 @@
     
     <item>
       <title>开源之道(2016.11.17)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.17%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Thu, 17 Nov 2016 08:55:50 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.17%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评:6a86b6dd54573cdb87c62b32e9a27d62&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://static.seattletimes.com/wp-content/uploads/2016/11/79a0fa5a-ac29-11e6-8658-f19bfd35e388-1560x877.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;微软加入linux基金会:6a86b6dd54573cdb87c62b32e9a27d62&#34;&gt;微软加入Linux基金会&lt;/h3&gt;
+&lt;h3 id=&#34;微软加入linux基金会&#34;&gt;微软加入Linux基金会&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.seattletimes.com/business/microsoft/microsoft-joins-linux-foundation-in-another-nod-to-open-source-code/&#34;&gt;Microsoft joins Linux Foundation in another nod to open-source code&lt;/a&gt;&lt;/p&gt;
 
@@ -521,7 +520,7 @@
 &lt;p&gt;&lt;a href=&#34;http://news.microsoft.com/2016/11/16/microsoft-contributes-to-open-ecosystem-by-joining-linux-foundation-and-welcoming-google-to-the-net-community/#sm.000009jxj9lkw3eq7t5ugkw3o667c&#34;&gt;微软的官方声明&lt;/a&gt;，终究是件好事情。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;inner-source-和-软件交付:6a86b6dd54573cdb87c62b32e9a27d62&#34;&gt;Inner Source 和 软件交付&lt;/h3&gt;
+&lt;h3 id=&#34;inner-source-和-软件交付&#34;&gt;Inner Source 和 软件交付&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://news.sys-con.com/node/3944789&#34;&gt;Inner Source and Software Delivery | @DevOpsSummit &lt;/a&gt;&lt;/p&gt;
 
@@ -535,7 +534,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/11/party-like-its-1999-100693970-large.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;现在的开源犹如回到1999年的互联网泡沫:6a86b6dd54573cdb87c62b32e9a27d62&#34;&gt;现在的开源犹如回到1999年的互联网泡沫&lt;/h3&gt;
+&lt;h3 id=&#34;现在的开源犹如回到1999年的互联网泡沫&#34;&gt;现在的开源犹如回到1999年的互联网泡沫&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3141651/open-source-tools/party-like-its-1999.html&#34;&gt;Party like it’s 1999&lt;/a&gt;&lt;/p&gt;
 
@@ -566,7 +565,7 @@
       <guid>http://lijiangsheng1.github.io/posts/opensource/Naming_OpenSource_and_Marketing/</guid>
       <description>
 
-&lt;h2 id=&#34;起因:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;起因&lt;/h2&gt;
+&lt;h2 id=&#34;起因&#34;&gt;起因&lt;/h2&gt;
 
 &lt;p&gt;上海出差的路上，打开新浪微博，不经意刚好刷到了这么一条：“听到一种说法，‘没本事才开源，是为了跟领先者竞争才开源’，有点意思，为什么开源？Linux的诞生是为了以一种区别于传统‘大教堂’模式的‘集市’模式提升软件开发效率以及质量，占领Unix市场纯属意外。后来变了，Android为挑战iOS而存在，被kill掉的是诺基亚；OpenStack 为挑战AWS而存在，受伤的是VMware。”&lt;/p&gt;
 
@@ -576,7 +575,7 @@
 
 &lt;p&gt;类似的话，我听的太多了，我一般懒得理会，此次看到的却是鼎鼎大名的@葑菲daffodil，甚至是@陈沙克竟然也调侃认同，我有点坐不住了，以开源布道师自居的我，必须为开源正名，于是有了此文。至于我对这段话的批判见文章末尾。&lt;/p&gt;
 
-&lt;h2 id=&#34;观点:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;观点&lt;/h2&gt;
+&lt;h2 id=&#34;观点&#34;&gt;观点&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;开源就是开源，和商业无关&lt;/li&gt;
@@ -587,13 +586,13 @@
 &lt;li&gt;开源是未来，因为以人为本&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;论述:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;论述&lt;/h2&gt;
+&lt;h2 id=&#34;论述&#34;&gt;论述&lt;/h2&gt;
 
 &lt;p&gt;较真，这个词，在本土已经快成了一个悲情的代名词了。这是个缺乏较真的时代和环境。而这些却每时每刻不是你所处的身边的人而存在的，抬起头来，看下你的四周围，就是找不出一个较真的人来。那么，我的正名的意义也在于此。&lt;/p&gt;
 
 &lt;p&gt;历史是复杂的，世界更是如此。你必须去以严谨的学术精神去对待这些误解，然后抽丝剥茧的去寻找说服世人。&lt;/p&gt;
 
-&lt;h3 id=&#34;开源的意义:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;开源的意义&lt;/h3&gt;
+&lt;h3 id=&#34;开源的意义&#34;&gt;开源的意义&lt;/h3&gt;
 
 &lt;p&gt;追溯开源的历史，其实是一部人类美好品质胜利的历史，是一部从垄断到解放的历史，然而凑巧的是在这个过程中，还成就了一些商业的企业，而且最重要的是让更多的人有了稳定、可靠、不菲的收入。毕竟人类的近代史，其实就是商业所驱动、资本所驱动的历史。&lt;/p&gt;
 
@@ -609,7 +608,7 @@
 
 &lt;p&gt;开源发展到现在，已经成为了默认的方式，最为经典的故事，莫过于微软：微软在1998年，时任CEO的鲍尔默痛斥Linux是癌症，而今年新上任的CEO 称：&lt;strong&gt;Microsoft love  Linux&lt;/strong&gt;，并开源了.NET框架、Azure 容器引擎等等一系列重量级的项目。再看国内的IT巨人华为，成立开源能力中心，赞助Linux基金会、OpenStack基金会，在OSCON上强势KeyNote，主导开源项目OpenSDS、OnLab（SUN）等等举措。&lt;/p&gt;
 
-&lt;h3 id=&#34;开源和商业模式:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;开源和商业模式&lt;/h3&gt;
+&lt;h3 id=&#34;开源和商业模式&#34;&gt;开源和商业模式&lt;/h3&gt;
 
 &lt;p&gt;没有哪家公司从开源本身赚到了钱，迄今为止，可以分析下现有的开源的几种商业模式：&lt;/p&gt;
 
@@ -624,7 +623,7 @@
 
 &lt;p&gt;开源本身并不能够赚到钱，因为它让所有人垂手可得。&lt;strong&gt;源代码面前人人平等&lt;/strong&gt;，没有任何公司去也不应该去强行收取过去商业软件的许可费用。&lt;/p&gt;
 
-&lt;h3 id=&#34;开源的技术是领先的:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;开源的技术是领先的&lt;/h3&gt;
+&lt;h3 id=&#34;开源的技术是领先的&#34;&gt;开源的技术是领先的&lt;/h3&gt;
 
 &lt;p&gt;随意举几个例子来论证这个论点：&lt;/p&gt;
 
@@ -635,9 +634,9 @@
 &lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&#34;android-openstack:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;Android,OpenStack&lt;/h3&gt;
+&lt;h3 id=&#34;android-openstack&#34;&gt;Android,OpenStack&lt;/h3&gt;
 
-&lt;h4 id=&#34;android-和-ios-都是基于开源的操作系统内核:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;Android 和 iOS  都是基于开源的操作系统内核&lt;/h4&gt;
+&lt;h4 id=&#34;android-和-ios-都是基于开源的操作系统内核&#34;&gt;Android 和 iOS  都是基于开源的操作系统内核&lt;/h4&gt;
 
 &lt;p&gt;Android 从来不是为了对抗 iOS 而生的，同样是智能手机，一个走开放的路线，一个走封闭的路线。本无可厚非，至于商业上的胜负，那也很难说，Google 似乎从Android直接的盈利机会不多，赚钱的生意更多看到是三星、华为、HTC、小米之类的手机制造商。&lt;/p&gt;
 
@@ -645,13 +644,13 @@
 
 &lt;p&gt;再说回来，Android 是2003年开始的项目，而Jobs有iPhone的想法时是2005年。&lt;/p&gt;
 
-&lt;h4 id=&#34;openstack-发展概要:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;OpenStack 发展概要&lt;/h4&gt;
+&lt;h4 id=&#34;openstack-发展概要&#34;&gt;OpenStack 发展概要&lt;/h4&gt;
 
 &lt;p&gt;OpenStack最初的发起者是RackSpace和NASA，前者贡献了项目Swift，后者贡献了Nova，但是后来OpenStack的发展模式，已经超越了所有人的预期，成为了既Linux项目之后，最大的开源项目，而其中的一个关键决策就在于成立了OpenStack基金会。&lt;/p&gt;
 
 &lt;p&gt;不可否认的是，在公有云市场上，AWS 是领导者，也是云计算产品事实上的标杆，但是，私有云市场是另外一番天地，至今还无人能够撼动OpenStack的占有率，尽管这个和虚拟化管理会有一些令人疑惑的地方。但是Gartner对此有明确的解释，大家不妨找出今年的报告看看。&lt;/p&gt;
 
-&lt;h3 id=&#34;诺基亚-vmware-纯属躺枪:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;诺基亚、VMware 纯属躺枪&lt;/h3&gt;
+&lt;h3 id=&#34;诺基亚-vmware-纯属躺枪&#34;&gt;诺基亚、VMware 纯属躺枪&lt;/h3&gt;
 
 &lt;p&gt;诺基亚手机业务，昨天还是人人持有，Connect People，今天几乎消失殆尽。没有抓住智能手机这个快速发展的契机，这个是可以用熊彼特的颠覆性创新解释的清楚点，或许正是因为Nokia在前智能手机时代的占有率，导致他发展缓慢。这个历史上的案例数不胜数：柯达的胶卷相机被数码颠覆、索尼的CD随身听被iPod颠覆。&lt;/p&gt;
 
@@ -661,7 +660,7 @@
 
 &lt;p&gt;说到可能威胁到VMware业务的，可能就是近来崛起的容器：以Docker为核心的一系列操作系统虚拟化生态。尽管VMWare也很早就在Docker上、编排工具上布局，但是，仍然难以逃脱熊彼特的颠覆性创新理论。&lt;/p&gt;
 
-&lt;h3 id=&#34;开源是未来:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;开源是未来&lt;/h3&gt;
+&lt;h3 id=&#34;开源是未来&#34;&gt;开源是未来&lt;/h3&gt;
 
 &lt;p&gt;上周福布斯发表了一篇文章，&lt;a href=&#34;http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.10%29/&#34;&gt;Apple 将加大开源的力度&lt;/a&gt;，回顾下今年的开源大事件，比如沃尔玛、耐克等传统公司加入开源阵营、微软拥抱Linux、华为发布SUN和OpenSDS、Linux基金会新成立了区块链、CNCF等子组织&amp;hellip;&amp;hellip;其实，今年的信息技术界有一个关键词：开源，几乎每天都有重量级的公司开源重量级的项目：Netflix、Linkedin、Amazon、Google、IBM&amp;hellip;&amp;hellip;&lt;/p&gt;
 
@@ -671,7 +670,7 @@
 &lt;p&gt;&lt;strong&gt;In a world fueled by developers, enterprises must speak their language: open source code.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&#34;结语:7a4fe51f8b383f9e727365b1cbb18684&#34;&gt;结语&lt;/h2&gt;
+&lt;h2 id=&#34;结语&#34;&gt;结语&lt;/h2&gt;
 
 &lt;p&gt;国人受体制化太过于严重，思维严重受阻，这需要一个历程。但也要心存希望！&lt;/p&gt;
 </description>
@@ -679,21 +678,21 @@
     
     <item>
       <title>开源之道(2016.11.16)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.16%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Wed, 16 Nov 2016 06:55:44 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.16%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评:c1f54cbb49a664948e900e9c29687882&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://searchengineland.com/figz/wp-content/seloads/2016/11/common-search-flowchart2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;将搜索带回-pagerank-年代的开源项目-通用搜索:c1f54cbb49a664948e900e9c29687882&#34;&gt;将搜索带回 PageRank 年代的开源项目———通用搜索&lt;/h3&gt;
+&lt;h3 id=&#34;将搜索带回-pagerank-年代的开源项目-通用搜索&#34;&gt;将搜索带回 PageRank 年代的开源项目———通用搜索&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://searchengineland.com/common-search-open-source-project-bringing-back-pagerank-262736&#34;&gt;Common Search: The open source project bringing back PageRank&lt;/a&gt;&lt;/p&gt;
 
@@ -707,7 +706,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/01/nothing-to-fear-thinkstock-100563717-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;linux-基金会双管齐下-预防哪些-捣蛋-软件:c1f54cbb49a664948e900e9c29687882&#34;&gt;Linux 基金会双管齐下，预防哪些“捣蛋“软件&lt;/h3&gt;
+&lt;h3 id=&#34;linux-基金会双管齐下-预防哪些-捣蛋-软件&#34;&gt;Linux 基金会双管齐下，预防哪些“捣蛋“软件&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3141305/open-source-tools/linux-foundation-doubles-down-on-support-for-tamper-free-software.html&#34;&gt;Linux Foundation doubles down on support for tamper-free software&lt;/a&gt;&lt;/p&gt;
 
@@ -719,7 +718,7 @@
 &lt;p&gt;开源界有时候也得照顾下贪玩的人性！总是有些捣蛋鬼喜欢恶作剧，比如前一阵子发生的Linux Mint仓库服务器被攻击吗？以及2003年GNU的服务器被黑吗？以及不计其数的发生的事情。总得有人站出来，既然无法杜绝，不如做好预防准备，&lt;a href=&#34;https://reproducible-builds.org&#34;&gt;可再生构建程序&lt;/a&gt;顺势而生！&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;angular-创始人-miško-hevery-谈开源语言是如何重新定义企业级软件的:c1f54cbb49a664948e900e9c29687882&#34;&gt;Angular 创始人 Miško Hevery 谈开源语言是如何重新定义企业级软件的&lt;/h3&gt;
+&lt;h3 id=&#34;angular-创始人-miško-hevery-谈开源语言是如何重新定义企业级软件的&#34;&gt;Angular 创始人 Miško Hevery 谈开源语言是如何重新定义企业级软件的&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/louiscolumbus/2016/11/14/misko-hevery-inventor-of-angular-and-how-open-source-languages-are-redefining-enterprise-software/#5d6551314351&#34;&gt;Miško Hevery, Inventor of Angular And How Open Source Languages Are Redefining Enterprise Software&lt;/a&gt;&lt;/p&gt;
 
@@ -737,21 +736,21 @@
     
     <item>
       <title>开源之道(2016.11.15)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.15%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Tue, 15 Nov 2016 15:01:30 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.15%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评:6151772c4ab79dc9d700f97e5e0ed8a7&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_crowdvsopen.png?itok=072owz9m&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;capital-one-是如何拥抱开源的:6151772c4ab79dc9d700f97e5e0ed8a7&#34;&gt;Capital One 是如何拥抱开源的&lt;/h3&gt;
+&lt;h3 id=&#34;capital-one-是如何拥抱开源的&#34;&gt;Capital One 是如何拥抱开源的&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/11/capital-one-open-source&#34;&gt;How Capital One is embracing open source&lt;/a&gt;&lt;/p&gt;
 
@@ -767,7 +766,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://zdnet2.cbsistatic.com/hub/i/r/2016/05/17/98d0d7e7-8025-4ca1-b503-45d6bab98db0/resize/770xauto/089847944f3df30e046e137017d8df20/hard-drive-failure.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;suse-重点推出旗舰产品开源存储系统:6151772c4ab79dc9d700f97e5e0ed8a7&#34;&gt;SUSE 重点推出旗舰产品开源存储系统&lt;/h3&gt;
+&lt;h3 id=&#34;suse-重点推出旗舰产品开源存储系统&#34;&gt;SUSE 重点推出旗舰产品开源存储系统&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/suse-advances-its-open-source-storage-system/&#34;&gt;SUSE advances its open-source storage system&lt;/a&gt;&lt;/p&gt;
 
@@ -786,7 +785,7 @@
 &lt;li&gt;重视低端用户体验：收购了&lt;a href=&#34;http://openattic.org/home.html&#34;&gt;OpenATTIC&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;现如今的企业必须转型到平台战略:6151772c4ab79dc9d700f97e5e0ed8a7&#34;&gt;现如今的企业必须转型到平台战略&lt;/h3&gt;
+&lt;h3 id=&#34;现如今的企业必须转型到平台战略&#34;&gt;现如今的企业必须转型到平台战略&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/gregsatell/2016/11/13/today-every-business-must-transform-itself-into-a-platform/#504ff5cc6b09&#34;&gt;Today, Every Business Must Transform Itself Into A Platform&lt;/a&gt;&lt;/p&gt;
 
@@ -806,21 +805,21 @@
     
     <item>
       <title>开源之道(2016.11.12)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.12%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Sat, 12 Nov 2016 06:43:02 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.12%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评:b96717706c5808319ead78a6ca25b40d&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://udemy-images.udemy.com/course/750x422/514422_242b.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;java-开源十年-依旧争议不断:b96717706c5808319ead78a6ca25b40d&#34;&gt;Java 开源十年，依旧争议不断&lt;/h3&gt;
+&lt;h3 id=&#34;java-开源十年-依旧争议不断&#34;&gt;Java 开源十年，依旧争议不断&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworld.com/article/3138505/java/open-source-java-at-10-big-benefits-but-detractors-remain.html&#34;&gt;After a decade, open source Java is still controversial&lt;/a&gt;&lt;/p&gt;
 
@@ -834,7 +833,7 @@
 &lt;p&gt;Java 已经20多年了，基于它的框架、应用都成了云原生应用的阻力了。该换换口味了。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;apache-cassandra-项目发生的-撕逼-事件:b96717706c5808319ead78a6ca25b40d&#34;&gt;Apache Cassandra 项目发生的“撕逼”事件&lt;/h3&gt;
+&lt;h3 id=&#34;apache-cassandra-项目发生的-撕逼-事件&#34;&gt;Apache Cassandra 项目发生的“撕逼”事件&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/the-battle-for-apache-cassandra-highlights-major-problem-with-open-source-projects/&#34;&gt;The battle for Apache Cassandra highlights major problem with open source projects&lt;/a&gt;&lt;/p&gt;
 
@@ -850,7 +849,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-592663558.png?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;需要从netflix及其外包的技术中汲取灵感的5大行业:b96717706c5808319ead78a6ca25b40d&#34;&gt;需要从Netflix及其外包的技术中汲取灵感的5大行业&lt;/h3&gt;
+&lt;h3 id=&#34;需要从netflix及其外包的技术中汲取灵感的5大行业&#34;&gt;需要从Netflix及其外包的技术中汲取灵感的5大行业&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/10/5-industries-that-should-take-a-cue-from-netflix-and-crowdsource-parts-of-its-tech/&#34;&gt;Five industries that should take a cue from Netflix and crowdsource parts of its tech&lt;/a&gt;&lt;/p&gt;
 
@@ -876,19 +875,19 @@
     
     <item>
       <title>开源之道(2016.11.11)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.11%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Fri, 11 Nov 2016 08:41:15 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.11%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评:c91e8563953dd02e97bab7562805fa13&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
-&lt;h3 id=&#34;昔日采用开源的标杆-近日重投微软的怀抱:c91e8563953dd02e97bab7562805fa13&#34;&gt;昔日采用开源的标杆，近日重投微软的怀抱&lt;/h3&gt;
+&lt;h3 id=&#34;昔日采用开源的标杆-近日重投微软的怀抱&#34;&gt;昔日采用开源的标杆，近日重投微软的怀抱&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.techeye.net/news/open-source-champion-mulls-return-to-microsoft&#34;&gt;Open source champion mulls return to Microsoft&lt;/a&gt;&lt;/p&gt;
 
@@ -904,7 +903,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/11/DEC16-1109-GUESTVIEW-PITTENGER.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;嘉宾观点-为什么政府会对开源很感冒:c91e8563953dd02e97bab7562805fa13&#34;&gt;嘉宾观点：为什么政府会对开源很感冒&lt;/h3&gt;
+&lt;h3 id=&#34;嘉宾观点-为什么政府会对开源很感冒&#34;&gt;嘉宾观点：为什么政府会对开源很感冒&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/guest-view-open-sourcing-software-government-makes-sense/&#34;&gt;Guest View: Why open-sourcing software for the government makes sense&lt;/a&gt;&lt;/p&gt;
 
@@ -928,7 +927,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://stech1.firstpost.com/tech2images/640x359/proportional/jpeg/2016/11/tensor-flow-cover-image-624x352.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;google-庆祝机器学习框架-tensorflow-开源一周年:c91e8563953dd02e97bab7562805fa13&#34;&gt;Google 庆祝机器学习框架 TensorFlow 开源一周年&lt;/h3&gt;
+&lt;h3 id=&#34;google-庆祝机器学习框架-tensorflow-开源一周年&#34;&gt;Google 庆祝机器学习框架 TensorFlow 开源一周年&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://tech.firstpost.com/news-analysis/google-celebrates-one-year-of-open-sourcing-machine-learning-framework-tensorflow-346451.html&#34;&gt;Google celebrates one year of open sourcing machine learning framework TensorFlow&lt;/a&gt;&lt;/p&gt;
 
@@ -961,21 +960,21 @@
     
     <item>
       <title>开源之道(2016.11.10)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.10%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Thu, 10 Nov 2016 08:50:45 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.10%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评:cd51b63cc27c3067493c8e4211781610&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/wp-content/uploads/2016/11/open-source2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;开源需要更多女性的参与:cd51b63cc27c3067493c8e4211781610&#34;&gt;开源需要更多女性的参与&lt;/h3&gt;
+&lt;h3 id=&#34;开源需要更多女性的参与&#34;&gt;开源需要更多女性的参与&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;https://cointelegraph.com/news/the-open-source-world-is-worth-billions&#34;&gt;GUEST BLOG: Open source needs to deliver diversity&lt;/a&gt;&lt;/p&gt;
 
@@ -989,7 +988,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/09/open-source-license-primary.jpg-100682570-primary.idge.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;4个急需帮助的开源项目:cd51b63cc27c3067493c8e4211781610&#34;&gt;4个急需帮助的开源项目&lt;/h3&gt;
+&lt;h3 id=&#34;4个急需帮助的开源项目&#34;&gt;4个急需帮助的开源项目&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3136580/open-source-tools/4-open-source-initiatives-that-need-your-help.html&#34;&gt;4 open source initiatives that need your help&lt;/a&gt;&lt;/p&gt;
 
@@ -1005,7 +1004,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/LIFE_opensourcejob.png?itok=NSABHFru&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;苹果打算在开源投入更多:cd51b63cc27c3067493c8e4211781610&#34;&gt;苹果打算在开源投入更多&lt;/h3&gt;
+&lt;h3 id=&#34;苹果打算在开源投入更多&#34;&gt;苹果打算在开源投入更多&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/apple-is-doubling-down-on-open-source/&#34;&gt;Apple is doubling down on open source&lt;/a&gt;&lt;/p&gt;
 
@@ -1023,21 +1022,21 @@
     
     <item>
       <title>开源之道(2016.11.09)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.09%29/</link>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Wed, 09 Nov 2016 08:47:40 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016.11.09%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评:ba8cc3e3dc50789cf02d2d59eb2aede5&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://regmedia.co.uk/2016/11/07/java_image_by_gil_c_via_shutterstock.jpg?x=648&amp;amp;y=348&amp;amp;crop=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;阿里巴巴承诺的java大事件哪里去了:ba8cc3e3dc50789cf02d2d59eb2aede5&#34;&gt;阿里巴巴承诺的Java大事件哪里去了？&lt;/h3&gt;
+&lt;h3 id=&#34;阿里巴巴承诺的java大事件哪里去了&#34;&gt;阿里巴巴承诺的Java大事件哪里去了？&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.theregister.co.uk/2016/11/08/alibaba_brings_weight_to_jcp_ec_elections/&#34;&gt;Open-source Sesame! Alibaba promises super-size magic for Java&lt;/a&gt;&lt;/p&gt;
 
@@ -1051,7 +1050,7 @@
 &lt;p&gt;终究是件好事，阿里巴巴在章文嵩博士出走之后，对于开源错误的做法，很是让人费解，但是他利用了国人的无知，比如MySQL的哪个，本来是违反协议的，把本该做的事情放大为市场宣传，怪谁？这不加入JCP，就是恬不知耻的为了解决问题。有时候，我也会怀疑布道的意义。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;linux-基金会为软件定义存储创建了开放的控制器-opensds:ba8cc3e3dc50789cf02d2d59eb2aede5&#34;&gt;Linux 基金会为软件定义存储创建了开放的控制器——OpenSDS&lt;/h3&gt;
+&lt;h3 id=&#34;linux-基金会为软件定义存储创建了开放的控制器-opensds&#34;&gt;Linux 基金会为软件定义存储创建了开放的控制器——OpenSDS&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/the-linux-foundation-creates-open-controller-for-software-defined-storage-2173754.htm&#34;&gt;The Linux Foundation Creates Open Controller for Software-Defined Storage&lt;/a&gt;&lt;/p&gt;
 
@@ -1067,7 +1066,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/osdc-docdish-typewriterkeys.png?itok=WMrMf9SL&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;撰写更好的文档四步法-如何获得用户最需回答的问题:ba8cc3e3dc50789cf02d2d59eb2aede5&#34;&gt;撰写更好的文档四步法：如何获得用户最需回答的问题&lt;/h3&gt;
+&lt;h3 id=&#34;撰写更好的文档四步法-如何获得用户最需回答的问题&#34;&gt;撰写更好的文档四步法：如何获得用户最需回答的问题&lt;/h3&gt;
 
 &lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/11/right-way-help-users-learn-your-software&#34;&gt;4 steps to better documentation: How to get users the exact answer to the problem&lt;/a&gt;&lt;/p&gt;
 

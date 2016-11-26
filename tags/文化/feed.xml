@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>文化 on 适兕的博客</title>
-    <link>http://lijiangsheng1.github.io/tags/%E6%96%87%E5%8C%96/</link>
-    <description>Recent content in 文化 on 适兕的博客</description>
+    <title>适兕的博客</title>
+    <link>http://lijiangsheng1.github.io/tags/%E6%96%87%E5%8C%96/feed/index.xml</link>
+    <description>Recent content on 适兕的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 20 May 2016 08:36:54 -0700</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%96%87%E5%8C%96/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -18,25 +17,25 @@
       <guid>http://lijiangsheng1.github.io/posts/opensource/finding_a_home_for_thunderbird/</guid>
       <description>
 
-&lt;h2 id=&#34;thunderbird-寻找-选择社区的分析报告:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;Thunderbird 寻找、选择社区的分析报告&lt;/h2&gt;
+&lt;h2 id=&#34;thunderbird-寻找-选择社区的分析报告&#34;&gt;Thunderbird 寻找、选择社区的分析报告&lt;/h2&gt;
 
-&lt;h3 id=&#34;译者的话:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;译者的话&lt;/h3&gt;
+&lt;h3 id=&#34;译者的话&#34;&gt;译者的话&lt;/h3&gt;
 
 &lt;p&gt;在为 InfoQ 中国寻找新闻线索的过程中，找到了这篇文章：&lt;a href=&#34;http://www.i-programmer.info/news/136-open-source/9686-mozilla-looking-for-a-new-home-for-thunderbird.html&#34;&gt;Mozilla  在为雷鸟寻找下一个主人&lt;/a&gt; ，而我自己和雷鸟的渊源，大约要从2005年左右算起，那时是 Firefox 进军中国之前，由国内的爱好者们组成的论坛，那时候社交媒体还没有这么的多和发达，而我第一次为社区做贡献，就是那个时候在论坛里做“Linux下的雷鸟客户端”版块的版主。差不多是10年过去了！雷鸟的发展似乎渐渐的淡出了我的视野，我自己的邮件客户端基本就是Gmail的web版。Mozilla 在捐献 Thunderbird，其背后的意义我可能暂时还没有时间去探究，但是由Simon Phipps所提交的报告引发了我的兴趣。于是就将此文翻译了。&lt;/p&gt;
 
 &lt;p&gt;至于我要学习的东西，可能就是文章所列出的捐献给谁的好处、坏处列举吧！&lt;/p&gt;
 
-&lt;h3 id=&#34;pdf-原版-https-blog-mozilla-org-thunderbird-files-2016-04-finding-a-home-for-thunderbird-pdf-请自行下载阅读:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;PDF &lt;a href=&#34;https://blog.mozilla.org/thunderbird/files/2016/04/Finding-a-Home-for-Thunderbird.pdf&#34;&gt;原版&lt;/a&gt; 请自行下载阅读。&lt;/h3&gt;
+&lt;h3 id=&#34;pdf-原版-https-blog-mozilla-org-thunderbird-files-2016-04-finding-a-home-for-thunderbird-pdf-请自行下载阅读&#34;&gt;PDF &lt;a href=&#34;https://blog.mozilla.org/thunderbird/files/2016/04/Finding-a-Home-for-Thunderbird.pdf&#34;&gt;原版&lt;/a&gt; 请自行下载阅读。&lt;/h3&gt;
 
-&lt;h2 id=&#34;应-mozilla-基金会的要求-simon-phipps-http-webmink-com-about-所准备的报告:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;应 Mozilla 基金会的要求，&lt;a href=&#34;http://webmink.com/about&#34;&gt;Simon Phipps&lt;/a&gt;所准备的报告&lt;/h2&gt;
+&lt;h2 id=&#34;应-mozilla-基金会的要求-simon-phipps-http-webmink-com-about-所准备的报告&#34;&gt;应 Mozilla 基金会的要求，&lt;a href=&#34;http://webmink.com/about&#34;&gt;Simon Phipps&lt;/a&gt;所准备的报告&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;2016.4.7 版本1.0&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;概要介绍及背景阐述:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;概要介绍及背景阐述&lt;/h2&gt;
+&lt;h2 id=&#34;概要介绍及背景阐述&#34;&gt;概要介绍及背景阐述&lt;/h2&gt;
 
 &lt;p&gt;Mozilla 雷鸟（Thunderbird）是一款跨平台的邮件、新闻组、日历、以及在线聊天的桌面客户端。&lt;/p&gt;
 
-&lt;h3 id=&#34;历史:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;历史&lt;/h3&gt;
+&lt;h3 id=&#34;历史&#34;&gt;历史&lt;/h3&gt;
 
 &lt;p&gt;雷鸟项目和火狐项目拥有一样的根－不仅是公司，还有技术上。在成为产品分离之前，它俩还是 Mozilla 套件，那是2004年。在很长一段时间，雷鸟和火狐都共享着很多的代码－－主要是 Gecko HTML 渲染引擎。&lt;/p&gt;
 
@@ -46,7 +45,7 @@
 
 &lt;p&gt;尽管 Mozilla 想要确保雷鸟的稳定发展，不仅是行政上，还有技术上，但是 Mozilla 更加倾向于积极的推进并专注于保存和保护开放的 web 的能力，因此，Mozilla不再为雷鸟投入更多的资源了，也因此开发雷鸟相比过去会有更少的开发者。&lt;/p&gt;
 
-&lt;h3 id=&#34;未来:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;未来&lt;/h3&gt;
+&lt;h3 id=&#34;未来&#34;&gt;未来&lt;/h3&gt;
 
 &lt;p&gt;基于上述的这些原因，Mozilla 决定启动让雷鸟更加的独立的进程，不仅是行政上的，也包括技术上的真正意义的独立。意料中的结果是雷鸟在技术上彻底和Firefox 分离，且要独立治理和Mozilla 公司再无半分瓜葛。Mozilla 基金会已经声明在未来仍然会为雷鸟继续贡献，且会提供任何可能让雷鸟走向成功的开放的解决方案。&lt;/p&gt;
 
@@ -54,7 +53,7 @@
 
 &lt;p&gt;在此报告中，我作为文档基金会的总监，我并不会对结果有任何推荐的倾向，从而避免一些潜在的利益冲突。我的任务是为 Mozilla 的领导层和雷鸟的委员会提供每个可能的社区／基金会的优缺点以及我的观察，我也会描述被他们提名过但并不可行的社区／基金会。&lt;/p&gt;
 
-&lt;h3 id=&#34;考虑的因素:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;考虑的因素&lt;/h3&gt;
+&lt;h3 id=&#34;考虑的因素&#34;&gt;考虑的因素&lt;/h3&gt;
 
 &lt;p&gt;选择一个新的栖息之地，不仅仅是简单的托管就完事了，而需要仔细的考虑到方方面面：&lt;/p&gt;
 
@@ -95,9 +94,9 @@
 
 &lt;p&gt;在本报告中，我所提到的“开源”、”自由软件“、和“FOSS/FLOSS”在不同的上下文中是可以互换的。&lt;/p&gt;
 
-&lt;h2 id=&#34;雷鸟的新东家:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;雷鸟的新东家&lt;/h2&gt;
+&lt;h2 id=&#34;雷鸟的新东家&#34;&gt;雷鸟的新东家&lt;/h2&gt;
 
-&lt;h3 id=&#34;执行概要:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;执行概要&lt;/h3&gt;
+&lt;h3 id=&#34;执行概要&#34;&gt;执行概要&lt;/h3&gt;
 
 &lt;p&gt;有了下面所列出来的目的地以及其它几个较有前途的基金会的比较，我大概可以估计出有三家是有可能成为雷鸟的新家的，它们是：自由软件保护协会、文档基金会、和 Mozilla 基金会产生新的交易。在此三家中，没有任何一家能够是脱颖而出，将其它二者比下去的。而且还有可能寻求迁移到“雷鸟基金会”来作为自己永久的家，（虽然是我建议的接下来的事情）。在这三家备选的基金会中，接下来要做的就是做计划，然后让 Mozilla 基金会的董事们做决策。这三家的选择上，需要考虑的关键因素有：&lt;/p&gt;
 
@@ -126,13 +125,13 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;软件自由保护协会:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;软件自由保护协会&lt;/h3&gt;
+&lt;h3 id=&#34;软件自由保护协会&#34;&gt;软件自由保护协会&lt;/h3&gt;
 
-&lt;h4 id=&#34;摘要:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;摘要&lt;/h4&gt;
+&lt;h4 id=&#34;摘要&#34;&gt;摘要&lt;/h4&gt;
 
 &lt;p&gt;总部在美国的一家非盈利机构，其使命是为自由软件项目提供服务。协会愿意托管雷鸟。&lt;/p&gt;
 
-&lt;h4 id=&#34;细节:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;细节&lt;/h4&gt;
+&lt;h4 id=&#34;细节&#34;&gt;细节&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;此协会是完成整个应用过程的雷鸟委员会最初所接洽的组织。&lt;/li&gt;
@@ -164,13 +163,13 @@
 
 &lt;p&gt;&lt;strong&gt;太感谢软件自由保护协会的帮助了，尤其是其执行总监 Karen Sandler，提出了很多建设性的意见。&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;文档基金会-http-documentfoundation-org-tdf:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;&lt;a href=&#34;http://documentfoundation.org&#34;&gt;文档基金会&lt;/a&gt;（TDF）&lt;/h3&gt;
+&lt;h3 id=&#34;文档基金会-http-documentfoundation-org-tdf&#34;&gt;&lt;a href=&#34;http://documentfoundation.org&#34;&gt;文档基金会&lt;/a&gt;（TDF）&lt;/h3&gt;
 
-&lt;h4 id=&#34;摘要-1:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;摘要&lt;/h4&gt;
+&lt;h4 id=&#34;摘要-1&#34;&gt;摘要&lt;/h4&gt;
 
 &lt;p&gt;一家德国的国际非盈利机构，有意要托管雷鸟。这里要提醒一点的就是不要和 LibreOffice 扯上任何的关系，LibreOffice 是 TDF 的另外一个著名项目。&lt;/p&gt;
 
-&lt;h4 id=&#34;细节-1:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;细节&lt;/h4&gt;
+&lt;h4 id=&#34;细节-1&#34;&gt;细节&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;TDF 最初接近雷鸟委员会在这方面也一直在通过对等的方式在接洽。&lt;/li&gt;
@@ -239,13 +238,13 @@
 
 &lt;p&gt;非常感谢TDF，TDF 的核心领导团队对于本文帮助了很多，而且描述了 TDF 在接手雷鸟后将会是什么样的状态。&lt;/p&gt;
 
-&lt;h3 id=&#34;mozilla-基金会-mofo:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;Mozilla 基金会 (MoFo)&lt;/h3&gt;
+&lt;h3 id=&#34;mozilla-基金会-mofo&#34;&gt;Mozilla 基金会 (MoFo)&lt;/h3&gt;
 
-&lt;h4 id=&#34;摘要-2:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;摘要&lt;/h4&gt;
+&lt;h4 id=&#34;摘要-2&#34;&gt;摘要&lt;/h4&gt;
 
 &lt;p&gt;MoFo 是一家美国非盈利公共慈善机构 (“501&amp;copy;(3)”)，有兼容目的，有意打算扮演一个组织的角色来托管独立的雷鸟项目。&lt;/p&gt;
 
-&lt;h4 id=&#34;细节-2:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;细节&lt;/h4&gt;
+&lt;h4 id=&#34;细节-2&#34;&gt;细节&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;MoFo 有意打算扮演一个组织的角色来托管独立的雷鸟项目。这并不表示会维持项目的现状;它只是意味着 MoFo 充当举办这样的文档中的其他侯选。&lt;/li&gt;
@@ -259,7 +258,7 @@
 
 &lt;p&gt;其它基金会&lt;/p&gt;
 
-&lt;h3 id=&#34;gnome-基金会:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;GNOME 基金会&lt;/h3&gt;
+&lt;h3 id=&#34;gnome-基金会&#34;&gt;GNOME 基金会&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;实体：美国非盈利公共慈善机构 (“501&amp;copy;(3)”)&lt;/strong&gt;&lt;/p&gt;
 
@@ -267,7 +266,7 @@
 &lt;li&gt;我曾花了很长一段时间，近距离的参与了 Gnome 董事会们讨论接管雷鸟的可能性，虽然有多名成员对雷鸟表现出明显的兴趣和同情，但是时机不对，现在 Gnome 还没有准备好给如何应对这么一个明显变化。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;大众软件-http-www-spi-inc-org-spi:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;&lt;a href=&#34;http://www.spi-inc.org&#34;&gt;大众软件&lt;/a&gt;（SPI）&lt;/h3&gt;
+&lt;h3 id=&#34;大众软件-http-www-spi-inc-org-spi&#34;&gt;&lt;a href=&#34;http://www.spi-inc.org&#34;&gt;大众软件&lt;/a&gt;（SPI）&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;实体：美国非盈利公共慈善机构 (“501&amp;copy;(3)”)&lt;/strong&gt;&lt;/p&gt;
 
@@ -288,7 +287,7 @@
 &lt;li&gt;SPI并不直接参与社区治理。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;apache-软件基金会-http-apache-org:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;&lt;a href=&#34;http://apache.org&#34;&gt;Apache 软件基金会&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;apache-软件基金会-http-apache-org&#34;&gt;&lt;a href=&#34;http://apache.org&#34;&gt;Apache 软件基金会&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;实体：美国非盈利公共慈善机构 (“501&amp;copy;(3)”)&lt;/strong&gt;&lt;/p&gt;
 
@@ -310,7 +309,7 @@
 &lt;li&gt;Apache 很可能会自己雇佣员工来开发雷鸟。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;雷鸟基金会:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;“雷鸟基金会”&lt;/h3&gt;
+&lt;h3 id=&#34;雷鸟基金会&#34;&gt;“雷鸟基金会”&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;还没有成立，但是这是一个具有投机性质的结果&lt;/strong&gt;&lt;/p&gt;
 
@@ -323,7 +322,7 @@
 
 &lt;p&gt;© 2016 Mozilla Foundation&lt;/p&gt;
 
-&lt;h2 id=&#34;译者写在后面:bf421d5706b8c376ac17a4f3abbe1b67&#34;&gt;译者写在后面&lt;/h2&gt;
+&lt;h2 id=&#34;译者写在后面&#34;&gt;译者写在后面&lt;/h2&gt;
 
 &lt;p&gt;开源绝非是仅仅将代码开放就可以的，社区的建设是至关重要的一步。以个人的经验来讲，开发者参与到社区的机会，几乎都是1:1的关系的，能力和时间较强的人可能是2或3:1，那么作为社区的角度来讲，其实也就是吸引开发者的过程。本文给出了非常宽阔的视野，来考虑社区建设的方方面面。译者还是受益匪浅的！ 相比之前对于开源的认识，总还是不够的，能力也需要提高。&lt;/p&gt;
 

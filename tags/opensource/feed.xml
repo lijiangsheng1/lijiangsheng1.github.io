@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Opensource on 适兕的博客</title>
-    <link>http://lijiangsheng1.github.io/tags/opensource/</link>
-    <description>Recent content in Opensource on 适兕的博客</description>
+    <title>适兕的博客</title>
+    <link>http://lijiangsheng1.github.io/tags/opensource/feed/index.xml</link>
+    <description>Recent content on 适兕的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 07 May 2016 11:07:40 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/opensource/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -18,7 +17,7 @@
       <guid>http://lijiangsheng1.github.io/posts/opensource/you_can%27t_make_money_from_open_source/</guid>
       <description>
 
-&lt;h2 id=&#34;开源的商业模式出问题了:2962b7bcff86d3db05fac92919245cc4&#34;&gt;开源的商业模式出问题了？&lt;/h2&gt;
+&lt;h2 id=&#34;开源的商业模式出问题了&#34;&gt;开源的商业模式出问题了？&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/05/money-100659960-primary.idge.jpg&#34; alt=&#34;money&#34; /&gt;&lt;/p&gt;
 
@@ -28,7 +27,7 @@
 
 &lt;p&gt;其实，我想写这样一篇文章已经很久了，但是一直没有非常充足的理由去付诸于实践，但是在经历了上述二者的对话以后，我知道是该下笔的时候了，于是就有了此文。&lt;/p&gt;
 
-&lt;h2 id=&#34;开源并非是你想的那样:2962b7bcff86d3db05fac92919245cc4&#34;&gt;开源并非是你想的那样&lt;/h2&gt;
+&lt;h2 id=&#34;开源并非是你想的那样&#34;&gt;开源并非是你想的那样&lt;/h2&gt;
 
 &lt;p&gt;若是有人说你根本无法从开源中获利，那可能是他们对于开源有很大的误解。&lt;/p&gt;
 

@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>人才 on 适兕的博客</title>
-    <link>http://lijiangsheng1.github.io/categories/%E4%BA%BA%E6%89%8D/</link>
-    <description>Recent content in 人才 on 适兕的博客</description>
+    <title>适兕的博客</title>
+    <link>http://lijiangsheng1.github.io/categories/%E4%BA%BA%E6%89%8D/feed/index.xml</link>
+    <description>Recent content on 适兕的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 13 Oct 2016 11:03:23 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/categories/%E4%BA%BA%E6%89%8D/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -18,13 +17,13 @@
       <guid>http://lijiangsheng1.github.io/posts/entrepreneur/why_the_best_hire_might_not_be_have_the_perfect_resume/</guid>
       <description>
 
-&lt;h2 id=&#34;引子:d5df6840db42c1047c220ab73aa2919a&#34;&gt;引子&lt;/h2&gt;
+&lt;h2 id=&#34;引子&#34;&gt;引子&lt;/h2&gt;
 
-&lt;p&gt;古今中外，凡做大事者，兼有识别非凡人才的本领。韩愈更详细论述了“千里马常有，而伯乐不常有”的基调。当时光进入当代，以经济为一切发展前提，对于人才的激烈竞争更是到了火热化的地步，于是各种方法论层出不穷，有“重赏之下必有勇夫”、有“文化吸引”&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:d5df6840db42c1047c220ab73aa2919a:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:d5df6840db42c1047c220ab73aa2919a:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;、有“宠物、健身、保姆、美食福利”、有“户口、稳定、国有等著中国特色”等等不一而足。但是，这些都没有说出问题的根本，如何识别最适合团队发展的人才才是症结之所在。名校？外企经验？谈吐？简历？2小时的面试？&lt;/p&gt;
+&lt;p&gt;古今中外，凡做大事者，兼有识别非凡人才的本领。韩愈更详细论述了“千里马常有，而伯乐不常有”的基调。当时光进入当代，以经济为一切发展前提，对于人才的激烈竞争更是到了火热化的地步，于是各种方法论层出不穷，有“重赏之下必有勇夫”、有“文化吸引”&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;、有“宠物、健身、保姆、美食福利”、有“户口、稳定、国有等著中国特色”等等不一而足。但是，这些都没有说出问题的根本，如何识别最适合团队发展的人才才是症结之所在。名校？外企经验？谈吐？简历？2小时的面试？&lt;/p&gt;
 
 &lt;p&gt;这是所有人思考的问题，尤其是一家公司的创始人或CEO。&lt;/p&gt;
 
-&lt;h2 id=&#34;讲讲故事:d5df6840db42c1047c220ab73aa2919a&#34;&gt;讲讲故事&lt;/h2&gt;
+&lt;h2 id=&#34;讲讲故事&#34;&gt;讲讲故事&lt;/h2&gt;
 
 &lt;p&gt;最近看了&lt;a href=&#34;http://www.ted.com&#34;&gt;Ted&lt;/a&gt;的一个视频：&lt;a href=&#34;http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume#t-53538&#34;&gt;Why the best hire might not have the perfect resume&lt;/a&gt;，演讲者：&lt;a href=&#34;http://www.ted.com/speakers/regina_hartley&#34;&gt;Regina Hartley&lt;/a&gt;。我在这里试图用文字来转述一下，会侧重于我所看到的观点。&lt;/p&gt;
 
@@ -44,7 +43,7 @@
 
 &lt;p&gt;最后，演讲者给出了开始时的答案：“请选择Scrapper！”（他们才是你需要的人！）&lt;/p&gt;
 
-&lt;h2 id=&#34;谈谈心得:d5df6840db42c1047c220ab73aa2919a&#34;&gt;谈谈心得&lt;/h2&gt;
+&lt;h2 id=&#34;谈谈心得&#34;&gt;谈谈心得&lt;/h2&gt;
 
 &lt;p&gt;从表面看这个故事，要仔细的去选择哪些有自我驱动力、渴望掌握自己命运、愿意倾听、专注的优秀人才。但是里面锁蕴含的道理和法则实在是太多了，以下是我能够想到的：&lt;/p&gt;
 
@@ -57,7 +56,7 @@
 &lt;li&gt;懂得合作，是企业／公司强制要求的软技能之一： 嗯，知识发展到今天，或者说社会、营销等的发展，单个的个体想做的事情，离开合作、他人的协助几乎成了不可能的事情。举例来说：软件项目，动辄几千、几万人在开发，比如Windows操作系统、Oracle数据库、iOS手机操作系统&amp;hellip;..庞大的营销体系，如果是独立的个人，也就是卡夫卡笔下《城堡》中的孤立无援的主人公。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;总结:d5df6840db42c1047c220ab73aa2919a&#34;&gt;总结&lt;/h2&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;
 
 &lt;p&gt;最后，我想说的是：人是复杂的，人性也一样，请珍惜人才，重视并践行背景调查、面试这些环节。如果不能的话，不妨交给时间。所谓之“路遥知马力，日久见人心。”&lt;/p&gt;
 
@@ -69,8 +68,8 @@
 &lt;hr /&gt;
 
 &lt;ol&gt;
-&lt;li id=&#34;fn:d5df6840db42c1047c220ab73aa2919a:1&#34;&gt;红帽CEO的新书《开放性组织》中文版面世。
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:d5df6840db42c1047c220ab73aa2919a:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:1&#34;&gt;红帽CEO的新书《开放性组织》中文版面世。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
@@ -93,7 +92,7 @@
 &lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;为什么会是这样:a69e5a2b78292cbec3a54a634cade7af&#34;&gt;为什么会是这样？&lt;/h2&gt;
+&lt;h2 id=&#34;为什么会是这样&#34;&gt;为什么会是这样？&lt;/h2&gt;
 
 &lt;p&gt;软件，以其无与伦比的复杂度，整整折磨了人们半个世纪，在软件的生命周期中，开发过程是一个纯粹思维抽象的过程，其难度，计算机科学巨匠 Frederick P.Brooks 在《人月神话》一书中有非常深刻的讨论。后来，Eric.S.Remond 一篇《大教堂与集市》论证了开源生产模式可以成功的开发出优秀的软件项目——Linux。Linux 到目前的成功已经是有目共睹了。开源作为一种生产模式，被许多成功的项目所佐证，比如Apache下的 HttpD、Hadoop等。&lt;/p&gt;
 
@@ -107,7 +106,7 @@
 
 &lt;p&gt;最后，说明文化的重要性，既然开源已是主流和默认，很多公司都在雇用开源人才，甚至所雇用的人所从事的工作和公司本身的产品没有太大关系，比如 Intel的&lt;a href=&#34;http://www.01.org&#34;&gt;开源项目&lt;/a&gt;。那么人才的竞争就会日渐的激烈。回到国内本土，虽然大家都在奉行物质至上，但是如果是拥有一份收入相比不差，但是又能够在一家文化、价值认同的工作环境，还是颇得开源人才的青睐的。&lt;/p&gt;
 
-&lt;h2 id=&#34;得人心者得天下:a69e5a2b78292cbec3a54a634cade7af&#34;&gt;得人心者得天下&lt;/h2&gt;
+&lt;h2 id=&#34;得人心者得天下&#34;&gt;得人心者得天下&lt;/h2&gt;
 
 &lt;p&gt;毫不夸张的说，在接下来的几年，谁能争取到更多、更优秀的开源人才，谁就能够在残酷的竞争中增加活下来的几率。我这里并非说的是某家公司自身供养多少人才，而是说某个开源项目能够吸引多少人的参与！当然自己供养也占据一部分，然后一家公司是绝对不可能将所有的贡献者供养起来的。&lt;/p&gt;
 
@@ -125,7 +124,7 @@
 
 &lt;p&gt;&lt;del&gt;当然，也是检验某些项目是否为某些公司把控的标杆，如果您看到某些95%以上的代码都是一家贡献的，那么就会心里烦嘀咕，是否值得参与这样一个项目。&lt;/del&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;吸引开源人才有哪些事情需要做:a69e5a2b78292cbec3a54a634cade7af&#34;&gt;吸引开源人才有哪些事情需要做&lt;/h2&gt;
+&lt;h2 id=&#34;吸引开源人才有哪些事情需要做&#34;&gt;吸引开源人才有哪些事情需要做&lt;/h2&gt;
 
 &lt;p&gt;那么，这相应对于人才本身有了更一步的要求，技术之外的，&lt;/p&gt;
 
@@ -143,7 +142,7 @@
 &lt;li&gt;扁平化是最好的管理中国团队的方式&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;如何识别开源人才:a69e5a2b78292cbec3a54a634cade7af&#34;&gt;如何识别开源人才？&lt;/h2&gt;
+&lt;h2 id=&#34;如何识别开源人才&#34;&gt;如何识别开源人才？&lt;/h2&gt;
 
 &lt;p&gt;相应的，在一家好的拥抱开放的公司，对于开源人才又有什么样的需求了呢？或者说，在一家优秀的公司眼中，一名优秀的开源人才应该具备什么样的素质？&lt;/p&gt;
 

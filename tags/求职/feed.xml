@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>求职 on 适兕的博客</title>
-    <link>http://lijiangsheng1.github.io/tags/%E6%B1%82%E8%81%8C/</link>
-    <description>Recent content in 求职 on 适兕的博客</description>
+    <title>适兕的博客</title>
+    <link>http://lijiangsheng1.github.io/tags/%E6%B1%82%E8%81%8C/feed/index.xml</link>
+    <description>Recent content on 适兕的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 12 Jun 2016 22:52:55 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%B1%82%E8%81%8C/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -24,13 +23,13 @@
 
 &lt;p&gt;作为一名工作超过十年的人，找工作肯定不是乱投简历，瞄准了公司、职位、管理层之后才去投，那么就有了以下的故事：&lt;/p&gt;
 
-&lt;h2 id=&#34;先来聊聊第一家pingcap:d85155bffbb35c9fbde758d76bd4fa17&#34;&gt;先来聊聊第一家PingCAP&lt;/h2&gt;
+&lt;h2 id=&#34;先来聊聊第一家pingcap&#34;&gt;先来聊聊第一家PingCAP&lt;/h2&gt;
 
 &lt;p&gt;第一次听说这个公司，还得从去年参加的一次 Meetup 说起，在&lt;a href=&#34;http://www.meetup.com/Beijing-Mesos-User-Group/events/226230558/&#34;&gt;北京 Mesos 用户组&lt;/a&gt; 的Meetup 第三次聚会上，看到这样一个 Topic：程序媛的分布式数据库开发经验,紫沐夏。 其实这个 Topic 和 Mesos 完全无关，是讲 一个叫做 &lt;a href=&#34;http://github.com/pingcap/tidb&#34;&gt;TiDB&lt;/a&gt; 的 NewSQL，讲了这个项目的背景和用途，然后开始讲解人们该如何参与到该项目中来。Google F1、 Amazon DynamoDB、Google Spanner 这些名词对于我来说是无比的陌生。但是我还是对这个女孩刮目相看了。虽然这在开源界属于正常的演讲，但是在国内的技术圈是颇为罕见的。即使如我，刻意的培养，比如&lt;a href=&#34;http://www.meetup.com/China-OpenStack-User-Group/events/226675511/&#34;&gt;如何充分利用Rally来测试你的OpenStack？&lt;/a&gt;这样的演讲，也最多是不相伯仲。&lt;/p&gt;
 
 &lt;p&gt;在那之后，很长一段时间并没有关注过这家公司。直到今年北京的&lt;a href=&#34;http://2016.qconbeijing.com/&#34;&gt;Qcon 2016&lt;/a&gt;大会，看到这样一个演讲主题：&lt;a href=&#34;http://2016.qconbeijing.com/presentation/2808&#34;&gt;基础软件开源与创业在中国&lt;/a&gt;， 他有几个点是颇有见地的，包括对于核心产品的开源。让我不敢相信的是，竟然发生在我的周边。虽然有些观点表达的自相矛盾，但还勉强说的过去。&lt;/p&gt;
 
-&lt;h3 id=&#34;对于-pingcap的好感:d85155bffbb35c9fbde758d76bd4fa17&#34;&gt;对于 PingCAP的好感&lt;/h3&gt;
+&lt;h3 id=&#34;对于-pingcap的好感&#34;&gt;对于 PingCAP的好感&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;这是一家非常年轻的互联网团队！走的是技术精英路线，目标高远，放眼国际。&lt;/li&gt;
@@ -40,7 +39,7 @@
 &lt;li&gt;最为重要的一点：&lt;strong&gt;号称可以remote！&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;所担心的问题:d85155bffbb35c9fbde758d76bd4fa17&#34;&gt;所担心的问题：&lt;/h3&gt;
+&lt;h3 id=&#34;所担心的问题&#34;&gt;所担心的问题：&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;过早的A轮，会被投资方所牵制。若是投资方失去耐心，会督促他们扩张，如增加销售、市场人员。&lt;/li&gt;
@@ -52,7 +51,7 @@
 
 &lt;p&gt;最后的结局很遗憾，我没有能够拿到Offer。给我的官方理由是，他们提供的职位与我的期望不符。其实，我就是奔着文档工程师的职位过去的。&lt;/p&gt;
 
-&lt;h2 id=&#34;再来聊聊慌乱下的失掉判断力的乱投:d85155bffbb35c9fbde758d76bd4fa17&#34;&gt;再来聊聊慌乱下的失掉判断力的乱投&lt;/h2&gt;
+&lt;h2 id=&#34;再来聊聊慌乱下的失掉判断力的乱投&#34;&gt;再来聊聊慌乱下的失掉判断力的乱投&lt;/h2&gt;
 
 &lt;p&gt;就在确认拿不到PingCAP的Offer的时候，我的心智有点接受不了，很少有人拒绝我。而且我对薪水、福利待遇没有任何的要求，我愿意与真正做事的人一起奋斗。更何况我花心思差不多有一个月的时间，来认准这个职位。有点小受打击，于是，刷了下拉勾，看到一个离家较近的OpenStack的职位就直接投了过去。&lt;/p&gt;
 
@@ -60,7 +59,7 @@
 
 &lt;p&gt;在此就不再多谈，其实，点完申请职位我就后悔了，国内这几家做OpenStack的公司，搬过来数过去，犯的错误都是我多年以来一直犯的。在这家和那家没有任何的区别，我就是因为这个才去创业的，最后又沦落到犯同样的错误，我不是疯了，就是脑子进水了。还好，这家公司的人事还算识趣。&lt;/p&gt;
 
-&lt;h2 id=&#34;接下来的比较有意思-乐视-开源社区经理:d85155bffbb35c9fbde758d76bd4fa17&#34;&gt;接下来的比较有意思——乐视，开源社区经理&lt;/h2&gt;
+&lt;h2 id=&#34;接下来的比较有意思-乐视-开源社区经理&#34;&gt;接下来的比较有意思——乐视，开源社区经理&lt;/h2&gt;
 
 &lt;p&gt;乐视的扩张大家是有目共睹的了，我在职位搜索搜了下：开源。还竟然有“开源社区经理”这样的职位。于是，不犹豫，直接投递。嗯，过了两天就有回应。我去面试了。&lt;/p&gt;
 
@@ -68,7 +67,7 @@
 
 &lt;p&gt;国内搞社区非常之难，尤其是背后有企业在支撑。投入和产出在短时间内是难以有任何成效的。&lt;/p&gt;
 
-&lt;h2 id=&#34;总结:d85155bffbb35c9fbde758d76bd4fa17&#34;&gt;总结&lt;/h2&gt;
+&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;
 
 &lt;p&gt;在我的脑海中，我能够向人解释的是这样子的：&lt;/p&gt;
 
