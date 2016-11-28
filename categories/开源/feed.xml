@@ -10,6 +10,75 @@
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016.11.28)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
+      <pubDate>Mon, 28 Nov 2016 08:39:13 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/10/shutterstock_343345958.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如果机器会写代码了-人类怎么办&#34;&gt;如果机器会写代码了，人类怎么办？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://venturebeat.com/2016/11/26/what-happens-when-bots-start-writing-code-and-web-development-dies/&#34;&gt;What happens when bots start writing code instead of humans&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我这么翻译题目是不是表示我是人类？我非常的害怕？是的，面对未知，而且挑战自己十多年的学习和经验，这看起来似乎是非常难以接受的。但是，世界在发展，人总是从一座高山翻到另外一座高山，每次翻阅的时候，都会先从山脚下开始。即使是台阶式的，只有更高。因为有太多的未知需要我们去探索。&lt;/p&gt;
+
+&lt;p&gt;尽管这是一篇广告，但绝不是危言耸听。如果你是外围式的浅层技能者，下一次就会被淘汰。喜欢文中的一些话：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The infrastructure and open-source packages are very powerful, allowing developers to not just solve their own problems, but also to build in a way that solves problems for the entire community.&lt;/li&gt;
+&lt;li&gt;We need more engineers, not more stitchers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;你唯一能做的就是不断的去学习，但是这样也有可能被时代所淘汰，这就是现实！一点都不残酷。残酷的是你的心理。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;你的老爷车也可以拥有人工智能&#34;&gt;你的老爷车也可以拥有人工智能；&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/26/become-michael-knight-with-dashbot-an-ai-for-your-car/&#34;&gt;Become Michael Knight with Dashbot, an AI for your car&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Who needs a smart car when you have a cool car?  这就是Dashbot的生意秘笈。你找到了吗？当然它的软件也是开源的，但是这重要吗？&lt;/p&gt;
+
+&lt;p&gt;人有时候是自己造就的复杂和迷惑。人到底需要什么？当超出自己的个人和家庭之外，面对工作、集体环境的时候的诉求又是什么？解决自己所看到的、认为的问题！然后是人性的诉求：更好的生活：更高的薪酬、更大的权力、更多人的承认！无论是2B还是2C，找到最为本质的东西，然后逆着推导，设身处地、投其所好！最好做到逼格又高还不动声色。&lt;/p&gt;
+
+&lt;p&gt;人最大的问题是巧言令色，试图隐藏自己卑微的一面、贪婪的一面，导致问题的进一步复杂化。那么我们唯一能做到，也是找到最为原始的诉求！比如Dashbot！49美金，解放人类的双手！还不需要改装自己的爱车！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_crowdvsopen.png?itok=072owz9m&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;一位开发者的-devops-之旅&#34;&gt;一位开发者的 DevOps 之旅&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/11/quick-thoughts-power-devops&#34;&gt;A developer&amp;rsquo;s journey through DevOps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;世界真的在变，无论你是否去关心，主动的去迎接变革，可能在变化来了之后少些痛苦，被动的拒绝，或者是“鸵鸟政策”，该到来的时候，就真的被淘汰了。&lt;/p&gt;
+
+&lt;p&gt;世界再按照熵的方式剧增，人类的需求再变得越发的贪婪，那么业务的变化就随之而快，于是IT的变化就得更加的快速。基础设施基本不动的思路将被打破，保守的运维也将不复存在，更新换代的速度远远快于可能发生问题的速度。DevOps，程序员和运维不再分家！&lt;/p&gt;
+
+&lt;p&gt;你准备好变革了吗？革自己的命了吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016.11.27)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
       <pubDate>Sun, 27 Nov 2016 06:31:21 +0800</pubDate>
@@ -1016,68 +1085,6 @@
 &lt;p&gt;开源乃大势所趋，我认同文中的一句话：&lt;strong&gt;“In a world fueled by developers, enterprises must speak their language: open source code.”&lt;/strong&gt; 从文化的本质来讲，开源是解放了程序员——即人类本身，不在牢牢的被绑死在某个资本主义企业家身上。技术上更多的自由、也拥有更多的创新和空间。&lt;/p&gt;
 
 &lt;p&gt;Apple 即使如此有钱，也难免会底下高贵的头颅。开发者是它的命根子！没有开源，就没有今天Siri后台的架构&amp;hellip;&amp;hellip; 这家全世界最封闭的公司，在后Jobs时代，该如何处理Hacker和自由的关系，确实是一大挑战。光是玩高冷，会出事的。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.09)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
-      <pubDate>Wed, 09 Nov 2016 08:47:40 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://regmedia.co.uk/2016/11/07/java_image_by_gil_c_via_shutterstock.jpg?x=648&amp;amp;y=348&amp;amp;crop=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;阿里巴巴承诺的java大事件哪里去了&#34;&gt;阿里巴巴承诺的Java大事件哪里去了？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.theregister.co.uk/2016/11/08/alibaba_brings_weight_to_jcp_ec_elections/&#34;&gt;Open-source Sesame! Alibaba promises super-size magic for Java&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;阿里巴巴在三个月前加入了JCP的执行董事会，为什么了呢？因为这家电商巨头拥有大量的java应用，不想被Oracle牵制？还是有很多特殊的问题，需要得到JCP的帮忙？&lt;/p&gt;
-
-&lt;p&gt;而JCP的成员就更加天真可爱了，他们竟然说哦，终于有中国的团队加入了，相信阿里巴巴的加入也会带动其他厂商的加入的。嗯，好吧，这话背后只有懂的人才能品出它的苦涩。&lt;/p&gt;
-
-&lt;p&gt;终究是件好事，阿里巴巴在章文嵩博士出走之后，对于开源错误的做法，很是让人费解，但是他利用了国人的无知，比如MySQL的哪个，本来是违反协议的，把本该做的事情放大为市场宣传，怪谁？这不加入JCP，就是恬不知耻的为了解决问题。有时候，我也会怀疑布道的意义。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;linux-基金会为软件定义存储创建了开放的控制器-opensds&#34;&gt;Linux 基金会为软件定义存储创建了开放的控制器——OpenSDS&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.marketwired.com/press-release/the-linux-foundation-creates-open-controller-for-software-defined-storage-2173754.htm&#34;&gt;The Linux Foundation Creates Open Controller for Software-Defined Storage&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我模糊的记忆里，试图做虚拟的存储控制层的公司和产品很多。试图像hypervisor那样将计算资源抽象出来，但是，各个存储厂家都在彼此争夺，最后最多也就是做到将自家产品能够统一管理而已。&lt;/p&gt;
-
-&lt;p&gt;红帽的libstorage、IBM的virtualStorage等等不一而足。但是我不知道OpenSDS是什么东西。妄图以网络的方式理解存储？技术上似乎已经超出我的理解范畴。（没见Ceph也像SDN那样区分为控制平面、数据平面。）回来好好调研一番。&lt;/p&gt;
-
-&lt;p&gt;华为自认为掌控了Linux基金会的运转规则？这样宽松的既不Apache也不OpenStack的项目，以基金会的名义托管一个项目。其实，Linux基金会托管的一些伪项目，照样死去的居多。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/osdc-docdish-typewriterkeys.png?itok=WMrMf9SL&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;撰写更好的文档四步法-如何获得用户最需回答的问题&#34;&gt;撰写更好的文档四步法：如何获得用户最需回答的问题&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/life/16/11/right-way-help-users-learn-your-software&#34;&gt;4 steps to better documentation: How to get users the exact answer to the problem&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;文档，就是连这么简单的名次，在公司中很多角色都是不同的理解。sales理解为产品介绍、售前工程师理解为案例研究、行业实践，研发理解为代码注释、架构实践，service理解为指南、手册，市场人员理解为软文、宣传页、后勤人员理解为制度解释、规章条例。&lt;/p&gt;
-
-&lt;p&gt;这个世界进化到无比复杂的地步，而科技究竟是让绝大多数人盲目的自信，让眼光永远盯着自己的一小部分。比如，哪些电商网站的推荐系统，它真的能推荐到你需要的东西吗？&lt;/p&gt;
-
-&lt;p&gt;回到本文，写文档也要做到有的放矢！尽量少将自己的基础知识代入。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

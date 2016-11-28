@@ -10,82 +10,71 @@
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>升级到橙带一杠之记录与感悟</title>
-      <link>http://lijiangsheng1.github.io/posts/karate/upgrade_to_nine_grade_feeling/</link>
-      <pubDate>Sun, 27 Nov 2016 14:13:33 +0800</pubDate>
+      <title>开源之道(2016.11.28)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</link>
+      <pubDate>Mon, 28 Nov 2016 08:39:13 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/karate/upgrade_to_nine_grade_feeling/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016/</guid>
       <description>
 
-&lt;h2 id=&#34;升级的纪念&#34;&gt;升级的纪念&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;这次的证书，和原来的道场有一些区别。证书！&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lijiangsheng1/lijiansheng_github_pages/master/picture/certificate.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
 
-&lt;p&gt;而且我的名字也出现在了道场的子弟墙上！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/10/shutterstock_343345958.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lijiangsheng1/lijiansheng_github_pages/master/picture/my_name_on_dojo.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;如果机器会写代码了-人类怎么办&#34;&gt;如果机器会写代码了，人类怎么办？&lt;/h3&gt;
 
-&lt;p&gt;使用了半年的带被替换，尽管只是多了一杠而已。&lt;/p&gt;
+&lt;p&gt;原文链接：&lt;a href=&#34;http://venturebeat.com/2016/11/26/what-happens-when-bots-start-writing-code-and-web-development-dies/&#34;&gt;What happens when bots start writing code instead of humans&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lijiangsheng1/lijiansheng_github_pages/master/picture/nine_grade_belt.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;感悟&#34;&gt;感悟&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我这么翻译题目是不是表示我是人类？我非常的害怕？是的，面对未知，而且挑战自己十多年的学习和经验，这看起来似乎是非常难以接受的。但是，世界在发展，人总是从一座高山翻到另外一座高山，每次翻阅的时候，都会先从山脚下开始。即使是台阶式的，只有更高。因为有太多的未知需要我们去探索。&lt;/p&gt;
 
-&lt;p&gt;是的，上一次记下我的感悟还是5月份的事情，转眼已是半年过去了。其实，升级考试也是9月底的事情，一直以来就想写下来点什么，但是，时间和精力都搁在了别处，于是一直在搁浅。下半年和上半年是有区别的，上半年我是“自由”的，虽然有创业的压力，但是时间是自我安排的，每天的练习基本可以保证2到3个小时，到道场的练习也不会错过。下半年则是忙碌的，因为找了份工作，上班的地点比较远，而且还是经常出差的工作，新找的道场教练培训时间也缩短了半小时。但是基本上保证了每周有6天保持锻炼。&lt;/p&gt;
+&lt;p&gt;尽管这是一篇广告，但绝不是危言耸听。如果你是外围式的浅层技能者，下一次就会被淘汰。喜欢文中的一些话：&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;但是，也有一些变化，例如换教练了，虽然都是极真空手道，但是有一些细微的差别和执教习惯，我还是适应了一阵子。为了迎合工作上的作息，将早上的锻炼调整到了晚上，每天早上6点起床，也不再区分是否周末。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The infrastructure and open-source packages are very powerful, allowing developers to not just solve their own problems, but also to build in a way that solves problems for the entire community.&lt;/li&gt;
+&lt;li&gt;We need more engineers, not more stitchers.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3 id=&#34;现代的机器-计算机-互联网-以及电影的特效给人带来前所未有的盲目自大&#34;&gt;现代的机器、计算机、互联网，以及电影的特效给人带来前所未有的盲目自大&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你唯一能做的就是不断的去学习，但是这样也有可能被时代所淘汰，这就是现实！一点都不残酷。残酷的是你的心理。&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;空手道改变了我！这点是毋庸置疑的，其中最大的一点，莫过于将我过去的盲目自大和无知彻底的征服！&lt;/p&gt;
+&lt;h3 id=&#34;你的老爷车也可以拥有人工智能&#34;&gt;你的老爷车也可以拥有人工智能；&lt;/h3&gt;
 
-&lt;p&gt;至今仍然对第一次去道场的尴尬记忆犹新，那时的我完全认为体力犹如《黑客帝国》中的武术一样，是全靠脑力活动的。当时还对教练不屑一顾，认为自己只要练习，很快就可以拿下黑带，记得当时教练说：“极真的黑带没有那么好考，100个俯卧撑、100个深蹲、3200米15分钟、全套型、挑战十位同级别6胜方可。”其实，太久的没有锻炼，对这些完全没有任何的概念，能想到就是某个电影镜头，比如《激战》中的张家辉在《the sound of slience》的伴奏下、在雨中努力练习的样子，很轻松吗！然后，我自己进道场踢了一脚沙袋！嗯，我模仿李小龙的侧踢，然后被沙袋弹了出来。过了几天我去上试听课，我可以起3个俯卧撑，5个深蹲，打两拳就上气不接下气。&lt;/p&gt;
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/26/become-michael-knight-with-dashbot-an-ai-for-your-car/&#34;&gt;Become Michael Knight with Dashbot, an AI for your car&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;差不多从我上试听课，到现在有11个月多了。我俯卧撑才能起35个，深蹲50个不到&amp;hellip;&amp;hellip;每次练习，我都对过去的无知，嘲弄自己一番。而且换得抵御来自身体和大脑的双重消极、懒惰的进攻。进步一点，哪怕是一点都非常的艰难！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;在这半年中，我一直在反思自己为什么，过去的我为什么会那么的盲目自信？渐渐的找到了答案。我的职业是一名程序员，整天和计算机打交道，写个程序或者搭建个服务器，虽然付出的劳动没有那么多，但是可以完成很了不起的事情，比如一个指令就可以让几百台服务器运行起来。而且我也是电影爱好者（时代引领而已），对于漫画改变、科幻电影乐此不疲，比如《美国队长》系列电影，现代的视频处理技术、影音技术、后期处理等等让人不需要任何的思考就可以代入。再举个例子，现在的人随意的在手机上呼啦两下，可以完成支付、订餐、出行等等各种各样过去花几个小时、几天甚至几个星期去完成的事情，当代的人时间富足了吗？多余了吗？空闲了吗？那时另外一个问题，以及获得的信息垂手可得，毫不费力！这些都是自大的来源。当然还有最最恐怖的国家宣传，将个人的思维代入到抽象的国家视野，太空飞船、载人航天、牛掰的高铁、医学诺贝尔等等，周围的人无一不是自以为是的能上天入地的神人。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Who needs a smart car when you have a cool car?  这就是Dashbot的生意秘笈。你找到了吗？当然它的软件也是开源的，但是这重要吗？&lt;/p&gt;
 
-&lt;p&gt;当回归到个体，你什么都不是，你就是一个独立的人，哺乳动物，有太多的局限、太多的缺点和不足。&lt;/p&gt;
+&lt;p&gt;人有时候是自己造就的复杂和迷惑。人到底需要什么？当超出自己的个人和家庭之外，面对工作、集体环境的时候的诉求又是什么？解决自己所看到的、认为的问题！然后是人性的诉求：更好的生活：更高的薪酬、更大的权力、更多人的承认！无论是2B还是2C，找到最为本质的东西，然后逆着推导，设身处地、投其所好！最好做到逼格又高还不动声色。&lt;/p&gt;
 
-&lt;h3 id=&#34;关于对抗的学术认识&#34;&gt;关于对抗的学术认识&lt;/h3&gt;
+&lt;p&gt;人最大的问题是巧言令色，试图隐藏自己卑微的一面、贪婪的一面，导致问题的进一步复杂化。那么我们唯一能做到，也是找到最为原始的诉求！比如Dashbot！49美金，解放人类的双手！还不需要改装自己的爱车！&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;极真空手道是非常注重实战的武术，从诞生之日起，就与传统的区别开来，称之为“全接触式空手道”，那么日常训练中难免就会有人与人之间的对抗，即实战训练！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_crowdvsopen.png?itok=072owz9m&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;从第一次实战训练伊始，我就特别的害怕，教练不动，让我径直打，我都不敢。第一次是失败的，教练苦口婆心的给我上了40分钟的理论课：“既然你选择了极真，你就得走下去，突破自己！这才是极真之道。” 虽然后来，我硬着头皮也和伙伴们练习，受过几次外伤，但依旧会紧张、心跳加速，动作失真、大脑一片空白，靠本能挨揍或不疼不痒的打人。&lt;/p&gt;
+&lt;h3 id=&#34;一位开发者的-devops-之旅&#34;&gt;一位开发者的 DevOps 之旅&lt;/h3&gt;
 
-&lt;p&gt;我自认为是一个经常去反思的人，这样的我就开始怀疑自己的是否天生胆小？不是怕自己受伤，而是不愿意伤害别人，是否是懦弱的表现？作为一个成熟的男人，有这样的想法就是在否定自己，于是，我开始探寻答案，找寻问题的起源：读书！&lt;/p&gt;
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/11/quick-thoughts-power-devops&#34;&gt;A developer&amp;rsquo;s journey through DevOps&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;这本书帮助了我了解到了暴力的本质，人为何会紧张、恐惧：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://images-cn.ssl-images-amazon.com/images/I/613XRT46xpL.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;世界真的在变，无论你是否去关心，主动的去迎接变革，可能在变化来了之后少些痛苦，被动的拒绝，或者是“鸵鸟政策”，该到来的时候，就真的被淘汰了。&lt;/p&gt;
 
-&lt;p&gt;是的，绝大多数人都会在面临暴力对抗时紧张、恐惧，在体育竞技等场合，通过训练，让人更多的去关注技术本身，而不是对抗人本身。&lt;/p&gt;
+&lt;p&gt;世界再按照熵的方式剧增，人类的需求再变得越发的贪婪，那么业务的变化就随之而快，于是IT的变化就得更加的快速。基础设施基本不动的思路将被打破，保守的运维也将不复存在，更新换代的速度远远快于可能发生问题的速度。DevOps，程序员和运维不再分家！&lt;/p&gt;
 
-&lt;h3 id=&#34;日常的平淡才是最大的考验&#34;&gt;日常的平淡才是最大的考验&lt;/h3&gt;
-
-&lt;p&gt;OSU！是极真空手道的日常用语，也是日常的礼貌用语。代表押忍，坚持，尊重等意。&lt;/p&gt;
-
-&lt;p&gt;训练是一件非常考验人的事情，尤其是现代的快节奏、城市空间跨度大等客观条件。比如现在的我，上班的公司在40多公里的中关村，地铁需要从5号转10号再转4号，历时1个多小时，加上家里地铁站也是将近5公里的路程，每天至少要花在路上的时间要1.5个小时，更不用提5号线天通苑熙熙攘攘的人群了。工作的性质还隔三差五的需要出差。在这样的条件下，要坚持每日练习，确实是非常的挑战自我。&lt;/p&gt;
-
-&lt;p&gt;这个挑战不是说短时间的，比如一月、2月，而是每一天！即使这些客观的因素都一一客服了，最为恐怖的莫过于自己的心理和身体的懒惰，他们几乎每天都会对你呼喊、求饶、诱惑、伪装，让你停下来，你必须依靠强大的内心去征服它们。而且这场斗争不是一天两天，而是每一天都如此！&lt;/p&gt;
-
-&lt;p&gt;现实中只有经历过坚持的人，才会去瞻仰那些能够坚持下来的人！因为深刻的理解，在默默的平凡的日子里不断挑战自己是多么艰辛。战胜平淡无奇的日子，值得人去尊重！&lt;/p&gt;
-
-&lt;h2 id=&#34;我将继续每日努力不懈&#34;&gt;我将继续每日努力不懈&lt;/h2&gt;
-
-&lt;p&gt;赵教练说：“空手道就是各位（成年人）的第二人生”，我想说的是，远远不止这些。极真教会我怎样去积极的面对生活，让我直视现实中的困难，让我不断的去自我确认、自我反思。极真让我努力的追求自由、跨越自我设限。当然，也不仅仅是强壮的身体。&lt;/p&gt;
-
-&lt;p&gt;未来的路还很长，对于我的挑战也会更多，无论是漫长的升级考带，还是日常的身体修行，乃至融入生活的极真之道。我希望我能够做到：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;吾要每日努力不懈，不断提高自我智性与体力！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;对于我自己，我还有一个要求，那就是改毛病：急躁的想尽快的将一件事干完！比如读书，比如写作，比如每日的反思。将时间的急迫给放缓，用心的去将一件事做完美了，而不是凑合着尽快的完成！必须理性的去修正过来！&lt;/p&gt;
-
-&lt;h2 id=&#34;教练-师弟们以及我自己-留念&#34;&gt;教练、师弟们以及我自己：留念&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lijiangsheng1/lijiansheng_github_pages/master/picture/our_partnerjpeg.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;你准备好变革了吗？革自己的命了吗？&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
