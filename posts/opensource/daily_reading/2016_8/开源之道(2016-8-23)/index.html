@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="http://lijiangsheng1.github.io/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>开源之道(2016.8.23) - 适兕的博客</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="Open Source,Culture,Reading,News,">
+<meta name="description" content="Linux基金会掌门人谈开源的25年｜通过代码改变世界｜MariaDB 最近的行为是否仍然说明开源赚钱很困难？｜Uganda 政府鼓励采用开源软件｜5条教授应该鼓励学生参与开源项目的理由">
+<meta name="author" content="lijiansheng">
+<meta name="publisher" content="lijiansheng">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="开源之道(2016.8.23) - 适兕的博客">
+<meta itemprop="description" content="Linux基金会掌门人谈开源的25年｜通过代码改变世界｜MariaDB 最近的行为是否仍然说明开源赚钱很困难？｜Uganda 政府鼓励采用开源软件｜5条教授应该鼓励学生参与开源项目的理由">
+<meta itemprop="image" content="http://lijiangsheng1.github.io/public/lijiansheng.jpg">
+
+<meta property="og:title" content="开源之道(2016.8.23) - 适兕的博客" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-8-23%29/" />
+<meta property="og:image" content="http://lijiangsheng1.github.io/public/lijiansheng.jpg" />
+<meta property="og:description" content="Linux基金会掌门人谈开源的25年｜通过代码改变世界｜MariaDB 最近的行为是否仍然说明开源赚钱很困难？｜Uganda 政府鼓励采用开源软件｜5条教授应该鼓励学生参与开源项目的理由">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@lijiangsheng1">
+<meta name="twitter:title" content="开源之道(2016.8.23) - 适兕的博客">
+<meta name="twitter:description" content="Linux基金会掌门人谈开源的25年｜通过代码改变世界｜MariaDB 最近的行为是否仍然说明开源赚钱很困难？｜Uganda 政府鼓励采用开源软件｜5条教授应该鼓励学生参与开源项目的理由">
+<meta name="twitter:creator" content="@lijiangsheng1">
+<meta name="twitter:image" content="http://lijiangsheng1.github.io/public/lijiansheng.jpg">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-8-23%29/">
+  <link rel='shortlink' href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-8-23%29/"/>
+  <link rel="shortcut icon" href="http://lijiangsheng1.github.io/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="http://lijiangsheng1.github.io/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="http://lijiangsheng1.github.io/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="http://lijiangsheng1.github.io/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="http://lijiangsheng1.github.io/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="http://lijiangsheng1.github.io/public/highlight/styles/github.css">
+<script src="http://lijiangsheng1.github.io/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="http://lijiangsheng1.github.io/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="http://lijiangsheng1.github.io/" class="nav-cs-icon">
+        <img width="40" height="40" src="http://lijiangsheng1.github.io/public/lijiansheng.jpg" alt="lijiansheng" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/">开源</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/">感悟</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E5%88%9B%E4%B8%9A/">创业</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E6%95%99%E8%82%B2/">教育</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E5%81%A5%E5%BA%B7/">健康</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E8%AF%BB%E4%B9%A6/">读书</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E7%94%B5%E5%BD%B1/">电影</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/about/">关于</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://lijiangsheng1.github.io/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="http://lijiangsheng1.github.io/" rel="home">
+              <img style="border-radius: 50%;width:72px;height:72px;margin:0 auto;" alt="lijiansheng" src="http://lijiangsheng1.github.io/public/lijiansheng.jpg"></img>
+              适兕的博客
+            </a>
+          </h1>
+          <p class="site-description">  戒技术，论人性！ </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/" rel="category tag">开源</a>
+                </li>
+                
+                <li class="category">
+                  <a href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/" rel="category tag">感悟</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">开源之道(2016.8.23)</h1>
+
+                  <p class="post-byline">
+                    作/译者：适兕 | 2016年08月23日 | 字数：1285  |
+                    可能会花费您3分钟来阅读 | 
+                    
+                  </p>
+
+<div class="jiathis_style">
+	<a class="jiathis_button_tsina"></a>
+	<a class="jiathis_button_weixin"></a>
+	<a class="jiathis_button_twitter"></a>
+	<a class="jiathis_button_linkedin"></a>
+	<a class="jiathis_button_googleplus"></a>
+	<a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
+	<a class="jiathis_counter_style"></a>
+</div>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+
+
+                  <div class="clear"></div>
+
+                  
+                  <hr style="border:1px dashed #00CC66" width="90%" size="1" />
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <p class="post-description">Linux基金会掌门人谈开源的25年｜通过代码改变世界｜MariaDB 最近的行为是否仍然说明开源赚钱很困难？｜Uganda 政府鼓励采用开源软件｜5条教授应该鼓励学生参与开源项目的理由</p>
+                      
+                      
+                      <hr style="border:1px dashed #00CC66" width="90%" size="1" />
+                      
+                      
+
+<p><strong>声明：本博客言论，仅代表我自己，不管任何其它！</strong></p>
+
+<hr />
+
+<p><strong>每个周一，总是缺少任何点文章。昨天就没有点评。</strong></p>
+
+<h2 id="文章点评">文章点评</h2>
+
+<h3 id="linux基金会掌门人谈开源的25年">Linux基金会掌门人谈开源的25年</h3>
+
+<p>原文链接：<a href="http://www.cio.com/article/3109962/linux/linux-foundation-chief-reflects-on-25-years-of-open-source.html">Linux Foundation chief reflects on 25 years of open source</a></p>
+
+<p><strong>适兕点评：</strong></p>
+
+<blockquote>
+<p>Linux 在过去的25里可谓是成绩斐然，卓越非凡！正如Jim Zemlin 所言<strong>In a nutshell, Linux runs the global economy quite literally.&rdquo;</strong></p>
+
+<p>Jim所列举的Linux 每天的变更还是很惊人的，那一组数据，已经超出了世界上任何一个组织的工程量。</p>
+
+<p>Linux 的成功对于我们到底意外着什么？暂时游走于题目之外，十几年前我接触、学习Linux的时候，相信其会成功的，现在看来Linux已经普及了，职业技能中是必修，而不再是加分项了。为何本土对于经验一点都不重视？年轻人真的能够替代老工程师？和拳击手等传统的职业一样？</p>
+
+<p><strong>Linux, and open-source movement and community have delivered a better way to define the future.</strong> 是的，没错，Linux已经超越其本身。</p>
+
+<p>Linux对于下一代的影响也是蛮深的，13岁的孩子将Linus视为他心目中的英雄！<a href="http://www.muktware.io/linus-torvalds-hero-says-13-years-old-zachary-dupont/">Zachary Dupont</a>这个故事非常的深刻。</p>
+
+<p>对于未来：<strong>Today open source is not emulating the past, it&rsquo;s changing and defining the future, he said.</strong> 你无法拒绝，这就是历史的车轮。也是艾未未所说的，某些东西人一旦意识到、见识过，就再也回不去了。开源正在加速壮大，超过你我的想象。</p>
+</blockquote>
+
+<h3 id="来自linuxcon的声音-通过代码改变世界">来自LinuxCon的声音：通过代码改变世界</h3>
+
+<p>原文链接：<a href="https://www.linux.com/news/linuxcon-changing-world-code">Live From LinuxCon: Changing the World with Code</a></p>
+
+<p><strong>适兕点评：</strong></p>
+
+<blockquote>
+<p>Jim的话：<strong>“You can better yourself while bettering others at the same time.”</strong>要尝试理解，做更好的自己，这也是我积极追求的。</p>
+
+<p>Dr. Ainissa Ramirez 说的更加的煽情：&rdquo; If you want to change the world, she said, do it with code.&rdquo;</p>
+
+<p>华为，只谈技术，与未来的趋势，以及中国的市场。这大概就是差别。本土的人再也不信什么是情怀。共产主义的影响要到多少年？</p>
+</blockquote>
+
+<p><img src="http://tr2.cbsistatic.com/hub/i/r/2016/08/22/fb0e3bd0-a2a4-4e2d-bcfa-82009d9ee6ba/resize/620x/be0ef4721016d808d4feae2086e38666/mariamoney.jpg" alt="" /></p>
+
+<h3 id="mariadb-最近的行为是否仍然说明开源赚钱很困难">MariaDB 最近的行为是否仍然说明开源赚钱很困难？</h3>
+
+<p>原文链接：<a href="http://www.techrepublic.com/article/does-mariadbs-latest-move-show-how-hard-it-is-to-make-money-with-open-source/">Does MariaDB&rsquo;s latest move show how hard it is to make money with open source?</a></p>
+
+<p><strong>适兕点评：</strong></p>
+
+<blockquote>
+<p>开源的商业只有一家公司赚到了钱，那就是红帽，其余都在“either swimming in red ink or a rounding error.”</p>
+
+<p>需不需要一个中立的基金会？这应该是我在今天北京Qcon大会上采访PingCAP的CTO问的问题，多数公司在考虑使用开源的时候，一般定的标准就是是否会被某家厂商锁定。有基金会情况会好很多。</p>
+
+<p>文中最后的一段话，很有意思，Linux如此，Apache亦是如此，基金会运营。奉劝企业：<strong>&rdquo; If your chosen open source software doesn&rsquo;t follow this model, don&rsquo;t be surprised when you wake up to find your open source software is not so open source.&rdquo;</strong></p>
+</blockquote>
+
+<h3 id="uganda-政府鼓励采用开源软件">Uganda 政府鼓励采用开源软件</h3>
+
+<p>原文链接：<a href="http://ntv.co.ug/news/business/22/aug/2016/government-encourage-adoption-open-source-software-13938#sthash.oOuoaQFM.dpbs">Government to encourage adoption of open-source software</a></p>
+
+<p><strong>适兕点评：</strong></p>
+
+<blockquote>
+<p>又一家政府公开声明支持并鼓励政府部门采用开源软件。</p>
+
+<p>但是我觉得，真的能够省钱吗？但是增加就业倒是真的。</p>
+</blockquote>
+
+<p><img src="https://opensource.com/sites/default/files/styles/image-full-size/public/images/education/rh_003588_01_rd3os.combacktoschoolserieshe_rh_051x_0.png?itok=Tm2UcSXw" alt="" /></p>
+
+<h3 id="5条教授应该鼓励学生参与开源项目的理由">5条教授应该鼓励学生参与开源项目的理由</h3>
+
+<p>原文链接：<a href="https://opensource.com/education/16/8/5-reasons-student-involvement-open-source">5 reasons professors should encourage students to get involved in open source projects</a></p>
+
+<p><strong>适兕点评：</strong></p>
+
+<blockquote>
+<p>5条非常好的理由，本土的话就算了，因为本土的教育是封闭的、灌输式的。不提也罢。但是对于企业招聘实习生，如果你是导师的话，非常的实用。</p>
+</blockquote>
+
+<ol>
+<li>没有条条框框的学习。（这点最为赞同，从开源项目的实践中，遇到什么难题，主动的学习才是最好的学习）</li>
+<li>专业的互动。（不仅仅是知识，团队精神、沟通能力、解决问题的思路等）</li>
+<li>外部的机会。（在本土的话，可能要被骗。本土只有新鲜、浪潮的商业meetup。）</li>
+<li>更好的理解计算机。</li>
+<li>有趣！ （培养出有趣的雅致来，那更是教育的最高境界。）</li>
+</ol>
+
+                      
+                    </div>
+       
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+              <section id="comments" class="themeform">
+<div class="ds-thread" data-thread-key="/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-8-23%29/" data-title="开源之道(2016.8.23)" data-url="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-8-23%29/"></div>
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"lijiansheng"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+</script>
+</section>
+
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://www.weibo.com/2074346653/" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On Twitter" rel="nofollow"
+        href="https://twitter.com/lijiangsheng1" target="_blank">
+        <i class="fa fa-twitter"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/lijiangsheng1" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-8-21%29/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>开源之道(2016.8.21)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+        <a href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_8/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-8-24%29/" rel="prev">
+          <i class="fa fa-chevron-left"></i>
+          <strong>Previous Post</strong>
+          <span>开源之道(2016.8.24)</span>
+        </a>
+        
+      </li>
+    </ul>
+
+
+    <div id="comment-2" class="widget"><h3>最新评论:</h3>
+
+	<div class="ds-recent-comments" data-num-items="5" data-show-avatars="1" data-show-time="1" data-show-title="1" data-show-admin="1" data-excerpt-length="70"></div>
+
+
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"lijiansheng"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+
+    </div>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+
+  <div class="sidebar-content">
+
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+
+
+    <div id="tag_cloud-2" class="widget widget_tag_cloud"><h3>Tags</h3>
+
+      <div class="tagcloud">
+        <p class="post-tags">
+          
+              
+                <a rel="tag" href="tags/%e6%af%8f%e6%97%a5%e9%98%85%e8%af%bb/">每日阅读</a>
+              
+                <a rel="tag" href="tags/%e5%bc%80%e6%ba%90%e4%b9%8b%e9%81%93/">开源之道</a>
+              
+            
+        </p>
+      </div>
+    </div>
+
+    <div class="widget widget_recent_entries sidebarLeftCategories"><h3>Last 5 GitHub Commits for this blog</h3>
+      <ul>
+        
+        
+            <li>
+              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/a7ad5587887a727970a33620e32da238b9e215cb" target="_blank">
+                  2016-11-24T10:59:18Z<br>
+                  add daily reading about open source articles.
+
+Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
+              </a>
+            </li>
+        
+            <li>
+              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/3a3b9b912e251dd765420b578e52834f0500cdab" target="_blank">
+                  2016-11-23T02:18:59Z<br>
+                  add daily reading about open source articles.
+
+Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
+              </a>
+            </li>
+        
+            <li>
+              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/da616ff7c46bd70ce67dd24ba0c335ed23982d6c" target="_blank">
+                  2016-11-22T01:15:21Z<br>
+                  add daily reading about open source articles.
+
+Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
+              </a>
+            </li>
+        
+            <li>
+              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/45fa6db0502a2865d3259472d121930ed9190c6a" target="_blank">
+                  2016-11-17T23:46:54Z<br>
+                  add daily reading about open source articles.
+
+Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
+              </a>
+            </li>
+        
+            <li>
+              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/11b1933b93db71d8ee631d7695232a2d04aa9fc3" target="_blank">
+                  2016-11-17T08:34:21Z<br>
+                  删除自己言论过激部分。
+
+Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
+              </a>
+            </li>
+        
+      </ul>
+    </div>
+
+
+  </div>
+  
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2016. All Rights Reserved. <br>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank">Hugo - the static site generator</a>.
+              <a rel="nofollow" href="http://golang.org" target="_blank">#golang</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://www.weibo.com/2074346653/" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On Twitter" rel="nofollow"
+        href="https://twitter.com/lijiangsheng1" target="_blank">
+        <i class="fa fa-twitter"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/lijiangsheng1" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-79147508-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+
