@@ -7,8 +7,63 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 28 Nov 2016 08:39:13 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2016 08:34:28 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016 11 29)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-29%29/</link>
+      <pubDate>Tue, 29 Nov 2016 08:34:28 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-29%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;开源所解决和支持的当今业务需求&#34;&gt;开源所解决和支持的当今业务需求&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cxoinsight/open-source-solves-and-supports-today-s-business-needs-nid-23389-cid-92.html&#34;&gt;Open source Solves and Supports Today&amp;rsquo;s Business Needs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源大行其道，企业该如何处置？相信本文是比较理性的思考。&lt;/p&gt;
+
+&lt;p&gt;相比本土的技术选型，就显得谨慎慎微多了，政治正确、毋需担负责任、个人利益、寻租空间等等要多于技术选型。而且，不知道什么时候，给开源打了一个标签“质量差、不稳定”，所以，开源至今仍然需要布道。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2014/12/goldenage.jpg?w=738&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源的黄金时代已经来临&#34;&gt;开源的黄金时代已经来临&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2015/12/15/the-golden-age-of-open-source-has-arrived/&#34;&gt;The Golden Age Of Open Source Has Arrived&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，时代与个人的关系，该如何处置，恐怕是我接下来要深刻思考的问题，开源的黄金时代是来临了，对于我自身来说能够做点什么？&lt;/p&gt;
+
+&lt;p&gt;当一切已成默认，你的布道还有何意义？你的所谓的参与到社区又有何存在的价值！但是，可以肯定的是，一定不可以做“叶公好龙”式的样子，开源的黄金时代来临，要把握住这一机遇，寻找能够体现自己价值的地方。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;金融服务的发展-越发的和开源关系密切&#34;&gt;金融服务的发展，越发的和开源关系密切&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cioviewpoint/the-financial-services-industry-has-evolved-and-opensource-is-more-relevant-than-ever-nid-23390-cid-92.html&#34;&gt;
+The Financial Services Industry Has Evolved - and Open-Source Is More Relevant Than Ever&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;时代变了，现在的金融服务和20年前比较已经变得是天翻地覆，即使5年前也没有像现在这样。&lt;strong&gt;The flow of information has grown exponentially&lt;/strong&gt; 上线了开源软件： the IT team can now go directly into the code to better understand the issue more quickly, or better still, make changes to it, in order to ensure that the technical challenge doesn’t slow down the business in pursuit of its goal: to provide a frictionless financial services journey to the consumer. 一切都变了。&lt;/p&gt;
+
+&lt;p&gt;当然，采用了开源以后，也会有相应的挑战：&lt;strong&gt;Open-source does require a new mind set for IT teams in major organizations. The nature of open-source means, that your options with a particular piece of software are tied to the growth of the software’s ecosystem, rather than being driven by a large-scale vendor. Culturally there is a challenge as well。&lt;/strong&gt; 思维的变化最重要。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016.11.28)</title>
@@ -1052,91 +1107,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;相信世界变得更加美好！相信也会让我们更加的数字痴呆化。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.11)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-11%29/</link>
-      <pubDate>Fri, 11 Nov 2016 08:41:15 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-11%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;昔日采用开源的标杆-近日重投微软的怀抱&#34;&gt;昔日采用开源的标杆，近日重投微软的怀抱&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techeye.net/news/open-source-champion-mulls-return-to-microsoft&#34;&gt;Open source champion mulls return to Microsoft&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;文首直接点明意思，“After a decade of being the Open Saucy champion of the world, Munich  is now considering going back to Vole’s loving arms.”&lt;/p&gt;
-
-&lt;p&gt;这意味着什么了呢？LibreOffice 的全面崩盘！伴随着Google等云计算的在线办公，以及微软的开源战略，Linux 的桌面应用更加的举步维艰。&lt;/p&gt;
-
-&lt;p&gt;在此背后，除了经济学之外，还有甚么能够解释的呢？日益加速的生活节奏所导致的对于时间的珍惜，恐怕是一个难以摆脱的理由。社区的随性质量问题，也企待人们尽快的解决。开源就意味着质量问题？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/11/DEC16-1109-GUESTVIEW-PITTENGER.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;嘉宾观点-为什么政府会对开源很感冒&#34;&gt;嘉宾观点：为什么政府会对开源很感冒&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/guest-view-open-sourcing-software-government-makes-sense/&#34;&gt;Guest View: Why open-sourcing software for the government makes sense&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;基于以下几点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;更开放&lt;/li&gt;
-&lt;li&gt;更多的眼睛&lt;/li&gt;
-&lt;li&gt;更加的透明&lt;/li&gt;
-&lt;li&gt;更有效&lt;/li&gt;
-&lt;li&gt;更具创新性&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;会节省纳税人的钱！更加灵活的IT架构。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://stech1.firstpost.com/tech2images/640x359/proportional/jpeg/2016/11/tensor-flow-cover-image-624x352.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;google-庆祝机器学习框架-tensorflow-开源一周年&#34;&gt;Google 庆祝机器学习框架 TensorFlow 开源一周年&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://tech.firstpost.com/news-analysis/google-celebrates-one-year-of-open-sourcing-machine-learning-framework-tensorflow-346451.html&#34;&gt;Google celebrates one year of open sourcing machine learning framework TensorFlow&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;2015年11月9号，Google 将其人工智能的机器学习框架开源了，项目名称叫做TensorFlow。新版本增加了分布式计算以及对iOS的支持。&lt;/p&gt;
-
-&lt;p&gt;本文总结了一年多来TensorFlow的应用成绩：GitHub  有超过3000多个和它有关的项目，Google自己内部使用TensorFlow 来驱动他的业务，比如自然语言处理等，且GCE也提供TensorFlow的业务。项目Magenta是可以创作音乐的，Google著名人工智能项目DeepMind也用到了TensorFlow，而DeepMind在挑战完围棋冠军之后，开始挑战暴雪著名游戏《星际争霸》。&lt;/p&gt;
-
-&lt;p&gt;After desktop computers, the internet, smartphones, it is now time for the advent of machine learning, and TensorFlow is at the heart of the machine learning capabilities by Google.&lt;/p&gt;
-
-&lt;p&gt;自从TensorFlow开源之后，来自全球各地的人都受益，利用TensofFlow进行各种创新的应用：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;澳大利亚海洋生物学家用来监视受到威胁的海牛数量。&lt;/li&gt;
-&lt;li&gt;一位来自日本的种植黄瓜的农民，从DeepMind战胜围棋冠军的事件中获得灵感，可以将黄瓜分类，如下图所示。&lt;/li&gt;
-&lt;li&gt;来自硅谷的数据科学家则利用摄像机、microphone、树莓派和TensorFlow来跟踪Caltrain。&lt;/li&gt;
-&lt;li&gt;而放射科的医生则用来自动诊断帕金森的病人。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://tech.firstpost.com/wp-content/uploads/2016/11/cucumber-farmer-9.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源让所有人受益，包括TensorFlow本身：** There have been 10,000 code commits on GitHub after just a year of being open source. **&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
