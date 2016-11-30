@@ -10,6 +10,77 @@
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016 11 30)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-30%29/</link>
+      <pubDate>Wed, 30 Nov 2016 08:44:40 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-30%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/11/JAN17-1128-GUESTVIEW-HICKS.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何深刻理解开源的8条潜规则&#34;&gt;如何深刻理解开源的8条潜规则&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/guest-view-how-play-eight-unwritten-rules-open-source/&#34;&gt;How to play by the eight (unwritten) rules of open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是的，开源已经成为主流了，研究它的人是越来越多了。本土的开源之路都还是非常肤浅的利用信息不对称、欺诈、谎言来支撑的。然而不妨看看产生开源的源头文化是如何谈论的：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;要去花心思了解所在的社区以及都有什么参与其中。&lt;/li&gt;
+&lt;li&gt;要将技术的优先级高于业务目标。&lt;/li&gt;
+&lt;li&gt;社区放在首位的首位。&lt;/li&gt;
+&lt;li&gt;警惕只是为了玩。&lt;/li&gt;
+&lt;li&gt;保持开放&lt;/li&gt;
+&lt;li&gt;要想着去开发衍生产品，而不是简单的复制。&lt;/li&gt;
+&lt;li&gt;用尽心思的去做贡献。&lt;/li&gt;
+&lt;li&gt;Lastly, but most importantly, there’s no crying in open source.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;看完这篇文章，我的心思久久不能平息。总结我一直以来想做而没有做成的事情！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么说apple开源macosx不是那么的十分令人兴奋&#34;&gt;为什么说Apple开源MacOSX不是那么的十分令人兴奋&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-apple-open-sourcing-mac-os-x-isnt-terribly-exciting/&#34;&gt;Why Apple open sourcing Mac OS X isn&amp;rsquo;t terribly exciting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是的，Apple 号称开源依旧是雷声大雨点小。何必呢？看看就可以了。Darwin一直都是开源的。但是没什么用。&lt;/p&gt;
+
+&lt;p&gt;本文提到一个非常具备歧视性但是却千真万确的事实：中国人仿冒！ 你怎么看？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2014/10/shutterstock_143318599-100468829-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;我们真的进入了开源的黄金时期-还是被炒作的假象&#34;&gt;我们真的进入了开源的黄金时期？还是被炒作的假象？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3143974/open-source-tools/are-we-in-a-golden-age-of-open-source-or-just-openwashing.html&#34;&gt;Are we in a golden age of open source or just openwashing?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;果然没错这是一名中国人写的文章：来自中国联通的副总裁Shao Guang Lu。&lt;/p&gt;
+
+&lt;p&gt;正如文中所言，开源在如今的势头，是前所未有的！各种商业公司，各类传统巨头，百花齐放！因为IBM说了，开放的标准方式转变为开源事实标准。导致了各家都在组织开源。那么作为国人肯定慌乱，哦，过去我们被技术、专利封锁，我们失去了优势，现在玩开源，我们能落后吗？&lt;/p&gt;
+
+&lt;p&gt;对于这点，我的境界就有点不够了。但从政治秩序的角度来看。这些大厂都是搅局者！只会阻碍历史的车轮，当然它们也会被碾碎。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016 11 29)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-29%29/</link>
       <pubDate>Tue, 29 Nov 2016 08:34:28 +0800</pubDate>
@@ -993,91 +1064,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 
 &lt;blockquote&gt;
 &lt;p&gt;相信世界变得更加美好！相信也会让我们更加的数字痴呆化。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.11)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-11%29/</link>
-      <pubDate>Fri, 11 Nov 2016 08:41:15 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-11%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;昔日采用开源的标杆-近日重投微软的怀抱&#34;&gt;昔日采用开源的标杆，近日重投微软的怀抱&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techeye.net/news/open-source-champion-mulls-return-to-microsoft&#34;&gt;Open source champion mulls return to Microsoft&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;文首直接点明意思，“After a decade of being the Open Saucy champion of the world, Munich  is now considering going back to Vole’s loving arms.”&lt;/p&gt;
-
-&lt;p&gt;这意味着什么了呢？LibreOffice 的全面崩盘！伴随着Google等云计算的在线办公，以及微软的开源战略，Linux 的桌面应用更加的举步维艰。&lt;/p&gt;
-
-&lt;p&gt;在此背后，除了经济学之外，还有甚么能够解释的呢？日益加速的生活节奏所导致的对于时间的珍惜，恐怕是一个难以摆脱的理由。社区的随性质量问题，也企待人们尽快的解决。开源就意味着质量问题？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/11/DEC16-1109-GUESTVIEW-PITTENGER.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;嘉宾观点-为什么政府会对开源很感冒&#34;&gt;嘉宾观点：为什么政府会对开源很感冒&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/guest-view-open-sourcing-software-government-makes-sense/&#34;&gt;Guest View: Why open-sourcing software for the government makes sense&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;基于以下几点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;更开放&lt;/li&gt;
-&lt;li&gt;更多的眼睛&lt;/li&gt;
-&lt;li&gt;更加的透明&lt;/li&gt;
-&lt;li&gt;更有效&lt;/li&gt;
-&lt;li&gt;更具创新性&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;会节省纳税人的钱！更加灵活的IT架构。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://stech1.firstpost.com/tech2images/640x359/proportional/jpeg/2016/11/tensor-flow-cover-image-624x352.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;google-庆祝机器学习框架-tensorflow-开源一周年&#34;&gt;Google 庆祝机器学习框架 TensorFlow 开源一周年&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://tech.firstpost.com/news-analysis/google-celebrates-one-year-of-open-sourcing-machine-learning-framework-tensorflow-346451.html&#34;&gt;Google celebrates one year of open sourcing machine learning framework TensorFlow&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;2015年11月9号，Google 将其人工智能的机器学习框架开源了，项目名称叫做TensorFlow。新版本增加了分布式计算以及对iOS的支持。&lt;/p&gt;
-
-&lt;p&gt;本文总结了一年多来TensorFlow的应用成绩：GitHub  有超过3000多个和它有关的项目，Google自己内部使用TensorFlow 来驱动他的业务，比如自然语言处理等，且GCE也提供TensorFlow的业务。项目Magenta是可以创作音乐的，Google著名人工智能项目DeepMind也用到了TensorFlow，而DeepMind在挑战完围棋冠军之后，开始挑战暴雪著名游戏《星际争霸》。&lt;/p&gt;
-
-&lt;p&gt;After desktop computers, the internet, smartphones, it is now time for the advent of machine learning, and TensorFlow is at the heart of the machine learning capabilities by Google.&lt;/p&gt;
-
-&lt;p&gt;自从TensorFlow开源之后，来自全球各地的人都受益，利用TensofFlow进行各种创新的应用：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;澳大利亚海洋生物学家用来监视受到威胁的海牛数量。&lt;/li&gt;
-&lt;li&gt;一位来自日本的种植黄瓜的农民，从DeepMind战胜围棋冠军的事件中获得灵感，可以将黄瓜分类，如下图所示。&lt;/li&gt;
-&lt;li&gt;来自硅谷的数据科学家则利用摄像机、microphone、树莓派和TensorFlow来跟踪Caltrain。&lt;/li&gt;
-&lt;li&gt;而放射科的医生则用来自动诊断帕金森的病人。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://tech.firstpost.com/wp-content/uploads/2016/11/cucumber-farmer-9.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源让所有人受益，包括TensorFlow本身：** There have been 10,000 code commits on GitHub after just a year of being open source. **&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

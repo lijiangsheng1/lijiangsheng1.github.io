@@ -10,6 +10,77 @@
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016 11 30)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-30%29/</link>
+      <pubDate>Wed, 30 Nov 2016 08:44:40 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-30%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/11/JAN17-1128-GUESTVIEW-HICKS.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何深刻理解开源的8条潜规则&#34;&gt;如何深刻理解开源的8条潜规则&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/guest-view-how-play-eight-unwritten-rules-open-source/&#34;&gt;How to play by the eight (unwritten) rules of open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是的，开源已经成为主流了，研究它的人是越来越多了。本土的开源之路都还是非常肤浅的利用信息不对称、欺诈、谎言来支撑的。然而不妨看看产生开源的源头文化是如何谈论的：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;要去花心思了解所在的社区以及都有什么参与其中。&lt;/li&gt;
+&lt;li&gt;要将技术的优先级高于业务目标。&lt;/li&gt;
+&lt;li&gt;社区放在首位的首位。&lt;/li&gt;
+&lt;li&gt;警惕只是为了玩。&lt;/li&gt;
+&lt;li&gt;保持开放&lt;/li&gt;
+&lt;li&gt;要想着去开发衍生产品，而不是简单的复制。&lt;/li&gt;
+&lt;li&gt;用尽心思的去做贡献。&lt;/li&gt;
+&lt;li&gt;Lastly, but most importantly, there’s no crying in open source.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;看完这篇文章，我的心思久久不能平息。总结我一直以来想做而没有做成的事情！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么说apple开源macosx不是那么的十分令人兴奋&#34;&gt;为什么说Apple开源MacOSX不是那么的十分令人兴奋&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-apple-open-sourcing-mac-os-x-isnt-terribly-exciting/&#34;&gt;Why Apple open sourcing Mac OS X isn&amp;rsquo;t terribly exciting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是的，Apple 号称开源依旧是雷声大雨点小。何必呢？看看就可以了。Darwin一直都是开源的。但是没什么用。&lt;/p&gt;
+
+&lt;p&gt;本文提到一个非常具备歧视性但是却千真万确的事实：中国人仿冒！ 你怎么看？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2014/10/shutterstock_143318599-100468829-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;我们真的进入了开源的黄金时期-还是被炒作的假象&#34;&gt;我们真的进入了开源的黄金时期？还是被炒作的假象？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3143974/open-source-tools/are-we-in-a-golden-age-of-open-source-or-just-openwashing.html&#34;&gt;Are we in a golden age of open source or just openwashing?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;果然没错这是一名中国人写的文章：来自中国联通的副总裁Shao Guang Lu。&lt;/p&gt;
+
+&lt;p&gt;正如文中所言，开源在如今的势头，是前所未有的！各种商业公司，各类传统巨头，百花齐放！因为IBM说了，开放的标准方式转变为开源事实标准。导致了各家都在组织开源。那么作为国人肯定慌乱，哦，过去我们被技术、专利封锁，我们失去了优势，现在玩开源，我们能落后吗？&lt;/p&gt;
+
+&lt;p&gt;对于这点，我的境界就有点不够了。但从政治秩序的角度来看。这些大厂都是搅局者！只会阻碍历史的车轮，当然它们也会被碾碎。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016 11 29)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-29%29/</link>
       <pubDate>Tue, 29 Nov 2016 08:34:28 +0800</pubDate>
@@ -959,68 +1030,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 
 &lt;blockquote&gt;
 &lt;p&gt;开源让所有人受益，包括TensorFlow本身：** There have been 10,000 code commits on GitHub after just a year of being open source. **&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.10)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-10%29/</link>
-      <pubDate>Thu, 10 Nov 2016 08:50:45 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-10%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.cbronline.com/wp-content/uploads/2016/11/open-source2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源需要更多女性的参与&#34;&gt;开源需要更多女性的参与&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://cointelegraph.com/news/the-open-source-world-is-worth-billions&#34;&gt;GUEST BLOG: Open source needs to deliver diversity&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;大约是因为开放、自由、共享等理念的倡导，开源界向来是尊重女性的，也一直呼吁女性的更多参与。&lt;/p&gt;
-
-&lt;p&gt;是的，我们需要更多的多样性、多元化。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/09/open-source-license-primary.jpg-100682570-primary.idge.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;4个急需帮助的开源项目&#34;&gt;4个急需帮助的开源项目&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3136580/open-source-tools/4-open-source-initiatives-that-need-your-help.html&#34;&gt;4 open source initiatives that need your help&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;是的，几乎每隔一阵子都会有开源项目死去，纵观SourceForge、GitHub的历史，死去的开源项目占了绝大多数，不是它不优秀。一个项目的生命周期，有太多的维度来衡量。比如文中提到的PyPi项目，为什么Python基金会没有为它提供帮助？OpenBSD 走到如此地步，怪它不够安全？&lt;/p&gt;
-
-&lt;p&gt;有的时候，无论是撰写《失控》的 KK，还是生物界的达尔文，政治界的福山，都会谈到变化，适应环境。也就是所谓的进化论。&lt;/p&gt;
-
-&lt;p&gt;不是我冷酷，我也受到过同样的冷遇。得认清事实。振腕之余，需要反思的东西太多了。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/LIFE_opensourcejob.png?itok=NSABHFru&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;苹果打算在开源投入更多&#34;&gt;苹果打算在开源投入更多&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/apple-is-doubling-down-on-open-source/&#34;&gt;Apple is doubling down on open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;doubling down 这个词我不知道怎么翻译合适，希望有识之士帮忙。&lt;/p&gt;
-
-&lt;p&gt;开源乃大势所趋，我认同文中的一句话：&lt;strong&gt;“In a world fueled by developers, enterprises must speak their language: open source code.”&lt;/strong&gt; 从文化的本质来讲，开源是解放了程序员——即人类本身，不在牢牢的被绑死在某个资本主义企业家身上。技术上更多的自由、也拥有更多的创新和空间。&lt;/p&gt;
-
-&lt;p&gt;Apple 即使如此有钱，也难免会底下高贵的头颅。开发者是它的命根子！没有开源，就没有今天Siri后台的架构&amp;hellip;&amp;hellip; 这家全世界最封闭的公司，在后Jobs时代，该如何处理Hacker和自由的关系，确实是一大挑战。光是玩高冷，会出事的。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

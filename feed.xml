@@ -7,8 +7,79 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 29 Nov 2016 08:34:28 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2016 08:44:40 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016 11 30)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-30%29/</link>
+      <pubDate>Wed, 30 Nov 2016 08:44:40 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-30%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/11/JAN17-1128-GUESTVIEW-HICKS.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何深刻理解开源的8条潜规则&#34;&gt;如何深刻理解开源的8条潜规则&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/guest-view-how-play-eight-unwritten-rules-open-source/&#34;&gt;How to play by the eight (unwritten) rules of open source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是的，开源已经成为主流了，研究它的人是越来越多了。本土的开源之路都还是非常肤浅的利用信息不对称、欺诈、谎言来支撑的。然而不妨看看产生开源的源头文化是如何谈论的：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;要去花心思了解所在的社区以及都有什么参与其中。&lt;/li&gt;
+&lt;li&gt;要将技术的优先级高于业务目标。&lt;/li&gt;
+&lt;li&gt;社区放在首位的首位。&lt;/li&gt;
+&lt;li&gt;警惕只是为了玩。&lt;/li&gt;
+&lt;li&gt;保持开放&lt;/li&gt;
+&lt;li&gt;要想着去开发衍生产品，而不是简单的复制。&lt;/li&gt;
+&lt;li&gt;用尽心思的去做贡献。&lt;/li&gt;
+&lt;li&gt;Lastly, but most importantly, there’s no crying in open source.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;看完这篇文章，我的心思久久不能平息。总结我一直以来想做而没有做成的事情！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么说apple开源macosx不是那么的十分令人兴奋&#34;&gt;为什么说Apple开源MacOSX不是那么的十分令人兴奋&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-apple-open-sourcing-mac-os-x-isnt-terribly-exciting/&#34;&gt;Why Apple open sourcing Mac OS X isn&amp;rsquo;t terribly exciting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是的，Apple 号称开源依旧是雷声大雨点小。何必呢？看看就可以了。Darwin一直都是开源的。但是没什么用。&lt;/p&gt;
+
+&lt;p&gt;本文提到一个非常具备歧视性但是却千真万确的事实：中国人仿冒！ 你怎么看？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2014/10/shutterstock_143318599-100468829-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;我们真的进入了开源的黄金时期-还是被炒作的假象&#34;&gt;我们真的进入了开源的黄金时期？还是被炒作的假象？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3143974/open-source-tools/are-we-in-a-golden-age-of-open-source-or-just-openwashing.html&#34;&gt;Are we in a golden age of open source or just openwashing?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;果然没错这是一名中国人写的文章：来自中国联通的副总裁Shao Guang Lu。&lt;/p&gt;
+
+&lt;p&gt;正如文中所言，开源在如今的势头，是前所未有的！各种商业公司，各类传统巨头，百花齐放！因为IBM说了，开放的标准方式转变为开源事实标准。导致了各家都在组织开源。那么作为国人肯定慌乱，哦，过去我们被技术、专利封锁，我们失去了优势，现在玩开源，我们能落后吗？&lt;/p&gt;
+
+&lt;p&gt;对于这点，我的境界就有点不够了。但从政治秩序的角度来看。这些大厂都是搅局者！只会阻碍历史的车轮，当然它们也会被碾碎。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016 11 29)</title>
@@ -1037,76 +1108,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 &lt;p&gt;再从技术的生态系统来说，世界呈竞争状态，作为用户有太多的选择，然后形成自己的竞争力，例如用AWS的物理网平台、用微软的语音识别和声音认证、再用IBM Watson来做决策。所以必须保持开放。&lt;/p&gt;
 
 &lt;p&gt;Competitive advantage is no longer the sum of all efficiencies, but the sum of all connections.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.12)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-12%29/</link>
-      <pubDate>Sat, 12 Nov 2016 06:43:02 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-12%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://udemy-images.udemy.com/course/750x422/514422_242b.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;java-开源十年-依旧争议不断&#34;&gt;Java 开源十年，依旧争议不断&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworld.com/article/3138505/java/open-source-java-at-10-big-benefits-but-detractors-remain.html&#34;&gt;After a decade, open source Java is still controversial&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;正如前 Java 布道师 Reza Rahman 所总结的，Java 若不是开源，真的无法想象今天是什么样子。开源对于Java 的发展可谓是至关重要的决定。&lt;/p&gt;
-
-&lt;p&gt;但是，Sun当年选择的协议，乃至后来的Oracle，将Java的控制权牢牢的掌握着，去年的Android Google和Oracle的官司，想必还记忆犹新吧。&lt;/p&gt;
-
-&lt;p&gt;Java 已经20多年了，基于它的框架、应用都成了云原生应用的阻力了。该换换口味了。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;apache-cassandra-项目发生的-撕逼-事件&#34;&gt;Apache Cassandra 项目发生的“撕逼”事件&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/the-battle-for-apache-cassandra-highlights-major-problem-with-open-source-projects/&#34;&gt;The battle for Apache Cassandra highlights major problem with open source projects&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;首先，声明以下此文是商业公司Datastax妄图对自己做出辩解！作为一家媒体网站，没有做到中立，客观的进行评价，是件颇为遗憾的事情。&lt;/p&gt;
-
-&lt;p&gt;我很反感说开源赚钱很难，比如文章谈到的：“Selling open source is hard. Really hard. ”，开源的初衷并不是让你去赚钱的，你能够找到商业模式，弥补其中的空隙，那是你自己的事情，和中立组织有何关系？竟然能恬不知耻的说出这事了：“The ASF may be unwittingly making it harder.”&lt;/p&gt;
-
-&lt;p&gt;过分商业化的开源，还是会闹出很多纠纷的，OpenStack 相信也会有那么一天，ASF 已经做的够好的了。可是总是有太多的投机者，打着开源的幌子，然后异想天开的以为开源之后即可财源滚滚，一下子就成了某某界的红帽了。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-592663558.png?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;需要从netflix及其外包的技术中汲取灵感的5大行业&#34;&gt;需要从Netflix及其外包的技术中汲取灵感的5大行业&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/10/5-industries-that-should-take-a-cue-from-netflix-and-crowdsource-parts-of-its-tech/&#34;&gt;Five industries that should take a cue from Netflix and crowdsource parts of its tech&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Netflix Prize 可谓是鼎鼎大名的商业成功案例了。能够为人们推荐影片，以数学知识来替代人本身的思考和寻找，无论从哪个角度讲都是成功的。&lt;/p&gt;
-
-&lt;p&gt;这才是媒体应该去做的，那么Netflix 的如此做法，那几个行业该从善如流了呢？数字安全、健康和药理、广告和营销、交通和运输、精准农业。是的，数据化的时代，如何挖掘出有益于人类的事情，才是Netflix这样的模式成功的至关重要的事情。引用几段文中强调的话：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;If we were able to input every piece of data from every drug study, we could potentially make better predictions about drugs.&lt;/li&gt;
-&lt;li&gt;Machine learning could create a more efficient transportation environment and experience.&lt;/li&gt;
-&lt;li&gt;Ten years ago, the Netflix Prize used data and science to change recommendation engines for the better. Algorithmic intelligence changed the things we watched on our screens.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;相信世界变得更加美好！相信也会让我们更加的数字痴呆化。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
