@@ -10,6 +10,72 @@
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016 12 01)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-01%29/</link>
+      <pubDate>Thu, 01 Dec 2016 08:27:44 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-01%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://zdnet4.cbsistatic.com/hub/i/r/2016/11/30/525ef9d1-aaba-4841-8ead-6dd41f2ba3ba/resize/770xauto/50cfb39d5e5141da13635728a8dbf786/hpe-suse-partnership.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;suse-收购了-hpe-的-openstack-和cloudfoundry团队&#34;&gt;SUSE 收购了 HPE 的 OpenStack 和CloudFoundry团队&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/suse-acquires-hpe-openstack-and-cloud-foundry-assets/&#34;&gt;SUSE acquires HPE OpenStack and Cloud Foundry assets&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是昨天晚上和今天早上，圈子内所有人都在转发的消息，似乎是证明大家向罗一笑小朋友同情一样，然后又急着证明自己有脑子，唱衰 OpenStack 的心不死。对于这些事情，可以联系起来一起看，比如微信圈里疯传的向父母传播虚假信息的诅咒，我想可以用下面一段话来概括：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;王小波在《生命科学与骗术》一文中说：&amp;rdquo;身为一个中国人，由于有独特的历史背景，很难理解科学是什么。我在匹兹堡大学的老师许倬云教授曾说，中国人先把科学当作洪水猛兽，后把它当作呼风唤雨的巫术，直到现在，多数学习科学的人还把它看成宗教来顶礼膜拜，而他自己终于体会到，科学是个不断学习的过程。&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;就像秦王嬴政一样，一生都在寻找长生不老的药，身边很多的人都在妄图找到一劳永逸，也就是说朱元璋的做法，在人们心目中留下了不灭的印象。而且还非常擅长于偷换概念，举两个伪科学：人从一出生就决定了自己能够活多久，人的一生的运动量是定额的&amp;hellip;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;OpenStack 圈内的人大可不必惊慌，SUSE 不想在Linux做万年的老二，更何况老大赚的盆满钵满，妄图竞争！HPE尾大不掉，机构臃肿，决策缓慢，丧失了很多机会。二者都不想死，求变！Mirantis 其实也一样，但是公司未经一定的量，最忌裁员。人性这东西，对于创业来说，不得不慎重的考虑。违背人性的东西，很难得人心。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://image.slidesharecdn.com/opensourcegovernancev2-130501122625-phpapp02/95/why-open-source-governance-matters-2-638.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源赢了-微软投降了&#34;&gt;开源赢了，微软投降了！&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.pcworld.co.nz/article/610739/open-source-has-won-microsoft-has-surrendered/&#34;&gt;Open source has won, and Microsoft has surrendered&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;阅读人类历史的人，会慢慢明白一个道理，历史是往大众化、民主的方向走的。即使是经济也一样，几乎任何事物，一旦获得平民化，让人们能够很容易的获取，就叫做进步。&lt;/p&gt;
+
+&lt;p&gt;软件收取许可费用的这种模式彻底的进入历史舞台，从bill gates 最初收取费用的时候，早期的Hacker们就叫骂声不断，一直存在抵抗者。ok，在微软赚到脚软、手软的2、30年后，开源胜利了，这个代价是否很高？是的，就财务本身来说，会让很多人振腕不已。&lt;/p&gt;
+
+&lt;p&gt;接下来的路，作为软件从业人员，从高冷的圣殿退下，比如IBM、Oracle等那些诅咒开源的曾经辉煌的人们。将比较难以接受。放下你高贵的心态，迎接下一个时代到来。正如本文中结尾处所言：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This isn’t Bill Gates’ or Steve Ballmer’s Microsoft. They were all about total market domination. This is Nadella’s Microsoft, and he wants to work with others.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;aws-继续放大招-mxnet-才是-ai-服务的未来&#34;&gt;AWS 继续放大招，MXNet 才是 AI 服务的未来&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.geekwire.com/2016/amazon-web-services-says-open-source-mxnet-will-foundation-future-ai-services/&#34;&gt;Amazon Web Services says open-source MXNet will be the ‘foundation’ of future AI services&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，没错，AWS 在 AI 上落后于 Google，即MXNet 落后于TensorFlow，而Google 的GCE云计算就押宝于AI服务，希望与AWS进行竞争到底。&lt;/p&gt;
+
+&lt;p&gt;在其中，Google优先一步的便是开源！ 这就是商业战略，AI毕竟是个耗资源的，和平民百姓比较遥远的东西。但是Google再次印证了自己的理想。犹如Gogole地球一样为人们提供好的产品和服务。&lt;/p&gt;
+
+&lt;p&gt;AWS 确实商业化氛围也更加的浓厚，但是IaaS云计算让人追赶确实太难了，因为早已跑的太远。没有人看好EC2、S3，但是赚到盆满钵满！商业的洞见在于满足一部分人的需求，而不仅仅是技术份。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016 11 30)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-30%29/</link>
       <pubDate>Wed, 30 Nov 2016 08:44:40 +0800</pubDate>
@@ -945,91 +1011,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 
 &lt;blockquote&gt;
 &lt;p&gt;相信世界变得更加美好！相信也会让我们更加的数字痴呆化。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.11)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-11%29/</link>
-      <pubDate>Fri, 11 Nov 2016 08:41:15 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-11%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;昔日采用开源的标杆-近日重投微软的怀抱&#34;&gt;昔日采用开源的标杆，近日重投微软的怀抱&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techeye.net/news/open-source-champion-mulls-return-to-microsoft&#34;&gt;Open source champion mulls return to Microsoft&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;文首直接点明意思，“After a decade of being the Open Saucy champion of the world, Munich  is now considering going back to Vole’s loving arms.”&lt;/p&gt;
-
-&lt;p&gt;这意味着什么了呢？LibreOffice 的全面崩盘！伴随着Google等云计算的在线办公，以及微软的开源战略，Linux 的桌面应用更加的举步维艰。&lt;/p&gt;
-
-&lt;p&gt;在此背后，除了经济学之外，还有甚么能够解释的呢？日益加速的生活节奏所导致的对于时间的珍惜，恐怕是一个难以摆脱的理由。社区的随性质量问题，也企待人们尽快的解决。开源就意味着质量问题？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/11/DEC16-1109-GUESTVIEW-PITTENGER.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;嘉宾观点-为什么政府会对开源很感冒&#34;&gt;嘉宾观点：为什么政府会对开源很感冒&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/guest-view-open-sourcing-software-government-makes-sense/&#34;&gt;Guest View: Why open-sourcing software for the government makes sense&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;基于以下几点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;更开放&lt;/li&gt;
-&lt;li&gt;更多的眼睛&lt;/li&gt;
-&lt;li&gt;更加的透明&lt;/li&gt;
-&lt;li&gt;更有效&lt;/li&gt;
-&lt;li&gt;更具创新性&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;会节省纳税人的钱！更加灵活的IT架构。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://stech1.firstpost.com/tech2images/640x359/proportional/jpeg/2016/11/tensor-flow-cover-image-624x352.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;google-庆祝机器学习框架-tensorflow-开源一周年&#34;&gt;Google 庆祝机器学习框架 TensorFlow 开源一周年&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://tech.firstpost.com/news-analysis/google-celebrates-one-year-of-open-sourcing-machine-learning-framework-tensorflow-346451.html&#34;&gt;Google celebrates one year of open sourcing machine learning framework TensorFlow&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;2015年11月9号，Google 将其人工智能的机器学习框架开源了，项目名称叫做TensorFlow。新版本增加了分布式计算以及对iOS的支持。&lt;/p&gt;
-
-&lt;p&gt;本文总结了一年多来TensorFlow的应用成绩：GitHub  有超过3000多个和它有关的项目，Google自己内部使用TensorFlow 来驱动他的业务，比如自然语言处理等，且GCE也提供TensorFlow的业务。项目Magenta是可以创作音乐的，Google著名人工智能项目DeepMind也用到了TensorFlow，而DeepMind在挑战完围棋冠军之后，开始挑战暴雪著名游戏《星际争霸》。&lt;/p&gt;
-
-&lt;p&gt;After desktop computers, the internet, smartphones, it is now time for the advent of machine learning, and TensorFlow is at the heart of the machine learning capabilities by Google.&lt;/p&gt;
-
-&lt;p&gt;自从TensorFlow开源之后，来自全球各地的人都受益，利用TensofFlow进行各种创新的应用：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;澳大利亚海洋生物学家用来监视受到威胁的海牛数量。&lt;/li&gt;
-&lt;li&gt;一位来自日本的种植黄瓜的农民，从DeepMind战胜围棋冠军的事件中获得灵感，可以将黄瓜分类，如下图所示。&lt;/li&gt;
-&lt;li&gt;来自硅谷的数据科学家则利用摄像机、microphone、树莓派和TensorFlow来跟踪Caltrain。&lt;/li&gt;
-&lt;li&gt;而放射科的医生则用来自动诊断帕金森的病人。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://tech.firstpost.com/wp-content/uploads/2016/11/cucumber-farmer-9.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源让所有人受益，包括TensorFlow本身：** There have been 10,000 code commits on GitHub after just a year of being open source. **&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

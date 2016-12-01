@@ -7,8 +7,74 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 30 Nov 2016 08:44:40 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2016 08:27:44 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016 12 01)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-01%29/</link>
+      <pubDate>Thu, 01 Dec 2016 08:27:44 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-01%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://zdnet4.cbsistatic.com/hub/i/r/2016/11/30/525ef9d1-aaba-4841-8ead-6dd41f2ba3ba/resize/770xauto/50cfb39d5e5141da13635728a8dbf786/hpe-suse-partnership.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;suse-收购了-hpe-的-openstack-和cloudfoundry团队&#34;&gt;SUSE 收购了 HPE 的 OpenStack 和CloudFoundry团队&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/suse-acquires-hpe-openstack-and-cloud-foundry-assets/&#34;&gt;SUSE acquires HPE OpenStack and Cloud Foundry assets&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是昨天晚上和今天早上，圈子内所有人都在转发的消息，似乎是证明大家向罗一笑小朋友同情一样，然后又急着证明自己有脑子，唱衰 OpenStack 的心不死。对于这些事情，可以联系起来一起看，比如微信圈里疯传的向父母传播虚假信息的诅咒，我想可以用下面一段话来概括：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;王小波在《生命科学与骗术》一文中说：&amp;rdquo;身为一个中国人，由于有独特的历史背景，很难理解科学是什么。我在匹兹堡大学的老师许倬云教授曾说，中国人先把科学当作洪水猛兽，后把它当作呼风唤雨的巫术，直到现在，多数学习科学的人还把它看成宗教来顶礼膜拜，而他自己终于体会到，科学是个不断学习的过程。&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;就像秦王嬴政一样，一生都在寻找长生不老的药，身边很多的人都在妄图找到一劳永逸，也就是说朱元璋的做法，在人们心目中留下了不灭的印象。而且还非常擅长于偷换概念，举两个伪科学：人从一出生就决定了自己能够活多久，人的一生的运动量是定额的&amp;hellip;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;OpenStack 圈内的人大可不必惊慌，SUSE 不想在Linux做万年的老二，更何况老大赚的盆满钵满，妄图竞争！HPE尾大不掉，机构臃肿，决策缓慢，丧失了很多机会。二者都不想死，求变！Mirantis 其实也一样，但是公司未经一定的量，最忌裁员。人性这东西，对于创业来说，不得不慎重的考虑。违背人性的东西，很难得人心。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://image.slidesharecdn.com/opensourcegovernancev2-130501122625-phpapp02/95/why-open-source-governance-matters-2-638.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源赢了-微软投降了&#34;&gt;开源赢了，微软投降了！&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.pcworld.co.nz/article/610739/open-source-has-won-microsoft-has-surrendered/&#34;&gt;Open source has won, and Microsoft has surrendered&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;阅读人类历史的人，会慢慢明白一个道理，历史是往大众化、民主的方向走的。即使是经济也一样，几乎任何事物，一旦获得平民化，让人们能够很容易的获取，就叫做进步。&lt;/p&gt;
+
+&lt;p&gt;软件收取许可费用的这种模式彻底的进入历史舞台，从bill gates 最初收取费用的时候，早期的Hacker们就叫骂声不断，一直存在抵抗者。ok，在微软赚到脚软、手软的2、30年后，开源胜利了，这个代价是否很高？是的，就财务本身来说，会让很多人振腕不已。&lt;/p&gt;
+
+&lt;p&gt;接下来的路，作为软件从业人员，从高冷的圣殿退下，比如IBM、Oracle等那些诅咒开源的曾经辉煌的人们。将比较难以接受。放下你高贵的心态，迎接下一个时代到来。正如本文中结尾处所言：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This isn’t Bill Gates’ or Steve Ballmer’s Microsoft. They were all about total market domination. This is Nadella’s Microsoft, and he wants to work with others.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;aws-继续放大招-mxnet-才是-ai-服务的未来&#34;&gt;AWS 继续放大招，MXNet 才是 AI 服务的未来&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.geekwire.com/2016/amazon-web-services-says-open-source-mxnet-will-foundation-future-ai-services/&#34;&gt;Amazon Web Services says open-source MXNet will be the ‘foundation’ of future AI services&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，没错，AWS 在 AI 上落后于 Google，即MXNet 落后于TensorFlow，而Google 的GCE云计算就押宝于AI服务，希望与AWS进行竞争到底。&lt;/p&gt;
+
+&lt;p&gt;在其中，Google优先一步的便是开源！ 这就是商业战略，AI毕竟是个耗资源的，和平民百姓比较遥远的东西。但是Google再次印证了自己的理想。犹如Gogole地球一样为人们提供好的产品和服务。&lt;/p&gt;
+
+&lt;p&gt;AWS 确实商业化氛围也更加的浓厚，但是IaaS云计算让人追赶确实太难了，因为早已跑的太远。没有人看好EC2、S3，但是赚到盆满钵满！商业的洞见在于满足一部分人的需求，而不仅仅是技术份。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016 11 30)</title>
@@ -1039,75 +1105,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 &lt;p&gt;开始交代了这篇文章的起因，因为在Angular的大会上遇到大神级人物（作简短介绍），然后，在交代采访内容之前，向读者阐述了Angular是个什么东东，有何成就！最后总结开源、技术趋势所成就等。&lt;/p&gt;
 
 &lt;p&gt;对于我而言，我一直在试图尝试寻找开源对于企业的意义，对于某个技术的个体来说的赚钱意义。然后在此寻找自己立足的机会。&lt;strong&gt;The days of charging for upgrades and new features went away with the perpetual, on-premise business models of the past.&lt;/strong&gt; 参与到开源项目中是最好的出路，将项目开源是唯一的出路，作为个体提升价值的地方就是去参与！！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.15)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-15%29/</link>
-      <pubDate>Tue, 15 Nov 2016 15:01:30 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-15%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_crowdvsopen.png?itok=072owz9m&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;capital-one-是如何拥抱开源的&#34;&gt;Capital One 是如何拥抱开源的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/11/capital-one-open-source&#34;&gt;How Capital One is embracing open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;现下的开源成为大势所趋，某种程度上解放了程序员，但是，对于企业来说，开源这班顺风车，究竟该怎么搭，很多公司并没有想好，在犹豫，甚至过分的是在开历史的倒车。即使是硅谷也一样。&lt;/p&gt;
-
-&lt;p&gt;对于企业使用开源的好处是显而易见的。 **lower costs, strong community support, better quality, and more reliability. **&lt;/p&gt;
-
-&lt;p&gt;但是天下没有免费的午餐，总是等着公地的不劳而获，最后是自己出局，无法把握趋势。所以，要想法积极的参与！而这也是我布道的原始动力。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://zdnet2.cbsistatic.com/hub/i/r/2016/05/17/98d0d7e7-8025-4ca1-b503-45d6bab98db0/resize/770xauto/089847944f3df30e046e137017d8df20/hard-drive-failure.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;suse-重点推出旗舰产品开源存储系统&#34;&gt;SUSE 重点推出旗舰产品开源存储系统&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/suse-advances-its-open-source-storage-system/&#34;&gt;SUSE advances its open-source storage system&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;将开源项目做成产品来售卖是有很大学问的，因为这么多年看来，成功的企业凤毛麟角，失败的不计其数。SUSE 历经波折，然而，依然能够苟延残喘，也是有道理的。因为它确实对于产品化有独到之处。&lt;/p&gt;
-
-&lt;p&gt;Ceph 软件定义存储开源项目中的翘楚！Mirantis、红帽几乎三分天下。SUSE 能做出什么来呢？让我们看看其中的门道。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;整合企业的痛点：&lt;a href=&#34;https://github.com/nfs-ganesha/nfs-ganesha/wiki&#34;&gt;NFS Ganesha&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;考虑到上下游的关系：兼容64位 ARM架构&lt;/li&gt;
-&lt;li&gt;兼容自身已有的市场：重点推出Cepf FS，毕竟文件系统也是有市场的，尤其是使用旧的SUSE  Linux 企业版的用户。&lt;/li&gt;
-&lt;li&gt;重视低端用户体验：收购了&lt;a href=&#34;http://openattic.org/home.html&#34;&gt;OpenATTIC&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;现如今的企业必须转型到平台战略&#34;&gt;现如今的企业必须转型到平台战略&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/gregsatell/2016/11/13/today-every-business-must-transform-itself-into-a-platform/#504ff5cc6b09&#34;&gt;Today, Every Business Must Transform Itself Into A Platform&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一篇非常重量级的文章。尽管使用的词汇是很商业的，但是符合开源的未来发展！推荐所有对开放的商业模式有兴趣的人阅读。&lt;/p&gt;
-
-&lt;p&gt;知识经济时代，归根结底是人才的&lt;a href=&#34;http://www.fastcompany.com/34512/war-talent&#34;&gt;竞争&lt;/a&gt;，技术日新月异，企业得找到最能学习的人才，而不是现在掌握了什么的人才！而且还得保持开放，这里举的成功的案例就是Google的机器学习开源项目TenSorFlow的成功。&lt;/p&gt;
-
-&lt;p&gt;再从技术的生态系统来说，世界呈竞争状态，作为用户有太多的选择，然后形成自己的竞争力，例如用AWS的物理网平台、用微软的语音识别和声音认证、再用IBM Watson来做决策。所以必须保持开放。&lt;/p&gt;
-
-&lt;p&gt;Competitive advantage is no longer the sum of all efficiencies, but the sum of all connections.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
