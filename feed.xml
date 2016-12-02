@@ -7,8 +7,72 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 08:27:44 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Dec 2016 22:06:38 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016 12 02)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-02%29/</link>
+      <pubDate>Fri, 02 Dec 2016 22:06:38 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-02%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/11/5-tips-for-developers3-100696309-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;让开发者保持挑战技术的5条建议&#34;&gt;让开发者保持挑战技术的5条建议&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3145643/application-development/5-tips-to-help-developers-keep-up-with-changing-technologies.html&#34;&gt;5 tips to help developers keep up with changing technologies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;无论说什么，先说工资、薪资待遇的事。人们都希望学到新东西，然后加薪是间接的事情。然后才是其它：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Use social media to stay on top of trends&lt;/li&gt;
+&lt;li&gt;Stay skeptical&lt;/li&gt;
+&lt;li&gt;Go to events&lt;/li&gt;
+&lt;li&gt;Consider certifications&lt;/li&gt;
+&lt;li&gt;Participate in open source communities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;开源对企业真的好处多多吗&#34;&gt;开源对企业真的好处多多吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.datamation.com/data-center/open-source-good-for-business.html&#34;&gt;Is Open Source Good for Business?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;相信这是很多人的思路。依旧犹豫不决，尝试从各种案例中寻找到失败。然后说开源不行。像本文这样，列个提纲，好处、坏处对比一下。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/12/img_20161201_102504.jpg?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;aws-发布-blox-用于其-ec2-容器服务的开源工具集&#34;&gt;AWS 发布 Blox，用于其 EC2 容器服务的开源工具集&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/12/01/aws-launches-blox-a-collection-of-open-source-tools-for-the-ec2-container-service/&#34;&gt;AWS launches Blox, a collection of open source tools for the EC2 Container Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我的每日阅读里很少有关于软件发布的信息。为什么我要评价这个了？&lt;/p&gt;
+
+&lt;p&gt;赚到钱的公司，或者准确点将利用开源赚到钱的公司，比如Apple，比如AWS，对于hacker、Geeker是极为友好的，比如命令行，某种程度上讲是故意的取悦于工程师。那么Blox背后所蕴含的哲学就是如此。AWS 一款产品发布后，首先阿谀的就是工程师，比如命令行，比如各种酷炫的SDK。&lt;/p&gt;
+
+&lt;p&gt;云计算，尤其是IaaS 平台，Console相比于这些是低优先级。&lt;/p&gt;
+
+&lt;p&gt;嗯，记得对程序员友好！是第一位的！还要开源，因为是日常用到的工具，顺手最好！能够定制最好！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016 12 01)</title>
@@ -1048,64 +1112,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 &lt;h2 id=&#34;结语&#34;&gt;结语&lt;/h2&gt;
 
 &lt;p&gt;国人受体制化太过于严重，思维严重受阻，这需要一个历程。但也要心存希望！&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.16)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-16%29/</link>
-      <pubDate>Wed, 16 Nov 2016 06:55:44 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-16%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://searchengineland.com/figz/wp-content/seloads/2016/11/common-search-flowchart2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;将搜索带回-pagerank-年代的开源项目-通用搜索&#34;&gt;将搜索带回 PageRank 年代的开源项目———通用搜索&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://searchengineland.com/common-search-open-source-project-bringing-back-pagerank-262736&#34;&gt;Common Search: The open source project bringing back PageRank&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;世界的运转是依赖于信息的，然而，是谁掌控着信息？作为普罗大众的你，该如何去应对这些信息？你所处的环境不是信息匮乏，而是泛滥，该如何筛选？这成为了未来人才想要脱颖而出的必备技能。&lt;/p&gt;
-
-&lt;p&gt;那么此文就是带领我们了解搜索：爬虫、数据存放、分析、前端等大的组件。另外就是哪些免费为大众存放数据的地方，比如AWS等，免费的后面总有人买单！！而买单的人的目的，我们无法判定，也不该道德判定？对吗？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/01/nothing-to-fear-thinkstock-100563717-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;linux-基金会双管齐下-预防哪些-捣蛋-软件&#34;&gt;Linux 基金会双管齐下，预防哪些“捣蛋“软件&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3141305/open-source-tools/linux-foundation-doubles-down-on-support-for-tamper-free-software.html&#34;&gt;Linux Foundation doubles down on support for tamper-free software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我喜欢这篇文章的配图，让我想起了诺兰的《蝙蝠侠》系列，恐惧对于蝙蝠侠的成长来说可谓是至关重要，从害怕，到无畏，再到敬畏。&lt;/p&gt;
-
-&lt;p&gt;开源界有时候也得照顾下贪玩的人性！总是有些捣蛋鬼喜欢恶作剧，比如前一阵子发生的Linux Mint仓库服务器被攻击吗？以及2003年GNU的服务器被黑吗？以及不计其数的发生的事情。总得有人站出来，既然无法杜绝，不如做好预防准备，&lt;a href=&#34;https://reproducible-builds.org&#34;&gt;可再生构建程序&lt;/a&gt;顺势而生！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;angular-创始人-miško-hevery-谈开源语言是如何重新定义企业级软件的&#34;&gt;Angular 创始人 Miško Hevery 谈开源语言是如何重新定义企业级软件的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/louiscolumbus/2016/11/14/misko-hevery-inventor-of-angular-and-how-open-source-languages-are-redefining-enterprise-software/#5d6551314351&#34;&gt;Miško Hevery, Inventor of Angular And How Open Source Languages Are Redefining Enterprise Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;福布斯出品，必是精品。这是一篇典型的范文！毫无瑕疵！软文就应该这么写。我们不妨分析下结构：&lt;/p&gt;
-
-&lt;p&gt;开始交代了这篇文章的起因，因为在Angular的大会上遇到大神级人物（作简短介绍），然后，在交代采访内容之前，向读者阐述了Angular是个什么东东，有何成就！最后总结开源、技术趋势所成就等。&lt;/p&gt;
-
-&lt;p&gt;对于我而言，我一直在试图尝试寻找开源对于企业的意义，对于某个技术的个体来说的赚钱意义。然后在此寻找自己立足的机会。&lt;strong&gt;The days of charging for upgrades and new features went away with the perpetual, on-premise business models of the past.&lt;/strong&gt; 参与到开源项目中是最好的出路，将项目开源是唯一的出路，作为个体提升价值的地方就是去参与！！&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     

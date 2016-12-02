@@ -10,6 +10,70 @@
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016 12 02)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-02%29/</link>
+      <pubDate>Fri, 02 Dec 2016 22:06:38 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-02%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/11/5-tips-for-developers3-100696309-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;让开发者保持挑战技术的5条建议&#34;&gt;让开发者保持挑战技术的5条建议&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3145643/application-development/5-tips-to-help-developers-keep-up-with-changing-technologies.html&#34;&gt;5 tips to help developers keep up with changing technologies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;无论说什么，先说工资、薪资待遇的事。人们都希望学到新东西，然后加薪是间接的事情。然后才是其它：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Use social media to stay on top of trends&lt;/li&gt;
+&lt;li&gt;Stay skeptical&lt;/li&gt;
+&lt;li&gt;Go to events&lt;/li&gt;
+&lt;li&gt;Consider certifications&lt;/li&gt;
+&lt;li&gt;Participate in open source communities&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;开源对企业真的好处多多吗&#34;&gt;开源对企业真的好处多多吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.datamation.com/data-center/open-source-good-for-business.html&#34;&gt;Is Open Source Good for Business?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;相信这是很多人的思路。依旧犹豫不决，尝试从各种案例中寻找到失败。然后说开源不行。像本文这样，列个提纲，好处、坏处对比一下。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/12/img_20161201_102504.jpg?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;aws-发布-blox-用于其-ec2-容器服务的开源工具集&#34;&gt;AWS 发布 Blox，用于其 EC2 容器服务的开源工具集&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/12/01/aws-launches-blox-a-collection-of-open-source-tools-for-the-ec2-container-service/&#34;&gt;AWS launches Blox, a collection of open source tools for the EC2 Container Service&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我的每日阅读里很少有关于软件发布的信息。为什么我要评价这个了？&lt;/p&gt;
+
+&lt;p&gt;赚到钱的公司，或者准确点将利用开源赚到钱的公司，比如Apple，比如AWS，对于hacker、Geeker是极为友好的，比如命令行，某种程度上讲是故意的取悦于工程师。那么Blox背后所蕴含的哲学就是如此。AWS 一款产品发布后，首先阿谀的就是工程师，比如命令行，比如各种酷炫的SDK。&lt;/p&gt;
+
+&lt;p&gt;云计算，尤其是IaaS 平台，Console相比于这些是低优先级。&lt;/p&gt;
+
+&lt;p&gt;嗯，记得对程序员友好！是第一位的！还要开源，因为是日常用到的工具，顺手最好！能够定制最好！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016 12 01)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-01%29/</link>
       <pubDate>Thu, 01 Dec 2016 08:27:44 +0800</pubDate>
@@ -941,76 +1005,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 &lt;p&gt;再从技术的生态系统来说，世界呈竞争状态，作为用户有太多的选择，然后形成自己的竞争力，例如用AWS的物理网平台、用微软的语音识别和声音认证、再用IBM Watson来做决策。所以必须保持开放。&lt;/p&gt;
 
 &lt;p&gt;Competitive advantage is no longer the sum of all efficiencies, but the sum of all connections.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.12)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-12%29/</link>
-      <pubDate>Sat, 12 Nov 2016 06:43:02 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-12%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://udemy-images.udemy.com/course/750x422/514422_242b.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;java-开源十年-依旧争议不断&#34;&gt;Java 开源十年，依旧争议不断&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworld.com/article/3138505/java/open-source-java-at-10-big-benefits-but-detractors-remain.html&#34;&gt;After a decade, open source Java is still controversial&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;正如前 Java 布道师 Reza Rahman 所总结的，Java 若不是开源，真的无法想象今天是什么样子。开源对于Java 的发展可谓是至关重要的决定。&lt;/p&gt;
-
-&lt;p&gt;但是，Sun当年选择的协议，乃至后来的Oracle，将Java的控制权牢牢的掌握着，去年的Android Google和Oracle的官司，想必还记忆犹新吧。&lt;/p&gt;
-
-&lt;p&gt;Java 已经20多年了，基于它的框架、应用都成了云原生应用的阻力了。该换换口味了。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;apache-cassandra-项目发生的-撕逼-事件&#34;&gt;Apache Cassandra 项目发生的“撕逼”事件&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/the-battle-for-apache-cassandra-highlights-major-problem-with-open-source-projects/&#34;&gt;The battle for Apache Cassandra highlights major problem with open source projects&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;首先，声明以下此文是商业公司Datastax妄图对自己做出辩解！作为一家媒体网站，没有做到中立，客观的进行评价，是件颇为遗憾的事情。&lt;/p&gt;
-
-&lt;p&gt;我很反感说开源赚钱很难，比如文章谈到的：“Selling open source is hard. Really hard. ”，开源的初衷并不是让你去赚钱的，你能够找到商业模式，弥补其中的空隙，那是你自己的事情，和中立组织有何关系？竟然能恬不知耻的说出这事了：“The ASF may be unwittingly making it harder.”&lt;/p&gt;
-
-&lt;p&gt;过分商业化的开源，还是会闹出很多纠纷的，OpenStack 相信也会有那么一天，ASF 已经做的够好的了。可是总是有太多的投机者，打着开源的幌子，然后异想天开的以为开源之后即可财源滚滚，一下子就成了某某界的红帽了。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-592663558.png?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;需要从netflix及其外包的技术中汲取灵感的5大行业&#34;&gt;需要从Netflix及其外包的技术中汲取灵感的5大行业&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/10/5-industries-that-should-take-a-cue-from-netflix-and-crowdsource-parts-of-its-tech/&#34;&gt;Five industries that should take a cue from Netflix and crowdsource parts of its tech&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Netflix Prize 可谓是鼎鼎大名的商业成功案例了。能够为人们推荐影片，以数学知识来替代人本身的思考和寻找，无论从哪个角度讲都是成功的。&lt;/p&gt;
-
-&lt;p&gt;这才是媒体应该去做的，那么Netflix 的如此做法，那几个行业该从善如流了呢？数字安全、健康和药理、广告和营销、交通和运输、精准农业。是的，数据化的时代，如何挖掘出有益于人类的事情，才是Netflix这样的模式成功的至关重要的事情。引用几段文中强调的话：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;If we were able to input every piece of data from every drug study, we could potentially make better predictions about drugs.&lt;/li&gt;
-&lt;li&gt;Machine learning could create a more efficient transportation environment and experience.&lt;/li&gt;
-&lt;li&gt;Ten years ago, the Netflix Prize used data and science to change recommendation engines for the better. Algorithmic intelligence changed the things we watched on our screens.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;相信世界变得更加美好！相信也会让我们更加的数字痴呆化。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
