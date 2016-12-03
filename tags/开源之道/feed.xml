@@ -10,6 +10,83 @@
     <atom:link href="http://lijiangsheng1.github.io/tags/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016 12 03)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-03%29/</link>
+      <pubDate>Sat, 03 Dec 2016 21:04:00 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-03%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;所有的公司都是技术公司-看开源和-inner-source-是如何改变it领域的&#34;&gt;所有的公司都是技术公司：看开源和 Inner Source 是如何改变IT领域的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cxoinsight/all-companies-are-tech-companies-how-open-source-and-inner-source-are-changing-the-it-landscape-nid-23378-cid-92.html&#34;&gt;All companies Are Tech Companies：How Open Source and Inner Source are changing the IT  Landscape&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;毋需赘言，开源已经用实际行动证明其是如何成功的了。那么保守的企业该如何处理？该如何处理自身日渐臃肿的机构和无法满足的业务需求？成本巨高不下？&lt;/p&gt;
+
+&lt;p&gt;InnerSource 是个不错的解决之道，既然知识产权左顾右盼，不如暂时放下争执，先在内部实施开源的方法论和流程。用事实来证明现有的员工可以胜任日渐增长的需求变革。&lt;/p&gt;
+
+&lt;p&gt;本文最牛的一句话是：&lt;strong&gt;Capital One 认为自己是一家技术公司，不过恰好是在一家银行罢了！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fortunedotcom.files.wordpress.com/2016/11/aws-reinvent-2016-1.jpg?w=840&amp;amp;h=485&amp;amp;crop=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;亚马逊招募了一位开源的大拿&#34;&gt;亚马逊招募了一位开源的大拿&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/12/01/amazon-open-source-guru/&#34;&gt;Amazon Brings On a New Open Source Guru&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Zaheda Bhorat 一度在 Salesforce，Google工作过的开源战略官。AWS不久前还招募了&lt;a href=&#34;http://www.allthingsdistributed.com/2016/10/welcoming-adrian-cockcroft-to-tthe-aws-team.html&#34;&gt;Adrian cockroft&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;正如文中所言，AWS也要在开源方面发力了，虽然AWS一直以来都是开源的最大受益者，比如其EC2服务使用的就是Xen虚拟化开源技术，其对社区的态度一直保持冷淡。直到AI服务落后。现在才开始发力了。&lt;/p&gt;
+
+&lt;p&gt;AWS 这个时候开始玩开源战略，一点也不晚！其实也就是争取更多的开发者，占领更高的高地，打时间差，赚取更多的利润。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/Community.jpg?itok=qR10fysY&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何处理好代码之外的社区&#34;&gt;如何处理好代码之外的社区&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/12/community-over-code&#34;&gt;How to care for the community over the code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Joe Brockmeier 在 all things open 2016 的会上回答了一个问题：&lt;strong&gt;企业如何高效的社区一起工作。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我想我没有必要翻译，我列出来好的社区应该有那几条：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Always remember that core community principles of transparency and openness are necessary.&lt;/li&gt;
+&lt;li&gt;Mentors are key to showing people the ropes and helping new community members succeed. Nobody in a community is irreplaceable.&lt;/li&gt;
+&lt;li&gt;Remember that all contributors matter. It&amp;rsquo;s a bummer when a community only acknowledges coding contributions. You need UX, design, documentation, marketing, and more to have a successful community.&lt;/li&gt;
+&lt;li&gt;One size can&amp;rsquo;t fit all&lt;/li&gt;
+&lt;li&gt;Have clear guidelines&lt;/li&gt;
+&lt;li&gt;Have Contributor License Agreements (CLA) that avoid terms that make one entity &amp;ldquo;more equal than others&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;State how a user becomes a contributor&lt;/li&gt;
+&lt;li&gt;State how a contributor becomes a core contributor or earns rights&lt;/li&gt;
+&lt;li&gt;Follow the golden rule: Think of what behavior you&amp;rsquo;d want to see in a community and be that&lt;/li&gt;
+&lt;li&gt;Emphasize diversity and inclusivity in both skills and people&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;基础设施那块，我就不再啰嗦了。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016 12 02)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-02%29/</link>
       <pubDate>Fri, 02 Dec 2016 22:06:38 +0800</pubDate>
@@ -936,75 +1013,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 &lt;p&gt;开始交代了这篇文章的起因，因为在Angular的大会上遇到大神级人物（作简短介绍），然后，在交代采访内容之前，向读者阐述了Angular是个什么东东，有何成就！最后总结开源、技术趋势所成就等。&lt;/p&gt;
 
 &lt;p&gt;对于我而言，我一直在试图尝试寻找开源对于企业的意义，对于某个技术的个体来说的赚钱意义。然后在此寻找自己立足的机会。&lt;strong&gt;The days of charging for upgrades and new features went away with the perpetual, on-premise business models of the past.&lt;/strong&gt; 参与到开源项目中是最好的出路，将项目开源是唯一的出路，作为个体提升价值的地方就是去参与！！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.15)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-15%29/</link>
-      <pubDate>Tue, 15 Nov 2016 15:01:30 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-15%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_crowdvsopen.png?itok=072owz9m&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;capital-one-是如何拥抱开源的&#34;&gt;Capital One 是如何拥抱开源的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/business/16/11/capital-one-open-source&#34;&gt;How Capital One is embracing open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;现下的开源成为大势所趋，某种程度上解放了程序员，但是，对于企业来说，开源这班顺风车，究竟该怎么搭，很多公司并没有想好，在犹豫，甚至过分的是在开历史的倒车。即使是硅谷也一样。&lt;/p&gt;
-
-&lt;p&gt;对于企业使用开源的好处是显而易见的。 **lower costs, strong community support, better quality, and more reliability. **&lt;/p&gt;
-
-&lt;p&gt;但是天下没有免费的午餐，总是等着公地的不劳而获，最后是自己出局，无法把握趋势。所以，要想法积极的参与！而这也是我布道的原始动力。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://zdnet2.cbsistatic.com/hub/i/r/2016/05/17/98d0d7e7-8025-4ca1-b503-45d6bab98db0/resize/770xauto/089847944f3df30e046e137017d8df20/hard-drive-failure.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;suse-重点推出旗舰产品开源存储系统&#34;&gt;SUSE 重点推出旗舰产品开源存储系统&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/suse-advances-its-open-source-storage-system/&#34;&gt;SUSE advances its open-source storage system&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;将开源项目做成产品来售卖是有很大学问的，因为这么多年看来，成功的企业凤毛麟角，失败的不计其数。SUSE 历经波折，然而，依然能够苟延残喘，也是有道理的。因为它确实对于产品化有独到之处。&lt;/p&gt;
-
-&lt;p&gt;Ceph 软件定义存储开源项目中的翘楚！Mirantis、红帽几乎三分天下。SUSE 能做出什么来呢？让我们看看其中的门道。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;整合企业的痛点：&lt;a href=&#34;https://github.com/nfs-ganesha/nfs-ganesha/wiki&#34;&gt;NFS Ganesha&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;考虑到上下游的关系：兼容64位 ARM架构&lt;/li&gt;
-&lt;li&gt;兼容自身已有的市场：重点推出Cepf FS，毕竟文件系统也是有市场的，尤其是使用旧的SUSE  Linux 企业版的用户。&lt;/li&gt;
-&lt;li&gt;重视低端用户体验：收购了&lt;a href=&#34;http://openattic.org/home.html&#34;&gt;OpenATTIC&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;现如今的企业必须转型到平台战略&#34;&gt;现如今的企业必须转型到平台战略&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/gregsatell/2016/11/13/today-every-business-must-transform-itself-into-a-platform/#504ff5cc6b09&#34;&gt;Today, Every Business Must Transform Itself Into A Platform&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是一篇非常重量级的文章。尽管使用的词汇是很商业的，但是符合开源的未来发展！推荐所有对开放的商业模式有兴趣的人阅读。&lt;/p&gt;
-
-&lt;p&gt;知识经济时代，归根结底是人才的&lt;a href=&#34;http://www.fastcompany.com/34512/war-talent&#34;&gt;竞争&lt;/a&gt;，技术日新月异，企业得找到最能学习的人才，而不是现在掌握了什么的人才！而且还得保持开放，这里举的成功的案例就是Google的机器学习开源项目TenSorFlow的成功。&lt;/p&gt;
-
-&lt;p&gt;再从技术的生态系统来说，世界呈竞争状态，作为用户有太多的选择，然后形成自己的竞争力，例如用AWS的物理网平台、用微软的语音识别和声音认证、再用IBM Watson来做决策。所以必须保持开放。&lt;/p&gt;
-
-&lt;p&gt;Competitive advantage is no longer the sum of all efficiencies, but the sum of all connections.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

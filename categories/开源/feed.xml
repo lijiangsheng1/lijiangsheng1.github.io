@@ -10,6 +10,83 @@
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016 12 03)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-03%29/</link>
+      <pubDate>Sat, 03 Dec 2016 21:04:00 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-03%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;所有的公司都是技术公司-看开源和-inner-source-是如何改变it领域的&#34;&gt;所有的公司都是技术公司：看开源和 Inner Source 是如何改变IT领域的&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cxoinsight/all-companies-are-tech-companies-how-open-source-and-inner-source-are-changing-the-it-landscape-nid-23378-cid-92.html&#34;&gt;All companies Are Tech Companies：How Open Source and Inner Source are changing the IT  Landscape&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;毋需赘言，开源已经用实际行动证明其是如何成功的了。那么保守的企业该如何处理？该如何处理自身日渐臃肿的机构和无法满足的业务需求？成本巨高不下？&lt;/p&gt;
+
+&lt;p&gt;InnerSource 是个不错的解决之道，既然知识产权左顾右盼，不如暂时放下争执，先在内部实施开源的方法论和流程。用事实来证明现有的员工可以胜任日渐增长的需求变革。&lt;/p&gt;
+
+&lt;p&gt;本文最牛的一句话是：&lt;strong&gt;Capital One 认为自己是一家技术公司，不过恰好是在一家银行罢了！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://fortunedotcom.files.wordpress.com/2016/11/aws-reinvent-2016-1.jpg?w=840&amp;amp;h=485&amp;amp;crop=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;亚马逊招募了一位开源的大拿&#34;&gt;亚马逊招募了一位开源的大拿&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/12/01/amazon-open-source-guru/&#34;&gt;Amazon Brings On a New Open Source Guru&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Zaheda Bhorat 一度在 Salesforce，Google工作过的开源战略官。AWS不久前还招募了&lt;a href=&#34;http://www.allthingsdistributed.com/2016/10/welcoming-adrian-cockcroft-to-tthe-aws-team.html&#34;&gt;Adrian cockroft&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;正如文中所言，AWS也要在开源方面发力了，虽然AWS一直以来都是开源的最大受益者，比如其EC2服务使用的就是Xen虚拟化开源技术，其对社区的态度一直保持冷淡。直到AI服务落后。现在才开始发力了。&lt;/p&gt;
+
+&lt;p&gt;AWS 这个时候开始玩开源战略，一点也不晚！其实也就是争取更多的开发者，占领更高的高地，打时间差，赚取更多的利润。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/Community.jpg?itok=qR10fysY&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;如何处理好代码之外的社区&#34;&gt;如何处理好代码之外的社区&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/12/community-over-code&#34;&gt;How to care for the community over the code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Joe Brockmeier 在 all things open 2016 的会上回答了一个问题：&lt;strong&gt;企业如何高效的社区一起工作。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我想我没有必要翻译，我列出来好的社区应该有那几条：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Always remember that core community principles of transparency and openness are necessary.&lt;/li&gt;
+&lt;li&gt;Mentors are key to showing people the ropes and helping new community members succeed. Nobody in a community is irreplaceable.&lt;/li&gt;
+&lt;li&gt;Remember that all contributors matter. It&amp;rsquo;s a bummer when a community only acknowledges coding contributions. You need UX, design, documentation, marketing, and more to have a successful community.&lt;/li&gt;
+&lt;li&gt;One size can&amp;rsquo;t fit all&lt;/li&gt;
+&lt;li&gt;Have clear guidelines&lt;/li&gt;
+&lt;li&gt;Have Contributor License Agreements (CLA) that avoid terms that make one entity &amp;ldquo;more equal than others&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;State how a user becomes a contributor&lt;/li&gt;
+&lt;li&gt;State how a contributor becomes a core contributor or earns rights&lt;/li&gt;
+&lt;li&gt;Follow the golden rule: Think of what behavior you&amp;rsquo;d want to see in a community and be that&lt;/li&gt;
+&lt;li&gt;Emphasize diversity and inclusivity in both skills and people&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;基础设施那块，我就不再啰嗦了。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016 12 02)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-02%29/</link>
       <pubDate>Fri, 02 Dec 2016 22:06:38 +0800</pubDate>
@@ -998,64 +1075,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 &lt;h2 id=&#34;结语&#34;&gt;结语&lt;/h2&gt;
 
 &lt;p&gt;国人受体制化太过于严重，思维严重受阻，这需要一个历程。但也要心存希望！&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.16)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-16%29/</link>
-      <pubDate>Wed, 16 Nov 2016 06:55:44 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-16%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://searchengineland.com/figz/wp-content/seloads/2016/11/common-search-flowchart2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;将搜索带回-pagerank-年代的开源项目-通用搜索&#34;&gt;将搜索带回 PageRank 年代的开源项目———通用搜索&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://searchengineland.com/common-search-open-source-project-bringing-back-pagerank-262736&#34;&gt;Common Search: The open source project bringing back PageRank&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;世界的运转是依赖于信息的，然而，是谁掌控着信息？作为普罗大众的你，该如何去应对这些信息？你所处的环境不是信息匮乏，而是泛滥，该如何筛选？这成为了未来人才想要脱颖而出的必备技能。&lt;/p&gt;
-
-&lt;p&gt;那么此文就是带领我们了解搜索：爬虫、数据存放、分析、前端等大的组件。另外就是哪些免费为大众存放数据的地方，比如AWS等，免费的后面总有人买单！！而买单的人的目的，我们无法判定，也不该道德判定？对吗？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2015/01/nothing-to-fear-thinkstock-100563717-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;linux-基金会双管齐下-预防哪些-捣蛋-软件&#34;&gt;Linux 基金会双管齐下，预防哪些“捣蛋“软件&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3141305/open-source-tools/linux-foundation-doubles-down-on-support-for-tamper-free-software.html&#34;&gt;Linux Foundation doubles down on support for tamper-free software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我喜欢这篇文章的配图，让我想起了诺兰的《蝙蝠侠》系列，恐惧对于蝙蝠侠的成长来说可谓是至关重要，从害怕，到无畏，再到敬畏。&lt;/p&gt;
-
-&lt;p&gt;开源界有时候也得照顾下贪玩的人性！总是有些捣蛋鬼喜欢恶作剧，比如前一阵子发生的Linux Mint仓库服务器被攻击吗？以及2003年GNU的服务器被黑吗？以及不计其数的发生的事情。总得有人站出来，既然无法杜绝，不如做好预防准备，&lt;a href=&#34;https://reproducible-builds.org&#34;&gt;可再生构建程序&lt;/a&gt;顺势而生！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;angular-创始人-miško-hevery-谈开源语言是如何重新定义企业级软件的&#34;&gt;Angular 创始人 Miško Hevery 谈开源语言是如何重新定义企业级软件的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/louiscolumbus/2016/11/14/misko-hevery-inventor-of-angular-and-how-open-source-languages-are-redefining-enterprise-software/#5d6551314351&#34;&gt;Miško Hevery, Inventor of Angular And How Open Source Languages Are Redefining Enterprise Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;福布斯出品，必是精品。这是一篇典型的范文！毫无瑕疵！软文就应该这么写。我们不妨分析下结构：&lt;/p&gt;
-
-&lt;p&gt;开始交代了这篇文章的起因，因为在Angular的大会上遇到大神级人物（作简短介绍），然后，在交代采访内容之前，向读者阐述了Angular是个什么东东，有何成就！最后总结开源、技术趋势所成就等。&lt;/p&gt;
-
-&lt;p&gt;对于我而言，我一直在试图尝试寻找开源对于企业的意义，对于某个技术的个体来说的赚钱意义。然后在此寻找自己立足的机会。&lt;strong&gt;The days of charging for upgrades and new features went away with the perpetual, on-premise business models of the past.&lt;/strong&gt; 参与到开源项目中是最好的出路，将项目开源是唯一的出路，作为个体提升价值的地方就是去参与！！&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
