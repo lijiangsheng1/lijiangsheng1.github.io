@@ -7,8 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 03 Dec 2016 21:04:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Dec 2016 08:57:37 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016 12 04)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-04%29/</link>
+      <pubDate>Sun, 04 Dec 2016 08:57:37 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-04%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;拥抱开源还是拒绝-是个问题&#34;&gt;拥抱开源还是拒绝，是个问题！&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cioviewpoint/to-go-open-or-not-to-go-open-that-is-the-question-nid-23462-cid-92.html&#34;&gt;To  Go Open or Not To Go Open ,that is the question&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;谁可以拒绝得了免费和廉价？开源是如此的流行，突然之间冒出了很多的专家。&lt;/p&gt;
+
+&lt;p&gt;拥抱还是拒绝？程序员们也在成长和思考，也在试图在主流的声音中发出自己的波段。用代码说话，犹如Archsummit经常看到的标题：移动互联网时代，如何扛住瞬间1亿次的请求。而背后使用的都是开源软件。&lt;/p&gt;
+
+&lt;p&gt;细思恐极，本土那么多公司和企业都在基于开源项目做开发，然后贡献到上游的却只是凤毛麟角。这是个不得不思考的问题的。秘方文化？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;追求创新&#34;&gt;追求创新&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cxoinsight/striving-for-innovation-nid-23386-cid-92.html&#34;&gt;Striving for Innovation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是来自 Hortonworks 创始人的一个分享。开放所带来的创新究竟有令人惊奇？在开源成为事实上的标准后。&lt;/p&gt;
+
+&lt;p&gt;后开源时代，我们该如何对待？嗯，应该在其他地方挖掘价值。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016 12 03)</title>
@@ -1002,73 +1044,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 &lt;p&gt;之所以选这篇文章，是因为图片很棒，一图胜千言，有的时候确实是真实情景。&lt;/p&gt;
 
 &lt;p&gt;我也不想多讲许多，引用一句点题之句:&lt;strong&gt;Open Source is becoming the de facto standard for Private Cloud implementations as business benefits and innovation far outpace proprietary platforms.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.17)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-17%29/</link>
-      <pubDate>Thu, 17 Nov 2016 08:55:50 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-17%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://static.seattletimes.com/wp-content/uploads/2016/11/79a0fa5a-ac29-11e6-8658-f19bfd35e388-1560x877.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;微软加入linux基金会&#34;&gt;微软加入Linux基金会&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.seattletimes.com/business/microsoft/microsoft-joins-linux-foundation-in-another-nod-to-open-source-code/&#34;&gt;Microsoft joins Linux Foundation in another nod to open-source code&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这个新闻昨晚没朋友圈刷屏，今日头条也找业内人士报道了此事。当然，如此重大的开源事件，我也不例外。&lt;/p&gt;
-
-&lt;p&gt;微软拥抱开源的决心，确实比我们所有人预料的都坚决。但是加入基金会本身也就是贡献一些钱而已。试图掌控一些项目的走向，制定一些兼容性的标准等等。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://news.microsoft.com/2016/11/16/microsoft-contributes-to-open-ecosystem-by-joining-linux-foundation-and-welcoming-google-to-the-net-community/#sm.000009jxj9lkw3eq7t5ugkw3o667c&#34;&gt;微软的官方声明&lt;/a&gt;，终究是件好事情。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;inner-source-和-软件交付&#34;&gt;Inner Source 和 软件交付&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://news.sys-con.com/node/3944789&#34;&gt;Inner Source and Software Delivery | @DevOpsSummit &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我个人以为Inner Source可能是一个开源在现在企业的一个机会，所以我在今年的开源社举办的会议上分享了有关Inner Source 的内容。但是，这么一看，我还是落后，文中的&lt;a href=&#34;www.collab.net.&#34;&gt;collab.net&lt;/a&gt; 连协作软件都做出来了。&lt;/p&gt;
-
-&lt;p&gt;当遇到文化和制度的障碍的时候，工具又可能成为突破的一把利器。应该深度学习之。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/11/party-like-its-1999-100693970-large.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;现在的开源犹如回到1999年的互联网泡沫&#34;&gt;现在的开源犹如回到1999年的互联网泡沫&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.infoworld.com/article/3141651/open-source-tools/party-like-its-1999.html&#34;&gt;Party like it’s 1999&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;熟悉IT历史的人，应该对于.com泡沫记忆犹新，那时候融资是一件非常简单的事情。可是现在情况变了，哪些狂欢的日子变了。哪些开源的人们是不是应该仔细的考虑一下下面几个问题：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;那部分选择开源？&lt;/li&gt;
-&lt;li&gt;打算怎么赚钱？&lt;/li&gt;
-&lt;li&gt;Are you building an ecosystem around your product,&lt;/li&gt;
-&lt;li&gt;how are you going to nurture that without alienating other players in your ecosystem when you start making money from your open source IP?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;引用文中的一句话：** Developers don’t love anything more than an open source product where they can look under the hood and tinker.** 当年的Bob Young就是看到了这点，创造了今天的红帽。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
