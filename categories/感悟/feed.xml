@@ -10,6 +10,48 @@
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016 12 05)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-05%29/</link>
+      <pubDate>Mon, 05 Dec 2016 08:36:39 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-05%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;永远不要从google市场之外的地方下载android应用&#34;&gt;永远不要从Google市场之外的地方下载Android应用&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.wired.com/2016/12/never-ever-ever-download-android-apps-outside-google-play/&#34;&gt;Never Ever (Ever) Download Android Apps Outside of Google Play&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这个又回到了休克疗法上了，安全、信任这些社会保障，是必须有一个值得托付的团体去做的，不能是一锅粥，乱炖！&lt;/p&gt;
+
+&lt;p&gt;上周六在采访做app分发的朋友，就提到了移动互联网的app红利时代已经过去，绝大多数的应用也趋于稳定，是的，一统天下的值得托付的市场应时而生。。。挺扯的一句话，Google Play 原汁原味。&lt;/p&gt;
+
+&lt;p&gt;可惜上述说的是中国之外的事情，本土的话，可能还要经历很长的混乱期。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;开源的malaria帮助学生验证toxoplasmosis药物&#34;&gt;开源的Malaria帮助学生验证toxoplasmosis药物&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.geektime.com/2016/12/04/open-source-malaria-helps-students-with-proof-of-concept-toxoplasmosis-pill/&#34;&gt;Open Source Malaria helps students with proof of concept toxoplasmosis pill&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是开源的概念扩展到其他领域的典型案例。制药这种暴利的行业必须被颠覆，必须将配方全部公开，必须将灰色的地带给透明化了。这涉及到人类基本的尊严！&lt;/p&gt;
+
+&lt;p&gt;因为是非软件领域，所以很多东西不能完全读懂。但是还是硬着头皮上。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016 12 04)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-04%29/</link>
       <pubDate>Sun, 04 Dec 2016 08:57:37 +0800</pubDate>
@@ -976,73 +1018,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 &lt;p&gt;是的，一个开源项目不是说随意放出点代码就可以了。其实，这只是冰山的露出水面的一小部分而已。社区建设、提交规则、晋升制度、公平组织、品牌建设、宣传使用、布道大使等等诸多需要考虑的问题，一个开源的成功，是需要做很多工作的，不可能一蹴而就！&lt;/p&gt;
 
 &lt;p&gt;本土的文化中，缺少版权意识以及相应的法律保护，加上自古以来民间的秘方文化，开源这件事本身就被大家认为是低等的、劣质的。还是那句话：“西方带来的不仅仅是知识本身，还有产生知识的思考方式。” 身边太多的专注于技能本身，不敢越雷池一步。深恐陷入什么似的。而这一点才是最为让人痛心和恐怖的事情。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.18)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-18%29/</link>
-      <pubDate>Fri, 18 Nov 2016 07:19:29 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-18%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://zdnet4.cbsistatic.com/hub/i/r/2016/08/01/f54d221b-dc12-4fdb-984c-f8b790472c92/resize/770xauto/f8df47e5022bdebe4b58476005b68228/2012-10-18-01-white-house-620x399.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;图片说明：开源真的能让美国政府节省几十亿美金？&lt;/p&gt;
-
-&lt;h3 id=&#34;开源在政府的信息技术-除了省钱之外还有更多&#34;&gt;开源在政府的信息技术：除了省钱之外还有更多&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/open-source-in-government-it-it-is-about-savings-but-thats-not-the-whole-story/&#34;&gt;Open source in government IT: It is about savings but that&amp;rsquo;s not the whole story&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;荷兰政府在10月份也颁布了政府使用开源软件。似乎民主政府都在想办法省钱。但是真的能省吗？我相信很多人会产生疑问，但是不试试又怎么能知道了呢？考虑一件关于人类集体的事情远远没有那么的简单，更何况是政府这种政治的产物。比如开放的文档格式标准就让人头疼不已。但是，只要为之奋斗，努力前行，认为是做正确的事情，希望就在，就又可能成功。&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;It really is amazing when you level the playing field and drop the barriers, the people who come out and want to play, they&amp;rsquo;ve had some amazing ideas,&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-678912279.jpg?w=1294&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源和协作已成常态&#34;&gt;开源和协作已成常态&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/17/strange-days-indeed-2/&#34;&gt;Open source and coopetition are the new normal&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这个月过于颠覆世人，一向强硬的微软加入Linux基金会，将真爱进行到底，然后就是高冷的Google加入.NET阵营。这让很多人不得不感慨：&lt;strong&gt;Strange days, indeed.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;文中提到的几个观点，适兕颇为赞同：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;技术变得日益复杂，其快速的增长使得没有任何一家单独的公司能够提供整体的解决方案，（或者说做到面面俱到）。&lt;/li&gt;
-&lt;li&gt;或许更为重要的是，用户自己的选择！没有人愿意被一家供应商所绑定，他们也期望interoperability。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;留给问题，IT该如何创新？一定不是绝境！一定别有洞天，该如何去寻找？&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.ciol.com/wp-content/uploads/2016/11/ID-100159494.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源云和商业云-智者之选&#34;&gt;开源云和商业云：智者之选&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.ciol.com/open-source-vs-proprietary-cloud-choose-wisely/&#34;&gt;Open Source vs Proprietary Cloud: Choose Wisely&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;之所以选这篇文章，是因为图片很棒，一图胜千言，有的时候确实是真实情景。&lt;/p&gt;
-
-&lt;p&gt;我也不想多讲许多，引用一句点题之句:&lt;strong&gt;Open Source is becoming the de facto standard for Private Cloud implementations as business benefits and innovation far outpace proprietary platforms.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
