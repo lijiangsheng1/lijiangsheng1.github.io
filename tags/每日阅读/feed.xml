@@ -10,6 +10,60 @@
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016 12 06)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-06%29/</link>
+      <pubDate>Tue, 06 Dec 2016 09:07:47 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-06%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://dataconomy.com/wp-content/uploads/2016/12/open-e1480700501992.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;h3 id=&#34;技术可以将人从被工资所奴役的状态下解放出来&#34;&gt;技术可以将人从被工资所奴役的状态下解放出来&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://dataconomy.com/xavier-damman-open-collective/&#34;&gt;“TECHNOLOGY CAN FREE PEOPLE FROM WAGE SLAVERY” &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一家非常有想法的创业公司！对于开源有着独特的理解！围绕开源协作的方式而创造的工具，诸如开发代码、举办meetup、研讨会等等都可以。&lt;/p&gt;
+
+&lt;p&gt;此人细分开源，以将人从工资中解放出来，这是对于开源的深刻理解，虽然没有Stallman那么的自由，但是如果能够将自己从工资中解放出来，按照自己的方式去工作。工作只有一个目的，创造更加美好的世界。那么似乎看起来世界是蛮有希望的。&lt;/p&gt;
+
+&lt;p&gt;now I think the biggest opportunities are applying all the things we learned to auto industries in addition to applying the philosophy of open source to those industries.  开源之道，将成为社会高效的解决途径之一。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;openai-deepmind-开源的人工智能训练平台&#34;&gt;OpenAI, DeepMind 开源的人工智能训练平台&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/openai-deepmind-open-source-ai-training-platforms/&#34;&gt;OpenAI, DeepMind open source AI training platforms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;OpenAI 的背后是埃隆马斯克、Amazon，DeepMind就是大名鼎鼎的Google的产品了。对于这篇稿子我只想说，人工智能似乎就要来临。该如何判断？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2013/12/donation-box-100221101-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;这个假期支持开源项目&#34;&gt;这个假期支持开源项目&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.pcworld.com/article/3146345/linux/support-open-source-projects-this-giving-season.html&#34;&gt;Support open-source projects this giving season&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;抱着感恩的心态去看待这个世界，是的，我们现在所运行的世界，是离不开开源软件的。所以请暂时放下商业的，来帮助这些支撑我们世界的人，给予他们更多的支持、鼓励和金钱：自由软件基金会、Mozilla基金会、维基百科基金会、FreeBSD基金会、Software in the Public Interest, Inc.等等。他们撑起世界！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016 12 05)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-05%29/</link>
       <pubDate>Mon, 05 Dec 2016 08:36:39 +0800</pubDate>
@@ -905,73 +959,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 &lt;p&gt;是的，一个开源项目不是说随意放出点代码就可以了。其实，这只是冰山的露出水面的一小部分而已。社区建设、提交规则、晋升制度、公平组织、品牌建设、宣传使用、布道大使等等诸多需要考虑的问题，一个开源的成功，是需要做很多工作的，不可能一蹴而就！&lt;/p&gt;
 
 &lt;p&gt;本土的文化中，缺少版权意识以及相应的法律保护，加上自古以来民间的秘方文化，开源这件事本身就被大家认为是低等的、劣质的。还是那句话：“西方带来的不仅仅是知识本身，还有产生知识的思考方式。” 身边太多的专注于技能本身，不敢越雷池一步。深恐陷入什么似的。而这一点才是最为让人痛心和恐怖的事情。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.18)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-18%29/</link>
-      <pubDate>Fri, 18 Nov 2016 07:19:29 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-18%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://zdnet4.cbsistatic.com/hub/i/r/2016/08/01/f54d221b-dc12-4fdb-984c-f8b790472c92/resize/770xauto/f8df47e5022bdebe4b58476005b68228/2012-10-18-01-white-house-620x399.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;图片说明：开源真的能让美国政府节省几十亿美金？&lt;/p&gt;
-
-&lt;h3 id=&#34;开源在政府的信息技术-除了省钱之外还有更多&#34;&gt;开源在政府的信息技术：除了省钱之外还有更多&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/open-source-in-government-it-it-is-about-savings-but-thats-not-the-whole-story/&#34;&gt;Open source in government IT: It is about savings but that&amp;rsquo;s not the whole story&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;荷兰政府在10月份也颁布了政府使用开源软件。似乎民主政府都在想办法省钱。但是真的能省吗？我相信很多人会产生疑问，但是不试试又怎么能知道了呢？考虑一件关于人类集体的事情远远没有那么的简单，更何况是政府这种政治的产物。比如开放的文档格式标准就让人头疼不已。但是，只要为之奋斗，努力前行，认为是做正确的事情，希望就在，就又可能成功。&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;It really is amazing when you level the playing field and drop the barriers, the people who come out and want to play, they&amp;rsquo;ve had some amazing ideas,&amp;rdquo;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/11/gettyimages-678912279.jpg?w=1294&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源和协作已成常态&#34;&gt;开源和协作已成常态&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/17/strange-days-indeed-2/&#34;&gt;Open source and coopetition are the new normal&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这个月过于颠覆世人，一向强硬的微软加入Linux基金会，将真爱进行到底，然后就是高冷的Google加入.NET阵营。这让很多人不得不感慨：&lt;strong&gt;Strange days, indeed.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;文中提到的几个观点，适兕颇为赞同：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;技术变得日益复杂，其快速的增长使得没有任何一家单独的公司能够提供整体的解决方案，（或者说做到面面俱到）。&lt;/li&gt;
-&lt;li&gt;或许更为重要的是，用户自己的选择！没有人愿意被一家供应商所绑定，他们也期望interoperability。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;留给问题，IT该如何创新？一定不是绝境！一定别有洞天，该如何去寻找？&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.ciol.com/wp-content/uploads/2016/11/ID-100159494.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源云和商业云-智者之选&#34;&gt;开源云和商业云：智者之选&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.ciol.com/open-source-vs-proprietary-cloud-choose-wisely/&#34;&gt;Open Source vs Proprietary Cloud: Choose Wisely&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;之所以选这篇文章，是因为图片很棒，一图胜千言，有的时候确实是真实情景。&lt;/p&gt;
-
-&lt;p&gt;我也不想多讲许多，引用一句点题之句:&lt;strong&gt;Open Source is becoming the de facto standard for Private Cloud implementations as business benefits and innovation far outpace proprietary platforms.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
