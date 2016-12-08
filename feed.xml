@@ -7,8 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 08:49:28 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Dec 2016 09:02:19 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016 12 08)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-08%29/</link>
+      <pubDate>Thu, 08 Dec 2016 09:02:19 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-08%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://21ax0w3am0j23cz0qd1q1n3u.wpengine.netdna-cdn.com/wp-content/uploads/2016/12/MojaGlobalCover-1038x576.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源治理所带来的价值&#34;&gt;开源治理所带来的价值&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.euroscientist.com/open-governance-enhances-value-land-use-policy-software/&#34;&gt;Open governance enhances the value of land use policy software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开放的治理，日渐成为世界的主流。是的，技术的发展，导致的知识增值，将人的尊严中奴隶中解放出来，甚至不再受制于某些组织的束缚。&lt;/p&gt;
+
+&lt;p&gt;本文阐述就是开放治理从政府的角度，能够从Linux模式中学到什么？该如何处理，更为高效。&lt;/p&gt;
+
+&lt;p&gt;非常值得借鉴的主题。可惜，身边发生的却是在寻租！比如中空协！比如开源云计算联盟。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;与世界对话-为什么开源会有助于小型企业&#34;&gt;与世界对话：为什么开源会有助于小型企业&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://boston.cbslocal.com/2016/12/07/why-open-source-help-business/&#34;&gt;Communicating To The World: Why Open-Source Could Help Your Small Business&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;知识就是力量！这是谁说的？但它同样也可以成为暴政。因为它有力量，而又缺乏自制力的话。&lt;/p&gt;
+
+&lt;p&gt;正是开源降低了互联网的入门门槛，使得很多优秀的公司涌现出来，比如Google、FaceBook。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/yearbook-haff-rx-linux-file-lead_0.png?itok=48iDNoH8&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;为什么说2017年操作系统更加的重要&#34;&gt;为什么说2017年操作系统更加的重要&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/16/12/yearbook-why-operating-system-matters&#34;&gt;Why the operating system matters even more in 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;前几日我在微信群里面给人上“课”，一位叫嚣着Docker无用，PaaS有用的功利主义者，是的，我们每个人都在坐井观天，重点在于井口的大小。是的，国人从来是不看好立马带不来经济效益的技术的。骨子里是轻技术的，因为除了技术，他们什么也不敢讨论。技术是唯一的“鸵鸟”之地。&lt;/p&gt;
+
+&lt;p&gt;操作系统的地方不会降低，反而会越发的上升。不变的使其管理硬件，为上层提供支持。变的是更加的 &lt;strong&gt;become much more adaptable, much more mobile, much more distributed, much more robust, and much more lightweight&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;YunOS 究竟能走多远？ 还得看其所建立起来的生态。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016 12 07)</title>
@@ -922,78 +982,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 &lt;p&gt;文中的一句话：&lt;strong&gt;a new pure-play Kubernetes company.&lt;/strong&gt; 让我想起来一家OpenStack的公司也是这么玩的，最后因为不了解开源，走上了扩张、裁员，继续外包、托管之路。失去了创新的先机。&lt;/p&gt;
 
 &lt;p&gt;目前的Heptio 只有两个人，McLuckie and Beda, 但是却可以拿到如此多的钱。可见在业界的名气和获得的信任。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.24)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-24%29/</link>
-      <pubDate>Thu, 24 Nov 2016 11:01:58 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-24%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/05/disney-castle-100663870-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;迪斯尼的最佳产品也许是这些开源的工具&#34;&gt;迪斯尼的最佳产品也许是这些开源的工具&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworld.com/article/3142034/application-development/disneys-best-releases-may-be-its-open-source-tools.html&#34;&gt;Disney&amp;rsquo;s best releases may be its open source tools&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;当你和人们谈论迪斯尼的时候，人们的第一反应是什么？猫和老鼠？迪斯尼动画片？主题公园？是的，没错，这是原来的迪斯尼形象。现下的迪斯尼又给人们新增了一个印象：开源软件！&lt;/p&gt;
-
-&lt;p&gt;确实在过去的一年当中迪斯尼开源的项目很多，也很重量级。目的其实只有一个：引起开发者的注意和青睐！&lt;/p&gt;
-
-&lt;p&gt;作为艺术的始作俑者，理解起来创意、协作、公开是否有偏差？技术领导世界，艺术也是技术的跟风者。这样理解起来就没有任何难度了。但是依然禁不起“秘方”文化的侵袭。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://cdn.ttgtmedia.com/visuals/searchDataCenter/IBM_mainframe/datacenter_article_006.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;企业级采用-openstack-仍然在观望中&#34;&gt;企业级采用 OpenStack 仍然在观望中&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://searchdatacenter.techtarget.com/news/450403403/OpenStack-enterprise-adoption-still-awaits-full-embrace&#34;&gt;OpenStack enterprise adoption still awaits full embrace&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;是的，容器的出现是革了一回虚拟机的命，VMWare 疲软，OpenStack 强作镇静。正如赵本山的哪个蚁力神的广告：“谁用谁知道。” 唱衰 OpenStack 的不止一天两天了，但是这么有理有据的还真是第一次见。&lt;/p&gt;
-
-&lt;p&gt;开源如此流行，人才辈出，作为OpenStack的发行商究竟有何意义？ 大型企业原先购买许可证书的方式，在开源的潮流下根本就没发达到节省成本的作用。&lt;/p&gt;
-
-&lt;p&gt;Linux 商业发行版，基本仅剩下了三家：红帽、SuSE、Canonical。OpenStack 却依然有很多，不过已经开始有公司撑不住了。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;At the end of the day, if people see VMs as yesterday&amp;rsquo;s technology and containers as tomorrow&amp;rsquo;s technology, and OpenStack is associated with VMs, OpenStack is quickly going to become legacy stuff, rather than future stuff,&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/OSDC_Penguin_Image_520x292_12324207_0714_mm_v1a.png?itok=WfAkwbFy&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;5分钟极速回顾linux25年历史战绩&#34;&gt;5分钟极速回顾Linux25年历史战绩&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/11/25-years-linux-5-minutes&#34;&gt;25 years of Linux in 5 minutes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;只需要看Linux现在的成绩就可以了：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;有超过135,000 位开发者参与了Kernel的开发！&lt;/li&gt;
-&lt;li&gt;这些开发者，其中有公司背景的有1300多家公司。&lt;/li&gt;
-&lt;li&gt;22 million lines of code&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Linux 的成绩是伟大的！难以逾越的！其中是Linus最高的政治技术？还是他自始自终坚持了中立的立场——不加入任何一家Linux公司？让全人类受益。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

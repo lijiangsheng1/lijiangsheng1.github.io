@@ -10,6 +10,66 @@
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016 12 08)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-08%29/</link>
+      <pubDate>Thu, 08 Dec 2016 09:02:19 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-08%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://21ax0w3am0j23cz0qd1q1n3u.wpengine.netdna-cdn.com/wp-content/uploads/2016/12/MojaGlobalCover-1038x576.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源治理所带来的价值&#34;&gt;开源治理所带来的价值&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.euroscientist.com/open-governance-enhances-value-land-use-policy-software/&#34;&gt;Open governance enhances the value of land use policy software&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开放的治理，日渐成为世界的主流。是的，技术的发展，导致的知识增值，将人的尊严中奴隶中解放出来，甚至不再受制于某些组织的束缚。&lt;/p&gt;
+
+&lt;p&gt;本文阐述就是开放治理从政府的角度，能够从Linux模式中学到什么？该如何处理，更为高效。&lt;/p&gt;
+
+&lt;p&gt;非常值得借鉴的主题。可惜，身边发生的却是在寻租！比如中空协！比如开源云计算联盟。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;与世界对话-为什么开源会有助于小型企业&#34;&gt;与世界对话：为什么开源会有助于小型企业&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://boston.cbslocal.com/2016/12/07/why-open-source-help-business/&#34;&gt;Communicating To The World: Why Open-Source Could Help Your Small Business&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;知识就是力量！这是谁说的？但它同样也可以成为暴政。因为它有力量，而又缺乏自制力的话。&lt;/p&gt;
+
+&lt;p&gt;正是开源降低了互联网的入门门槛，使得很多优秀的公司涌现出来，比如Google、FaceBook。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/yearbook-haff-rx-linux-file-lead_0.png?itok=48iDNoH8&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;为什么说2017年操作系统更加的重要&#34;&gt;为什么说2017年操作系统更加的重要&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/16/12/yearbook-why-operating-system-matters&#34;&gt;Why the operating system matters even more in 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;前几日我在微信群里面给人上“课”，一位叫嚣着Docker无用，PaaS有用的功利主义者，是的，我们每个人都在坐井观天，重点在于井口的大小。是的，国人从来是不看好立马带不来经济效益的技术的。骨子里是轻技术的，因为除了技术，他们什么也不敢讨论。技术是唯一的“鸵鸟”之地。&lt;/p&gt;
+
+&lt;p&gt;操作系统的地方不会降低，反而会越发的上升。不变的使其管理硬件，为上层提供支持。变的是更加的 &lt;strong&gt;become much more adaptable, much more mobile, much more distributed, much more robust, and much more lightweight&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;YunOS 究竟能走多远？ 还得看其所建立起来的生态。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016 12 07)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-07%29/</link>
       <pubDate>Wed, 07 Dec 2016 08:49:28 +0800</pubDate>
@@ -880,79 +940,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 
 &lt;blockquote&gt;
 &lt;p&gt;Linux 的成绩是伟大的！难以逾越的！其中是Linus最高的政治技术？还是他自始自终坚持了中立的立场——不加入任何一家Linux公司？让全人类受益。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.23)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-23%29/</link>
-      <pubDate>Wed, 23 Nov 2016 08:12:06 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-23%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;为什么说开放会战胜封闭&#34;&gt;为什么说开放会战胜封闭&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.digitaltonto.com/2016/why-open-beats-closed/&#34;&gt;Why Open Beats Closed&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;一篇高瞻远瞩的文章，除了极为深刻的洞见之外，就是还能够旁征博引，用事理将问题说明白、将观点讲透彻了。本文即是这样的。&lt;/p&gt;
-
-&lt;p&gt;开篇是从历史上伟大的走封闭路线的公司的遍历，随后话锋一转，这样封闭的公司正在走向没落！上个世纪的经典迈克尔 波特的竞争论正在失效。一切兼因为世界向平民化、世俗化行进。开放为何会胜利？聪明的人是不会冒任何风险的，但是希望看到事情的所有元素。开放的标准更加重要，消费者不希望被任何一家公司垄断和捆绑。开放带来的创新更加的靠谱，因为宽松的环境所发明创造的事物才是人真正需要的。&lt;/p&gt;
-
-&lt;p&gt;你有何理由不读本文？有可能需要多读几遍方能更加深入的理解。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://zdnet3.cbsistatic.com/hub/i/r/2016/11/18/a99d0e89-4964-4237-873c-cb7fe6e8ed2c/resize/770xauto/5ddd856909064f39b5fab5794a6b1e45/linux-open-source-money-penguin.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;好东西永远值钱-linux和开源公司如何赚钱&#34;&gt;好东西永远值钱：Linux和开源公司如何赚钱&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/how-do-linux-and-open-source-companies-make-money-from-free-software/&#34;&gt;Nothing good is free: How Linux and open source companies make money&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这个问题我一直在探索着，在维基百科上文章：&lt;a href=&#34;https://en.wikipedia.org/wiki/Business_models_for_open-source_software&#34;&gt;16种开源软件的商业模式&lt;/a&gt;有着很好的描述，而且我本人也就本土特色补充了一些:&lt;a href=&#34;https://iaaslee.blogspot.com/?view=magazine&#34;&gt;适兕的博客&lt;/a&gt;，因为我生活在本土，而经济这种行为离不开文化、风俗、环境的因素。&lt;/p&gt;
-
-&lt;p&gt;正如我前几天的文章：为开源和商业正名，一样不会引起本土人们的共鸣，只是认为我过于天真。国人真的很聪明，明明知道自己在撒谎，可是一句“没办法”就搪塞过去了，理由就是整个环境如是。&lt;/p&gt;
-
-&lt;p&gt;所以本文也就是给哪些本土的骗子们做宣传和偷换概念用的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://fortunedotcom.files.wordpress.com/2015/09/jim-whitehurst.jpg?w=840&amp;amp;h=485&amp;amp;crop=1&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;红帽ceo-对于微软-google以及前沿软件的观点&#34;&gt;红帽CEO 对于微软、Google以及前沿软件的观点&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://fortune.com/2016/11/18/red-hat-ceo-james-whitehurst-microsoft-google-software/&#34;&gt;Red Hat CEO on Microsoft, Google, and Cutting Edge Software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;作为大型媒体，得照顾到非专业背景的人士，需要打比方、类比等解释性的语句和段落出现。虽然比喻这种修辞会损失语义，不够严谨，但是可以达到沟通的目的。我比较反感比喻这种方式，但是似乎还真找不到更好的方式在短时间内向小白们表达。&lt;/p&gt;
-
-&lt;p&gt;让我们来看看Whitehurst 的一些犀利的观点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;红帽是一家有使命感的公司，你可以诟病它虚伪，但是是这么高调宣传和执行的：：“We’re on a mission from God.”&lt;/li&gt;
-&lt;li&gt;Google、FaceBook等互联网公司的崛起，推动了开源，说明了一个问题：&lt;strong&gt;Open source basically has become a place where user-driven innovation happens in software.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;微软对待开源态度转变的根本原因：Because open source is where innovation is coming from and is what developers are consuming, it forces vendors to participate.&lt;/li&gt;
-&lt;li&gt;红帽所找到的精准Gap：If you’re running on a three-year old version of Linux, nobody’s looking at that version for a bug or a security hole, but you don’t want to re-integrate and re-test your SAP system every time there’s a new version. That’s what Red Hat does.&lt;/li&gt;
-&lt;li&gt;给哪些新晋的探索新的商业模式（增值）的建议：There’s a big difference between creating value for your users and extracting some of that value for your owners.&lt;/li&gt;
-&lt;li&gt;A rough line would be almost to say most infrastructure is going to be open source and most business functionality above it is going to be proprietary.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;做开源的基础设施软件，红帽俨然是个巨人，难以绕开！其实本土有很多公司都是靠红帽支撑的项目活着的，比如普华、中标等等。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
