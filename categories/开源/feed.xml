@@ -10,6 +10,68 @@
     <atom:link href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016 12 09)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-09%29/</link>
+      <pubDate>Fri, 09 Dec 2016 08:58:15 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-09%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/12/main-qimg-5f48d8daf87ff55bd5d230b42939cc7c.png?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;google开源数据可视化工具-embedding-projector&#34;&gt;Google开源数据可视化工具 Embedding Projector&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/12/07/google-open-sources-embedding-projector-to-make-high-dimensional-data-more-manageable/&#34;&gt;Google open sources Embedding Projector to make high-dimensional data more manageable&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我选择这篇文章，竟然是因为它的配图。一部让我哭了两次的《星际穿越》，在5维空间为解救自己女儿所经历的穿越。&lt;/p&gt;
+
+&lt;p&gt;Google 在面临AWS的巨大压力面前，很多技术人员不服，我们的技术这么先进，为什么屡次三番的被干了呢？好吧，我们开源，从Tensorflow到DeepMind，再到Embedding Projector。开源真的能解救Google吗？Google显然没有找到古老企业级的痛点在哪里。&lt;/p&gt;
+
+&lt;p&gt;总而言之，Google 又对开源界注入一股清流！ 高冷、牛逼的技术！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;linux-基金会的开源网络团队又增一名顶级专家&#34;&gt;Linux 基金会的开源网络团队又增一名顶级专家&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3147937/linux/linux-foundation-adds-an-open-source-networking-specialist-to-the-team.html&#34;&gt;Linux Foundation adds an open source networking specialist to the team&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;选这些文章，是对于我个人职业的一个激励。我总是觉得现在很多公司／企业都在开始重视起了开源，开源应该如何经济的去考量，是很多和IT相关的决策者思考的问题。也是很多基金会考量的问题。&lt;/p&gt;
+
+&lt;p&gt;算上这篇，我的开源之道，应该有好多篇关于大公司任命开源高管，基金会吸纳了某高级人才的文章。&lt;/p&gt;
+
+&lt;p&gt;算是对自己，和很多的开源从业人员的一个激励。只要你去努力的理解人，理解人性。一定有你的用武之地。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://enterprisersproject.com/sites/default/files/styles/620x350/public/images/CIO_open%20source_2.png?itok=iJT_z9Xe&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;这个cto有点怪-为什么他坚信开源应该是所有软件的新常态&#34;&gt;这个CTO有点怪，为什么他坚信开源应该是所有软件的新常态&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://enterprisersproject.com/article/2016/12/why-cto-believes-open-source-should-be-new-norm-all-software-companies&#34;&gt;Why this CTO believes open source should be the new norm for all software companies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;新常态这个词，我还是从AWS14年峰会上学到的，当时的AWS CTO 说：“云计算已是新常态。” 明白这个意思了吧！&lt;/p&gt;
+
+&lt;p&gt;开源已经是未来软件的一种主要的分发方式。不应该再使用许可证来收取费用了。这是很多人们都反感的事情。&lt;/p&gt;
+
+&lt;p&gt;开源不仅仅是代码而已： &lt;strong&gt;I recommend other companies consider open-sourcing their client code to not only increase transparency, but to contribute to other industries’ success.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016 12 08)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-08%29/</link>
       <pubDate>Thu, 08 Dec 2016 09:02:19 +0800</pubDate>
@@ -868,78 +930,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 &lt;p&gt;文中的一句话：&lt;strong&gt;a new pure-play Kubernetes company.&lt;/strong&gt; 让我想起来一家OpenStack的公司也是这么玩的，最后因为不了解开源，走上了扩张、裁员，继续外包、托管之路。失去了创新的先机。&lt;/p&gt;
 
 &lt;p&gt;目前的Heptio 只有两个人，McLuckie and Beda, 但是却可以拿到如此多的钱。可见在业界的名气和获得的信任。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.24)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-24%29/</link>
-      <pubDate>Thu, 24 Nov 2016 11:01:58 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-24%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/05/disney-castle-100663870-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;迪斯尼的最佳产品也许是这些开源的工具&#34;&gt;迪斯尼的最佳产品也许是这些开源的工具&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworld.com/article/3142034/application-development/disneys-best-releases-may-be-its-open-source-tools.html&#34;&gt;Disney&amp;rsquo;s best releases may be its open source tools&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;当你和人们谈论迪斯尼的时候，人们的第一反应是什么？猫和老鼠？迪斯尼动画片？主题公园？是的，没错，这是原来的迪斯尼形象。现下的迪斯尼又给人们新增了一个印象：开源软件！&lt;/p&gt;
-
-&lt;p&gt;确实在过去的一年当中迪斯尼开源的项目很多，也很重量级。目的其实只有一个：引起开发者的注意和青睐！&lt;/p&gt;
-
-&lt;p&gt;作为艺术的始作俑者，理解起来创意、协作、公开是否有偏差？技术领导世界，艺术也是技术的跟风者。这样理解起来就没有任何难度了。但是依然禁不起“秘方”文化的侵袭。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://cdn.ttgtmedia.com/visuals/searchDataCenter/IBM_mainframe/datacenter_article_006.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;企业级采用-openstack-仍然在观望中&#34;&gt;企业级采用 OpenStack 仍然在观望中&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://searchdatacenter.techtarget.com/news/450403403/OpenStack-enterprise-adoption-still-awaits-full-embrace&#34;&gt;OpenStack enterprise adoption still awaits full embrace&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;是的，容器的出现是革了一回虚拟机的命，VMWare 疲软，OpenStack 强作镇静。正如赵本山的哪个蚁力神的广告：“谁用谁知道。” 唱衰 OpenStack 的不止一天两天了，但是这么有理有据的还真是第一次见。&lt;/p&gt;
-
-&lt;p&gt;开源如此流行，人才辈出，作为OpenStack的发行商究竟有何意义？ 大型企业原先购买许可证书的方式，在开源的潮流下根本就没发达到节省成本的作用。&lt;/p&gt;
-
-&lt;p&gt;Linux 商业发行版，基本仅剩下了三家：红帽、SuSE、Canonical。OpenStack 却依然有很多，不过已经开始有公司撑不住了。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;At the end of the day, if people see VMs as yesterday&amp;rsquo;s technology and containers as tomorrow&amp;rsquo;s technology, and OpenStack is associated with VMs, OpenStack is quickly going to become legacy stuff, rather than future stuff,&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/life/OSDC_Penguin_Image_520x292_12324207_0714_mm_v1a.png?itok=WfAkwbFy&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;5分钟极速回顾linux25年历史战绩&#34;&gt;5分钟极速回顾Linux25年历史战绩&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/11/25-years-linux-5-minutes&#34;&gt;25 years of Linux in 5 minutes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;只需要看Linux现在的成绩就可以了：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;有超过135,000 位开发者参与了Kernel的开发！&lt;/li&gt;
-&lt;li&gt;这些开发者，其中有公司背景的有1300多家公司。&lt;/li&gt;
-&lt;li&gt;22 million lines of code&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Linux 的成绩是伟大的！难以逾越的！其中是Linus最高的政治技术？还是他自始自终坚持了中立的立场——不加入任何一家Linux公司？让全人类受益。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
