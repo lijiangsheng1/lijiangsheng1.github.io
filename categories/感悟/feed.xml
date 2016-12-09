@@ -10,6 +10,67 @@
     <atom:link href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016 12 10)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-10%29/</link>
+      <pubDate>Sat, 10 Dec 2016 07:12:32 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-10%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAckAAAAJDY1ZDE2Y2I1LTYyZWUtNDg0ZC1hMGE5LWJlYjRlYjM5YjhmMA.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;企业若想发展-就得正视开源-并让开源回归自由&#34;&gt;企业若想发展，就得正视开源，并让开源回归自由&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://siliconangle.com/blog/2016/12/08/vmwares-secret-creating-healthy-social-ecosystem-open-source-thecube/&#34;&gt;Open source needs social freedoms for business to thrive&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，没错，是VMware的首席开源官（我无法掩饰的对这个职位的羡慕。）的一次采访！VMware 因为是站在开源的肩膀之上，一直以来对于开源都有着独特的理解。比如这次采访，也说明了对于业界有着深刻的洞见：&lt;/p&gt;
+
+&lt;p&gt;“开源甚至已经超越了软件开发的方法论，开源某种程度上已经成了如何组织人与人之间的交互以及如何创建让人惊异的软件！”  Dirk Hohndel 如此说到。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;开源：再也不仅仅是技术的事情了。&lt;/strong&gt; A big component of open source is for developers to be participants in a community and contribute back, understanding how these communities, made up of people from all kinds of backgrounds and from different regions of the world, can work together to create great software. 能做此事的人，绝对是人类史上大师级的人物。&lt;/p&gt;
+
+&lt;p&gt;本文更加的坚定了我对这个职位的追求！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;贝尔成为首个开源电信基础设施项目的加拿大成员&#34;&gt;贝尔成为首个开源电信基础设施项目的加拿大成员&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworldcanada.com/article/bell-becomes-first-canadian-carrier-in-open-source-telecom-infrastructure-project/389091&#34;&gt;Bell becomes first Canadian carrier in open-source telecom infrastructure project&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我不是报道新闻的。而是希望透过新闻看到其背后的开源运作！很明显，作为厂商来发起的开源项目——FaceBook的&lt;a href=&#34;http://www.opencompute.org/&#34;&gt;开放计算项目&lt;/a&gt;是成功的，模式是可以复制的。&lt;/p&gt;
+
+&lt;p&gt;可以将开放计算项目的模式给学习起来了，列入自己的“开源之术”当中。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;在当今开源就是创新&#34;&gt;在当今开源就是创新&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://jaxenter.com/jclouds-project-devops-130667.html&#34;&gt;“Open source is where innovation happens today”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;JCloud 的PMC采访，有很多精彩的见解。当然不能忽略其对于JCloud这套API的成绩，JCloud能够走到今天，也是尤其独特的一面的。但是开源之道不重点讨论技术，尽管涉及的都是深度的技术。我个人对整个采访所看到的重点有2:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ignasi Barrera对于Apache开源治理的认同：&lt;strong&gt;Well, there is no “me” in Apache projects. The community and the Project Management Committee (PMC) &lt;a href=&#34;https://www.apache.org/foundation/governance/#technical&#34;&gt;control the direction of the projects&lt;/a&gt;, and all decisions are made by consensus in public discussions.&lt;/strong&gt; 还在犹豫和蹉跎什么？开源之术，先从成功案例搞起。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Open source is where innovation happens today. Companies have understood the benefits of the open source model and have seen that it is a great way to create technology. They are adopting it and contributing more and more, and this gives a lot of potential to open innovation and to create the technology of the future.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016 12 09)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-09%29/</link>
       <pubDate>Fri, 09 Dec 2016 08:58:15 +0800</pubDate>
@@ -920,68 +981,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 &lt;p&gt;你无法阻止别人用有色眼睛去看待你！比如你创业失败，比如你工作十年了还是一个小小售前&amp;hellip;&amp;hellip;这大概也是很多人不愿意脱离舒适圈的最大缘故，没有人愿意被人小瞧。&lt;/p&gt;
 
 &lt;p&gt;我只能做我自己，我无法控制别人。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.26)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-26%29/</link>
-      <pubDate>Sat, 26 Nov 2016 07:02:03 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-26%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/open-source-leadership-summit.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源领导者峰会&#34;&gt;开源领导者峰会&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/event/open-source-leadership-summit&#34;&gt;Open Source Leadership Summit&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;会议，举办各式各样的会议。大家似乎也找到了相应的方法和技能，这是人类获取信息和交流的重要方式之一，通过聆听他人的演讲，与他人的交谈来获得信息，或者是表达自我、展示自我。更多的是背后支撑是商家的广告。商家需要告诉世人。&lt;/p&gt;
-
-&lt;p&gt;说实话，开源领导力峰会，我是第一次听到，也是第一次知道是Linux基金会搞的这个项目。这对于我蛮有吸引力！&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;this is where open source business leaders and technologists can advance their company’s open source strategy.&lt;/strong&gt; 相信慢慢国内会慢慢认可这样一个职位的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://thestack.com/wp-content/uploads/2016/11/hyperscale-it.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源硬件是如何定义数据中心创新的&#34;&gt;开源硬件是如何定义数据中心创新的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://thestack.com/data-centre/2016/11/25/how-open-source-hardware-is-defining-data-centre-innovation/&#34;&gt;How open source hardware is defining data centre innovation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开放硬件项目：OCP 的功劳究竟有多大？ 这会革了很多硬件厂商的命！FaceBook发起这个项目的5年之后，Google发布了几款服务器的设计，紧跟着微软也发布了Azure的几款服务器。FaceBook还发布了BackPack的交换机设计。尤其是软件定义数据中心，需要大量的符合标准（开源）的白牌设备。&lt;/p&gt;
-
-&lt;p&gt;嗯，开放硬件项目也是必然的趋势，设计、生产、上架几乎都是自己可以控制的。什么超融合的模式一直都不成立。&lt;/p&gt;
-
-&lt;p&gt;另外我想说的一点就是人类喜欢有现成的案例可以模仿，失败的概率会低一点。这是我所见到的客户的起码的保守的思维方式。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://itsfoss.com/wp-content/uploads/2016/04/apple-open-source.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;apple-开源了macos-10-12&#34;&gt;Apple 开源了MacOS 10.12&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://fossbytes.com/apple-open-source-darwin-code-os-x-macos/&#34;&gt;Apple Releases Open Source Darwin Code For macOS 10.12 Sierra&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Apple 说了要加大开源的力度，人才不是难找，而是培养的成本过高。以及影响未来的趋势，成为事实上标准的可能性。微软最近对于开源的战略和策略，显得步骤非常的大。尤其是最近加入Linux基金会。&lt;/p&gt;
-
-&lt;p&gt;Apple 一向以封闭著称，但是从根上，Apple从最开始都是Hacking精神非常浓厚的公司，包括后来Jobs出走开发的NexT，回归之后，新的MacOS采用BSD Darwin内核。以精英的态度漠视这个世界。可能是Swift让他尝到了甜头。&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
