@@ -10,6 +10,68 @@
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016 12 13)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-13%29/</link>
+      <pubDate>Tue, 13 Dec 2016 08:40:37 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-13%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/1980s-computer-yearbook.png?itok=WP5ZfMQB&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;计算当如1989&#34;&gt;计算当如1989&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/12/yearbook-compute-its-1989&#34;&gt;Compute like it&amp;rsquo;s 1989&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;1989 对于整个世界都是转折点，尽管那时候的中国，在几乎整个上半年都在反腐！然而，远在天边的美国，却在计算机上有了里程碑式的普及。&lt;/p&gt;
+
+&lt;p&gt;那个时候的工程师在绞尽脑汁的压榨芯片的性能，不敢有丝毫的浪费。所有的应用都在追求极致！&lt;/p&gt;
+
+&lt;p&gt;是的，这个世界是变化飞快，但是有些东西是永恒的！走的太快的时候，不妨回过头来看看初衷！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么你和你的公司应该采用开源&#34;&gt;为什么你和你的公司应该采用开源？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techcentral.ie/organisation-adopt-open-source/&#34;&gt;Why should you and your organisation adopt open source?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;你的眼睛没有看错，微软和Forrester联合发布了一个报告。告诉世人，开源乃大势所趋，你应该使用开源。&lt;/p&gt;
+
+&lt;p&gt;我竟然想到的是龙应台在《野火集》中所表达的，开源真正的被商业利用起来的时候，人们该如何分辨？微软有着巨大的财力和物力，华为也一样。正如当年遇到的，代码应该像数学、医学知识一样，对所有人开放，现在看起来这些语言是多么的精准。商业绑架其不应该提开源，开源是默认。&lt;/p&gt;
+
+&lt;p&gt;作为开源的受益者，还是读读报告吧！想想信息技术究竟对你个人有什么好处？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;coreos-发布具备自动驾驶的kubernetes&#34;&gt;CoreOS 发布具备自动驾驶的Kubernetes&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://finance.yahoo.com/news/coreos-delivers-self-driving-kubernetes-143000919.html&#34;&gt;CoreOS Delivers Self-Driving Kubernetes with Next Generation of CoreOS Tectonic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;注意一下，CoreOS的口号变了，&lt;strong&gt;CoreOS: Experts in open source and Kubernetes&lt;/strong&gt; ，一如Mirantis一样，CoreOS最初是提供具备etcd的最轻量级的Linux。&lt;/p&gt;
+
+&lt;p&gt;嗯，这里面的商业模式值得思考，技术不可为不先进，趋势不可为不明朗，但是总是叫好不叫座。其中是为什么？目标市场错误？对于开源的定位错误？&lt;/p&gt;
+
+&lt;p&gt;我们总是希望找到本质！但是它似乎就藏在某处，绝大多数人对它视而不见！比如红帽抓住Linux的本质：Control，干掉了Unix和Windows。商业重在本质！并能够将本质经营好，且能传播出去。&lt;/p&gt;
+
+&lt;p&gt;开源的价值就是让每个人成为工业时代的流水线工人？这是否是一种驳论？&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016 12 12)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-12%29/</link>
       <pubDate>Mon, 12 Dec 2016 08:28:08 +0800</pubDate>
@@ -781,75 +843,6 @@ The Financial Services Industry Has Evolved - and Open-Source Is More Relevant T
 &lt;p&gt;时代变了，现在的金融服务和20年前比较已经变得是天翻地覆，即使5年前也没有像现在这样。&lt;strong&gt;The flow of information has grown exponentially&lt;/strong&gt; 上线了开源软件： the IT team can now go directly into the code to better understand the issue more quickly, or better still, make changes to it, in order to ensure that the technical challenge doesn’t slow down the business in pursuit of its goal: to provide a frictionless financial services journey to the consumer. 一切都变了。&lt;/p&gt;
 
 &lt;p&gt;当然，采用了开源以后，也会有相应的挑战：&lt;strong&gt;Open-source does require a new mind set for IT teams in major organizations. The nature of open-source means, that your options with a particular piece of software are tied to the growth of the software’s ecosystem, rather than being driven by a large-scale vendor. Culturally there is a challenge as well。&lt;/strong&gt; 思维的变化最重要。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016.11.28)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-28%29/</link>
-      <pubDate>Mon, 28 Nov 2016 08:39:13 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-28%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/10/shutterstock_343345958.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;如果机器会写代码了-人类怎么办&#34;&gt;如果机器会写代码了，人类怎么办？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://venturebeat.com/2016/11/26/what-happens-when-bots-start-writing-code-and-web-development-dies/&#34;&gt;What happens when bots start writing code instead of humans&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我这么翻译题目是不是表示我是人类？我非常的害怕？是的，面对未知，而且挑战自己十多年的学习和经验，这看起来似乎是非常难以接受的。但是，世界在发展，人总是从一座高山翻到另外一座高山，每次翻阅的时候，都会先从山脚下开始。即使是台阶式的，只有更高。因为有太多的未知需要我们去探索。&lt;/p&gt;
-
-&lt;p&gt;尽管这是一篇广告，但绝不是危言耸听。如果你是外围式的浅层技能者，下一次就会被淘汰。喜欢文中的一些话：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The infrastructure and open-source packages are very powerful, allowing developers to not just solve their own problems, but also to build in a way that solves problems for the entire community.&lt;/li&gt;
-&lt;li&gt;We need more engineers, not more stitchers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;你唯一能做的就是不断的去学习，但是这样也有可能被时代所淘汰，这就是现实！一点都不残酷。残酷的是你的心理。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;你的老爷车也可以拥有人工智能&#34;&gt;你的老爷车也可以拥有人工智能；&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/11/26/become-michael-knight-with-dashbot-an-ai-for-your-car/&#34;&gt;Become Michael Knight with Dashbot, an AI for your car&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Who needs a smart car when you have a cool car?  这就是Dashbot的生意秘笈。你找到了吗？当然它的软件也是开源的，但是这重要吗？&lt;/p&gt;
-
-&lt;p&gt;人有时候是自己造就的复杂和迷惑。人到底需要什么？当超出自己的个人和家庭之外，面对工作、集体环境的时候的诉求又是什么？解决自己所看到的、认为的问题！然后是人性的诉求：更好的生活：更高的薪酬、更大的权力、更多人的承认！无论是2B还是2C，找到最为本质的东西，然后逆着推导，设身处地、投其所好！最好做到逼格又高还不动声色。&lt;/p&gt;
-
-&lt;p&gt;人最大的问题是巧言令色，试图隐藏自己卑微的一面、贪婪的一面，导致问题的进一步复杂化。那么我们唯一能做到，也是找到最为原始的诉求！比如Dashbot！49美金，解放人类的双手！还不需要改装自己的爱车！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/BUSINESS_crowdvsopen.png?itok=072owz9m&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;一位开发者的-devops-之旅&#34;&gt;一位开发者的 DevOps 之旅&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/11/quick-thoughts-power-devops&#34;&gt;A developer&amp;rsquo;s journey through DevOps&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;世界真的在变，无论你是否去关心，主动的去迎接变革，可能在变化来了之后少些痛苦，被动的拒绝，或者是“鸵鸟政策”，该到来的时候，就真的被淘汰了。&lt;/p&gt;
-
-&lt;p&gt;世界再按照熵的方式剧增，人类的需求再变得越发的贪婪，那么业务的变化就随之而快，于是IT的变化就得更加的快速。基础设施基本不动的思路将被打破，保守的运维也将不复存在，更新换代的速度远远快于可能发生问题的速度。DevOps，程序员和运维不再分家！&lt;/p&gt;
-
-&lt;p&gt;你准备好变革了吗？革自己的命了吗？&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
