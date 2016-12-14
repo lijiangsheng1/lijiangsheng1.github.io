@@ -7,8 +7,70 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 13 Dec 2016 08:40:37 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Dec 2016 08:49:12 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016 12 14)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-14%29/</link>
+      <pubDate>Wed, 14 Dec 2016 08:49:12 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-14%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/future-of-cloud-computing.png?itok=bE8CXl7i&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;开源助力云计算的采用-2016未来云计算调查&#34;&gt;开源助力云计算的采用 —— 2016未来云计算调查&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/open-source-helps-drive-cloud-adoption-says-2016-future-cloud-survey&#34;&gt;Open Source Helps Drive Cloud Adoption Says 2016 Future of Cloud Survey&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;来自North Bridge Venture Partners 和 Wikibon analysts 的最新调查结果。&lt;/p&gt;
+
+&lt;p&gt;“From container technologies to high-velocity projects such as Kubernetes and Cloud Foundry, open source and open development are further accelerating the move to the cloud for businesses of all sizes across all industries,&amp;rdquo; 来自Linux基金会执行主席的论断。&lt;/p&gt;
+
+&lt;p&gt;你还在犹豫吗？Kubernetes似乎要颠覆世界的样子。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;keybank-开启云原生应用和构建-devops-实践-且选择了红帽-openshift-容器平台&#34;&gt;KeyBank 开启云原生应用和构建 DevOps 实践，且选择了红帽 OpenShift 容器平台&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://sports.yahoo.com/news/keybank-goes-cloud-native-builds-143000783.html&#34;&gt;KeyBank Goes Cloud-Native, Builds a DevOps Practice and Chooses Red Hat OpenShift Container Platform&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;容器似乎真的改变了世界，一如集装箱将全球的运输提升了好几个档次一样！ 前脚看到Kubernetes对于传统企业应用的无缝支持，后脚又看到走在前沿的银行、金融业积极的拥抱开源。&lt;/p&gt;
+
+&lt;p&gt;话说回来，作为技术人：红帽 OpenShift 容器平台是什么鬼？ Docker, Kubernetes, Project Atomic ， OpenShift Origin 以及 RHEL。&lt;/p&gt;
+
+&lt;p&gt;算是又给银行业的PaaS和DevOps开了头吧！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;十步拯救你的linux&#34;&gt;十步拯救你的Linux&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.oreilly.com/programming/free/ten-steps-to-linux-survival.csp?intcmp=il-prog-free-product-na_new_site_10_steps_to_linux_survival_text_cta&#34;&gt;Ten Steps to Linux Survival&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我之所以选这篇文章并非是因为，题目或内容吸引了我，十年前，我看到这样一本电子书，会兴奋到一夜将之翻完。但是，今天看到的却是电子书传播的力量。&lt;/p&gt;
+
+&lt;p&gt;昨天看到了OpenStack基金会的《The Path to Cloud》，觉得这些电子书的技术含金量并不亚于某些学术的报告。而且是免费的、可自由传播的。&lt;/p&gt;
+
+&lt;p&gt;继而我想到了Infoq的《架构师》电子杂志，虽然相对来说严谨性差了点，但是产生了长尾的效应，只要SEO做好了，基本就是Google和其他搜索引擎了。&lt;/p&gt;
+
+&lt;p&gt;电子书的传播力量就是比其它新闻之类的更系统、也更具持久性。值得参考和效尤。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016 12 13)</title>
@@ -789,61 +851,6 @@
 &lt;p&gt;正如文中所言，开源在如今的势头，是前所未有的！各种商业公司，各类传统巨头，百花齐放！因为IBM说了，开放的标准方式转变为开源事实标准。导致了各家都在组织开源。那么作为国人肯定慌乱，哦，过去我们被技术、专利封锁，我们失去了优势，现在玩开源，我们能落后吗？&lt;/p&gt;
 
 &lt;p&gt;对于这点，我的境界就有点不够了。但从政治秩序的角度来看。这些大厂都是搅局者！只会阻碍历史的车轮，当然它们也会被碾碎。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016 11 29)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-29%29/</link>
-      <pubDate>Tue, 29 Nov 2016 08:34:28 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-29%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;开源所解决和支持的当今业务需求&#34;&gt;开源所解决和支持的当今业务需求&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cxoinsight/open-source-solves-and-supports-today-s-business-needs-nid-23389-cid-92.html&#34;&gt;Open source Solves and Supports Today&amp;rsquo;s Business Needs&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源大行其道，企业该如何处置？相信本文是比较理性的思考。&lt;/p&gt;
-
-&lt;p&gt;相比本土的技术选型，就显得谨慎慎微多了，政治正确、毋需担负责任、个人利益、寻租空间等等要多于技术选型。而且，不知道什么时候，给开源打了一个标签“质量差、不稳定”，所以，开源至今仍然需要布道。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2014/12/goldenage.jpg?w=738&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源的黄金时代已经来临&#34;&gt;开源的黄金时代已经来临&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2015/12/15/the-golden-age-of-open-source-has-arrived/&#34;&gt;The Golden Age Of Open Source Has Arrived&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，时代与个人的关系，该如何处置，恐怕是我接下来要深刻思考的问题，开源的黄金时代是来临了，对于我自身来说能够做点什么？&lt;/p&gt;
-
-&lt;p&gt;当一切已成默认，你的布道还有何意义？你的所谓的参与到社区又有何存在的价值！但是，可以肯定的是，一定不可以做“叶公好龙”式的样子，开源的黄金时代来临，要把握住这一机遇，寻找能够体现自己价值的地方。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;金融服务的发展-越发的和开源关系密切&#34;&gt;金融服务的发展，越发的和开源关系密切&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cioviewpoint/the-financial-services-industry-has-evolved-and-opensource-is-more-relevant-than-ever-nid-23390-cid-92.html&#34;&gt;
-The Financial Services Industry Has Evolved - and Open-Source Is More Relevant Than Ever&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;时代变了，现在的金融服务和20年前比较已经变得是天翻地覆，即使5年前也没有像现在这样。&lt;strong&gt;The flow of information has grown exponentially&lt;/strong&gt; 上线了开源软件： the IT team can now go directly into the code to better understand the issue more quickly, or better still, make changes to it, in order to ensure that the technical challenge doesn’t slow down the business in pursuit of its goal: to provide a frictionless financial services journey to the consumer. 一切都变了。&lt;/p&gt;
-
-&lt;p&gt;当然，采用了开源以后，也会有相应的挑战：&lt;strong&gt;Open-source does require a new mind set for IT teams in major organizations. The nature of open-source means, that your options with a particular piece of software are tied to the growth of the software’s ecosystem, rather than being driven by a large-scale vendor. Culturally there is a challenge as well。&lt;/strong&gt; 思维的变化最重要。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
