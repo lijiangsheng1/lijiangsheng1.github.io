@@ -10,6 +10,60 @@
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道(2016 12 15)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-15%29/</link>
+      <pubDate>Thu, 15 Dec 2016 09:01:19 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-15%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://image.slidesharecdn.com/sapevansdataopensource03102016final-160322171312/95/embrace-open-source-in-your-developer-program-9-638.jpg?cb=1458666902&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;拥抱开源之前请先了解它&#34;&gt;拥抱开源之前请先了解它&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.channelworld.in/opinions/open-source-know-it-you-embrace-it&#34;&gt;Open Source: Know It Before You Embrace It&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;开源应该理性的对待，或者说科学的对待。在积极的拥抱它之前，应该去做深度的了解！犹如人生的重大选择一样，比如婚姻，比如职业。&lt;/p&gt;
+
+&lt;p&gt;这里摘抄两句文中精彩的论断：&lt;strong&gt;Open source is not rocket science, but you need to know the science behind it to get things right.&lt;/strong&gt; &lt;strong&gt;If businesses learn to not just embrace open source but also support and contribute back, they will be able to unleash the true power of open source.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/toolbox-learn-draw-container-yearbook.png?itok=2XFy0htN&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;从linux-内核开发25年所学到的9堂课&#34;&gt;从Linux 内核开发25年所学到的9堂课&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/12/yearbook-9-lessons-25-years-linux-kernel-development&#34;&gt;9 lessons from 25 years of Linux kernel development&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文的作者是大名鼎鼎的&lt;a href=&#34;https://opensource.com/users/gregkh&#34;&gt;Greg Kroah-Hartman&lt;/a&gt;，当然从文章中也可以认识到：&lt;a href=&#34;https://thunk.org/tytso/&#34;&gt;Ted T&amp;rsquo;so&lt;/a&gt; 这样的大神级人物：Linux文件系统专家。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;短期的开发周期非常的重要。&lt;/li&gt;
+&lt;li&gt;过程的扩展需要分布式的、层次分明的开发模式&lt;/li&gt;
+&lt;li&gt;工具很重要&lt;/li&gt;
+&lt;li&gt;内核的强一致模式非常的重要&lt;/li&gt;
+&lt;li&gt;内核的强“没有回归”的规则也很重要&lt;/li&gt;
+&lt;li&gt;企业的合作是蛮重要的，但是没有那个单一的公司掌控kernel开发更重要&lt;/li&gt;
+&lt;li&gt;项目内没有任何所谓的边界&lt;/li&gt;
+&lt;li&gt;Linux 证明了一件事：如此庞大的工程是从很小的一点做起来的&lt;/li&gt;
+&lt;li&gt;综上所述，Linux25年的历史表明，持续的合作可以带来共同的资源，没有那个团队／公司能够独自完成这件事&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道(2016 12 14)</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-14%29/</link>
       <pubDate>Wed, 14 Dec 2016 08:49:12 +0800</pubDate>
@@ -779,77 +833,6 @@
 &lt;p&gt;在其中，Google优先一步的便是开源！ 这就是商业战略，AI毕竟是个耗资源的，和平民百姓比较遥远的东西。但是Google再次印证了自己的理想。犹如Gogole地球一样为人们提供好的产品和服务。&lt;/p&gt;
 
 &lt;p&gt;AWS 确实商业化氛围也更加的浓厚，但是IaaS云计算让人追赶确实太难了，因为早已跑的太远。没有人看好EC2、S3，但是赚到盆满钵满！商业的洞见在于满足一部分人的需求，而不仅仅是技术份。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016 11 30)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-30%29/</link>
-      <pubDate>Wed, 30 Nov 2016 08:44:40 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-30%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/11/JAN17-1128-GUESTVIEW-HICKS.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;如何深刻理解开源的8条潜规则&#34;&gt;如何深刻理解开源的8条潜规则&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/guest-view-how-play-eight-unwritten-rules-open-source/&#34;&gt;How to play by the eight (unwritten) rules of open source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;是的，开源已经成为主流了，研究它的人是越来越多了。本土的开源之路都还是非常肤浅的利用信息不对称、欺诈、谎言来支撑的。然而不妨看看产生开源的源头文化是如何谈论的：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;要去花心思了解所在的社区以及都有什么参与其中。&lt;/li&gt;
-&lt;li&gt;要将技术的优先级高于业务目标。&lt;/li&gt;
-&lt;li&gt;社区放在首位的首位。&lt;/li&gt;
-&lt;li&gt;警惕只是为了玩。&lt;/li&gt;
-&lt;li&gt;保持开放&lt;/li&gt;
-&lt;li&gt;要想着去开发衍生产品，而不是简单的复制。&lt;/li&gt;
-&lt;li&gt;用尽心思的去做贡献。&lt;/li&gt;
-&lt;li&gt;Lastly, but most importantly, there’s no crying in open source.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;看完这篇文章，我的心思久久不能平息。总结我一直以来想做而没有做成的事情！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;为什么说apple开源macosx不是那么的十分令人兴奋&#34;&gt;为什么说Apple开源MacOSX不是那么的十分令人兴奋&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-apple-open-sourcing-mac-os-x-isnt-terribly-exciting/&#34;&gt;Why Apple open sourcing Mac OS X isn&amp;rsquo;t terribly exciting&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;是的，Apple 号称开源依旧是雷声大雨点小。何必呢？看看就可以了。Darwin一直都是开源的。但是没什么用。&lt;/p&gt;
-
-&lt;p&gt;本文提到一个非常具备歧视性但是却千真万确的事实：中国人仿冒！ 你怎么看？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2014/10/shutterstock_143318599-100468829-primary.idge.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;我们真的进入了开源的黄金时期-还是被炒作的假象&#34;&gt;我们真的进入了开源的黄金时期？还是被炒作的假象？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3143974/open-source-tools/are-we-in-a-golden-age-of-open-source-or-just-openwashing.html&#34;&gt;Are we in a golden age of open source or just openwashing?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;果然没错这是一名中国人写的文章：来自中国联通的副总裁Shao Guang Lu。&lt;/p&gt;
-
-&lt;p&gt;正如文中所言，开源在如今的势头，是前所未有的！各种商业公司，各类传统巨头，百花齐放！因为IBM说了，开放的标准方式转变为开源事实标准。导致了各家都在组织开源。那么作为国人肯定慌乱，哦，过去我们被技术、专利封锁，我们失去了优势，现在玩开源，我们能落后吗？&lt;/p&gt;
-
-&lt;p&gt;对于这点，我的境界就有点不够了。但从政治秩序的角度来看。这些大厂都是搅局者！只会阻碍历史的车轮，当然它们也会被碾碎。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
