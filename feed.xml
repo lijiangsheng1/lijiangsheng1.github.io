@@ -7,8 +7,66 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 16 Dec 2016 08:29:57 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Dec 2016 06:44:00 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>开源之道(2016 12 18)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-18%29/</link>
+      <pubDate>Sun, 18 Dec 2016 06:44:00 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-18%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://harvardmagazine.com/sites/default/files/styles/4x3_main/public/img/article/1216/JF17_image_Page_014_Image_0001.jpg?itok=7RMyL-6p&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;众包成功的动力是什么&#34;&gt;众包成功的动力是什么?&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://harvardmagazine.com/2017/01/what-drives-successful-crowdsourcing&#34;&gt;What Drives Successful Crowdsourcing?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;将问题定义清楚，有奖赏，嗯，就是这么简单！需要很好的治理！&lt;/p&gt;
+
+&lt;p&gt;文中的精髓其实就是一句话：&lt;strong&gt;Asking people to cure cancer is too broad. Asking them to look at how a particular enzyme might work in a biomedical process is better.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.guim.co.uk/img/media/2902898bc58d382896f83a3eea87aa745b2e9257/142_0_3837_2305/master/3837.jpg?w=780&amp;amp;q=20&amp;amp;auto=format&amp;amp;usm=12&amp;amp;fit=max&amp;amp;dpr=2&amp;amp;s=198bd6125bd7298b26b17f5e953935f5&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;这些创业公司会是食物技术的未来吗&#34;&gt;这些创业公司会是食物技术的未来吗？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;https://www.theguardian.com/sustainable-business/2016/dec/17/weather-proof-crops-hydroponics-new-food-startups&#34;&gt;Are these startups the future of food tech?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;室内LED农场？人是不是就可以不用去见什么太阳了？或者毋需出室外？&lt;/p&gt;
+
+&lt;p&gt;其实，我选这篇文章，虽然和开源有点关系，但是重要的还是想到整个华北境内的雾霾！室内农场是一种什么样的解决方案？科幻片。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;google-成为-cloud-foundry-黄金会员&#34;&gt;Google 成为 Cloud Foundry 黄金会员&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://siliconangle.com/blog/2016/12/15/google-joins-cloud-foundry-foundation-gold-member/&#34;&gt;Google throws its weight behind open-source Cloud Foundry&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;其实我想将题目更改为“Google会是Cloud Foundry 的救命稻草吗？”&lt;/p&gt;
+
+&lt;p&gt;从事件看战略，Cloud Foundry 在Docker、Kubernetes崛起的同时，在急速的衰退！Open Shift 似乎又占尽了先机。这一点不得不佩服红帽，技术可以翻天覆地，品牌绝对不变，不就是一个版本号的事情吗？相反Google和cloudy Fourdry都不够理智和清晰。和IBM的Bluemix一样找不到北！忘记了商业的本质，人性的本质。单纯的追求技术。&lt;/p&gt;
+
+&lt;p&gt;本文的另外一个可以看的就是圈子，Google、VMware 高管之间错综复杂的关系。梳理一下子，其实就是相互换血液！&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(2016 12 16)</title>
@@ -768,70 +826,6 @@
 
 &lt;blockquote&gt;
 &lt;p&gt;基础设施那块，我就不再啰嗦了。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016 12 02)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-02%29/</link>
-      <pubDate>Fri, 02 Dec 2016 22:06:38 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-02%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/11/5-tips-for-developers3-100696309-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;让开发者保持挑战技术的5条建议&#34;&gt;让开发者保持挑战技术的5条建议&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3145643/application-development/5-tips-to-help-developers-keep-up-with-changing-technologies.html&#34;&gt;5 tips to help developers keep up with changing technologies&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;无论说什么，先说工资、薪资待遇的事。人们都希望学到新东西，然后加薪是间接的事情。然后才是其它：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Use social media to stay on top of trends&lt;/li&gt;
-&lt;li&gt;Stay skeptical&lt;/li&gt;
-&lt;li&gt;Go to events&lt;/li&gt;
-&lt;li&gt;Consider certifications&lt;/li&gt;
-&lt;li&gt;Participate in open source communities&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;开源对企业真的好处多多吗&#34;&gt;开源对企业真的好处多多吗？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.datamation.com/data-center/open-source-good-for-business.html&#34;&gt;Is Open Source Good for Business?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;相信这是很多人的思路。依旧犹豫不决，尝试从各种案例中寻找到失败。然后说开源不行。像本文这样，列个提纲，好处、坏处对比一下。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/12/img_20161201_102504.jpg?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;aws-发布-blox-用于其-ec2-容器服务的开源工具集&#34;&gt;AWS 发布 Blox，用于其 EC2 容器服务的开源工具集&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/12/01/aws-launches-blox-a-collection-of-open-source-tools-for-the-ec2-container-service/&#34;&gt;AWS launches Blox, a collection of open source tools for the EC2 Container Service&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我的每日阅读里很少有关于软件发布的信息。为什么我要评价这个了？&lt;/p&gt;
-
-&lt;p&gt;赚到钱的公司，或者准确点将利用开源赚到钱的公司，比如Apple，比如AWS，对于hacker、Geeker是极为友好的，比如命令行，某种程度上讲是故意的取悦于工程师。那么Blox背后所蕴含的哲学就是如此。AWS 一款产品发布后，首先阿谀的就是工程师，比如命令行，比如各种酷炫的SDK。&lt;/p&gt;
-
-&lt;p&gt;云计算，尤其是IaaS 平台，Console相比于这些是低优先级。&lt;/p&gt;
-
-&lt;p&gt;嗯，记得对程序员友好！是第一位的！还要开源，因为是日常用到的工具，顺手最好！能够定制最好！&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
