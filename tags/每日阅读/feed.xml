@@ -10,6 +10,100 @@
     <atom:link href="http://lijiangsheng1.github.io/tags/%E6%AF%8F%E6%97%A5%E9%98%85%E8%AF%BB/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>开源之道一周精选(2016 12 25)</title>
+      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%89%282016-12-25%29/</link>
+      <pubDate>Sun, 25 Dec 2016 18:47:22 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%89%282016-12-25%29/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cdn.arnnet.com.au/article/images/740x500/dimg/dreamstime_s_75176814_1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;2017年值得关注的技术&#34;&gt;2017年值得关注的技术&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.arnnet.com.au/article/611897/top-tech-watch-partners-2017/&#34;&gt;Top tech to watch for partners in 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是啊，又是一年过去了，自从创业之后，我开始对一些事物有了全新的认识，比如时间，以及所谓的节日。其实，我更加的喜欢将这篇文章的题目变更为：“接下来的4个季度的技术趋势。” 诡异的地方在于季度仍然是一个节点。&lt;/p&gt;
+
+&lt;p&gt;人工智能、虚拟现实、安全、以及开源！ 你没有眼花，确实是开源，百分百正确！开源是一种技术？如果你将其提高到人类协作的角度、政治的视野、以及企业的高瞻远瞩的话，没错，开源是一种技术。此技术非具体到某个计算机领域，如操作系统。但是确实是这些具体的技术先占领了企业，然后从内部生根发芽、茁壮成长。已经是没法忽视的力量。怎么办？识时务者为俊杰，顺势而为！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/12/facebook-open-source-100700507-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;facebook-递交了其过去一年的开源成绩单&#34;&gt;FaceBook 递交了其过去一年的开源成绩单&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3152873/open-source-tools/facebook-delivers-its-state-of-the-open-source-union.html&#34;&gt;Facebook delivers its state of the open source union&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;和Google一样，FaceBook也递交了自己在2016年在开源社区所做的成绩，排在前五的分别是编程工具、移动开发框架、PHP 虚拟机、编译工具。相比于Google，技术依然差了很多。&lt;/p&gt;
+
+&lt;p&gt;本文并非看上FaceBook的总结，而是后面作者解释的FaceBook为何参与开源，其中有两个亮点：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;HHVM 在维基百科的应用，以及维基百科和HHVM的互动。说明了社区的创新力量！&lt;/li&gt;
+&lt;li&gt;开源是有效吸引优秀人才的战略！这是个知识经济时代，人选择公司，所以公司必须尽可能的去迎合人才。人会自行选择哪里的编程、工程工作更加适合自己。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;铃木加入汽车制造联盟&#34;&gt;铃木加入汽车制造联盟&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/bertelschmitt/2016/12/22/suzuki-joins-carmaker-consortium-that-wants-to-lock-google-out-of-their-vehicles/#38f21d0142b0&#34;&gt;Suzuki Joins Carmaker Consortium That Wants To Lock Google Out Of Their Vehicles&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;本文重点介绍的是本田在使用Alhpabet 的无人驾驶，铃木成为Automotive Grade Linux的铂金会员。
+关注开源，走进开源，拥抱开源！世界正在形成认知盈余，Open的协作是唯一的出路。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://tr1.cbsistatic.com/hub/i/r/2016/12/09/9591056e-9220-40d7-992e-003e990e4fdf/resize/770x/ddbdb9f123756ffce1dbb48a384652fb/redhatdocker.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;为什么红帽利用docker赚到钱比docker公司要多&#34;&gt;为什么红帽利用Docker赚到钱比Docker公司要多？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-red-hat-makes-more-money-on-docker-than-docker-does/&#34;&gt;Why Red Hat makes more money on Docker than Docker does&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Docker公司到目前为止没有找到很好的商业模式，这个PaaS厂商发展出来的容器，为了技术而技术，最后放弃了PaaS，为容器技术奠定大局。然而却迟迟找不到很好的商业模式。&lt;/p&gt;
+
+&lt;p&gt;作者开篇就一副浓浓的挑衅味道，红帽在到处收购公司，然后开源，Docker也在这么做，但是Docker在亏损，红帽却在数钱。&lt;/p&gt;
+
+&lt;p&gt;背后的原因就是红帽将其OpenShift彻底使用Docker重构，利用云平台转了个盆满钵满。Docker还需要继续努力。  正如文中所言：&lt;strong&gt;The big risk for Docker isn&amp;rsquo;t that things like Docker Datacenter don&amp;rsquo;t sell. Rather, the big risk is that they don&amp;rsquo;t sell at the same pace that larger, better positioned competitors can manage.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;是什么成就了红帽成为linux的王者&#34;&gt;是什么成就了红帽成为Linux的王者？&lt;/h3&gt;
+
+&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3153021/linux/what-makes-red-hat-the-king-of-linux.html&#34;&gt;What makes Red Hat the king of Linux?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;其实，作者的题目很是技术人员不爽，不过他副标题也明确的说了，红帽2016年第四季度的营业额是$615 million！ 这就没有什么好说的了。&lt;/p&gt;
+
+&lt;p&gt;红帽最大的成功并不在于开源，而是创新：对于软件销售方式的创新，即商业模式的创新：以卖报纸的方式卖软件！ 而现在正在成为业界的标准模式，比如Adobe的PS，微软的Windows等。&lt;/p&gt;
+
+&lt;p&gt;是的，任何的成功都不是某一方面做对了，而是在很多方面都做对了，而且还是经年累月持续不断的做对的事情：比如2014年的向云平台转型、收购的一系列技术先进的公司，Makara、FeedHenry, Ansible、ceph等等，社区、上游优先、以及在开源时代来临的时候是准备的最为充分的。&lt;/p&gt;
+
+&lt;p&gt;Platform9的Madhura Maskasky曾说过：&lt;strong&gt;“Gone are the days of the pure proprietary technology stack”.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;你准备好了吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>开源之道变更为每周精选</title>
       <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/weekly_reading_about_open_source_articles/</link>
       <pubDate>Wed, 21 Dec 2016 22:27:55 +0800</pubDate>
@@ -732,48 +826,6 @@
 &lt;p&gt;这是开源的概念扩展到其他领域的典型案例。制药这种暴利的行业必须被颠覆，必须将配方全部公开，必须将灰色的地带给透明化了。这涉及到人类基本的尊严！&lt;/p&gt;
 
 &lt;p&gt;因为是非软件领域，所以很多东西不能完全读懂。但是还是硬着头皮上。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016 12 04)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-04%29/</link>
-      <pubDate>Sun, 04 Dec 2016 08:57:37 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-04%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;拥抱开源还是拒绝-是个问题&#34;&gt;拥抱开源还是拒绝，是个问题！&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cioviewpoint/to-go-open-or-not-to-go-open-that-is-the-question-nid-23462-cid-92.html&#34;&gt;To  Go Open or Not To Go Open ,that is the question&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;谁可以拒绝得了免费和廉价？开源是如此的流行，突然之间冒出了很多的专家。&lt;/p&gt;
-
-&lt;p&gt;拥抱还是拒绝？程序员们也在成长和思考，也在试图在主流的声音中发出自己的波段。用代码说话，犹如Archsummit经常看到的标题：移动互联网时代，如何扛住瞬间1亿次的请求。而背后使用的都是开源软件。&lt;/p&gt;
-
-&lt;p&gt;细思恐极，本土那么多公司和企业都在基于开源项目做开发，然后贡献到上游的却只是凤毛麟角。这是个不得不思考的问题的。秘方文化？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;追求创新&#34;&gt;追求创新&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://opensource.cioreview.com/cxoinsight/striving-for-innovation-nid-23386-cid-92.html&#34;&gt;Striving for Innovation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这是来自 Hortonworks 创始人的一个分享。开放所带来的创新究竟有令人惊奇？在开源成为事实上的标准后。&lt;/p&gt;
-
-&lt;p&gt;后开源时代，我们该如何对待？嗯，应该在其他地方挖掘价值。&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
