@@ -7,902 +7,1956 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 07:05:38 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Nov 2016 10:52:45 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/posts/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>开源之道(bye 2016 hello 2017)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%28bye-2016-hello-2017%29/</link>
-      <pubDate>Sun, 01 Jan 2017 07:05:38 +0800</pubDate>
+      <title>你可以过得好，但是不要比我好</title>
+      <link>http://lijiangsheng1.github.io/posts/education/you_must_trust_yourself_and_hold_on/</link>
+      <pubDate>Sat, 26 Nov 2016 10:52:45 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%28bye-2016-hello-2017%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/education/you_must_trust_yourself_and_hold_on/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;缘由&#34;&gt;缘由&lt;/h2&gt;
 
-&lt;h3 id=&#34;web开发的未来-gitlab-ceo-专访&#34;&gt;web开发的未来：GitLab CEO 专访&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/laurencebradford/2016/12/30/the-future-of-web-development-with-gitlab-ceo-sid-sijbrandij/2/#125a74824b34&#34;&gt;The Future Of Web Development With GitLab CEO Sid Sijbrandij&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今早和一位同事聊天，一位非常热心，能力蛮好的同事，他给了我一点建议：“我觉得你做 MKT 是很好的，但是可能对售前的一些事情没有那么熟悉。” 这是我现在所在公司，第二次听到有人给我提建议。上次说我不适合做售前的是一位销售。我的第一反应是这样的：&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;GitLab 作为 GitHub在私有公司的开源替代，大有可为的趋势。犹如政治观点、自由选择一样。有的公司就是不想全部放在公网上，保持私有，但是又想获得Git和开源协作的好处。GitLab就是为此而生的。以下是我看到本文的三个亮点：&lt;/p&gt;
+&lt;p&gt;我是个不服输的人，对于岗位的理解没有那么的死板，事在人为。。没有什么合适不合适，只有努力不努力而已。&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;他的话，引起了我的思考和回忆。于是有了此文，捋一下如何正确看待别人的评价。&lt;/p&gt;
+
+&lt;h2 id=&#34;反驳吗-还是固执己见&#34;&gt;反驳吗？还是固执己见&lt;/h2&gt;
+
+&lt;p&gt;先来看下我对售前这个岗位的理解：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;OpenStack IaaS 平台售前职位描述&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;需求&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Sijbrandij的方法论：小步走，小的目标更加的容易实现。&lt;/li&gt;
-&lt;li&gt;Inner-Source，也是GitLab的主要宣传理论！而这也恰好是我要宣传的。看来GitLab在某种程度上也是我需要重点关注的对象。&lt;/li&gt;
-&lt;li&gt;现在技术上有所突破非常的困难，得下苦功夫！是的，我多次强调过，要想看到别人看不到的风景，就得比别人走更远的路，爬更高的山。&lt;/li&gt;
+&lt;li&gt;接受中国式教育至少15年及以上，自学成才更佳。&lt;/li&gt;
+&lt;li&gt;熟悉中国本土文化、习俗、制度，懂得察言观色。&lt;/li&gt;
+&lt;li&gt;思维敏捷，愿意称赞别人。&lt;/li&gt;
+&lt;li&gt;热爱信息技术，对数字转换时代的云计算抱有热情与希望。&lt;/li&gt;
+&lt;li&gt;不错的文字和口头表达，解释某项事物善于代入，立体感、画面感的描述。&lt;/li&gt;
+&lt;li&gt;明白合作对于自己职业生涯的重要性，也是企业成功的必要素质。&lt;/li&gt;
+&lt;li&gt;善于收集信息，把握趋势，渴望能够掌控现场。&lt;/li&gt;
+&lt;li&gt;积极主动的做事风格，是这个世界上比较稀缺的资源。但是愿意去尝试成为这样的人才。&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/12/dirtycow.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;加分项&lt;/p&gt;
 
-&lt;h3 id=&#34;2016-开源仍在野蛮生长-但是也有令人担忧的地方&#34;&gt;2016: 开源仍在野蛮生长，但是也有令人担忧的地方&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;懂一门编程语言&lt;/li&gt;
+&lt;li&gt;深入了解业界及主流的应用架构&lt;/li&gt;
+&lt;li&gt;理解OpenStack及其相关组件的框架和运行方式&lt;/li&gt;
+&lt;li&gt;Open is Best way！&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/2016-open-source-grows-conflict-remains/&#34;&gt;2016: Open source grows, but conflict remains&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;然后再看看，公司的职位描述：&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;工作职责：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;负责公司云计算产品和解决方案的撰写，协助促进公司云计算产品和方案的推广，完善公司各项技术文档等；&lt;/li&gt;
+&lt;li&gt;负责对客户进行技术交流和引导，售前项目分析、设计和规划，并做好销售以及咨询相关的技术支持工作；&lt;/li&gt;
+&lt;li&gt;编写中英文技术资料，包括：IDC、CDN、网络及安全等技术白皮书，案例分析，售前分析报告，需求调查表，投标文档等；&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;岗位要求：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;全日制本科及以上学历，计算机、通信网络技术或相关专业优先；&lt;/li&gt;
+&lt;li&gt;3年以上软件开发或售前工作经验，熟悉业界常用云架构方案，对云服务有深入的理解；&lt;/li&gt;
+&lt;li&gt;有传统行业或者互联网行业的软件系统的开发、集成或实施交付的经验；&lt;/li&gt;
+&lt;li&gt;善于沟通，思维灵活，逻辑能力强，具备优秀的团队合作精神。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;如此天壤之别的职位理解，后者是绝大多数人的理解，前者几乎很少有人认同。为什么？&lt;/p&gt;
+
+&lt;h2 id=&#34;勾起的回忆&#34;&gt;勾起的回忆&lt;/h2&gt;
+
+&lt;p&gt;我长相比较丑陋，家庭也非书香门第，基本上无论是教育之路，还是职业生涯，都是颇为坎坷，几乎没有老师引导。大约的成长历程，都是磕磕碰碰一路走过来的，听过别人的意见，也为别人的评价而恼羞过、放逐过。但最后总能站起来，继续奋斗，每一次我都能感觉到自己的成长。记忆中只有类似题记中的否定：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;初一的时候，12岁，刚刚小学升学，还没有坐稳，就因为长相丑陋，被老师瞧不上，仅仅因为我的眼珠子的颜色不够棕色，偏黄一点，直接就是言语攻击和暴力：长这么丑，念什么书？&lt;/li&gt;
+&lt;li&gt;念高中二年级的时候，发生了一件让我们哪一届的学生终生难忘的事情——按考试成绩，分班，共5个等级。我的成绩，是属于第一个班级的，然后听到有人背后就说了，怎么可能，就他那样？然后，我毅然决然的自动换到第二档的班。&lt;/li&gt;
+&lt;li&gt;从大河网来北京的时候，单位领导说，你在这里我们还颇重视你，你去北京就啥都不是。我默默的嗤之以鼻，我选择了北京。&lt;/li&gt;
+&lt;li&gt;在红旗从售后服务转研发的时候，当时的好朋友劝我说，不要去做研发，一点意思都没有。你看现在售后这么缺人，我们也非常重视你，你自己也成长为骨干了。何必去那边重新开始了呢？
+&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;理性的去思考别人的对你评价&#34;&gt;理性的去思考别人的对你评价&lt;/h2&gt;
+
+&lt;p&gt;这个世界上，刻意的去理解一个人，一般都是非常亲近的人。日常生活中不可或缺、几乎形影不离的人。否则，大多是只看到非常非常片面的一点。即使是在工作中，想真正意义上了解一个人，也得花上很长的时间去琢磨、思考、验证的。诸如价值观、修养、知识结构、性格、心理等等一系列的职业素养，在短时间内非常的难以衡量和评价。尤其是一些软势力：沟通能力、掌控面部表情的能力、控制情绪、与人合作等，更是难上加难。&lt;/p&gt;
+
+&lt;p&gt;但是，人们就是凭着浅层思维去评价一个人的。没有做任何的了解和深入理性的观察、分析将给一个人贴一个标签，下一个定论。&lt;/p&gt;
+
+&lt;p&gt;这一点，自从我有了女儿之后，越发的感到人们的这一点。和你的生活可能只有一面之交，或者是打过一两个照面，有的人就会对你说，你女儿适合干这个不适合干那个。还有那些什么围棋、英语班的蹩脚销售，靠短短的10分钟，就想对你的孩子作出各种评价。&lt;/p&gt;
+
+&lt;p&gt;在通识教育中，是要学习科学这样的精神的，一个人，是非常复杂的，既是理性的，也是感性的。作为一名受过多年教育的人，不该也不应情绪化的去看待人。尤其是你身边的同事。不妨采用各种数据、表格来分析一个人的行为、思想，然后再对他的当下作出评估。但不要尝试去预测他的未来。未来有无限种可能！&lt;/p&gt;
+
+&lt;p&gt;有人说常去找贤人聊，可以当镜子照到自己的不足，但是现实中能遇到几个贤人？贤人是有，但是很少，得讲究一个缘分，但是只要用心，一定能够找的到。&lt;/p&gt;
+
+&lt;h2 id=&#34;恶意的去猜测别人的心思&#34;&gt;恶意的去猜测别人的心思&lt;/h2&gt;
+
+&lt;p&gt;我不愿意去深挖这些人为什么会这么做？孙隆基先生、鲁迅先生、柏杨先生、林语堂先生等等都将这件事情做过了。我只是下个结论。有则改之，无则加勉。&lt;/p&gt;
+
+&lt;p&gt;科学，这个词，从来在我们身边没有存在过。多数人依然靠的是直觉、浅层思维。目光狭窄而又喜欢对人评头论足。每个人都会有自己的偏见，将自己代入别人，为自己设限，也为他人设限。左小诅咒在一首歌叫做《你的眼睛》中唱到：“你可以过的好，但是不能比我好！” 是对这种现象恰到好处的表达！&lt;/p&gt;
+
+&lt;h2 id=&#34;结语&#34;&gt;结语&lt;/h2&gt;
+
+&lt;p&gt;获得他人的承认，是人类的共性，也是人类之所以能够进步的真正原因。但是，获得什么样的人的承认也是很重要的，人总要经历最为低谷的时期，这个时候才是最考验自己的时候，不随波逐流，失败一次并不意味着永远失败。&lt;/p&gt;
+
+&lt;p&gt;你无法阻止别人用有色眼睛去看待你！比如你创业失败，比如你工作十年了还是一个小小售前&amp;hellip;&amp;hellip;这大概也是很多人不愿意脱离舒适圈的最大缘故，没有人愿意被人小瞧。&lt;/p&gt;
+
+&lt;p&gt;我只能做我自己，我无法控制别人。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mirantis 走上了开放云精选之路</title>
+      <link>http://lijiangsheng1.github.io/posts/entrepreneur/mirantis_follow_ocselected_step/</link>
+      <pubDate>Fri, 04 Nov 2016 04:52:00 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/mirantis_follow_ocselected_step/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;郑重声明，本博客观点只代表个人观点。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;开放云精选&#34;&gt;开放云精选&lt;/h2&gt;
+
+&lt;p&gt;开放云精选的&lt;a href=&#34;http://www.ocselected.com&#34;&gt;商业网站&lt;/a&gt;已经关闭，停止了经营，其&lt;a href=&#34;http://www.ocselected.org&#34;&gt;社区站点&lt;/a&gt;和&lt;a href=&#34;http://docs.ocselected.org&#34;&gt;文档站点&lt;/a&gt;仍然可以访问，但是已经是很久没有更新了。嗯，没错，所有这一切都是我——开放云精选的创始人做的。&lt;/p&gt;
+
+&lt;p&gt;开放云精选的理念，来自于我对开源、云计算、人才、商业模式、社区运营的综合看法和洞见，以及采取的外在行动。引用下&lt;a href=&#34;http://www.ocselected.org/wiki/Open_Cloud_selected:%E5%85%B3%E4%BA%8E&#34;&gt;关于ocselected&lt;/a&gt;的一段话 &lt;del&gt;（将人称更改为我们是出于代入感的考虑）&lt;/del&gt;：&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;一位业内人士的观察，基本覆盖了2016年开源上的一些“事故”，如糟糕的DirtyCOW漏洞、Node.js仓库删除事件等等。而关于社区治理方面的两个消息，颇耐人寻味：&lt;/p&gt;
+&lt;p&gt;我们深信开源软件的价值！ 值得使用和传播。&lt;/p&gt;
+
+&lt;p&gt;我们也深信云计算的未来！&lt;/p&gt;
+
+&lt;p&gt;更加深信开源软件在云计算未来占有重要的位置，这个事实！&lt;/p&gt;
+
+&lt;p&gt;于是我们创建了开放云精选。我们精心选择Open Cloud，为开发工程师、测试工程师、文档工程师提供一个向导性的指南，为系统管理员提供技术上的支持。&lt;/p&gt;
+
+&lt;p&gt;我们秉承代码为王的开源项目哲学，也是社区能够存在的根本。&lt;/p&gt;
+
+&lt;p&gt;我们鼓励能进入本社区的人们参与到上游的开源项目中，&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;其实，我已经将我的第一次创业之路归于失败，从我开始找工作的那一刻开始！但是很凑巧的是，我现在所在公司的老东家之一——Mirantis，近来做出了很大的战略性调整。无独有偶的，它竟然在技术的选型上，和开放云精选有着惊人的相似之处。&lt;/p&gt;
+
+&lt;p&gt;再次感受一下开放云精选的初心：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/u/6431931/ocselected.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mirantis-选了哪些开源项目&#34;&gt;Mirantis 选了哪些开源项目&lt;/h2&gt;
+
+&lt;p&gt;Mirantis&lt;a href=&#34;https://www.mirantis.com/software/community&#34;&gt;社区站点&lt;/a&gt; 列出了如下几个项目（我将之顺手归类了一下，开放云精选之思路。）：&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Apache Cassandra项目的Jonathan Ellis 黯然离职&lt;/li&gt;
-&lt;li&gt;自由软件基金会的 Eben Moglen 的离开，Richard Stallman 认为他远离了革命的主旨&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;当然，还有一些令人兴奋的事情，比如总是被提起的微软的转变。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/12/gettyimages-628437600.png?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;以开源创业的公司如何盈利&#34;&gt;以开源创业的公司如何盈利&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/12/29/how-viral-open-source-startups-can-build-themselves-into-enterprise-it-powerhouses/&#34;&gt;How viral open-source startups can build themselves into enterprise-IT powerhouses&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;相信这是很多人都在思考的问题，本土的人们也在纠结，信息不对称的时代已经过去，愚民的方法不再管用。唯有突破创新方可。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;“open source is eating Goldman Sachs.”&lt;/strong&gt; 文中所举的例子！也确实代表企业的现状。&lt;/p&gt;
-
-&lt;p&gt;开源创业的三大优势：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;像病毒一样的扩散&lt;/li&gt;
-&lt;li&gt;为R&amp;amp;D提供服务更加的优秀&lt;/li&gt;
-&lt;li&gt;Lower cost drives more usage, and expands the addressable market&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;文中列举的例子比较典型：cloudera、MangoDB、Elastic、Docker、InfluxDB、Redis Labs、JFrag。。。。。。我想国内的Zstack、Keylin、TiDB等公司也是可以说说他们的故事的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://assets.wired.com/photos/w_1720/wp-content/uploads/2016/12/GettyImages-627219854.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;2016-深度学习吞噬整个互联网的一年&#34;&gt;2016: 深度学习吞噬整个互联网的一年&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.wired.com/2016/12/2016-year-deep-learning-took-internet/&#34;&gt;2016: The Year That Deep Learning Took Over the Internet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我依然流露处对于Wired文章的崇尚：给出一个让任何人都能理解的实例：Google开源AI项目TensorFlow的最佳实践之一。然后开始阐述过去一年的深度学习的成绩：打败围棋世界冠军，互联网巨头的竞争：翻译、聊天机器人、新的数据中心、云计算：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Companies like Google and Facebook are not only hiring a new kind of talent, but also reeducating their existing employees for this new future—a future where AI will come to define technology in the lives of just about everyone.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blogs-images.forbes.com/moorinsights/files/2016/12/JF5.jpg?width=960&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;对于网络-2017年我们应该期待什么&#34;&gt;对于网络，2017年我们应该期待什么？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/moorinsights/2016/12/28/what-to-expect-from-networking-in-2017/#be916036b1c7&#34;&gt;What To Expect From Networking In 2017&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;似乎自从人们认识了“时间”的存在，比如年，就希望计划、预测、向往些什么，网络这个古老而年轻的领域一点也不例外。&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;li&gt;IaaS 平台
 
 &lt;ul&gt;
-&lt;li&gt;软件定义广域网（SD-WAN）的时代已经来临&lt;/li&gt;
-&lt;li&gt;开源继续扩张它的势力范围&lt;/li&gt;
-&lt;li&gt;编排工具竞争激烈，鹿死谁手仍未可知&lt;/li&gt;
-&lt;li&gt;安全将会是非常大的问题域&lt;/li&gt;
-&lt;li&gt;WiFi的消费者市场要求更多的智能&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;More IT organizations are now not only depending on open source but also providing code updates back into the projects.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道一周精选(2016 12 25)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%89%282016-12-25%29/</link>
-      <pubDate>Sun, 25 Dec 2016 18:47:22 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%E4%B8%80%E5%91%A8%E7%B2%BE%E9%80%89%282016-12-25%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://cdn.arnnet.com.au/article/images/740x500/dimg/dreamstime_s_75176814_1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;2017年值得关注的技术&#34;&gt;2017年值得关注的技术&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.arnnet.com.au/article/611897/top-tech-watch-partners-2017/&#34;&gt;Top tech to watch for partners in 2017&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;是啊，又是一年过去了，自从创业之后，我开始对一些事物有了全新的认识，比如时间，以及所谓的节日。其实，我更加的喜欢将这篇文章的题目变更为：“接下来的4个季度的技术趋势。” 诡异的地方在于季度仍然是一个节点。&lt;/p&gt;
-
-&lt;p&gt;人工智能、虚拟现实、安全、以及开源！ 你没有眼花，确实是开源，百分百正确！开源是一种技术？如果你将其提高到人类协作的角度、政治的视野、以及企业的高瞻远瞩的话，没错，开源是一种技术。此技术非具体到某个计算机领域，如操作系统。但是确实是这些具体的技术先占领了企业，然后从内部生根发芽、茁壮成长。已经是没法忽视的力量。怎么办？识时务者为俊杰，顺势而为！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2016/12/facebook-open-source-100700507-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;facebook-递交了其过去一年的开源成绩单&#34;&gt;FaceBook 递交了其过去一年的开源成绩单&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3152873/open-source-tools/facebook-delivers-its-state-of-the-open-source-union.html&#34;&gt;Facebook delivers its state of the open source union&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;和Google一样，FaceBook也递交了自己在2016年在开源社区所做的成绩，排在前五的分别是编程工具、移动开发框架、PHP 虚拟机、编译工具。相比于Google，技术依然差了很多。&lt;/p&gt;
-
-&lt;p&gt;本文并非看上FaceBook的总结，而是后面作者解释的FaceBook为何参与开源，其中有两个亮点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;HHVM 在维基百科的应用，以及维基百科和HHVM的互动。说明了社区的创新力量！&lt;/li&gt;
-&lt;li&gt;开源是有效吸引优秀人才的战略！这是个知识经济时代，人选择公司，所以公司必须尽可能的去迎合人才。人会自行选择哪里的编程、工程工作更加适合自己。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;铃木加入汽车制造联盟&#34;&gt;铃木加入汽车制造联盟&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/bertelschmitt/2016/12/22/suzuki-joins-carmaker-consortium-that-wants-to-lock-google-out-of-their-vehicles/#38f21d0142b0&#34;&gt;Suzuki Joins Carmaker Consortium That Wants To Lock Google Out Of Their Vehicles&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文重点介绍的是本田在使用Alhpabet 的无人驾驶，铃木成为Automotive Grade Linux的铂金会员。
-关注开源，走进开源，拥抱开源！世界正在形成认知盈余，Open的协作是唯一的出路。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://tr1.cbsistatic.com/hub/i/r/2016/12/09/9591056e-9220-40d7-992e-003e990e4fdf/resize/770x/ddbdb9f123756ffce1dbb48a384652fb/redhatdocker.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;为什么红帽利用docker赚到钱比docker公司要多&#34;&gt;为什么红帽利用Docker赚到钱比Docker公司要多？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techrepublic.com/article/why-red-hat-makes-more-money-on-docker-than-docker-does/&#34;&gt;Why Red Hat makes more money on Docker than Docker does&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Docker公司到目前为止没有找到很好的商业模式，这个PaaS厂商发展出来的容器，为了技术而技术，最后放弃了PaaS，为容器技术奠定大局。然而却迟迟找不到很好的商业模式。&lt;/p&gt;
-
-&lt;p&gt;作者开篇就一副浓浓的挑衅味道，红帽在到处收购公司，然后开源，Docker也在这么做，但是Docker在亏损，红帽却在数钱。&lt;/p&gt;
-
-&lt;p&gt;背后的原因就是红帽将其OpenShift彻底使用Docker重构，利用云平台转了个盆满钵满。Docker还需要继续努力。  正如文中所言：&lt;strong&gt;The big risk for Docker isn&amp;rsquo;t that things like Docker Datacenter don&amp;rsquo;t sell. Rather, the big risk is that they don&amp;rsquo;t sell at the same pace that larger, better positioned competitors can manage.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;是什么成就了红帽成为linux的王者&#34;&gt;是什么成就了红帽成为Linux的王者？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.cio.com/article/3153021/linux/what-makes-red-hat-the-king-of-linux.html&#34;&gt;What makes Red Hat the king of Linux?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;其实，作者的题目很是技术人员不爽，不过他副标题也明确的说了，红帽2016年第四季度的营业额是$615 million！ 这就没有什么好说的了。&lt;/p&gt;
-
-&lt;p&gt;红帽最大的成功并不在于开源，而是创新：对于软件销售方式的创新，即商业模式的创新：以卖报纸的方式卖软件！ 而现在正在成为业界的标准模式，比如Adobe的PS，微软的Windows等。&lt;/p&gt;
-
-&lt;p&gt;是的，任何的成功都不是某一方面做对了，而是在很多方面都做对了，而且还是经年累月持续不断的做对的事情：比如2014年的向云平台转型、收购的一系列技术先进的公司，Makara、FeedHenry, Ansible、ceph等等，社区、上游优先、以及在开源时代来临的时候是准备的最为充分的。&lt;/p&gt;
-
-&lt;p&gt;Platform9的Madhura Maskasky曾说过：&lt;strong&gt;“Gone are the days of the pure proprietary technology stack”.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;你准备好了吗？&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道变更为每周精选</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/weekly_reading_about_open_source_articles/</link>
-      <pubDate>Wed, 21 Dec 2016 22:27:55 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/weekly_reading_about_open_source_articles/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;如果你能看到这篇文章，说明你一直在关注着我的“开源之道”，首先我要做的一件事，就是郑重的感谢你！感谢你一路的陪伴！&lt;/p&gt;
-
-&lt;p&gt;现在回过头来看，从&lt;a href=&#34;http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_5/2016_5_21/&#34;&gt;第一篇开源之道&lt;/a&gt;算起，已经整整坚持了半年的时间了。半年说长不算长，但坚持一件事情总归是值得庆贺的！&lt;/p&gt;
-
-&lt;p&gt;现在看来，说什么成果之类的，有点操之过急。只是说根据自己的实际情况，需要稍加做一些调整。英语不知道有多少长进，但是对于开源的认识则是更加的系统。&lt;/p&gt;
-
-&lt;p&gt;虽然世界并没有多少的变化，但是我对待它的方式变了，变得更加的有耐心。这也是我越来越觉得布道的重要性！&lt;/p&gt;
-
-&lt;p&gt;开源仍然需要布道！人们对它有太多的误解。这点是我非常坚定的认识。&lt;/p&gt;
-
-&lt;p&gt;其实更改为每周精选，也就是这半年来我将一些重量级的论文、文章、开源书籍，已经介绍的差不多了，如果每天来报道的话，其实难免沦为报道各大公司开源具体的软件项目了。除了瞻望前沿的开源技术之外，我更加在乎的是文化、方法论、科学理念方面的内容。但是，由技术产生的文化，就得从文化中去提炼，所以以周为单位是合适的，甚至变成双周都可以。重点在有话说，不能无病呻吟，也不能照本宣科，为了完成而完成。&lt;/p&gt;
-
-&lt;p&gt;科学本身就是不断的学习，那么我们的开源之道就是不断的完善和变化。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016 12 18)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-18%29/</link>
-      <pubDate>Sun, 18 Dec 2016 06:44:00 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-18%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://harvardmagazine.com/sites/default/files/styles/4x3_main/public/img/article/1216/JF17_image_Page_014_Image_0001.jpg?itok=7RMyL-6p&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;众包成功的动力是什么&#34;&gt;众包成功的动力是什么?&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://harvardmagazine.com/2017/01/what-drives-successful-crowdsourcing&#34;&gt;What Drives Successful Crowdsourcing?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;将问题定义清楚，有奖赏，嗯，就是这么简单！需要很好的治理！&lt;/p&gt;
-
-&lt;p&gt;文中的精髓其实就是一句话：&lt;strong&gt;Asking people to cure cancer is too broad. Asking them to look at how a particular enzyme might work in a biomedical process is better.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://i.guim.co.uk/img/media/2902898bc58d382896f83a3eea87aa745b2e9257/142_0_3837_2305/master/3837.jpg?w=780&amp;amp;q=20&amp;amp;auto=format&amp;amp;usm=12&amp;amp;fit=max&amp;amp;dpr=2&amp;amp;s=198bd6125bd7298b26b17f5e953935f5&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;这些创业公司会是食物技术的未来吗&#34;&gt;这些创业公司会是食物技术的未来吗？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.theguardian.com/sustainable-business/2016/dec/17/weather-proof-crops-hydroponics-new-food-startups&#34;&gt;Are these startups the future of food tech?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;室内LED农场？人是不是就可以不用去见什么太阳了？或者毋需出室外？&lt;/p&gt;
-
-&lt;p&gt;其实，我选这篇文章，虽然和开源有点关系，但是重要的还是想到整个华北境内的雾霾！室内农场是一种什么样的解决方案？科幻片。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;google-成为-cloud-foundry-黄金会员&#34;&gt;Google 成为 Cloud Foundry 黄金会员&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://siliconangle.com/blog/2016/12/15/google-joins-cloud-foundry-foundation-gold-member/&#34;&gt;Google throws its weight behind open-source Cloud Foundry&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;其实我想将题目更改为“Google会是Cloud Foundry 的救命稻草吗？”&lt;/p&gt;
-
-&lt;p&gt;从事件看战略，Cloud Foundry 在Docker、Kubernetes崛起的同时，在急速的衰退！Open Shift 似乎又占尽了先机。这一点不得不佩服红帽，技术可以翻天覆地，品牌绝对不变，不就是一个版本号的事情吗？相反Google和cloudy Fourdry都不够理智和清晰。和IBM的Bluemix一样找不到北！忘记了商业的本质，人性的本质。单纯的追求技术。&lt;/p&gt;
-
-&lt;p&gt;本文的另外一个可以看的就是圈子，Google、VMware 高管之间错综复杂的关系。梳理一下子，其实就是相互换血液！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016 12 16)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-16%29/</link>
-      <pubDate>Fri, 16 Dec 2016 08:29:57 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-16%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;github-正在构建码农们的天堂-付出也是蛮昂贵的&#34;&gt;GitHub 正在构建码农们的天堂，付出也是蛮昂贵的&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.bloomberg.com/news/articles/2016-12-15/github-is-building-a-coder-s-paradise-it-s-not-coming-cheap&#34;&gt;GitHub Is Building a Coder’s Paradise. It’s Not Coming Cheap&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;注意一下此文的第一段，是值得软文或科普文章学习的。GitHub 可能不被绝大多数人知道，但是在软件开发领域那绝对是响当当的公司！然后，以Google Doc为比喻，介绍了GitHub是干嘛的，托管代码的同时，让码农们开始协作。&lt;/p&gt;
-
-&lt;p&gt;本文其实探讨的是GitHub 的盈利问题，GitHub的财务报告出来了，今天的前三个季度，花了 6600万美元，可谓是创业公司的大手笔！为了应对GitHub从特斯拉挖来了首席财务官，花销太大，扩张太快，只做自己认为是有用的产品，客户不买账，被GitLab追赶等等。不一而足。&lt;/p&gt;
-
-&lt;p&gt;VC 的钱不好花。但是目前为之看起来GitHub还是可以扛得住，毕竟用户那么多！虽然零星有点小危机，但都不是啥大问题。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;在GitHub公司的文化中，码农的地位是最高的。&lt;/strong&gt; 这样的公司一定会成功的，我是这么看的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;为什么我对开源仍心有余悸&#34;&gt;为什么我对开源仍心有余悸&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://dzone.com/articles/why-my-heart-bleeds-for-open-source&#34;&gt;Why My Heart Bleeds for Open Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Heartbleed, Goto Fail, Shellshock, 以及 Poodle ，最近一两年开源软件的安全问题暴露的越来越多，最近京东的用户信息泄露问题，京东一股脑的往Apache Struts 2的漏洞，似乎给开源扣个屎盆子，京东就能洗清自己的安全意识了似的。京东在这件事情处理上，可谓是人渣中的人渣，比360过之而无不及。&lt;/p&gt;
-
-&lt;p&gt;本文虽然是想说明，开源软件有开源软件的问题，在DevOps中，应该使用一些商业软件。但是立论显然自己显得信心也不足。首先，DevOps，或者更直白，CI／CD，使用商用软件就不存在持续这个概念上，发现问题能修改吗？开玩笑。&lt;/p&gt;
-
-&lt;p&gt;软件是人开发的，是人就可能犯错，既然有可能，那么它一定会发生。所以提高安全意识，才是王道！Google 做主导的Linux 基金会的CII项目：关于安全漏洞扫描的也是应时而生！！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.govtechworks.com/wp-content/uploads/2016/12/open-source.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源软件的隐形成本&#34;&gt;开源软件的隐形成本&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.govtechworks.com/open-source-software-hidden-costs/#gs.2Ui15KM&#34;&gt;Open Source Software Carries Hidden Costs&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源并没有你想象中的那么美好，正如你在微博或照片app上看到的宠物一样，它一开始是可以获取，但是需要照顾，需要定制，需要维护。而这些都是成本。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;“You make that business process fit the software rather than the other way around, because software generally is going to follow industry best practices,”&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Open Source offers the opportunity for customization, which can be both a benefit and a curse.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;顺便说一句，这是美国政府部门的观点。相比于在找寻寻租空间的某些部门，这绝对是良心政府。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016 12 15)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-15%29/</link>
-      <pubDate>Thu, 15 Dec 2016 09:01:19 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-15%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://image.slidesharecdn.com/sapevansdataopensource03102016final-160322171312/95/embrace-open-source-in-your-developer-program-9-638.jpg?cb=1458666902&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;拥抱开源之前请先了解它&#34;&gt;拥抱开源之前请先了解它&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.channelworld.in/opinions/open-source-know-it-you-embrace-it&#34;&gt;Open Source: Know It Before You Embrace It&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源应该理性的对待，或者说科学的对待。在积极的拥抱它之前，应该去做深度的了解！犹如人生的重大选择一样，比如婚姻，比如职业。&lt;/p&gt;
-
-&lt;p&gt;这里摘抄两句文中精彩的论断：&lt;strong&gt;Open source is not rocket science, but you need to know the science behind it to get things right.&lt;/strong&gt; &lt;strong&gt;If businesses learn to not just embrace open source but also support and contribute back, they will be able to unleash the true power of open source.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/toolbox-learn-draw-container-yearbook.png?itok=2XFy0htN&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;从linux-内核开发25年所学到的9堂课&#34;&gt;从Linux 内核开发25年所学到的9堂课&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/12/yearbook-9-lessons-25-years-linux-kernel-development&#34;&gt;9 lessons from 25 years of Linux kernel development&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;本文的作者是大名鼎鼎的&lt;a href=&#34;https://opensource.com/users/gregkh&#34;&gt;Greg Kroah-Hartman&lt;/a&gt;，当然从文章中也可以认识到：&lt;a href=&#34;https://thunk.org/tytso/&#34;&gt;Ted T&amp;rsquo;so&lt;/a&gt; 这样的大神级人物：Linux文件系统专家。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;短期的开发周期非常的重要。&lt;/li&gt;
-&lt;li&gt;过程的扩展需要分布式的、层次分明的开发模式&lt;/li&gt;
-&lt;li&gt;工具很重要&lt;/li&gt;
-&lt;li&gt;内核的强一致模式非常的重要&lt;/li&gt;
-&lt;li&gt;内核的强“没有回归”的规则也很重要&lt;/li&gt;
-&lt;li&gt;企业的合作是蛮重要的，但是没有那个单一的公司掌控kernel开发更重要&lt;/li&gt;
-&lt;li&gt;项目内没有任何所谓的边界&lt;/li&gt;
-&lt;li&gt;Linux 证明了一件事：如此庞大的工程是从很小的一点做起来的&lt;/li&gt;
-&lt;li&gt;综上所述，Linux25年的历史表明，持续的合作可以带来共同的资源，没有那个团队／公司能够独自完成这件事&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016 12 14)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-14%29/</link>
-      <pubDate>Wed, 14 Dec 2016 08:49:12 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-14%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://www.linux.com/sites/lcom/files/styles/rendered_file/public/future-of-cloud-computing.png?itok=bE8CXl7i&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源助力云计算的采用-2016未来云计算调查&#34;&gt;开源助力云计算的采用 —— 2016未来云计算调查&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.linux.com/news/open-source-helps-drive-cloud-adoption-says-2016-future-cloud-survey&#34;&gt;Open Source Helps Drive Cloud Adoption Says 2016 Future of Cloud Survey&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;来自North Bridge Venture Partners 和 Wikibon analysts 的最新调查结果。&lt;/p&gt;
-
-&lt;p&gt;“From container technologies to high-velocity projects such as Kubernetes and Cloud Foundry, open source and open development are further accelerating the move to the cloud for businesses of all sizes across all industries,&amp;rdquo; 来自Linux基金会执行主席的论断。&lt;/p&gt;
-
-&lt;p&gt;你还在犹豫吗？Kubernetes似乎要颠覆世界的样子。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;keybank-开启云原生应用和构建-devops-实践-且选择了红帽-openshift-容器平台&#34;&gt;KeyBank 开启云原生应用和构建 DevOps 实践，且选择了红帽 OpenShift 容器平台&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://sports.yahoo.com/news/keybank-goes-cloud-native-builds-143000783.html&#34;&gt;KeyBank Goes Cloud-Native, Builds a DevOps Practice and Chooses Red Hat OpenShift Container Platform&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;容器似乎真的改变了世界，一如集装箱将全球的运输提升了好几个档次一样！ 前脚看到Kubernetes对于传统企业应用的无缝支持，后脚又看到走在前沿的银行、金融业积极的拥抱开源。&lt;/p&gt;
-
-&lt;p&gt;话说回来，作为技术人：红帽 OpenShift 容器平台是什么鬼？ Docker, Kubernetes, Project Atomic ， OpenShift Origin 以及 RHEL。&lt;/p&gt;
-
-&lt;p&gt;算是又给银行业的PaaS和DevOps开了头吧！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;十步拯救你的linux&#34;&gt;十步拯救你的Linux&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.oreilly.com/programming/free/ten-steps-to-linux-survival.csp?intcmp=il-prog-free-product-na_new_site_10_steps_to_linux_survival_text_cta&#34;&gt;Ten Steps to Linux Survival&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我之所以选这篇文章并非是因为，题目或内容吸引了我，十年前，我看到这样一本电子书，会兴奋到一夜将之翻完。但是，今天看到的却是电子书传播的力量。&lt;/p&gt;
-
-&lt;p&gt;昨天看到了OpenStack基金会的《The Path to Cloud》，觉得这些电子书的技术含金量并不亚于某些学术的报告。而且是免费的、可自由传播的。&lt;/p&gt;
-
-&lt;p&gt;继而我想到了Infoq的《架构师》电子杂志，虽然相对来说严谨性差了点，但是产生了长尾的效应，只要SEO做好了，基本就是Google和其他搜索引擎了。&lt;/p&gt;
-
-&lt;p&gt;电子书的传播力量就是比其它新闻之类的更系统、也更具持久性。值得参考和效尤。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016 12 13)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-13%29/</link>
-      <pubDate>Tue, 13 Dec 2016 08:40:37 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-13%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/1980s-computer-yearbook.png?itok=WP5ZfMQB&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;计算当如1989&#34;&gt;计算当如1989&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/article/16/12/yearbook-compute-its-1989&#34;&gt;Compute like it&amp;rsquo;s 1989&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;1989 对于整个世界都是转折点，尽管那时候的中国，在几乎整个上半年都在反腐！然而，远在天边的美国，却在计算机上有了里程碑式的普及。&lt;/p&gt;
-
-&lt;p&gt;那个时候的工程师在绞尽脑汁的压榨芯片的性能，不敢有丝毫的浪费。所有的应用都在追求极致！&lt;/p&gt;
-
-&lt;p&gt;是的，这个世界是变化飞快，但是有些东西是永恒的！走的太快的时候，不妨回过头来看看初衷！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;为什么你和你的公司应该采用开源&#34;&gt;为什么你和你的公司应该采用开源？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.techcentral.ie/organisation-adopt-open-source/&#34;&gt;Why should you and your organisation adopt open source?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;你的眼睛没有看错，微软和Forrester联合发布了一个报告。告诉世人，开源乃大势所趋，你应该使用开源。&lt;/p&gt;
-
-&lt;p&gt;我竟然想到的是龙应台在《野火集》中所表达的，开源真正的被商业利用起来的时候，人们该如何分辨？微软有着巨大的财力和物力，华为也一样。正如当年遇到的，代码应该像数学、医学知识一样，对所有人开放，现在看起来这些语言是多么的精准。商业绑架其不应该提开源，开源是默认。&lt;/p&gt;
-
-&lt;p&gt;作为开源的受益者，还是读读报告吧！想想信息技术究竟对你个人有什么好处？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;coreos-发布具备自动驾驶的kubernetes&#34;&gt;CoreOS 发布具备自动驾驶的Kubernetes&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://finance.yahoo.com/news/coreos-delivers-self-driving-kubernetes-143000919.html&#34;&gt;CoreOS Delivers Self-Driving Kubernetes with Next Generation of CoreOS Tectonic&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;注意一下，CoreOS的口号变了，&lt;strong&gt;CoreOS: Experts in open source and Kubernetes&lt;/strong&gt; ，一如Mirantis一样，CoreOS最初是提供具备etcd的最轻量级的Linux。&lt;/p&gt;
-
-&lt;p&gt;嗯，这里面的商业模式值得思考，技术不可为不先进，趋势不可为不明朗，但是总是叫好不叫座。其中是为什么？目标市场错误？对于开源的定位错误？&lt;/p&gt;
-
-&lt;p&gt;我们总是希望找到本质！但是它似乎就藏在某处，绝大多数人对它视而不见！比如红帽抓住Linux的本质：Control，干掉了Unix和Windows。商业重在本质！并能够将本质经营好，且能传播出去。&lt;/p&gt;
-
-&lt;p&gt;开源的价值就是让每个人成为工业时代的流水线工人？这是否是一种驳论？&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016 12 12)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-12%29/</link>
-      <pubDate>Mon, 12 Dec 2016 08:28:08 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-12%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;2017年最赚钱的5个技术&#34;&gt;2017年最赚钱的5个技术&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/steveandriole/2016/12/11/5-technologies-that-should-make-you-money-in-2017/#4fad6c314689&#34;&gt;5 Technologies that Should Make You Money in 2017&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;这个和开源有关系吗？有，那就是所有的技术，都是保持开放的。&lt;/p&gt;
-
-&lt;p&gt;不过我本人对这篇文章也觉得是无聊的，但是无聊的东西能够吸引到人们的眼球！至少大家在年底了，可能又会感慨一年这么快就又过去了，来年搞点什么能够赚到钱？比如看看技术趋势？前沿？区块链？IoT？人工智能？&lt;/p&gt;
-
-&lt;p&gt;我渐渐的发现批判的态度是最无力的！应该去忘记鲁迅，将胡适请进来！&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016 12 11)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-11%29/</link>
-      <pubDate>Sun, 11 Dec 2016 06:31:06 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-11%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.businessinsider.in/photo/55910133.cms&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;印度本土公司amrut软件与github成了合作伙伴&#34;&gt;印度本土公司Amrut软件与GitHub成了合作伙伴&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.businessinsider.in/This-Indiansoftware-company-just-partnered-with-the-worlds-biggest-open-source-community/articleshow/55910065.cms&#34;&gt;This Indian software company just partnered with the world’s biggest open source community&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;文中提到这么几句话：has become a GitHub distributor for India region. “Amrut customises products like Jira, GitHub, confluence, Nagios etc to integrate with DevOps requirements.” 也就是说，Amrut是这些优秀的商业软件在印度的代理。&lt;/p&gt;
-
-&lt;p&gt;然后会想到本土：Jira,Confluence 会使用盗版或替代，GitHub 有 Coding 替代，Nagios是开源，但并没有人专门做定制，都是大家各玩各的。《二十年目睹之怪现状》&lt;/p&gt;
-
-&lt;p&gt;得先从文化层面抓起，思想意识不解放。永远都是洪秀全的思路。150多年过去了，还是义和团。。。&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(2016 12 10)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-10%29/</link>
-      <pubDate>Sat, 10 Dec 2016 07:12:32 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-10%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAckAAAAJDY1ZDE2Y2I1LTYyZWUtNDg0ZC1hMGE5LWJlYjRlYjM5YjhmMA.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;企业若想发展-就得正视开源-并让开源回归自由&#34;&gt;企业若想发展，就得正视开源，并让开源回归自由&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://siliconangle.com/blog/2016/12/08/vmwares-secret-creating-healthy-social-ecosystem-open-source-thecube/&#34;&gt;Open source needs social freedoms for business to thrive&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;嗯，没错，是VMware的首席开源官（我无法掩饰的对这个职位的羡慕。）的一次采访！VMware 因为是站在开源的肩膀之上，一直以来对于开源都有着独特的理解。比如这次采访，也说明了对于业界有着深刻的洞见：&lt;/p&gt;
-
-&lt;p&gt;“开源甚至已经超越了软件开发的方法论，开源某种程度上已经成了如何组织人与人之间的交互以及如何创建让人惊异的软件！”  Dirk Hohndel 如此说到。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;开源：再也不仅仅是技术的事情了。&lt;/strong&gt; A big component of open source is for developers to be participants in a community and contribute back, understanding how these communities, made up of people from all kinds of backgrounds and from different regions of the world, can work together to create great software. 能做此事的人，绝对是人类史上大师级的人物。&lt;/p&gt;
-
-&lt;p&gt;本文更加的坚定了我对这个职位的追求！&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;贝尔成为首个开源电信基础设施项目的加拿大成员&#34;&gt;贝尔成为首个开源电信基础设施项目的加拿大成员&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.itworldcanada.com/article/bell-becomes-first-canadian-carrier-in-open-source-telecom-infrastructure-project/389091&#34;&gt;Bell becomes first Canadian carrier in open-source telecom infrastructure project&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我不是报道新闻的。而是希望透过新闻看到其背后的开源运作！很明显，作为厂商来发起的开源项目——FaceBook的&lt;a href=&#34;http://www.opencompute.org/&#34;&gt;开放计算项目&lt;/a&gt;是成功的，模式是可以复制的。&lt;/p&gt;
-
-&lt;p&gt;可以将开放计算项目的模式给学习起来了，列入自己的“开源之术”当中。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;在当今开源就是创新&#34;&gt;在当今开源就是创新&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://jaxenter.com/jclouds-project-devops-130667.html&#34;&gt;“Open source is where innovation happens today”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;JCloud 的PMC采访，有很多精彩的见解。当然不能忽略其对于JCloud这套API的成绩，JCloud能够走到今天，也是尤其独特的一面的。但是开源之道不重点讨论技术，尽管涉及的都是深度的技术。我个人对整个采访所看到的重点有2:&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;li&gt;OpenStack&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;部署和管理工具
 
 &lt;ul&gt;
-&lt;li&gt;Ignasi Barrera对于Apache开源治理的认同：&lt;strong&gt;Well, there is no “me” in Apache projects. The community and the Project Management Committee (PMC) &lt;a href=&#34;https://www.apache.org/foundation/governance/#technical&#34;&gt;control the direction of the projects&lt;/a&gt;, and all decisions are made by consensus in public discussions.&lt;/strong&gt; 还在犹豫和蹉跎什么？开源之术，先从成功案例搞起。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Open source is where innovation happens today. Companies have understood the benefits of the open source model and have seen that it is a great way to create technology. They are adopting it and contributing more and more, and this gives a lot of potential to open innovation and to create the technology of the future.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Salt&lt;/li&gt;
+&lt;li&gt;StackLight&lt;/li&gt;
+&lt;li&gt;Kubernetes&lt;/li&gt;
+&lt;li&gt;Fuel&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;分布式存储
+
+&lt;ul&gt;
+&lt;li&gt;ceph&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;软件定义网络，网络功能虚拟化
+
+&lt;ul&gt;
+&lt;li&gt;OpenContrail
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;仍然在开放云精选的大框架下，没有涵盖到的领域有：PaaS平台、混合云管理、Hypervisor和容器等。&lt;/p&gt;
+
+&lt;p&gt;其实，从这里看出，Mirantis 似乎作出一番和红帽之类的开源厂商的分庭抗礼的姿态，比如Salt的选用，在商业化浓厚的社区中结交联盟，不如高冷的Kubernetes、OpenContrail。Slat的选用看起来似乎不是很明智，但是技术上永远无法说清楚谁孰优孰略，只能是萝卜青菜，各有所爱。&lt;/p&gt;
+
+&lt;h2 id=&#34;能够学习到什么&#34;&gt;能够学习到什么？&lt;/h2&gt;
+
+&lt;p&gt;其实，我想将这个小节使用“能够证明什么？”更为妥当，但是又觉得哪里不对，毕竟我失败，说明我什么都不是。&lt;/p&gt;
+
+&lt;p&gt;在企业级，尤以基础设施领域，商业模式似乎很难脱离出红帽的服务、订阅模式。当然更加不用提本土，本土的思路，是无法用某些明显的规则来衡量的。然而，红帽现在的地位是无人可以撼动的，Mirantis 想纯粹以OpenStack 作为商业项目，越来越捉肘见襟，上下游难以打通，用户不买账，来来回回什么都得干，日益高涨的人力成本，会让其不堪重负。&lt;/p&gt;
+
+&lt;p&gt;然而，开源乃未来之大势所趋也，无论是传统企业，还是从人本身出发。对于企业来说，创新和竞争力提升才是根本，而对于人来说，更好的薪资和更自由的选择也是王道。那么对于供应商而言，是一个很尴尬的问题，也是很多人的怀疑，我为什么需要购买你的产品和服务？you are not RedHat!!&lt;/p&gt;
+
+&lt;p&gt;该如何突围？Mirantis 现在的行动和表现，正是我2015年初创办开放云精选时的思路：&lt;strong&gt;开源不存在单一的产品，重新利用各种组合满足特定的需求。&lt;/strong&gt; 甚至连建立社区的思路都极为的相似。&lt;/p&gt;
+
+&lt;h2 id=&#34;感慨及祝福&#34;&gt;感慨及祝福&lt;/h2&gt;
+
+&lt;p&gt;我的失败绝不仅仅是因为我身在天朝，有很多其它因素，比如冒险精神不足、对于本土文化的更加深刻理解、品牌的建设等等。以合格的CEO来衡量的话，我仅满足一条：有想法！&lt;/p&gt;
+
+&lt;p&gt;Mirantis 还有很长的一段路要走！比如人才战略！比如开源的品牌建设！比如跨地域管理的挑战！祝福Mirantis！能够做对的事情！&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>开源之道(2016 12 09)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-09%29/</link>
-      <pubDate>Fri, 09 Dec 2016 08:58:15 +0800</pubDate>
+      <title>《中国国民性演变历程》读后感</title>
+      <link>http://lijiangsheng1.github.io/posts/reading/The_Chinese_national_character_evolution/</link>
+      <pubDate>Mon, 31 Oct 2016 21:11:14 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-09%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/reading/The_Chinese_national_character_evolution/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://images-cn.ssl-images-amazon.com/images/I/91hS84JDd2L.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;h2 id=&#34;关于自己阅读过的研究-探讨国民性的回忆&#34;&gt;关于自己阅读过的研究、探讨国民性的回忆&lt;/h2&gt;
 
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+&lt;p&gt;相信很多和我年龄差不多的人，在上世纪90年代读完的初、高中，&lt;strong&gt;国民性&lt;/strong&gt;这个词是从鲁迅先生哪里习得的，于是，阿Q、祥林嫂、狂人、九斤老太、闰土&amp;hellip;&amp;hellip;等等一系列代表国民的人物形象变植根于脑海，随着世俗的成长，也颇增长了一些阅历，进入现在也读了一些不同的视野，比如读孙隆基先生的作品《中国文化的深层结构》，让我理解到了“他律”这个非常关键的词汇描述。乃至胡适先生的作品。我不知道，张纯如女士的《南京大屠杀》算不算，但是里面讲到的情节将我震撼到了。细极思恐。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/12/main-qimg-5f48d8daf87ff55bd5d230b42939cc7c.png?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;我自己隐隐约约的也在探索着周边的人性，比如亲人、同学、发小、朋友、同事，以及打交道的业务来往的人、社区的人等等，文化在其中究竟影响有多大，也在困扰着我。很多时候，我无法理解周边的人的想法，比如面子，比如虚荣，比如爱国，比如没办法的深逻辑。每当我和人谈起的时候，我总是被教训的那一方，让我去学会顺从，“你改变不了任何事情，你只能顺着走。” 可惜，我是一个愿意花时间去挖源头的一个人。&lt;/p&gt;
 
-&lt;h3 id=&#34;google开源数据可视化工具-embedding-projector&#34;&gt;Google开源数据可视化工具 Embedding Projector&lt;/h3&gt;
+&lt;p&gt;这本书，便是其中之一！我苦苦搜索到的探讨国民性的非正式学术著作。&lt;/p&gt;
 
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/12/07/google-open-sources-embedding-projector-to-make-high-dimensional-data-more-manageable/&#34;&gt;Google open sources Embedding Projector to make high-dimensional data more manageable&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;作者的写作目的是打动我的地方之一&#34;&gt;作者的写作目的是打动我的地方之一&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“顺民”，那种对于准备在任何公权力、暴力、不合理现象面前低头的人们，无论何时所表现出来的自私、冷漠和麻木，这些究竟是怎么一回事？&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;我选择这篇文章，竟然是因为它的配图。一部让我哭了两次的《星际穿越》，在5维空间为解救自己女儿所经历的穿越。&lt;/p&gt;
+&lt;p&gt;作者根据自己的亲历的一些现象，以及读书、新闻等听到的“匪夷所思”却又“司空见惯”的事情，想探究一下为什么会这样？究其原因在哪里？“哀其不幸？怒其不争？”并非是作者的本意，只是希望以一个热爱这片土地的人，能够冷静的分析问题的原因。&lt;/p&gt;
 
-&lt;p&gt;Google 在面临AWS的巨大压力面前，很多技术人员不服，我们的技术这么先进，为什么屡次三番的被干了呢？好吧，我们开源，从Tensorflow到DeepMind，再到Embedding Projector。开源真的能解救Google吗？Google显然没有找到古老企业级的痛点在哪里。&lt;/p&gt;
+&lt;p&gt;我个人也有类似的想法，但是没有国民性这样的高度。我是对于职场中、生活上遇到的事情，想不明白。比如我在文章&lt;a href=&#34;http://lijiangsheng1.github.io/posts/entrepreneur/the_evil_of_human_nature/&#34;&gt;《那些人性中的恶》&lt;/a&gt; 所记录的，他们为什么会迷失？最后堕落成那样子？这些都是我努力去苦苦寻找答案的悲惨现状，是制度？是文化？是人性？&lt;/p&gt;
 
-&lt;p&gt;总而言之，Google 又对开源界注入一股清流！ 高冷、牛逼的技术！&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&#34;本书的脉络&#34;&gt;本书的脉络&lt;/h2&gt;
 
-&lt;h3 id=&#34;linux-基金会的开源网络团队又增一名顶级专家&#34;&gt;Linux 基金会的开源网络团队又增一名顶级专家&lt;/h3&gt;
+&lt;p&gt;以中国3千年的朝代史来叙述的：春秋、先秦、秦、汉、魏晋、隋唐、宋、元、明、清的顺序走过来的，从制度、文化的角度来尝试给出“国民性”的答案。并最后描述了民国以来，妄图改造“国民性”的文化和政治人物，最后以悲剧结束。其中，作者还对比了西方，以希腊文明为代表的西方“国民性”。&lt;/p&gt;
 
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.networkworld.com/article/3147937/linux/linux-foundation-adds-an-open-source-networking-specialist-to-the-team.html&#34;&gt;Linux Foundation adds an open source networking specialist to the team&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;历史积淀说，可能是作者潜移默化的一个，也就是说现在的某个人的、或者某个群体所表现出来的国民性是中华三千年来所积淀下来的。听起来是不是有点扯？但是，似乎又有一些道理。正如作者在后记中所载，本书不是一本严谨的学术著作，很多地方具有作者的主观色彩。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果有那么一个人，活了三千年，历经了各种残暴，死了N次，一直未曾反抗过，一直在鼠目寸光、苟延残喘，冷漠、自私、麻木，不具有对正义和自由的向往和追求能力，在得过且过，默默的承认现状，不思考未来。永远在周边的二亩三分地勾心斗角&amp;hellip;&amp;hellip;&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;选这些文章，是对于我个人职业的一个激励。我总是觉得现在很多公司／企业都在开始重视起了开源，开源应该如何经济的去考量，是很多和IT相关的决策者思考的问题。也是很多基金会考量的问题。&lt;/p&gt;
+&lt;h2 id=&#34;结语&#34;&gt;结语&lt;/h2&gt;
 
-&lt;p&gt;算上这篇，我的开源之道，应该有好多篇关于大公司任命开源高管，基金会吸纳了某高级人才的文章。&lt;/p&gt;
-
-&lt;p&gt;算是对自己，和很多的开源从业人员的一个激励。只要你去努力的理解人，理解人性。一定有你的用武之地。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://enterprisersproject.com/sites/default/files/styles/620x350/public/images/CIO_open%20source_2.png?itok=iJT_z9Xe&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;这个cto有点怪-为什么他坚信开源应该是所有软件的新常态&#34;&gt;这个CTO有点怪，为什么他坚信开源应该是所有软件的新常态&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://enterprisersproject.com/article/2016/12/why-cto-believes-open-source-should-be-new-norm-all-software-companies&#34;&gt;Why this CTO believes open source should be the new norm for all software companies&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;作者表现的非常的无奈，只能尝试去描述出这样一个现象，却给不出答案来。我这边摘抄一段以结束我的这篇读后感，无奈通常让人有些绝望，但你不得不去拥有希望，找到根治的良方。&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;新常态这个词，我还是从AWS14年峰会上学到的，当时的AWS CTO 说：“云计算已是新常态。” 明白这个意思了吧！&lt;/p&gt;
+&lt;p&gt;在现代化的外衣之下，传统中国的内核正在如几千年前一样安详地、不动声色地可怕地静静旋转。这种传统与现代的交错，造成了中国社会的变幻莫测、光怪陆离。这种错综复杂，不但让外国人迷惑，也让中国人眩晕。世界诸重要国家中，只有中国的现代化进程最为崎岖曲折，多次重复缴纳高昂的学费，依然在同一个地方不断跌倒。西方国家的事物移植到中国，似乎逃不了被染上“中国特色”的命运。到现在为止，在中国人与中国人的面对面斗争中，成功者无一不是更“中国”的人。在晚清，慈禧太后与康有为、梁启超等人的斗争中，那个深懂中国权力运作机要的老太太胜了。在民国初，从海外回来的孙中山被土生土长的官僚袁世凯轻而易举地打败了。&lt;/p&gt;
 
-&lt;p&gt;开源已经是未来软件的一种主要的分发方式。不应该再使用许可证来收取费用了。这是很多人们都反感的事情。&lt;/p&gt;
-
-&lt;p&gt;开源不仅仅是代码而已： &lt;strong&gt;I recommend other companies consider open-sourcing their client code to not only increase transparency, but to contribute to other industries’ success.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;因此，认识清楚古老中国的内核，是生存在这片土地上的人必须做的。这是我们走下去的前提和基础。&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;当我无法去改变别人的时候，我唯一能做的就是保持自己不被改变，不被柏杨的“酱缸”给湮灭。&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>开源之道(2016 12 08)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-08%29/</link>
-      <pubDate>Thu, 08 Dec 2016 09:02:19 +0800</pubDate>
+      <title>哪些看起来并不光鲜的奋斗者可能就是你需要的优秀人才</title>
+      <link>http://lijiangsheng1.github.io/posts/entrepreneur/why_the_best_hire_might_not_be_have_the_perfect_resume/</link>
+      <pubDate>Thu, 13 Oct 2016 11:03:23 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-08%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/why_the_best_hire_might_not_be_have_the_perfect_resume/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;引子&#34;&gt;引子&lt;/h2&gt;
+
+&lt;p&gt;古今中外，凡做大事者，兼有识别非凡人才的本领。韩愈更详细论述了“千里马常有，而伯乐不常有”的基调。当时光进入当代，以经济为一切发展前提，对于人才的激烈竞争更是到了火热化的地步，于是各种方法论层出不穷，有“重赏之下必有勇夫”、有“文化吸引”&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;、有“宠物、健身、保姆、美食福利”、有“户口、稳定、国有等著中国特色”等等不一而足。但是，这些都没有说出问题的根本，如何识别最适合团队发展的人才才是症结之所在。名校？外企经验？谈吐？简历？2小时的面试？&lt;/p&gt;
+
+&lt;p&gt;这是所有人思考的问题，尤其是一家公司的创始人或CEO。&lt;/p&gt;
+
+&lt;h2 id=&#34;讲讲故事&#34;&gt;讲讲故事&lt;/h2&gt;
+
+&lt;p&gt;最近看了&lt;a href=&#34;http://www.ted.com&#34;&gt;Ted&lt;/a&gt;的一个视频：&lt;a href=&#34;http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume#t-53538&#34;&gt;Why the best hire might not have the perfect resume&lt;/a&gt;，演讲者：&lt;a href=&#34;http://www.ted.com/speakers/regina_hartley&#34;&gt;Regina Hartley&lt;/a&gt;。我在这里试图用文字来转述一下，会侧重于我所看到的观点。&lt;/p&gt;
+
+&lt;p&gt;演讲开始，Hartley抛出了一个选择题给大家：一个岗位，有两位应聘者，均满足公司要求，但是简历却大相径庭，一位是名校（常春藤联盟）毕业，有着光鲜的职业经历、另一位是公立学校毕业，经历坎坷，甚至做过最为卑贱的工作，演讲者还分别为这两类人取了个特别的名字：前者叫做“含着金钥匙的人”，后者叫做“Scrapper”。作为人力资源该如何抉择？这里演讲者作为资深人力总监和“Scrapper”，并没有及时的给出答案，（值得学习的演讲的技巧）而是仅仅建议给后者一个面试的机会。&lt;/p&gt;
+
+&lt;p&gt;接下来，演讲者开始论述Scrapper，他们有一些共性，那就是诸如在童年经历过苦难、有阅读障碍、单亲家庭、不被人们所认可。并举了三个例子：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Steven Jobs，领养家庭长大、大学没有毕业、去印度游荡了一年、有阅读障碍、找工作被拒频繁跳槽。但是无需赘言，他缔造了目前世界上最优秀的科技公司——Apple。&lt;/li&gt;
+&lt;li&gt;文革中坚持学习、考上大学的中国朋友，并将两个女儿培养为优秀的美国精英。&lt;/li&gt;
+&lt;li&gt;演讲者自己，童年时父亲精神出了问题，由妈妈带大，兄弟姐妹5个人，穷到没有房、没有车，但是一步步的克服各种困难，过上了自己想要的人生。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;然后，论述了，相比于能够在如此恶劣的环境下生存下来，而且保持一颗热爱生活的心，就商业业务那点困难，在他们眼中都不是什么事！他们是迎难而上的人！渴望通过努力可以掌握命运的人！&lt;/p&gt;
+
+&lt;p&gt;当然，在你的生命中遇到重要的人，也是很重要的！比如演讲者本人在第一份工作的时候，遇到的上司鼓励她：“要放眼未来，而不是纠结与过去”，专注、用心去做一些事情。&lt;/p&gt;
+
+&lt;p&gt;最后，演讲者给出了开始时的答案：“请选择Scrapper！”（他们才是你需要的人！）&lt;/p&gt;
+
+&lt;h2 id=&#34;谈谈心得&#34;&gt;谈谈心得&lt;/h2&gt;
+
+&lt;p&gt;从表面看这个故事，要仔细的去选择哪些有自我驱动力、渴望掌握自己命运、愿意倾听、专注的优秀人才。但是里面锁蕴含的道理和法则实在是太多了，以下是我能够想到的：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;要看重一个人的&lt;strong&gt;逆境商&lt;/strong&gt;：人生不如意十有八九，这个世界的运转方式，几乎超越了所有单个人类的想象，那么也就说这个世界没有单纯的事情，或者叫规则的约束。也就是说会遭遇困难，这个时候，人可以选择逃避，畏缩不前，这是大多数人所选择的。那么具有逆境商高的人，会选择迎难而上，不达目的不罢休的地步。&lt;/li&gt;
+&lt;li&gt;对于人才素质的要求，要有起码的量化：中国的古人要求德才兼备，那么在现代企业中，可能不会要求德，这个交给法律。至于才的量化：愿意倾听、敏感、勤于思考、独立、接受新知识快&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;li&gt;专注是优秀人才的必备技：世界所发展的复杂，人类必需用心去专注，方能理解之。如果一个人，精力分散、三心二意，恐怕成为知识经济时代的卓越人才会遇到诸多的困难。&lt;/li&gt;
+&lt;li&gt;对世界充满希望：嗯，你得是热爱生活的那一类人，懂得什么是人生的幸福，并通过努力去实现。悲观的人，对于科技也好、财富也罢，是毫无动力可言的。如果对世界不抱有希望，那么还有一种可能就是退化和报复。&lt;/li&gt;
+&lt;li&gt;自我驱动力，是人类能够之所以进步的原动力之一：让我们来谈谈激励，绝大多数人，靠外在的激励，诸如金钱、物质、意识形态等是可以满足的，但是，谁都知道，这个世界是由哪些少数人改变的，也就是有内在驱动力的人，他们是有一种与生俱来的使命感的。一个人做事情，由内而外的驱动，才是真正的驱动力：每天早上起床的动力是什么？晚上8:00～9:00这段时间，别人娱乐的时候在干什么？华盛顿邮报评选出的世界排名前十位的奢侈品想拥有几件？[^2]&lt;/li&gt;
+&lt;li&gt;懂得合作，是企业／公司强制要求的软技能之一： 嗯，知识发展到今天，或者说社会、营销等的发展，单个的个体想做的事情，离开合作、他人的协助几乎成了不可能的事情。举例来说：软件项目，动辄几千、几万人在开发，比如Windows操作系统、Oracle数据库、iOS手机操作系统&amp;hellip;..庞大的营销体系，如果是独立的个人，也就是卡夫卡笔下《城堡》中的孤立无援的主人公。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;
+
+&lt;p&gt;最后，我想说的是：人是复杂的，人性也一样，请珍惜人才，重视并践行背景调查、面试这些环节。如果不能的话，不妨交给时间。所谓之“路遥知马力，日久见人心。”&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;论人才，其实就是在论人性。&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;[^2]:&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://21ax0w3am0j23cz0qd1q1n3u.wpengine.netdna-cdn.com/wp-content/uploads/2016/12/MojaGlobalCover-1038x576.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;开源治理所带来的价值&#34;&gt;开源治理所带来的价值&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.euroscientist.com/open-governance-enhances-value-land-use-policy-software/&#34;&gt;Open governance enhances the value of land use policy software&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开放的治理，日渐成为世界的主流。是的，技术的发展，导致的知识增值，将人的尊严中奴隶中解放出来，甚至不再受制于某些组织的束缚。&lt;/p&gt;
-
-&lt;p&gt;本文阐述就是开放治理从政府的角度，能够从Linux模式中学到什么？该如何处理，更为高效。&lt;/p&gt;
-
-&lt;p&gt;非常值得借鉴的主题。可惜，身边发生的却是在寻租！比如中空协！比如开源云计算联盟。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;与世界对话-为什么开源会有助于小型企业&#34;&gt;与世界对话：为什么开源会有助于小型企业&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://boston.cbslocal.com/2016/12/07/why-open-source-help-business/&#34;&gt;Communicating To The World: Why Open-Source Could Help Your Small Business&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;知识就是力量！这是谁说的？但它同样也可以成为暴政。因为它有力量，而又缺乏自制力的话。&lt;/p&gt;
-
-&lt;p&gt;正是开源降低了互联网的入门门槛，使得很多优秀的公司涌现出来，比如Google、FaceBook。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://opensource.com/sites/default/files/styles/image-full-size/public/images/business/yearbook-haff-rx-linux-file-lead_0.png?itok=48iDNoH8&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;为什么说2017年操作系统更加的重要&#34;&gt;为什么说2017年操作系统更加的重要&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://opensource.com/16/12/yearbook-why-operating-system-matters&#34;&gt;Why the operating system matters even more in 2017&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;前几日我在微信群里面给人上“课”，一位叫嚣着Docker无用，PaaS有用的功利主义者，是的，我们每个人都在坐井观天，重点在于井口的大小。是的，国人从来是不看好立马带不来经济效益的技术的。骨子里是轻技术的，因为除了技术，他们什么也不敢讨论。技术是唯一的“鸵鸟”之地。&lt;/p&gt;
-
-&lt;p&gt;操作系统的地方不会降低，反而会越发的上升。不变的使其管理硬件，为上层提供支持。变的是更加的 &lt;strong&gt;become much more adaptable, much more mobile, much more distributed, much more robust, and much more lightweight&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;YunOS 究竟能走多远？ 还得看其所建立起来的生态。&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;红帽CEO的新书《开放性组织》中文版面世。
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>开源之道(2016 12 07)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-07%29/</link>
-      <pubDate>Wed, 07 Dec 2016 08:49:28 +0800</pubDate>
+      <title>坏的情绪会在创始团队中蔓延</title>
+      <link>http://lijiangsheng1.github.io/posts/entrepreneur/bad_guy_can_demage_all_team/</link>
+      <pubDate>Thu, 29 Sep 2016 21:48:20 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-07%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/bad_guy_can_demage_all_team/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;再次表明自己的身份&#34;&gt;再次表明自己的身份&lt;/h2&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;我是一名创业者，在经历的短暂的初次失败之后，陷入了可能是将会很长一段时间的酝酿期。但是我依然是一名创业者。那么，我会以一名旁观者的身份来观察自己所能看到的，基于真实、尽可能的实录，好的方面，则吸收之；坏的方面，则远离之。&lt;/p&gt;
 
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
+&lt;h2 id=&#34;什么是坏的情绪&#34;&gt;什么是坏的情绪？&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://zdnet4.cbsistatic.com/hub/i/r/2016/12/05/a9977820-7f52-4abc-8c1a-e7d62af7cb46/resize/770xauto/c0bc3b67b4fc4967bc24faf4ad919095/jboss-cloud.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;人人都会有情绪，高兴、快乐、沮丧、愤怒、失落、悲观、紧张、恐惧&amp;hellip;&amp;hellip;但是在现代企业的日常工作中，有些情绪是要去被努力避免的，比如沮丧、抱怨、失望、愤怒、排外等。而有些则是要提倡给员工的，尤其是在如此一个知识经济时代，作为员工的个体，不仅要保持乐观的心态、坚韧的态度、坚定的决心、还得拥有果敢、决绝、毅力，方可取得进步，让自己立于不败之地。&lt;/p&gt;
 
-&lt;h3 id=&#34;红帽将-jboss-套件全部移植到了-openshift&#34;&gt;红帽将 JBoss 套件全部移植到了 OpenShift&lt;/h3&gt;
+&lt;p&gt;人类在大多数时候都是脆弱的，不然，不会在整个历史都在倡导忍耐与克制，如果能够做到这两点的人，多数也被载入了史册。有的时候，无法去强制要求人们去做到。但是，创业不是政治与制度建设，而是找到一些价值观一致的人们。所以，必须能够做到摈弃坏的情绪，发扬好的情绪。&lt;/p&gt;
 
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/red-hat-brings-full-jboss-software-stack-to-openshift/&#34;&gt;Red Hat brings full JBoss software stack to OpenShift&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;坏的情绪会蔓延&#34;&gt;坏的情绪会蔓延&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;创业维艰，而尤其是会犯很多错误。比如现实的境遇与当初的踌躇满志落差很大、比如身边的队友并不是那么的完美，反而在能力和努力上均被受到质疑。也就是遭遇了挫折，作为个人来讲，遇到挫折的时候，会将自己灌醉？找朋友倾述？找个拳馆打它个大汗淋漓？或者干脆换一种方式，但是，作为一家创业公司，团队稍有雏形，面对艰难的外部环境，来自业界的嘲笑、同行的压力，面对惨无人睹的销售业绩，跨地域的多人管理逐渐从散漫到进入不是那么具有人情味的流程中，不能适应团队厂长的队友离开，各种管理制度的变化等等，让人每天都在感觉到变化。而人在适应变化的过程中就会有情绪，有积极的去适应，也有消极的对抗，拒绝改变。&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;这绝对是个大新闻，这也意味着炒了整整一年的容器化，终于有了里程碑式的意义。&lt;/p&gt;
+&lt;p&gt;作为群体效应，坏的情绪会蔓延。尤其是本土的文化，当时隔半载之久，人会有一种动物般的老资格自居。这个时候或许已经有三三两两的开始产生所谓的抱团现象，尤其是缺少共同的目标感的时候。他们会时不时的将公司的某个人当作假想敌，然后开始进行所谓的抱怨、愤怒。甚至会敌视新来的同事。&lt;/p&gt;
 
-&lt;p&gt;当然，对于应用来说，仍然不是无缝就可以迁移上来直接运行的。仍然还有很多的问题存在，这其中就有商机的存在。嗯，看来我现在也稍稍有了一点商业上的思维了。&lt;/p&gt;
+&lt;h2 id=&#34;如何将这些坏的情绪驱赶走-并引入好的情绪&#34;&gt;如何将这些坏的情绪驱赶走，并引入好的情绪？&lt;/h2&gt;
 
-&lt;p&gt;容器化乃大势所趋，Kubernetes要战胜所有的其他编排工具吗？&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;作为一个群体，当内部出现问题的时候，需要一个外部的共同的敌人。这是社会学的结论，那么套在企业中，就是需要一个切实可行的目标，比如升级下一代产品，比如攻克一个看起来非常困难的项目。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www2.pcmag.com/media/images/525700-deepmind-lab.jpg?thumb=y&amp;amp;width=740&amp;amp;height=426&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;找到那个散布坏的情绪的源头，无论ta功有多高，（一般情况下，功高的那位很难被负能量所感染）都得请ta离开公司，其实，找这样的人也是异常的简单，是否有创业心，准备在贵公司打算养老的，就8、9不离10了。&lt;/p&gt;
 
-&lt;h3 id=&#34;google开源了其人工智能研究-deepmind-lab&#34;&gt;Google开源了其人工智能研究 DeepMind Lab&lt;/h3&gt;
+&lt;p&gt;以一名员工的视野来看的话，遇到这样的人，要敬而远之。要明确自己的判断，认清自己的方向，不能轻易的被一些表象或某些单方面的花言巧语所蒙蔽。保持自己积极的心态。&lt;/p&gt;
 
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.pcmag.com/news/350086/google-open-sources-deepmind-lab-for-ai-research&#34;&gt;Google Open Sources DeepMind Lab for AI Research&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;以一名高管或者是本身强大的员工来看的话，要给自己周边的同事鼓励，明确团队、企业的目标，动之以情、晓之以理的去解释一些事情，如失败的案例、开除的员工、平均主义的危害性等等。这个角色最怕的是欲盖弥彰，撒谎！拒绝承认错误。这个不仅会给那些散播坏情绪的人以可乘之机，而且会让自己失去信任。而信任这个高贵的东西，一旦失去就再也建立不起来了，即使重新了，不仅要花去很大的代价，效果也会大不如前。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;如何从根本上杜绝这样的事情&#34;&gt;如何从根本上杜绝这样的事情&lt;/h2&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;人工智能进入了白热化的竞争阶段，Google又发一大招！这个世界越发的好玩了，OpenAI、Geometric Intelligence （Uber收购的团队）。&lt;/p&gt;
+&lt;p&gt;其实，出现这样的状况大多数时候是遇到了如下三种情况：&lt;/p&gt;
 
-&lt;p&gt;但是，仔细的思考一下，开源为什么会是人工智能竞争的手段了呢？这个地盘很多大厂都在竞争：Amazon、微软、IBM等等。归根结底，是抢夺人才的战略高地。世界大势乃是知识经济膨胀，分工趋于精细化，其实，能够从事人工智能这块的人相对于整个真的不算什么，但是这个领域的应用前景非常的广泛，无人驾驶汽车、飞机、各种机器人等等，而开源是最好的降低门槛，吸引人们的方式，要知道这是非常艰难的一个领域，犹如数学知识一样，同样是开源，问津者寥寥&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;招聘到了错误的人。&lt;/li&gt;
+&lt;li&gt;内部出现分歧，有可能是公司业务方向，也有可能是企业文化经营。&lt;/li&gt;
+&lt;li&gt;收购的公司，出现的文化冲突。&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;再说深一点就是伦理问题了，人最终会被机器所替代！人类的精英将人类给毁灭。&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;只有第一种情况比较好办，将散播坏情绪、能力差的人开除即可。而后两种情况，则比较棘手。尤其是第三种，是会必然出现的，在新的环境中，绝大多数人表现出来是抵触改变、抱怨新的环境。这个时候有以下几个步骤来解决：&lt;/p&gt;
 
-&lt;h3 id=&#34;为什么说开始是标准测试的未来&#34;&gt;为什么说开始是标准测试的未来&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.builtinchicago.org/2016/12/05/breakthrough-technologies-open-source&#34;&gt;Pencils down: Why open source is the future of standardized testing&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;开源的黄金时代，测试也来凑热闹！我自己无法认同更多。但是，本土的环境恐怕不得不说可惜！&lt;/p&gt;
-
-&lt;p&gt;这是一篇毫不起眼的商业软文，但是道出了一个道理：&lt;strong&gt;&amp;ldquo;Open source was not that popular, frankly, as a term, ten or twelve years ago, but now we have organizations and entire governments who are saying they want 100 percent of their federal IT projects in open source,&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;将新公司的业务方向、企业目标等明确的传递出来。（最不靠谱的是说今年的销售额。）&lt;/li&gt;
+&lt;li&gt;沟通，了解这些人的真实想法，然后，针对他们的想法来想对策。一定不能对他们的想法置之不理。&lt;/li&gt;
+&lt;li&gt;文化的保留与传承。然后才能慢慢的发展新的文化。&lt;/li&gt;
+&lt;li&gt;明确的业务目标，让员工们能够忙起来，且有的放矢。能够调动出积极主动的精神来最好。&lt;/li&gt;
+&lt;li&gt;切忌大换血，代价过于的高昂。只是从一种坏的情绪转变为更加糟糕的情绪而已。&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
     <item>
-      <title>开源之道(2016 12 06)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-06%29/</link>
-      <pubDate>Tue, 06 Dec 2016 09:07:47 +0800</pubDate>
+      <title>继续孤独，继续逃亡</title>
+      <link>http://lijiangsheng1.github.io/posts/moives/Jason_Bourne_5/</link>
+      <pubDate>Sun, 04 Sep 2016 12:37:08 +0800</pubDate>
       
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_12/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-12-06%29/</guid>
+      <guid>http://lijiangsheng1.github.io/posts/moives/Jason_Bourne_5/</guid>
       <description>
 
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;##自由的代价&lt;/p&gt;
+
+&lt;h3 id=&#34;观-谍影重重5&#34;&gt;观《谍影重重5》&lt;/h3&gt;
+
+&lt;p&gt;最后还是没有忍住，让老婆给买了一张《谍影重重5》的电影票。从中移沟通回来，带给我很大的冲击。昨天从苏州返回，虽然很累，但是我依然不行了2公里，来思考自己下一步的动作。中移带给我的问题就是：“开源的开发模式方法论，究竟是否在本土有效？若要有效你需要去做什么？赚钱的方式有很多种，为什么要和开源死死的绑在一起？比如是否要去考个心理咨询执照，然后开个戒烟诊所？在商业模式上有所创新。” 我面对的是一个由强大的文化洗脑过的人组成的社会，正如鲁迅先生笔下的《狂人日记》中吃人礼教，所有人都被吞噬，你设防都来不及，还哪里有机会布道？ 于是，看一部电影缓解下情绪。&lt;/p&gt;
+
+&lt;h2 id=&#34;人非常难以做到一直理性思考&#34;&gt;人非常难以做到一直理性思考&lt;/h2&gt;
+
+&lt;p&gt;苏州之行，让我给自己定了一个小目标，那就是以后出差，得空就去逛一下当地的独立书店。上周日上海的钟书阁开启了这样一个旅程，苏州诚品书店是第二站，（这一切都要感谢我的爱人。）理由就是“乾坤挪移大法”，让自己恐惧出差的心理缓解一下。&lt;/p&gt;
+
+&lt;p&gt;在苏州诚品书店的收获是《等待的艺术——慢想，让决定更好》这本书:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lijiangsheng1/lijiansheng_github_pages/master/content/posts/Reading/the_art_of_wait.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;众所周知，台版书不是一般的贵，比肩于外文书，能让我冲动起来，确实不易，其中在导言中有这样一段话：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt; 在空手道的组手（对打）练习中，有经验的选手在面临对手时都不会轻易出手攻击，而是在互相彼此的试探中寻找最佳出手时机。这个试探的过程可以看成是一种收集更多资讯的等待过程，但最后的出手时机，则有赖于直觉的力量。这可以说是两种决策系统相辅相成的一个例子。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;因为一段话，而去买一整本书，这是我的一个爱上读书、相信读书的原则。是的，现实中，你需要为自己的选择、所相信的东西说出一些理由，即使不能成书，也得能够在其它的书中找到。否则你就得反思自己的立场了。&lt;/p&gt;
+
+&lt;p&gt;而引文中提到的“两种决策系统”是指：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;直觉式（intuitive）&lt;/li&gt;
+&lt;li&gt;深思熟虑式（deliberate）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;而新的《谍影重重5》不再是前三部那样，Jason Bonurne不再是理性决断的杀人机器。当他记起了自己的过去的时候，他开始变得优柔、舍己。情节：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;尼克尔一如Bonurne的女友被狙击时，Bonurne义无反顾的露头出来营救Nickor&lt;/li&gt;
+&lt;li&gt;在查到自己的身世，或者说他父亲参与了绊脚石计划后，变得茫然不知所措。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;廉颇老矣-尚能饭否&#34;&gt;廉颇老矣，尚能饭否？&lt;/h2&gt;
+
+&lt;p&gt;无论是演员，还是剧情，都不得不扣上浓重的“感慨岁月”的色彩，连反角找的都是老牌特工——文特森.卡索，揭开自己身世之谜的Jason Bonurne，始终不能对干过的事情释怀，也无力改变CIA，于是，躲在世界上没有通信的一角，靠暴力搏击（在被扁或扁人）中将自我沉沦。直到Nickor再次找到他。&lt;/p&gt;
+
+&lt;p&gt;但是他老了，相比于上个世纪的顶级科技，他显得有点落伍，甚至是全新的环境，这是一个大数据的时代，正如电影中所言，不仅仅是收集数据那么简单，还要分析、还要预测&amp;hellip;&amp;hellip;甚至是智能手机时代，Hacking的技术更加技高一筹，通过任意的手机，接入到手机周边的电脑外设，这不可能是一个整天打打杀杀的Bonurne能够知道和掌握的。他表现出来的一脸萌比是再也正常不过的事情了。&lt;/p&gt;
+
+&lt;p&gt;回到现实，我们必须每天学习，新的支付途径，连身上带几十块零钱都说明你整个人都落伍了；新型的特斯拉Style汽车其实就是一个四个轮胎载着的超级电脑；各种电动平衡车，正在要求新的专门的道路划分，而你刚刚才买了一辆看起来不错的滑板城市通勤车；你刚刚买了一本介绍最新软件定义存储的开源图书，花了一周刚看完，发现书中的案例比当下的版本晚了整整一年半&amp;hellip;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;于是，你不得不佩服Jason Bonurne快速的学习能力，在全球最高科技的峰会上，能够快速的学习最新科技的追踪定位系统，和楼层有关。并且在最后能够监听到可以几秒内注入木马、定位远在地球另一边，冲破5层防火墙、熟练运用AI脸部识别、大数据分析的MIT高材生。&lt;/p&gt;
+
+&lt;p&gt;但是，Bonurne拥有他人无法企及的核心能力——快速的决断力、反应力，以及坚不可摧的身体！&lt;/p&gt;
+
+&lt;h2 id=&#34;理性的选择-正是bonurne未泯灭的人性-才是整部影片能够打动人心的地方&#34;&gt;理性的选择————正是Bonurne未泯灭的人性，才是整部影片能够打动人心的地方&lt;/h2&gt;
+
+&lt;p&gt;电影的结尾，综述了Bonurne所杀的人，这是一条无法回归的路，Bonurne一路追溯自己为什么走到这步天地，正是当年对于恐怖袭击的深恶痛绝才参与了洗脑之路，乃至一次失败的刺杀经历，让他走上了救赎的道路，但是，他也深刻清楚自己所杀过的人，犯下的罪行意味着什么，那么当CIA高管这么数论他的时候，他变得犹豫，甚至面对再次进入CIA的招揽表现出来“临界点”。就这一时的犹豫，差点葬送了他的生命。&lt;/p&gt;
+
+&lt;p&gt;这或许这就是解释整部影片吸引人的地方，单纯的打打杀杀是不会有如此的呼声的。相比于早期的三部曲，这部导演有了明显的变化，在场景的衔接上，明显能够让人去喘一口气，有思考的余地。回归到对于人性的思考，人应该有所选择，而不是他人的傀儡。Nickor作出了自己的选择，哪怕是付出生命的代价。&lt;/p&gt;
+
+&lt;p&gt;Bonurne再次拥有了自我，对人性作出了选择。而不是以爱国的名义、人民的安全的名义，可以肆无忌惮的视生命若草芥。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>哪些人性中的恶</title>
+      <link>http://lijiangsheng1.github.io/posts/entrepreneur/the_evil_of_human_nature/</link>
+      <pubDate>Thu, 28 Jul 2016 06:42:52 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/the_evil_of_human_nature/</guid>
+      <description>
+
+&lt;h2 id=&#34;需要事先说明一点&#34;&gt;需要事先说明一点&lt;/h2&gt;
+
+&lt;p&gt;我目前的个人阅历，其实除了工作中之外，就只有道场的人了。几乎不会联系任何人了，老同学能够聊得来的几乎绝迹、旧同事除了伤疤之外也再无话可谈、亲戚也就是走个过场但也尽量避免联系。那么我就要实现古人所云的“大隐隐于朝，中隐隐于市，小隐隐于野”的中隐状态了。还做不到完全的遁世。正如马克思理论中的人处于特定的历史阶段是有历史局限性的，我没能做到超然于当世！&lt;/p&gt;
+
+&lt;p&gt;既然是工作，就得隐去一些什么，尽管目前的公司，几乎没有人在意我的过去，有人有兴趣阅读我的博客。但是无法担保突然有个人偶尔搜索到的可能性。大概是涉及到客户的隐私，或者是不愿意暴露合作伙伴。一言以蔽之，会隐去真实的姓名，代之以阿猫阿狗。&lt;/p&gt;
+
+&lt;h2 id=&#34;事件本身&#34;&gt;事件本身&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;和某做网络的公司合作为潜在用户做PoC测试，在合作的过程中，某阿三工程师只要遇到哪怕是一丁点问题，就在微信群内大呼小叫，忙于推卸自己的责任，并责怪于我，哪怕是在晚上9点接他电话，为他提供帮助，都被隐去。两次过了之后，我决定不再和这人合作。&lt;/li&gt;
+&lt;li&gt;某二线旅游城市，和人们住房有关的基金组织，在电话里沟通的是希望了解开源和云计算，结果我大老远从北京赶过去，听我讲解大只有IT运维部门的一个小小系统管理员，而这个管理员在听的过程中还睡着了，醒来之后，教我怎么阿谀领导，能讲一些通俗易懂的让“领导”听的懂的话语。&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;背后的疑问&#34;&gt;背后的疑问&lt;/h2&gt;
+
+&lt;p&gt;大约是和经历有关，现在的我看待人和事，并不单纯的看待事件本身，而是挖掘这人或事背后的东西，拿人来说吧，谈吐、背景、学识，以及表现出来的表情、言语用词、乃至肢体语言。然后开始分析：&lt;/p&gt;
+
+&lt;p&gt;上述事件中的第一位，属于绝大多数有点所谓的政策优势的人群，比如拥有北京户口，甚至在职业上也一度有优势，某外企员工。一种高高在上的、居高临下的感觉，时代在变，IT技术更是日新月异，三个月不学习就得落伍。但是这份虚荣，为了维护这份虚荣，他必须将自己伪装成技术高手，所有出问题的地方都是别人的错。&lt;/p&gt;
+
+&lt;p&gt;第二位，属于典型的体制内受污染的堕落的人，一个能够相信抽脂能够减肥的中年人，平日靠拔罐、养生来替代自己锻炼的人，大约是现在的生意难做，体制内把控着一些采购资源，也有很多的认为依靠关系即可构成生意关系的人平日里过度的阿谀和奉承，官僚到成为权威可以教比我官阶小到任何人做人。&lt;/p&gt;
+
+&lt;h2 id=&#34;作为受害者的我&#34;&gt;作为受害者的我&lt;/h2&gt;
+
+&lt;p&gt;我是一位特别期望得到他人承认的人，我可以忍受任何的苦难。但是难以接受被人无故的贬低、白眼和歧视。换句话说，渴望被平等的对待。我可以付出更多去努力学习知识、以谦卑的态度挑战问题，但是受到不公正的待遇，往往会心情沮丧，甚至有报复的念头。&lt;/p&gt;
+
+&lt;h2 id=&#34;唯一的化解就是自我安慰&#34;&gt;唯一的化解就是自我安慰&lt;/h2&gt;
+
+&lt;p&gt;你无法去报复，社会带给人的异化，是无力作出改变的。因为不具备反思和自我意识能力的人，就得去变成奴隶。这些人需要被拯救？是他们本身的恶造就了今天的恶？还是威权社会、畸形文化让他们发生了变异？我除了受到直接的伤害之外，能做些什么？诅咒他们？不需要，社会和自然一样，会淘汰哪些违背历史规律的人的，而且这一过程正在变得“现世”。告诉他们？在黑屋中呐喊惊醒他们？&lt;/p&gt;
+
+&lt;h1 id=&#34;结语&#34;&gt;结语&lt;/h1&gt;
+
+&lt;p&gt;我所遭遇的恶，100%的能找到某个具体到个人，而这个个人作恶的理由有几点：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;大家都这么做&lt;/li&gt;
+&lt;li&gt;你这么想没有任何用处&lt;/li&gt;
+&lt;li&gt;世道就是这样，你必须屈服&lt;/li&gt;
+&lt;li&gt;那可是赵家人&lt;/li&gt;
+&lt;li&gt;“我们”天生就是贱命一条&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;那些追寻自由、渴望平等的人都哪里去了？&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>聊聊最近一个月的求职之旅</title>
+      <link>http://lijiangsheng1.github.io/posts/entrepreneur/talk_about_request_job_recently/</link>
+      <pubDate>Sun, 12 Jun 2016 22:52:55 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/talk_about_request_job_recently/</guid>
+      <description>
+
+&lt;p&gt;从去年3月份决定创业，到现在已经过去了一年零一个季度，其实，到去年12月我干完我的第一笔真正意义上的生意之后，到今年5月初，我是处于调整身体的过渡阶段，因为去年将自己搞的实在是太累了，身体吃不消了。原因在于，我一个人也没有找到，项目搁置。全凭一己之力，努力拼搏！但是回归理性，既然现在没有人和我一起去追逐梦想，那我就得继续找，找更加合适的！&lt;/p&gt;
+
+&lt;p&gt;但是，我也是关注现实的人，这么没有收入的硬撑是很难持久的。于是，我开始关注融资这件事，开始学着写商业计划书，但是又找不到投资人。目前的处境就是这样，于是，我就便学习营销、撰写商业计划书，开始找份工作慢慢认识和累积人脉。&lt;/p&gt;
+
+&lt;p&gt;作为一名工作超过十年的人，找工作肯定不是乱投简历，瞄准了公司、职位、管理层之后才去投，那么就有了以下的故事：&lt;/p&gt;
+
+&lt;h2 id=&#34;先来聊聊第一家pingcap&#34;&gt;先来聊聊第一家PingCAP&lt;/h2&gt;
+
+&lt;p&gt;第一次听说这个公司，还得从去年参加的一次 Meetup 说起，在&lt;a href=&#34;http://www.meetup.com/Beijing-Mesos-User-Group/events/226230558/&#34;&gt;北京 Mesos 用户组&lt;/a&gt; 的Meetup 第三次聚会上，看到这样一个 Topic：程序媛的分布式数据库开发经验,紫沐夏。 其实这个 Topic 和 Mesos 完全无关，是讲 一个叫做 &lt;a href=&#34;http://github.com/pingcap/tidb&#34;&gt;TiDB&lt;/a&gt; 的 NewSQL，讲了这个项目的背景和用途，然后开始讲解人们该如何参与到该项目中来。Google F1、 Amazon DynamoDB、Google Spanner 这些名词对于我来说是无比的陌生。但是我还是对这个女孩刮目相看了。虽然这在开源界属于正常的演讲，但是在国内的技术圈是颇为罕见的。即使如我，刻意的培养，比如&lt;a href=&#34;http://www.meetup.com/China-OpenStack-User-Group/events/226675511/&#34;&gt;如何充分利用Rally来测试你的OpenStack？&lt;/a&gt;这样的演讲，也最多是不相伯仲。&lt;/p&gt;
+
+&lt;p&gt;在那之后，很长一段时间并没有关注过这家公司。直到今年北京的&lt;a href=&#34;http://2016.qconbeijing.com/&#34;&gt;Qcon 2016&lt;/a&gt;大会，看到这样一个演讲主题：&lt;a href=&#34;http://2016.qconbeijing.com/presentation/2808&#34;&gt;基础软件开源与创业在中国&lt;/a&gt;， 他有几个点是颇有见地的，包括对于核心产品的开源。让我不敢相信的是，竟然发生在我的周边。虽然有些观点表达的自相矛盾，但还勉强说的过去。&lt;/p&gt;
+
+&lt;h3 id=&#34;对于-pingcap的好感&#34;&gt;对于 PingCAP的好感&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;这是一家非常年轻的互联网团队！走的是技术精英路线，目标高远，放眼国际。&lt;/li&gt;
+&lt;li&gt;三驾马车式的创始人，而且三位均是多年的老同事，共同对分布式数据库有着不可磨灭的热情。&lt;/li&gt;
+&lt;li&gt;这是为数不多的国内敢于走纯粹开源路线的公司之一，目前屈指可数的有：&lt;a href=&#34;http://hyper.sh&#34;&gt;Hyper_&lt;/a&gt;、&lt;a href=&#34;http://kylin.apache.org/&#34;&gt;Kylin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;对开源充满感激与情怀！作为在开源中受益、伴随着第三代开源浪潮成长的一代！这一点觉悟能力，是难能可贵的了。&lt;/li&gt;
+&lt;li&gt;最为重要的一点：&lt;strong&gt;号称可以remote！&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;所担心的问题&#34;&gt;所担心的问题：&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;过早的A轮，会被投资方所牵制。若是投资方失去耐心，会督促他们扩张，如增加销售、市场人员。&lt;/li&gt;
+&lt;li&gt;若是走纯技术路线，没什么问题。如果是上述情况的话，则可能显得很多的不足。比如创始人对非技术工作的排斥。&lt;/li&gt;
+&lt;li&gt;在扁平化与自上而下的管理上摇摆不定。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;以上是我个人看法，我投这家公司的时候，并没有走认识CTO这条路线，考虑的是担心影响和其他面试官的交流，毕竟，这是一件非常年轻的创业公司。而是通过拉勾网投的简历。也顺利的得到了面试的机会。面试的过程，则显得有点草率。详细过程我就不谈了。和他们CEO的沟通不是特别顺畅，没有聊10分钟，就因为他们要使用会议室而了事。&lt;/p&gt;
+
+&lt;p&gt;最后的结局很遗憾，我没有能够拿到Offer。给我的官方理由是，他们提供的职位与我的期望不符。其实，我就是奔着文档工程师的职位过去的。&lt;/p&gt;
+
+&lt;h2 id=&#34;再来聊聊慌乱下的失掉判断力的乱投&#34;&gt;再来聊聊慌乱下的失掉判断力的乱投&lt;/h2&gt;
+
+&lt;p&gt;就在确认拿不到PingCAP的Offer的时候，我的心智有点接受不了，很少有人拒绝我。而且我对薪水、福利待遇没有任何的要求，我愿意与真正做事的人一起奋斗。更何况我花心思差不多有一个月的时间，来认准这个职位。有点小受打击，于是，刷了下拉勾，看到一个离家较近的OpenStack的职位就直接投了过去。&lt;/p&gt;
+
+&lt;p&gt;没错，这家公司叫做&lt;a href=&#34;http://www.hihuron.com/&#34;&gt;休伦&lt;/a&gt;，最后的结果，我还是很满意的，他们没有给我面试的机会。&lt;/p&gt;
+
+&lt;p&gt;在此就不再多谈，其实，点完申请职位我就后悔了，国内这几家做OpenStack的公司，搬过来数过去，犯的错误都是我多年以来一直犯的。在这家和那家没有任何的区别，我就是因为这个才去创业的，最后又沦落到犯同样的错误，我不是疯了，就是脑子进水了。还好，这家公司的人事还算识趣。&lt;/p&gt;
+
+&lt;h2 id=&#34;接下来的比较有意思-乐视-开源社区经理&#34;&gt;接下来的比较有意思——乐视，开源社区经理&lt;/h2&gt;
+
+&lt;p&gt;乐视的扩张大家是有目共睹的了，我在职位搜索搜了下：开源。还竟然有“开源社区经理”这样的职位。于是，不犹豫，直接投递。嗯，过了两天就有回应。我去面试了。&lt;/p&gt;
+
+&lt;p&gt;首先面试我的是圈内人士，在红旗中文2000、中标都干过，现在在乐视搞路由器。在面试我之前还给淮晋阳打了电话，当然对我也有了进一步的了解。（其实，我不知道我在同事或朋友的眼中是什么样的人。但我可以肯定一点的就是，以教条的文化套我，我绝对肯定是一个糟糕的人。）后来有来了一位主管，问了我一些关于开源的问题，然后就中午了，然后就让我走了，然后说我们邮件沟通，希望我能够将一些想法和规划给他看看。后来我们就邮件来往了几次。邮件内容我这里就不方便透露了，最后是这位主管开始思考这个职位定的是否有问题，向他的上级报告，据说将此职位取消了。&lt;/p&gt;
+
+&lt;p&gt;国内搞社区非常之难，尤其是背后有企业在支撑。投入和产出在短时间内是难以有任何成效的。&lt;/p&gt;
+
+&lt;h2 id=&#34;总结&#34;&gt;总结&lt;/h2&gt;
+
+&lt;p&gt;在我的脑海中，我能够向人解释的是这样子的：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://mouthwateringmorsel.files.wordpress.com/2011/07/tumblr_lj8w4amplc1qczr0io1_500.gif&#34; alt=&#34;wall-e fork&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;就当下各个公司的HR水平，或者是一些人的用人观念，我是非常难以适配的。既不能成为螺丝钉，又不能成为全能者。而且我又不想和熟人说起我在找工作，那会又陷入我努力逃离、厌恶环境中，我迈出创业这步，很大程度上就是能够希望改变现状。&lt;/p&gt;
+
+&lt;p&gt;我现在就是处于这么一个非常之尴尬的状态，创业举步维艰，毫无进展；找工作又一时半会难以找到。唯一能做的就是努力的学习，超着预定的目标一小步、一小步的蹒跚前进！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>时间，你真的能管理好自己的时间吗？</title>
+      <link>http://lijiangsheng1.github.io/posts/reading/the_effective_executive/</link>
+      <pubDate>Wed, 25 May 2016 13:57:13 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/reading/the_effective_executive/</guid>
+      <description>
+
+&lt;p&gt;我突然变成了被无数事情撕成碎片的机械式的、茫然不知所终的怪物，整天似乎看起来忙忙碌碌，然而却在原地打转。我贪得无厌，我恨不能将所有感兴趣的知识都装进自己的脑子。似乎一停下来，又茫然四顾、踌躇满志，一时之间又不知道该干些什么。&lt;/p&gt;
+
+&lt;p&gt;看完《卓有成效的管理者》之后，尤其是对于时间的论述，我跺脚之余，唯有感叹。感叹这几年所做的傻事。&lt;/p&gt;
+
+&lt;h2 id=&#34;废话&#34;&gt;废话&lt;/h2&gt;
+
+&lt;p&gt;这本书是在 Kindle 上断断续续看完的，差不多花了一个月的时间。是参加 QCon北京2016 的会议时听徐凯强的演讲时，所强烈的推荐的两本书之一，另外一本《营销管理》正在阅读中。在读的过程中，我完全失去了思考能力的傻子一样的读了下来，如芒在背！书中的卓有成效跟我一点边都不沾。多年以来我所学、所努力的，效率如此之低，全和我自身有关。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://img3.doubanio.com/lpic/s1441092.jpg&#34; alt=&#34;image of book&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;书中摘抄以及我的笔记笔记&#34;&gt;书中摘抄以及我的笔记笔记&lt;/h2&gt;
+
+&lt;h3 id=&#34;推荐序&#34;&gt;推荐序&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没有完美无缺的人，一个人无论多么有才，十全十美，比起整个人类拥有的知识和能力，比起组织拥有的力量来，都无足挂齿。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这大约就是人们喜欢去大公司历练的原因。&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://dataconomy.com/wp-content/uploads/2016/12/open-e1480700501992.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;技术可以将人从被工资所奴役的状态下解放出来&#34;&gt;技术可以将人从被工资所奴役的状态下解放出来&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://dataconomy.com/xavier-damman-open-collective/&#34;&gt;“TECHNOLOGY CAN FREE PEOPLE FROM WAGE SLAVERY” &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;一家非常有想法的创业公司！对于开源有着独特的理解！围绕开源协作的方式而创造的工具，诸如开发代码、举办meetup、研讨会等等都可以。&lt;/p&gt;
-
-&lt;p&gt;此人细分开源，以将人从工资中解放出来，这是对于开源的深刻理解，虽然没有Stallman那么的自由，但是如果能够将自己从工资中解放出来，按照自己的方式去工作。工作只有一个目的，创造更加美好的世界。那么似乎看起来世界是蛮有希望的。&lt;/p&gt;
-
-&lt;p&gt;now I think the biggest opportunities are applying all the things we learned to auto industries in addition to applying the philosophy of open source to those industries.  开源之道，将成为社会高效的解决途径之一。&lt;/p&gt;
+&lt;p&gt;一次只做一件事，所谓“一心不可二用”，或”不同时捕捉两只兔子”，忙忙碌碌，一事无成的人，往往低估做成一件事情所需要的时间，其喜欢同时做几件事；所谓“眉毛胡子一把抓”，乱了章法，乱了方寸，乱了阵脚。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;openai-deepmind-开源的人工智能训练平台&#34;&gt;OpenAI, DeepMind 开源的人工智能训练平台&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.zdnet.com/article/openai-deepmind-open-source-ai-training-platforms/&#34;&gt;OpenAI, DeepMind open source AI training platforms&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;OpenAI 的背后是埃隆马斯克、Amazon，DeepMind就是大名鼎鼎的Google的产品了。对于这篇稿子我只想说，人工智能似乎就要来临。该如何判断？&lt;/p&gt;
+&lt;p&gt;这明明就是在说我吗！我必须把这个人生中最大的错误毛病改正。focus 到某点上。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://images.techhive.com/images/article/2013/12/donation-box-100221101-large.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;h3 id=&#34;这个假期支持开源项目&#34;&gt;这个假期支持开源项目&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.pcworld.com/article/3146345/linux/support-open-source-projects-this-giving-season.html&#34;&gt;Support open-source projects this giving season&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;抱着感恩的心态去看待这个世界，是的，我们现在所运行的世界，是离不开开源软件的。所以请暂时放下商业的，来帮助这些支撑我们世界的人，给予他们更多的支持、鼓励和金钱：自由软件基金会、Mozilla基金会、维基百科基金会、FreeBSD基金会、Software in the Public Interest, Inc.等等。他们撑起世界！&lt;/p&gt;
+&lt;p&gt;如果考虑到我们的“能力”有限，事情更是这样。必须把自己的所有长处，集中于成败的关键或机会上，这是唯一能够产生成果的办法。不能几件事情齐头并进。只有莫扎特这样的天才，才能同时作曲数首，且都是杰作。而其他一流的作曲家，甚至如巴赫、韩德尔、海顿和威尔第，都只能专心于一曲，完成后再做另一曲。&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;承认自己是个白痴！请做好一件事。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;只有弄清事实真相，才能把握事情的性质，形成正确的思想、观念或认识，才能做出正确的决策。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我的疑问：What is Truth?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;前言&#34;&gt;前言&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;管理者能否管理好别人从来就没有被真正验证过，但管理者却完全可以管理好自己。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;悦人者先悦己。
+N.B.: 我不知道我当时看到这段话是怎么想的，现在看起来评价的有点走神。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;为什么需要卓有成效的管理者&#34;&gt;为什么需要卓有成效的管理者&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我们无法对知识工作者进行严密和细致的督导，我们只能协助他们。知识工作者本人必须自己管理自己，自觉地完成任务，自觉地作出贡献，自觉地追求工作效益。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;但以我目前所经历的公司和所谓的管理者而言，均为达到如此的境界。
+N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这样的。要自我激励！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;的确，谁也不知道一位知识工作者在想些什么，然而，思考却正是他的本分，他既然是在思考，他就是在工作。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;是否有一天，能够量化思考，那可是独裁者们梦寐以求的！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;美国是这方面的典型，美国今天占优势的资源当首推教育。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;教育是根本！对比国内的教育，那叫一个惨，愚民教育。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;管理者必须面对的现实&#34;&gt;管理者必须面对的现实&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一位管理者如果不能致力于使工作卓有成效，现实必将迫使他一事无成。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我个人的例子也就不过如此。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;每一位知识工作者都有各自的专长，各自的志趣。有人热衷于税务会计，有人热衷于细菌学，也有人热衷于培训市政人员。而就在隔壁办公的另外一个人也许只对成本会计重的一些细节感兴趣，或只注意医院的经营情况，要不就是只关注市政的法律问题。他们每个人都需要使用别人的成果。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;要善于去协助，以及利用他人的成果。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;人数越少，规模越小，内部的工作越轻，组织就越接近于完美，就越有存在的理由，而组织存在的唯一理由，就是为外部环境提供良好的服务。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;存在的正当性。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;对有效性的认知&#34;&gt;对有效性的认知&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;过不多久我们就会发现，我们正在勉强做哪些根本不可能办到的事，或原本就无利可图的事。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;而我所犯的错误却是没有清楚的认识自己，过于高估自己的能力，以及糟糕的时间安排。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;卓有成效可以学会吗&#34;&gt;卓有成效可以学会吗？&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;学习习惯就非得反复地实践不可。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;三年方能熟练一个最简单的动作。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没有任何理由不让普通人通过练习来获得胜任某项工作的能力。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我那篇 Training 的文章中重要的理论支柱之一。&lt;/p&gt;
+
+&lt;p&gt;N.B.：这篇文章不知道什么时候能够写完，立论太大，以现有的能力收拾不回来。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;第二章-掌握自己的时间&#34;&gt;第二章 掌握自己的时间&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;时间的供给，丝毫没有弹性。不管时间的需求有多大，供给绝不可能增加。时间的供需没有价格可资调节，也无法绘制边际效用曲线。而且时间稍纵即逝，根本无法储存。昨天的时间过去了，永远不再回来。所以，时间永远是最短缺的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;逝者如斯夫！不舍昼夜！更何况人还需要还斯宾诺莎称之为本金的东西——死亡，以及利息——睡眠。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如果完全靠记忆，我们恐怕说不清楚自己的时间是怎样打发的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这一点有很多的哲学家和艺术家都表达过，记忆是最为靠不住的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有效的管理者知道，如果要管理好自己的时间，首先应该了解自己的时间实际上是怎么耗用的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这是我目前必须去努力学习掌握的！我的时间都用在了哪里？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;时间对管理者的压力&#34;&gt;时间对管理者的压力&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;但是，即使是只想获得最低程度的有效性，管理者的绝大部份任务也需要相当多的整块时间，如果每一次所花的时间少于这个极限，事情就做不好。所花的时间就是浪费，再做就得从头做起。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;尽最大可能将自己的时间连成块。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如果你真想影响别人，那至少需要一个小时以上，如果你想和别人建立良好的人际关系，就需要更多的时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;与人相处是最为浪费时间的。所以要省出来哪些没有必要的社交的时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;原因很简单：上帝创造人时并没有想到他们将来要管理组织。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;社会的非自然属性。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;东欧的斯拉夫人有句谚语：“用脚走不通的路，用头可以走得通。”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;不要去蛮干！！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;如果时间短促，一个人就只能考虑他已经熟悉的事，只能做他曾经做过的事。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;相应的创新活动就非常的少了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;如何诊断自己的时间&#34;&gt;如何诊断自己的时间&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;但是管理时间必须持之以恒，才能避免再回到浪费的状态上去。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;任何事情要出现结果就必须经过时间的验证。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;其实，对付这类事情，只要审度一下对于组织有无贡献，对于他本人有无贡献，或是对于对方的组织有无贡献。如果都没有，只要谢绝就得了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这样作者就忽略了一个非常重要的因素！文化与习俗。&lt;/p&gt;
+
+&lt;p&gt;N.B.: 在本土的文化中，尤其是民间的文化，无用功，说话、做事绕来绕去，不知道何时奔主题。唉。。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;消除浪费时间的活动&#34;&gt;消除浪费时间的活动&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;管理好的工厂，总是单调无味，没有任何刺激动人的事件，那是因为凡是可能发生的危机都早已预见，且已将解决办法变成例行工作了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这和常见的创业理论，大公司的形象是有出入的！以后需小心留意。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;在精干的组织里，人的活动空间较大，不至于互相冲突，工作时也不用每次都向别人说明。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;似乎在颇先进的信息技术行业也适用。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;用一个人，应该是每天的工作都需要用他，偶尔才有需要的专家，必要时才需向他请教的专家，就不该正式聘用。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这个现代管理应该在（本土）推广。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;统一安排可以自由支配的时间&#34;&gt;统一安排可以自由支配的时间&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有效的管理者知道他必须集中他的自由时间，他知道他需要集中整块时间，时间分割成许多段，等于没有时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我必须将这个毛病改掉。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;人们以为可以晚上加班，因此反倒没有抓紧白天的工作时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这点大概就是社会主义常常犯的错误。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;总而言之，时间时最稀有的资源，若不将时间管理好，要想管理好其他事情就只是空谈。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;贪婪的心理和高估自己的精力。导致我一事无成的最为直接的理由。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;“认识你自己”&lt;/strong&gt;，这句充满智慧的哲言，对我们一般人来说，真是太难理解了，可是，&lt;strong&gt;“认识你的时间”&lt;/strong&gt;，却是任何人只要肯做就能做到的，这是通向贡献和有效性之路。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;自己的时间仅仅是自己众多属性中的一点而已，我还没能了解。实在是太对不起自己了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;管理者的承诺&#34;&gt;管理者的承诺&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;事实上一个组织之所以存在，不论其产品是商品，是政府的服务，还是健康医疗服务，最终的目的总是为了顾客，为了服务对象，为了病人。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;真理，好好想想我能够为人提供什么？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;不管怎样，如果连管理者自己都弄不清楚应有什么直接成果，那就别想有任何成果了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我的直接成果是什么？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;组织如果不能持续存在，就是失败。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;没有组织就什么也不是。（是在说自己目前创业的状态了吗？）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;正确的人际关系&#34;&gt;正确的人际关系&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;各路英雄的合作，贵在自动自发，贵在能依靠情势的逻辑和任务的需要，而非仅依赖正式的组织结构。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;但是二千年的教条必须是有政治组织。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;一般人都是根据自己设定的目标和要求成长起来的，知识工作者更是如此，他们自己认为应有怎样的成就，就会有怎样的成长。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;你的目标究竟是什么？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;要用人所长&#34;&gt;要用人所长&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有效的管理者知道他们之所以用人，是用人来做事，而不是用人来投主管之所好。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;上钢上线，该如何处置？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;能建立起第一流经营体制的管理者，通常不会与周围的同事及下属保持过分亲密的关系。不能根据个人的好恶来挑选人才，而应当看他们能干些什么，看他们的工作表现，绝不能看他们是否顺从自己。因此，为了确保能够选用适当的人选，管理者应该与直接的同事或下属保持适当的距离。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;这大概是我学会的第一课。（付出了惨痛的教训。）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;凡是最能充分发挥其长处，而且最受到挑战的人，他的工作肯定最起劲，也肯定最能有所成就。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;恰如其分。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;正直的品格本身并不一定能成就什么，但是一个人如果缺乏正直和诚实，则足以败事。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;三观是必须考查的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;任何一项人事任命都是一个赌注，但是，只要能抓住某人的长处是什么，这至少是合理的赌注。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;眼睛整天盯着短处，处处设防。何以成气候？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;用人所长是卓有成效的管理者必须具备的一种素质，是一个组织工作是否有效的关键，也是知识工作者和社会不可或缺的素质。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;道义责任！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;要事优先&#34;&gt;要事优先&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;卓有成效的管理者总是把重要的事情放在签名先做（first things first），而且一次只做好一件事（do one thing at a time）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;反观自己仍然是非常的 Low。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;决策的5个要素&#34;&gt;决策的5个要素&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;社会生活及政治生活中最显著的一项事实是：暂时性的事物往往具有永久性。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;最显著如我，总是贪婪的做着各式各样的事情。要作出选择，然后义无反顾的去做。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;人总有采取折中办法的倾向，如果我们不知道符合规范及边界条件的“正确”决策是什么。就无法辨别正确的折中和错误的折中之间的区别。最终不免走到错误的折中的方向去。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;中庸之道并非是中国文化之独创，而是人类的人性弱点罢了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;个人见解和决策的关系1&#34;&gt;个人见解和决策的关系1&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;有效的决策人通常必先假定传统的衡量方法并非适当的衡量方法。否则，他就用不着做决策了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;人类历史。（是的，引经据典者必无良方。但是会以年轻为借口，然而又尾大不掉。）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;管理者的决策不是从“众口一词”中得来的。好的决策，应以互相冲突的意见为基础。从不同的观点和不同的判断中选择。所以，除非有不同的见解，否则就不可能有决策。这是决策的第一条原则。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;对于我来说，从没有见过如此的管理者。多数都是热衷于权威和权力的好手。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;看似简单的道理，操作起来还真是颇为复杂。尤其是本土的情面文化。需要深入思考。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;决策与电脑&#34;&gt;决策与电脑&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;工具不会是任何结果的原因。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;工具是可以加速结果的输出。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;第六章-结论-管理者必须卓有成效&#34;&gt;第六章，结论：管理者必须卓有成效&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;所谓的“领导力”，并不是指智慧和天赋，而是指人人皆可达成的专心、决心和目标。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;嗯，专心、决心和目标。是可以通过努力获取到的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;原文：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;今天的组织，需要的是由平凡人来做不平凡的事业。这正是有效的管理者所应自勉的目标。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;笔记:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;体现团队的力量。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;写在最后&#34;&gt;写在最后&lt;/h2&gt;
+
+&lt;p&gt;很久没有写书评了，总是在计较着每本书的是否看完，已经忘记了，为什么要看书？看书是要获取什么？ 我是不是应该打自己几个耳光，好好的吸取一下这个浪费时间的教训？&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>空手道晋级之橙带杠一日常训练</title>
+      <link>http://lijiangsheng1.github.io/posts/karate/mas-oyama-2/</link>
+      <pubDate>Sat, 14 May 2016 08:01:35 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/karate/mas-oyama-2/</guid>
+      <description>
+
+&lt;h2 id=&#34;啰哩啰嗦&#34;&gt;啰哩啰嗦&lt;/h2&gt;
+
+&lt;p&gt;我在上一篇文章中谈到了建立大目标固然重要，那些可以努力达到的阶段性的小目标也很重要的，即&lt;a href=&#34;http://lijiangsheng1.github.io/posts/mas-oyama-1/&#34;&gt;不积硅步无以至千里&lt;/a&gt;。其中列出了极真空手道（宗家）的晋级需求，现在我的状态是从无级（白带）到十级（橙带），那么下一个目标就是九级（橙带杠一）。&lt;/p&gt;
+
+&lt;p&gt;没有任何事是轻松的，也没有任何的目标达成是轻而易举的。&lt;/p&gt;
+
+&lt;p&gt;我个人的毛病在于杂念太多，思维跳跃的过于频繁，很少能专注一件事情超过半小时。比如读书，本来是带着无数的疑问和谜题去看的，然而，还想着如何快速而完美的完成工作，将赚钱之道稳定，还有想提高自己的修养，努力的去热爱生活。于是，同时进行阅读的书籍超过6本，一天的情景、思维、知识切换平均在半小时一次。于是，这么多年下来，一事无成，没有那本书的知识和思维是掌握的。其实，我在工作的时候也一样，除非是遇到特别的困难，比如很难找到根源的 Bug，一般会切换非常频繁，那么我的技术也是一塌糊涂，终归于普普通通。&lt;/p&gt;
+
+&lt;p&gt;可是上述的这些都不是我想要的，我犯错，那么希望有机会能够改正。目标是让自己的人生更加的完善！&lt;/p&gt;
+
+&lt;p&gt;空手道的修行，是否能够帮助我了呢？这样带着功利的目的是否本身已违背了原意？是否在这个过程中，仍然会犯欲速则不达的错误？太急？杂念太多？那又该如何处理了呢？&lt;/p&gt;
+
+&lt;h2 id=&#34;热身&#34;&gt;热身&lt;/h2&gt;
+
+&lt;p&gt;首先会做点让自己体温上升、心跳加速的运动：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;立卧撑 10 x 2&lt;/li&gt;
+&lt;li&gt;高抬腿 30 x 2&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;然后是全身的预备活动：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;头部运动（上下，左右，绕环）&lt;/li&gt;
+&lt;li&gt;肩部运动（正反转，横纵向拉伸）&lt;/li&gt;
+&lt;li&gt;腕关节运动（正反转收回出拳）&lt;/li&gt;
+&lt;li&gt;腰部运动（旋转，绕环）&lt;/li&gt;
+&lt;li&gt;双腿分开手扶地面，搂抱左右脚，手扶膝关节按压下潜，双脚并拢手扶地面，膝向前下蹲，膝正反绕环，&lt;/li&gt;
+&lt;li&gt;前屈立压腿，膝跪地压胯关节，&lt;/li&gt;
+&lt;li&gt;踝关节绕环，小腿绕环，绷脚背，勾脚尖，足刀&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;N.B.：心中默念，均数十下即可，有的数六下。热身要视自己的具体情况而定，天凉的时候就多做一会，如数数翻倍。&lt;/p&gt;
+
+&lt;h2 id=&#34;基本技法&#34;&gt;基本技法&lt;/h2&gt;
+
+&lt;p&gt;基本手技：&lt;/p&gt;
+
+&lt;p&gt;三站立（正拳胃部头部击打；正拳下巴击打；正面反拳，侧面反拳，下段反拳；上，中外，中内，下格挡）；&lt;/p&gt;
+
+&lt;p&gt;横面马步（灌手，正反手刀，手刀锁骨打，横扫肘，下砸肘，下击拳）；&lt;/p&gt;
+
+&lt;p&gt;基本足技：&lt;/p&gt;
+
+&lt;p&gt;平行站立、双手护下巴（提膝，弹踢，前踢，后踢，下中上旋踢，关节踢）&lt;/p&gt;
+
+&lt;p&gt;目前发现的最完善的视频是：&lt;a href=&#34;http://v.youku.com/v_show/id_XMzE5MTAwNDY4.html?from=s1.8-1-1.2&#34;&gt;极真空手道基本动作&lt;/a&gt;。供参考。多体会、揣摩、感受、默想，即使没有在身体实践，也要在脑海中走几遍。&lt;/p&gt;
+
+&lt;p&gt;前屈立双手下格挡（直腿上踢、外摆踢、里合踢）&lt;/p&gt;
+
+&lt;h2 id=&#34;柔韧拉伸&#34;&gt;柔韧拉伸&lt;/h2&gt;
+
+&lt;p&gt;下叉、短板桥（下腰）、这里有几个不知道该怎么称呼，如跪坐后背着地、立足跪坐、双脚对立尝试头着脚尖、坐下双腿打开尽量胸着地。&lt;/p&gt;
+
+&lt;h2 id=&#34;型&#34;&gt;型&lt;/h2&gt;
+
+&lt;p&gt;太极手技2、&lt;a href=&#34;http://v.youku.com/v_show/id_XNjM2MDA0MzQ0.html?from=s1.8-1-1.2&#34;&gt;太极手技3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://v.youku.com/v_show/id_XNzM2MTg0MTc2.html?from=s1.8-1-1.2&#34;&gt;太极足技1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;实战技&#34;&gt;实战技&lt;/h2&gt;
+
+&lt;p&gt;格斗式（后旋踢、前膝前击、移动左右直拳、旋踢）&lt;/p&gt;
+
+&lt;h2 id=&#34;体能&#34;&gt;体能&lt;/h2&gt;
+
+&lt;p&gt;拳立俯卧撑（与肩同宽、双肘夹紧肋部）25 x 2 ，需在考试前升到 30&lt;/p&gt;
+
+&lt;p&gt;掌力俯卧撑 （手臂成直角、锻炼胸大肌）20 x 2&lt;/p&gt;
+
+&lt;p&gt;卷足仰卧起坐  30 x 2 、空中蹬车 30 x 2&lt;/p&gt;
+
+&lt;p&gt;深蹲踢（前踢、旋踢） 24 x 2 ，需在考试前升到 30&lt;/p&gt;
+
+&lt;p&gt;平衡撑 1分50秒&lt;/p&gt;
+
+&lt;p&gt;跪礼 5分钟，尽可能的让整个世界慢下来。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>美国队长：内战 观后感</title>
+      <link>http://lijiangsheng1.github.io/posts/moives/captain_america_Civil_War/</link>
+      <pubDate>Fri, 06 May 2016 15:43:46 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/moives/captain_america_Civil_War/</guid>
+      <description>
+
+&lt;h2 id=&#34;有关信念-坚持的故事&#34;&gt;有关信念、坚持的故事&lt;/h2&gt;
+
+&lt;p&gt;首先需要声明的一点就是，我对漫画一无所知。喜欢上美国队长，还是要从&lt;a href=&#34;http://marvel.com/movies/movie/181/captain_america_the_winter_soldier&#34;&gt;美国队长2：冬兵&lt;/a&gt;算起，一个人有意单挑神盾局，真是让人大呼过瘾！ 尤其喜欢的是那段进入神盾局总部广播的台词：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I know I&amp;rsquo;m asking a lot. But the price of freedom is high,it always has been. and it&amp;rsquo;s a price I&amp;rsquo;m will to pay. And if I&amp;rsquo;m the only one,then so be it.But I&amp;rsquo;m willing to bet I&amp;rsquo;m not.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;一付虽千万人，吾往矣，的英雄气概！以自由的名义，不惜任何代价。&lt;/p&gt;
+
+&lt;p&gt;注：这段台词，我也曾经在创建&lt;a href=&#34;http://docs.ocselected.org&#34;&gt;开放云精选&lt;/a&gt;社区时引用过。很不幸，电影就是电影，美国队长依然有盟友和追随者。而社区就只剩下我一个人了。&lt;/p&gt;
+
+&lt;p&gt;可能和人生的视野有关，也与自己的处境有关系。我写这篇所谓的观后感，没有任何对于剧情的设定、人物的取舍、耗资多少、演员颜值多高、技术效果有多好的叙述和探讨。我只想讨论下美国队长的一些品质！或者说人，应该去坚守的东西！大约我可能会对那些说“不就是一场爆米花的电影吗？至于去挖掘什么人性、政治、立场吗？干吗那么认真？”会有所芥蒂或警惕。现实中遇到这样的人，我一般是不会去理他们的。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.movieguide.org/wp-content/uploads/2015/01/Captain-America-Slider.jpg&#34; alt=&#34;not freedom&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;关于坚持立场&#34;&gt;关于坚持立场&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i0.wp.com/hipertextual.com/files/2016/03/Captain-America-Civil-War-2-Trailer-I-Could-Do-This-All-Day.jpg&#34; alt=&#34;pick a side&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;人类的政治是不靠谱的，尤其是一个团体去作恶的时候。神盾局被九头蛇渗透以后，美国队长对此更加的坚信不疑。&lt;/p&gt;
+
+&lt;p&gt;能够在任何时候，都坚持自己的立场，始终以正义和自由来衡量。这种品质大概也只能在电影和漫画中出现。只能向往之！&lt;/p&gt;
+
+&lt;p&gt;这时我想到了大山倍达先辈的一句话：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Justice without power is empty, but power without justice is only Violence.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;在没有成为超级士兵之前，是位残弱多病、身材矮小的男生，即使胸怀大义，连电影院的小流氓都难以招架。只能以：“I Can Do this all day.” 来自我暗示和吓退对手。但是变为超级士兵之后，就可以伸张正义！并非常明确自己的位置和立场！&lt;/p&gt;
+
+&lt;p&gt;“能妥协处且妥协，无法妥协必抗争。”&lt;/p&gt;
+
+&lt;h2 id=&#34;关于诚信&#34;&gt;关于诚信&lt;/h2&gt;
+
+&lt;p&gt;不就是一款协议吗？不就是签个名字吗？至于吗？不惜和昔日的战友撕逼！不惜和整个世界的政府对抗！&lt;/p&gt;
+
+&lt;p&gt;签署了协议之后，就意味着放弃了选择权。而同样为复仇者阵营的黑寡妇则不这么看，先稳妥下来，不会和整个世界对抗，因为一些公众事件导致团队非常的被动。但是无论怎样，签署了协议就意味着去遵守和执行。&lt;/p&gt;
+
+&lt;p&gt;这一点我不由的会联想到我们的本土，法律也好，协议也罢。说一套，做一套。似乎是这个世界本来的样子。这也是非常让我困惑的地方。极端的个人主义，产生的没有诚信可言。&lt;/p&gt;
+
+&lt;p&gt;我们需要一点这样的契约精神！&lt;/p&gt;
+
+&lt;h2 id=&#34;关于信任&#34;&gt;关于信任&lt;/h2&gt;
+
+&lt;p&gt;在电影中，美国队长对于冬兵的信任，可谓是伟大的骑士精神！始终对于自己儿时的伙伴的内心的信任，并矢志不移！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>曾经在职场中犯过的错</title>
+      <link>http://lijiangsheng1.github.io/posts/entrepreneur/make_mistake_in_my_career/</link>
+      <pubDate>Thu, 05 May 2016 10:40:34 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/make_mistake_in_my_career/</guid>
+      <description>
+
+&lt;h2 id=&#34;缘起&#34;&gt;缘起&lt;/h2&gt;
+
+&lt;p&gt;今天 InfoQ 中文网站发布了我点评的一篇&lt;a href=&#34;http://www.infoq.com/cn/articles/apache-foundation-the-success-of-apache&#34;&gt;文章&lt;/a&gt;。其实刚刚发布时，文章的题目不是这个，而是：“Apache 基金会17岁了！其成功的背后显为人知的“Apache 之道”！”。后来有位读者看到错别字就不爽了，我于是求助于编辑请求帮助。想更改为：“Apache 基金会17岁了！其成功背后独特的“Apache 之道””，（这要感谢&lt;a href=&#34;http://www.infoq.com/cn/author/%E5%A4%8F%E9%9B%AA&#34;&gt;夏雪&lt;/a&gt;的建议。）但是，InfoQ 中国的主编&lt;a href=&#34;http://www.infoq.com/cn/author/%E9%83%AD%E8%95%BE&#34;&gt;郭蕾&lt;/a&gt;大笔一挥，就是现在这个题目了：“17个Apache基金会的运营之道 ”。&lt;/p&gt;
+
+&lt;p&gt;这就是故事的始末，时间是2016年4月26日。我犯了一个很大、很大的错误，在信息爆炸的今天，一篇文章的题目占据一半的重要性。而还有一个明显的错别字！内容已经不再重要，我的点评也不再重要。重要的是我犯错了。于是，我引以为鉴！ 然后，我就回顾了一下我职业生涯中所犯的错误！&lt;/p&gt;
+
+&lt;p&gt;给自己声明一下，以下的错是我自己以为的，不是来自任何人的评价。当然是我记忆非常深刻的那些错，当然记忆有的时候不太靠谱。&lt;/p&gt;
+
+&lt;h2 id=&#34;靠记忆的遍历&#34;&gt;靠记忆的遍历&lt;/h2&gt;
+
+&lt;p&gt;0、 自己的第一份职业，修改网站的IIS配置，当时对IIS非常的不熟悉，但是胆子很大手很快，删除了一些配置，导致某些站点无法访问。似乎是刚入职不到一个月干的事情，记得我当时很担心被炒鱿鱼，但是主管知道我不熟悉IIS，他修复之后，让我将IIS替换为Apache，除非是ASP的程序。那是2005年，我刚毕业。&lt;/p&gt;
+
+&lt;p&gt;1、 时间再往前推点，大约是2006年的春夏之交，河南报业网的后台CMS系统需要修改一些功能，厂商派过来二名工程师在修改。我主要是配合，他们看到我使用的是 OpenSuSe，具体版本我忘记是多少了，但是那时的OpenSuSe对于Nvidia的驱动是最好的，界面相对非常的酷炫，立方体桌面等。于是，其中一名工程师想将自己的笔记本也装一个OpenSuSe，于是简单整理了一下，就交给我了。我不知道怎么回事，分区的时候，将他的其中一个Windows分区的存放数据的地方给格式化了。完了。OpenSuSe是可以用了，但是他积攒很久的数据资料也随之消失了。他一声叹息，旧的不去、新的不来。我那个纠结、惭愧，可是也无能为力。后来，我专门给他写了一封道歉信，他只是礼貌性的回复了一下。到现在我仍然记忆清晰。&lt;/p&gt;
+
+&lt;p&gt;此后的几年里，一只小心翼翼、战战兢兢。在红旗的售后，虽然是代表公司经常出入客户现场，有时甚至是故障修复。反而没有犯什么错误。直到开始做开发：&lt;/p&gt;
+
+&lt;p&gt;2、 我在红旗做开发，主要是冲着安装程序去的，当时的红旗 Linux 服务器版，是中、日、韩三国联合开发的 Asianux 为基础版的，我也作为关键的代表红旗成为了 Asianux 的一员。既然是多国人，交流基本都是靠英语了，某个开发周期中，有个虚拟化的软件包选项的问题。是测试提出来的，称在裸机安装时虚拟化（xen）相关的包应该显示，在虚拟机中安装 Asianux时，关于虚拟化的选项就不应该显示。似乎是蛮合理的，但是我当时是拒绝修改的。其实，为什么就没有嵌套了呢？但是我的态度是很坚决的，而且不解释原因。导致大家最后对我敬而远之。&lt;/p&gt;
+
+&lt;p&gt;3、 是近几年的事情了，我曾经在云端时代的时候，开除过一位同学，准确点说是一位对Jboss很有研究的同学。因为一些思路的不一致，以及和社区的风格冲突等，其实是我踢出团队中最为可惜的一位。没过两天我就后悔了。天知道，我那几天是怎么回事。&lt;/p&gt;
+
+&lt;p&gt;4、 轮到我做顾问的易云了，我将我花时间搭建的编译环境的虚拟机随手一个“rm －rf”彻底的删除，毫不留情。不是说技术多复杂，每个在境内搭建环境，比如一些Maven的库、rpm的仓库、python、ruby等环境，和糟糕的网络环境是有很大关系的。那绝对是对自己生命的扼杀。&lt;/p&gt;
+
+&lt;p&gt;5、 最近的错误就是过去一年，也是目前为止职业生涯中所犯的最大的错误。我将自己带团队的思路代入为个人，将自己放大！ 结果挖了无数的坑！！！一如 OVDG 没有人响应一样，一个人的战斗！战斗了大半年之后，终于出了问题！&lt;/p&gt;
+
+&lt;p&gt;6、 第5个错误，严格来说不是错误，所以里面的最大、代入等都不成立。因为这条才是，时间要追溯到2012年，我在普华做事情，亲历了一个团队的建设、乃至一个项目从无到有的过程，深刻明白了问题的所在，如招聘、团队文化、项目需求与现实的博弈、乃至政治因素对团队和技术生产力的破坏，于是，我鼓起勇气，走上了所谓的“叛逃”之路，而在云端，我是按照我自己的认识去重新走过上述这样的路，只是除了政治之外我可以把控所有环节，我以为我招聘的全部都是和我一样－－执着、清醒、为结果负责、目光远大等，甚至在和云端的高层破裂之后，我换一家依然是这么想的，直到又一天，我所倡导的团队扁平化被奸诈无比、气量狭小的高层利用了之后，而我依然坚信他们。经历过 OVDG的失败，我仍然没有醒悟；直到 OCSelected 社区在我失去那家公司的政治影响力之后再也没有任何他人贡献的时候，我开始渐渐的懂了。这个错误对我的伤害是蛮大，但是也是庆幸的！&lt;/p&gt;
+
+&lt;h2 id=&#34;简单的总结&#34;&gt;简单的总结&lt;/h2&gt;
+
+&lt;p&gt;这篇文章是我对于过去的一年的创业历程总结的前哨，我需要正视自己的错误，要将自己急躁的心慢下来，脚踏实地的去慢慢实现自己的梦想！要做长远的打算，而不是冲刺的去立即实现。&lt;/p&gt;
+
+&lt;p&gt;是的！应该找到自己的节奏了，再随波逐流就真的老了！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>不积硅步无以至千里</title>
+      <link>http://lijiangsheng1.github.io/posts/karate/mas-oyama-1/</link>
+      <pubDate>Fri, 15 Apr 2016 10:40:34 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/karate/mas-oyama-1/</guid>
+      <description>
+
+&lt;h2 id=&#34;我为什么选择空手道的考级&#34;&gt;我为什么选择空手道的考级&lt;/h2&gt;
+
+&lt;p&gt;时间大约要回到2月初，也就是农历年之前的一段日子。我做了一个决定，那就是按照我在2016年（也就是今年)年初所参与的极真空手道成人培训班的晋级之路，考取空手道的会员的级别考核，俗称为“考带”。经过了两个月的坚持，虽然结果并不理想，但是还是顺利的拿到了第一个级别。我在我的另外一篇文章：&lt;a href=&#34;https://www.zybuluo.com/lijiansheng/note/319350&#34;&gt;我要每日努力不懈！&lt;/a&gt;,介绍了我的短暂之旅的一些感慨。此文正如我的副标题所写，仅我个人的一些理由与认识，恐怕也谈不上武道，乃至极真之道。&lt;/p&gt;
+
+&lt;h2 id=&#34;人生的一些道理&#34;&gt;人生的一些道理&lt;/h2&gt;
+
+&lt;p&gt;这恐怕是最为人们所不屑的话题，就像我们周边的每个人都在躲避着政治一样，或许是&amp;rdquo;思想品德&amp;rdquo;、又或许是&amp;rdquo;精神文明建设&amp;rdquo;，总而言之，只要是人生的道理，没有人愿意和你交流或交谈。宁愿去聊聊明星、真人秀、或者是由国家姓党的媒体所主导的所谓的社会热点、又或者是抗日、反美，要么就是笑话下国人素质低下、无信仰。但是，谁又真的懂得人生这个大问题了呢？&lt;/p&gt;
+
+&lt;p&gt;古人又云：知难行易， 又有人云：知易行难。 这两个到底哪个对？ 我观察和思考了很久，都是错的。 二者都难！  世界洞悉人生又有几人？达到人生巅峰的又有几人？ 大多数的普通人，是既活的浑浑噩噩，又懒惰到毫无建树。&lt;/p&gt;
+
+&lt;p&gt;我此时斗胆就理论一个道理，那就是人生需要一个大的目标，而且要分割为无数的小目标，不断的去达到这些无数的小目标，方可达到最终的目标！ 将人生比做攀越高峰的话，很多时候在山脚下的时候，看到不可及的峰顶、甚至什么都看不到的情况下就望而却步，转而放弃！ 这是绝大多数人走的路。&lt;/p&gt;
+
+&lt;p&gt;如果你和我一样是走过中国特色的社会主义教育体制下的路的话，一定记得小时候写过的作文：“你的梦想是什么？” ，还有这个题目下的答案：“宇航员、人类灵魂的工程师、科学家。。。”，但是现在去问周边的人，你的梦想是什么？有钱、拥有豪宅、豪车。或者干脆一点以有梦想为耻，大笑不已，都多大了，你在和我谈梦想？比如汪峰就是经常被调侃的对象。就拿我个人来说吧，我一直以来都做着作家的梦，即使是工作如此多年，从未敢放弃自己，或许是偶尔的去想一想，但已经没有人可以交流和倾述。梦想似乎永远是那么的遥不可及，但是这绝对不是放弃的理由。过去的这十年，我是一名努力的工程师，虽然现在仍然是普普通通、籍籍无名，但是就像我崇拜的那些大文豪、优秀的诗人一样，我了解和懂得了工程师的级别。&lt;/p&gt;
+
+&lt;p&gt;计算机科学界的阶层：
+1. 图灵、阿隆佐丘奇、冯诺依曼、香农 等科学家、奠基者
+2. 高德纳、历届图灵奖得主
+3. 理查德斯托曼、林纳斯托沃兹等项目开拓者
+4. 那些个算法达人、架构师
+5. 优秀的工程师，能够高效的达到上述四中所设定的目标，以及所谓的跨界达人（所谓的懂业务、懂技术者）
+6. 软件的熟练使用者&lt;/p&gt;
+
+&lt;p&gt;这样来区分的话，一定会有很大的争议，评估一个事情，本来就有很多的维度，时间、空间、文化、视野等等不一而足。这里仅就我个人的偏见而言的，不妥的地方，可以留言商讨。&lt;/p&gt;
+
+&lt;p&gt;其它行业或者职业也是类似的金字塔，越往上就得越努力，而且需要的天赋比例亦越重。而且每一层都仍然是一个个小目标所集合而成。&lt;/p&gt;
+
+&lt;p&gt;所谓的梦想，就是所谓的终极目标！ 人类历史上很少有人能够在有生之年达到了自己认定的终极目标，绝大多数是带着遗憾的。但更多的是在开始，即起点处就放弃了自己。环顾四周看看，你的朋友、亲人，是否在为梦想而奋斗？是否已经随波逐流，早已放弃？是否在看着《老男孩》失声痛哭？&lt;/p&gt;
+
+&lt;h2 id=&#34;关于极真空手道考级的一些介绍以及其是如何迎合了上面的道理的&#34;&gt;关于极真空手道考级的一些介绍以及其是如何迎合了上面的道理的&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;级别&lt;/th&gt;
+&lt;th&gt;缎带&lt;/th&gt;
+&lt;th&gt;升级考核内容：基本技&lt;/th&gt;
+&lt;th&gt;型&lt;/th&gt;
+&lt;th&gt;体能&lt;/th&gt;
+&lt;th&gt;组手（实战）&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;无级&lt;/td&gt;
+&lt;td&gt;白带&lt;/td&gt;
+&lt;td&gt;三站立冲拳、四种格挡技、左右正拳、前蹴、前屈立移动&lt;/td&gt;
+&lt;td&gt;太极手技1-2&lt;/td&gt;
+&lt;td&gt;俯卧撑20次深蹲踢20次（成年）&lt;/td&gt;
+&lt;td&gt;无&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;十级&lt;/td&gt;
+&lt;td&gt;橙带&lt;/td&gt;
+&lt;td&gt;基本手技之背拳系、后屈立手刀移动、前回蹴、横蹴&lt;/td&gt;
+&lt;td&gt;太极手技3、太极足技1&lt;/td&gt;
+&lt;td&gt;俯卧撑30次深蹲踢25次（成年）&lt;/td&gt;
+&lt;td&gt;实战1人（2分）&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;九级&lt;/td&gt;
+&lt;td&gt;橙带一杠&lt;/td&gt;
+&lt;td&gt;基本手技之手刀系、三站立、后屈立、横蹴、砸蹴、前蹴、前回蹴&lt;/td&gt;
+&lt;td&gt;平安1、太极足技2&lt;/td&gt;
+&lt;td&gt;俯卧撑40次 深蹲踢30次（成年）&lt;/td&gt;
+&lt;td&gt;实战1人（2分）&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;八级&lt;/td&gt;
+&lt;td&gt;蓝带&lt;/td&gt;
+&lt;td&gt;基本手技之拳法系、实战步之移动系、横蹴、砸蹴、后蹴、后回蹴&lt;/td&gt;
+&lt;td&gt;平安2、太极足技3&lt;/td&gt;
+&lt;td&gt;俯卧撑40次 深蹲踢30次（成年）&lt;/td&gt;
+&lt;td&gt;实战2人&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;级别&lt;/th&gt;
+&lt;th&gt;缎带&lt;/th&gt;
+&lt;th&gt;升级考核内容： 型&lt;/th&gt;
+&lt;th&gt;体能&lt;/th&gt;
+&lt;th&gt;实战&lt;/th&gt;
+&lt;th&gt;组手&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;七级&lt;/td&gt;
+&lt;td&gt;蓝带一杠&lt;/td&gt;
+&lt;td&gt;平安3&lt;/td&gt;
+&lt;td&gt;俯卧撑40次 深蹲踢30次（成年）&lt;/td&gt;
+&lt;td&gt;每场尽打2分钟，不计胜负&lt;/td&gt;
+&lt;td&gt;2人&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;六级&lt;/td&gt;
+&lt;td&gt;黄带&lt;/td&gt;
+&lt;td&gt;平安4&lt;/td&gt;
+&lt;td&gt;俯卧撑50次，深蹲踢30次，带飞20次（成年）&lt;/td&gt;
+&lt;td&gt;每场净打2分钟，不计胜负&lt;/td&gt;
+&lt;td&gt;2人&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;五级&lt;/td&gt;
+&lt;td&gt;黄带一杠&lt;/td&gt;
+&lt;td&gt;平安5&lt;/td&gt;
+&lt;td&gt;俯卧撑50次，深蹲踢30次，带飞20次（成年）&lt;/td&gt;
+&lt;td&gt;每场净打2分钟，不计胜负&lt;/td&gt;
+&lt;td&gt;3人&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;级别&lt;/th&gt;
+&lt;th&gt;缎带&lt;/th&gt;
+&lt;th&gt;升级考核内容：型&lt;/th&gt;
+&lt;th&gt;体能&lt;/th&gt;
+&lt;th&gt;实战&lt;/th&gt;
+&lt;th&gt;组手&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;四级&lt;/td&gt;
+&lt;td&gt;绿带&lt;/td&gt;
+&lt;td&gt;安三&lt;/td&gt;
+&lt;td&gt;俯卧撑50次，深蹲踢30次，带飞20次（成年）&lt;/td&gt;
+&lt;td&gt;每场净打2分钟，不计胜负&lt;/td&gt;
+&lt;td&gt;4人&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;三级&lt;/td&gt;
+&lt;td&gt;绿带一杠&lt;/td&gt;
+&lt;td&gt;突击之型&lt;/td&gt;
+&lt;td&gt;俯卧撑50次，深蹲踢30次，带飞30次（成年）&lt;/td&gt;
+&lt;td&gt;每场净打2分钟，按国际空手道连盟竞赛规则，判定胜负，四局两胜制，胜者晋级。&lt;/td&gt;
+&lt;td&gt;4人&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;级别&lt;/th&gt;
+&lt;th&gt;缎带&lt;/th&gt;
+&lt;th&gt;升级考核内容：型&lt;/th&gt;
+&lt;th&gt;体能&lt;/th&gt;
+&lt;th&gt;力量&lt;/th&gt;
+&lt;th&gt;实战&lt;/th&gt;
+&lt;th&gt;组手&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;二级&lt;/td&gt;
+&lt;td&gt;棕带&lt;/td&gt;
+&lt;td&gt;平安1～5、安三、击碎大、突击之姓&lt;/td&gt;
+&lt;td&gt;3200米－15分钟完成&lt;/td&gt;
+&lt;td&gt;卧推：自身重量10次；深蹲：自身重量10次（仅限男子）&lt;/td&gt;
+&lt;td&gt;每场净打2分钟，按国际空手道连盟竞赛规则，判定胜负，五局三胜制，胜者晋级。&lt;/td&gt;
+&lt;td&gt;5人&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;一级&lt;/td&gt;
+&lt;td&gt;棕带一杠&lt;/td&gt;
+&lt;td&gt;平安1～5（反）、安三、击碎大、突击之姓&lt;/td&gt;
+&lt;td&gt;3200米－15分钟完成&lt;/td&gt;
+&lt;td&gt;卧推：自身重量15次；深蹲：自身重量15次（仅限男子）&lt;/td&gt;
+&lt;td&gt;每场净打2分钟，按国际空手道连盟竞赛规则，判定胜负，十局六胜制，胜者晋级。&lt;/td&gt;
+&lt;td&gt;10人&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;棕带一杠晋级后，就是黑带了，黑带就是段位，那将是另外一片天地了！关于黑带的段位晋级规则，我这里就从略了。可能会有下一篇文章来阐述，总而言之，那将是另外一片天地了。&lt;/p&gt;
+
+&lt;p&gt;是不是很像阶梯式的递进的目标？&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://img04.tooopen.com/images/20130925/sy_37788837451.jpg&#34; alt=&#34;image of step&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;要想往高处走，看得更远，必须拾阶而上！若你没有一步登天的能力，就得好好利用好阶梯。&lt;/p&gt;
+
+&lt;p&gt;从空手道乃至极真空手道创始以来，不知道有多少人走过了这条路，即使是目前为止的最高段位的人，也是有记载的、实实在在的！那么这些也是前人所总结的常人可以达到的目标。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i1.t.hjfile.cn/ing_new/201206_3/8babaa3b-a5c4-4521-b9c7-d9363bde0509.png&#34; alt=&#34;image of you&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;需要解释吗&#34;&gt;需要解释吗？&lt;/h2&gt;
+
+&lt;p&gt;其实不需要，我就是想整理一下，给自己设定一个看得见的，很多人已经实现了的目标，然后努力的去实现它。这是我觉醒后做的第一件事，也是从不自觉、半自觉、到自觉的蜕变！&lt;/p&gt;
+
+&lt;h2 id=&#34;个人的领悟&#34;&gt;个人的领悟&lt;/h2&gt;
+
+&lt;p&gt;曾几何时，我这么一句话：“常常是我们疲惫的不是远方的高山，而是脚下的那些沙砾。” 是深信不疑。我忽略身边的小事和小人，无视它们，采取的是不屑、厌恶的策略，因为我的目标是远方！ 但是多年下来证明我是错的，我没能处理好这些小的“沙砾”，结果就是这些看起来微不足道的小事，却将我很狠的伤了一把，虽然不足以让我放弃远方，但是确实让我停下来思考很多。先处理好这些，方可远足！&lt;/p&gt;
+
+&lt;p&gt;你必须去正视身边的一些细节、小事，所谓的“失之毫厘，谬之千里！” 必须停下来，将脚下的沙子处理掉，才能无忧的出发，才不会由于脚的受伤而忘记远方！因为你无法一步登天，你只能一步一个台阶的努力前行！&lt;/p&gt;
+
+&lt;p&gt;还不得不将大的目标，分隔成无数的可以达到的小目标！ 这样才不会绝望、气馁而过早的放弃。&lt;/p&gt;
+
+&lt;p&gt;所以，0、人要有目标的去活。1、将目标分隔为多个可以看得见、努力就可以达到的、就是身边的小事情的阶段性的目标。然后就去努力吧！或许加上一点点的运气，你就可以实现！ （选目标的时候，最好是估摸下自己的天赋。）&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>我要每日努力不懈！</title>
+      <link>http://lijiangsheng1.github.io/posts/karate/mas-oyama-0/</link>
+      <pubDate>Sat, 05 Mar 2016 10:40:34 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/karate/mas-oyama-0/</guid>
+      <description>
+
+&lt;h2 id=&#34;开始之前的一些废话&#34;&gt;开始之前的一些废话&lt;/h2&gt;
+
+&lt;p&gt;本来我预计我表达我对我这段经历的想法要像这位仁兄一样，&lt;a href=&#34;https://www.oreilly.com/ideas/what-i-learned-about-software-architecture-from-running-a-marathon&#34;&gt;从跑马拉松所学到的软件架构&lt;/a&gt;，写这样一篇文章的。这要在几年之后，或许才会有的吧！&lt;/p&gt;
+
+&lt;p&gt;此文则就是我个人的一些感慨，和武学修为没有任何关系。因为今天算是在形式上入门了，正式的升级考带，以后我就成为了一名空手道的真正学员了，因为我也是一名橙带极真成员了。&lt;/p&gt;
+
+&lt;p&gt;这算是有所小成，这两三个月的坚持，算是达到了一个小小里程碑式的目标吧。故有此文！（有心的读者可能会看到副标题，后续还是会有的。）&lt;/p&gt;
+
+&lt;p&gt;##缘起&lt;/p&gt;
+
+&lt;p&gt;人生一旦慢慢成长起来，就有了故事，有了故事之后，那么就开始有一些原因，导致了某些结果或者叫做现在的状态。
+手道的相遇，时间还需拨回到2014年底，2014年底我做了我人生中一个非常重要的决定，辞去现有的工作，加入创业者的行列。（至于我为什么创业，那是另外一个故事，和本文也不能说是全无关系，但限于篇幅就不啰嗦了。请参阅&lt;a href=&#34;http://iaaslee.blogspot.com/2015/01/blog-post.html&#34;&gt;我为什么要停下来？&lt;/a&gt;需翻墙，请自带梯子。）。&lt;/p&gt;
+
+&lt;p&gt;那么2015年是我的创业元年，其实除了一腔热血之外，无他，没有名气、没有资金、没有合伙人、没有产品、&amp;hellip;&amp;hellip;一切都要从头做起，于是，将自己分成若干份，写作出版图书、参加社区活动并作演讲、做技术顾问、寻找合伙人、做网站、规划产品／服务、偶尔还得接些零碎的活比如培训、咨询。每天工作时间超过12个小时，有时连饭都不吃。就那么一晃大半年过去了，直到又一天早上，我爱人突然发现我的头发少了一片，没错，大概有大拇指指甲盖那么大一片头发在夜里睡觉的时候掉了，本来哪些颈椎病、干眼症之类的职业病对我来说已经忽略不计，甚至熬夜太重，偶尔出现心悸的情况，我也没有当回事，但是，掉头发这件事，确实把我给吓着了，因为去医院检查，医生告诉说“头发掉本身不是什么大问题，但引起头发掉的诱因不容小视，免疫力低下，代谢紊乱所致。”&lt;/p&gt;
+
+&lt;p&gt;发生了这件事以后，我就回到北京，用了一个月的时间还完“欠下的债”，演讲、培训、以及顾问的辞退。然后在年底12月中旬回到郑州，欲调整、休养一段时间。&lt;/p&gt;
+
+&lt;p&gt;既然要休整，适量的运动是必不可少的了，这毕竟是常识，而我一直对武术就很崇尚，要是有个拳馆就好了，我心目的拳馆是个人偏爱的一部电影《百万美元宝贝》中的这样子：
+&lt;img src=&#34;http://justgoodvibe.com/wp-content/uploads/2016/01/million-dollar-baby-6.jpg&#34; alt=&#34;million dollar baby&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我交一些会费，最好是季度或半年交的，我自己来决定时间跑过去，打会沙袋，（我当初确实将打沙袋这件事给小瞧了）我恢复我这个年龄应该有的健康就可以，不渴望有何成绩。&lt;/p&gt;
+
+&lt;p&gt;于是，就开始搜索郑州市，比对和我心目中比较接近的场地。那么就搜到了这么一家：
+ &lt;img src=&#34;http://jzwxg.com/UploadFiles/2014530193816848.jpg&#34; alt=&#34;jizhen &#34; /&gt;
+ (不要怀疑我也犯着“外貌协会”的错误，换句话说，其实就是要“逼格”。)&lt;/p&gt;
+
+&lt;p&gt;然后找了下地址，离家也就7、8公里，我就这么去找上门了。其实，第一次去，和销售顾问谈的不是太好，我希望我能自己掌控时间，但是，场地无法提供，不可能让学员在没有教练员的情况下自行练习，然后我就悻悻的回家了了，没有当回事。可是，这位销售顾问并没有放弃，她给我打了个电话，让我去上一节免费体验课。（后来，得知这位销售顾问，也是一名空手道教练，她就是&lt;a href=&#34;http://jzwxg.com/ShowNews-338.html&#34;&gt;张梦茹&lt;/a&gt;。）&lt;/p&gt;
+
+&lt;p&gt;（别问我为什么不报私教！没工作、没收入，到处用钱。）&lt;/p&gt;
+
+&lt;p&gt;然后，在12月23号这天，我抱着尝试的心理就去了，当时是&lt;a href=&#34;http://jzwxg.com/ShowNews-336.html&#34;&gt;陈磊教练&lt;/a&gt;开始为我上课，还有另外一名拳馆的工作人员陪着我，这节课算是我人生中的震撼教育了。 有如下三点：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;我真的不知道自己其实对自己的身体几乎没有任何的控制，连真正的放松都不会。&lt;/li&gt;
+&lt;li&gt;练习体能时符合我对于健身的理解，无需任何道具，随时随地的进行。&lt;/li&gt;
+&lt;li&gt;最重要的，是教练的专业与用心。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;关于最后一点，我特别要诠释一下，我对于用心的人，都会有一种特别的感动。我自己可能难以解释清楚这个，这里我就套用一下经典的诠释：在&lt;a href=&#34;https://book.douban.com/subject/6811366/&#34;&gt;《禅与摩托车维修的艺术》&lt;/a&gt;艺术中，作者罗伯特·M.波西格 是如此描述的：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一旦真正地投入了工作之中，就可以说是在关心自己的工作，这就是关心的真正意义——对自己手中的工作产生认同感。当一个人产生这种认同感的时候，他就会以看到关心的另外一面——良质。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;关于此书中“良质”的概念，定义、诠释、比喻、实证等等有很多。有心人请自己查阅吧。&lt;/p&gt;
+
+&lt;p&gt;就这样我开启了自己的空手道修练之路。
+##修练&lt;/p&gt;
+
+&lt;p&gt;拳馆安排的课程是每周三晚上7:00到8:30，及周日5:00到6:30，每次的安排如下表所示：&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;时间&lt;/th&gt;
+&lt;th&gt;训练内容&lt;/th&gt;
+&lt;th&gt;附注&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;前10分钟&lt;/td&gt;
+&lt;td&gt;热身&lt;/td&gt;
+&lt;td&gt;头、手臂、手、腰、腿&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;再50分钟&lt;/td&gt;
+&lt;td&gt;基本技术及柔韧&lt;/td&gt;
+&lt;td&gt;三站立、拳法、腿法&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;5分钟&lt;/td&gt;
+&lt;td&gt;休息&lt;/td&gt;
+&lt;td&gt;补充水份&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;20分钟&lt;/td&gt;
+&lt;td&gt;移动（周三）实战（周日）&lt;/td&gt;
+&lt;td&gt;实战是真的打，拳拳到肉。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10分钟&lt;/td&gt;
+&lt;td&gt;体能&lt;/td&gt;
+&lt;td&gt;根据进度、状态，循序渐进&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;正如教练经常说的一句谚语：练武不练功，到老一场空。每周这么短短的三个小时，其实很难达到锻炼的效果，主要是从教练那里学习一些空手道的技法，诸如呼吸的控制、对于自己身体的运用，为了实现这些技法，必须去训练一下体能，否则，根本就没法实现。&lt;/p&gt;
+
+&lt;p&gt;于是，在上了四、五节课之后，我对自己的平日的生活习惯，做了一个简单的调整，那就是即使没有课，也要在家里练习，因为教练教的内容，根本就不需要任何特殊的场地。那就是每日坚持锻炼1个小时，内容就是教练教的技法，加一些体能（俯卧撑、仰卧起坐、深蹲跳之类的）。&lt;/p&gt;
+
+&lt;p&gt;那么我就强制自己执行这样一个计划，还好这两个月坚持下来了。附图是我自己的一个训练纪录，：
+&lt;img src=&#34;https://raw.githubusercontent.com/lijiangsheng1/lijiansheng_github_pages/master/picture/%E4%BD%93%E8%83%BD%E8%AE%AD%E7%BB%83.jpg&#34; alt=&#34;nothing&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;教练，在某种程度上就是带我入门的师傅，一位向导，修练则全要靠自己！&lt;/p&gt;
+
+&lt;p&gt;##身体状态成果
+从第一次上课，差不多接近三个月的时间了，或者是说，从我将练习空手道成为我的生活习惯的一部分，已经有两个月多一点点的时间了。其实，晋级成为空手道最低级别门槛，只是一次小小的外部检验罢了。真正的变化还是我自身，包括身体和内心，都在往一个健康的状态发展。&lt;/p&gt;
+
+&lt;p&gt;首先，是戒烟！ 我不能说练习空手道是我戒烟的原因，但是它在很大程度上帮助我撑过了最难熬的阶段，更重要的是它唤醒了我疲惫的身体，对于一些器官更加的敏感，以至于能明显的感受到吸烟对于我身体的伤害。&lt;/p&gt;
+
+&lt;p&gt;下定决心戒烟，是自己的心理问题，对我最大的帮助是来自这本书－－&lt;a href=&#34;https://book.douban.com/subject/3318174/&#34;&gt;《这书能让你戒烟》&lt;/a&gt;，将我的一些偏见和错误观念给洗掉，让我明白：我的身体并不需要烟，是尼古丁的戒断反应，是我自己在自己身体里养了一条毒虫，为了它的满足，不断的侵害我的身体，让我的血液流畅的更慢，反应更加的迟钝。但是尼古丁的戒断反应，确实很难对抗，它无孔不入，甚至是在我睡觉的时候，做梦都提醒让我去吸支烟。这个时候，唯有武装、强壮自己的身体，才能打败它，撑过三个星期的戒断期。&lt;/p&gt;
+
+&lt;p&gt;第二，由于体重的减轻，三个月下来，减轻了近5公斤，短时间体重掉这么多，确实让人心里不能坦然。这就导致我强迫去做了一次全身的体检。相比于上次体检多结果（14年国庆左右），脂肪肝轻了不少，甘油三酯和丙谷转氨酶都恢复为正常值，不再高了。头脑清醒、精力充沛、精神面貌也有了很大的变化。有图为证：&lt;/p&gt;
+
+&lt;p&gt;之前：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lijiangsheng1/lijiansheng_github_pages/master/picture/c6f080334f0ce9c.jpg&#34; alt=&#34;long ago &#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;之后：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAUiAAAAJGI1M2RhZGQ2LTcyYTktNGZhZS1hYTU2LTAyYTNmMDE1MzVmOA.jpg&#34; alt=&#34;image of my head&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;第三，心态乃至情绪的变化。&lt;/p&gt;
+
+&lt;p&gt;过去的5、6年，我就像是被推上快速行驶的动车，不断的忙碌着，各种新技术层出不穷，知识更迭更是家常便饭，云计算、大数据、互联网＋、全民创业。还有业界均受乔帮主（苹果前CEO乔布斯）的影响，那就是追求极致！我整个人似乎被打了鸡血，不停的工作，总是抱怨，脾气越来越暴躁不安。有一阵子，甚至开始对家人也大吵大闹，哪怕是一点小事都能惹起我的怒火，在办公室话不投机，经常摔门而去，也惹翻了不少人。&lt;/p&gt;
+
+&lt;p&gt;现在好多了，能够控制和驾驭自己的情绪，虽然仍然有各种看不过去，但是至少可以做到深呼吸，保持面部表情不变。然后换位思考一下，一般情况下都能做到释然。&lt;/p&gt;
+
+&lt;p&gt;##感慨&lt;/p&gt;
+
+&lt;p&gt;练习如此短短的时间，恐怕是难以谈什么感悟的。最多算是感慨，我就整理下自己的一些感慨。&lt;/p&gt;
+
+&lt;p&gt;我自认为自己是一个热爱读书和思考的人，多年来养的唯一的好的习惯就是每天必须读书2小时！ 那么，对于获得自己认同的事情，必须有理由或是哲学基础的。&lt;/p&gt;
+
+&lt;p&gt;一、 对身体的控制&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;在没有接触空手道之前，我连什么是放松都不知道。更不用去理解残心了。我也不知道该如何运用我的力量。众所周知，懒惰是人类的天性，我们的身体在日渐的退化，若想做到对自己身体的控制，必须去重复的去练习，直到练到不需要思考－成为一种本能。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;二、 跪坐
+&amp;gt;这是一种礼仪，可能不止空手道有。也可能是日本文化的一部分。我这里暂时不去考究。但是每次训练结束，体能耗尽、大汗淋漓、呼吸急促的情况下，闭上眼睛，反思自己今天的训练是否尽力？调整呼吸、尽力不发出声音、保持身体上半部直立、挺胸收下巴，忘记周边、感受自己的心跳。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;你还会自大吗？脚面的疼痛会带给你自己的卑微与弱小！你还有甚么脾气向世人、亲人发泄？问问自己你活在这个世上，尽了自己的最大努力了吗？是否这个操蛋的世界正在改变着你？而你在坚持吗？确定没有迷失自我吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;三、 实战的挑战自我
+&amp;gt;&lt;a href=&#34;http://www.mas-oyama.com/cgi-bin/english/siteup.cgi?category=1&amp;amp;page=5&#34;&gt;极真空手道&lt;/a&gt;的真髓就在于其“全接触式的空手道”。也就是说一旦格斗模式启动，你的师兄弟、教练，统统都要称为对手，要想着将对方K.O掉。&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;由于我个人的一些经历，对于面对面的去打对方一拳这种事情，已经退化到腿软、心跳加速，就差一点尿裤子的地步了。教练第一次教我实战的时候，我硬是没有打出像样的一拳来。最后上成了“心理辅导“课。教练说：你既然来了，就得挑战自己，战胜自我。然后，我回家反思了三天。鼓起勇气去尽全力去打出每一拳、踢出每一脚。要尊重你的师父和师兄弟，你没有尽全力，就是对他们最大的残忍！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;四、 对于道场训的自己理解&lt;/p&gt;
+
+&lt;p&gt;极真的道场训，是七句格式一样的谐句，具体格式是： &lt;strong&gt;“动作或姿态或承诺，目标！“&lt;/strong&gt; 如下：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://jzwxg.com/UploadFiles/20140605122622492.jpg&#34; alt=&#34;Dojo&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;一、&lt;/strong&gt; 后面半句不解释，即使是在现实生活中也非常的难以遇到。重要的在于前半句，磨练身心！ 再继续拆，身心即身体和心理，磨练，就是铁杵磨成针的练习！ 坚持、忍耐、重复、练习！ 无所谓练习武术，作为人类，做任何事情都应该是这样。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;二、&lt;/strong&gt; 后面半句不解释，人类中美好的目标，基本都差不多是一致的，正如我在本文的前半部分提到的“良质”，美的东西大家都是一致认同的，比如iphone手机、李小龙、李白、孔子？。所以没必要解释。下同！做任何事情都应该去追求极致，这样才能做到悦己悦人！ 凡事凑合，没有人在意你！&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;三、&lt;/strong&gt; 这句是道德，诚实乃社会之本，人也应该自尊，自强不息，这就是所谓之刚健。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;四、&lt;/strong&gt; 这句是典型的儒家文化，亦是日本武士道之根本。这在中国亦相当的受欢迎，因为中国本土这东西历经“五四运动”、“文化大革命”、“反右”等，早已荡然无存。身为国人空怀念而已！ 这句我无法评价。
+&lt;strong&gt;五、&lt;/strong&gt;这句值得玩味，若是看&lt;a href=&#34;http://www.mas-oyama.com/cgi-bin/english/siteup.cgi?category=1&amp;amp;page=5&#34;&gt;日本官方&lt;/a&gt;，甚至&lt;a href=&#34;http://jzwxg.com/About-9.html&#34;&gt;中国本部官方网站&lt;/a&gt;，均没有热爱祖国这句。但是在道场后要背诵则会有。由此可以看出开拳馆，隶属于官方管辖，须感谢国家。针对孩子的洗脑已经是无孔不入！&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;六、&lt;/strong&gt; 这是我最为倾倒的一句话！ 也是我用作这一系列文章题目的出处！ 我们人在成长的过程中，其实可能性则在不断的减小。若你不努力，就根本没有可能性！&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;七、&lt;/strong&gt; 自我的心理暗示！ 要对自己所热爱和付出的东西有信心！ 惹连你自己都不相信，又如何得到世人的承认？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;五、 &amp;ldquo;One thousand days of training completes a beginner. Ten thousand days of training begins the mastery of the art.&amp;rdquo; 汉语为“千日修以获初心，万日练放达极致。”
+&amp;gt;一个动作，从力量、到速度、再到技术、再到准确，必须在开始的时候，就有科学的认识和理性的思考！ 空手道是一门徒手的艺术，对自己身体的控制与运用要超越常人！ 那就必须经过经年累月的不断训练！ 人生在世，没有做任何事情是容易的，因为活着本身就是动着的！必须意识到这点，然后找寻自己的目的，挥洒自己的青春与汗水！
+&amp;gt;初心即自我！ 人能意识到自我，能够启蒙、顿悟、悟道，本身就需要不断的努力的一个过程。在远处、静止不动这话就等于对牛弹琴！ 要练，不断的练！还要看天赋与运气！&lt;/p&gt;
+
+&lt;h2 id=&#34;结束语&#34;&gt;结束语&lt;/h2&gt;
+
+&lt;p&gt;我的空手道之旅才刚刚开始，需要用生命去印证的东西，只能是日常的累积，经年累月之后方可见分晓。所以，过去的这两、三个月不过是一次邂逅而已！ 是为此文！&lt;/p&gt;
+
+&lt;p&gt;在此感谢&lt;a href=&#34;http://jzwxg.com/ShowNews-336.html&#34;&gt;陈磊教练&lt;/a&gt;，也感谢&lt;a href=&#34;http://jzwxg.com/&#34;&gt;极真武学馆&lt;/a&gt;的所有工作人员！&lt;/p&gt;
+
+&lt;p&gt;OSU！&lt;/p&gt;
+
+&lt;h2 id=&#34;番外篇&#34;&gt;番外篇&lt;/h2&gt;
+
+&lt;p&gt;记得有一次，由于很早就到了拳馆，离上课时间还有3、4个小时的样子，于是我就到隔壁的茶馆去坐坐，然后那边的老板就问我，先生住在附近吗？我说，我在隔壁练拳。老板直接说，像您这年龄练的一定是太极吧？ 我笑着说，是非常注重实战的空手道！ 老板哑然。而我亦在感慨：从小到大，我们听到太多的偏见、限制、与不可能，甚至于谣言、未经实证的传言、意识形态的刷洗。为什么我这个年龄一定得练太极？我只是做回自己，和任何人无干！&lt;/p&gt;
 </description>
     </item>
     
