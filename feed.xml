@@ -7,8 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2016. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 07:05:38 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Feb 2017 14:48:16 +0800</lastBuildDate>
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://lijiangsheng1.github.io/posts/entrepreneur/how_to_face_when_you_are_in_bad_env/</link>
+      <pubDate>Thu, 09 Feb 2017 14:48:16 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/how_to_face_when_you_are_in_bad_env/</guid>
+      <description>&lt;p&gt;&amp;ldquo;欲为大树，莫与草争.&amp;ldquo;前几日，爱人发给我的勉励语句。&lt;/p&gt;
+
+&lt;p&gt;不知道什么时候，突然发现自己与周边的人有些格格不入了。当你在讨论如何提高团队竞争力，怎么打造学习型组织，科学的提高自己的知识图谱，如何提高公司的竞争力，寻找目标客户的时候，别人在讨论最近很火的歌曲、真人秀娱乐节目、国资委多有钱。我真的无言以对。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>为什么你必须学会必要的拒绝</title>
+      <link>http://lijiangsheng1.github.io/posts/education/why_you_need_learn_how_to_refused_someone/</link>
+      <pubDate>Thu, 09 Feb 2017 14:38:42 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/education/why_you_need_learn_how_to_refused_someone/</guid>
+      <description>
+
+&lt;h2 id=&#34;事情的由来&#34;&gt;事情的由来&lt;/h2&gt;
+
+&lt;p&gt;上午11点，微信（已经成为工作联系的默认工具）上来了一条消息，是InfoQ的架构师会议上认识的编辑——穆寰，干练、独立、思路清晰的女性，我也颇喜欢她策划的一些题目。消息是关于新闻线索认领的，内容是Kubernetes官方博客上的一篇文章，是关于百度的深度学习框架跑在K8S平台的介绍文，问我是否有兴趣，然后有了下面的对话：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lijiangsheng1/lijiansheng_github_pages/master/content/public/talking_to_muhuan.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;虽然这是我真实的表达，但是我的内心深处，还是有一些迟疑，“我要是这次拒绝了她，下次是不是有更好的线索她再也不会考虑我？”尽管这样，我还是照着上面的话说了。然后我就补了一句：“哦，对了。告诉你一个秘密，以更好的增强对我的了解。为我们日后方便沟通和合作埋一伏笔。分享一下我经营的个人网站。”并附上我的&lt;a href=&#34;http://www.ocselected.org/&#34;&gt;开源之道&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;支撑我如此回答的理由是：“穆寰能够理解我，只是对我还不够了解，随着沟通的深入，未来才可能有高质量的合作。”&lt;/p&gt;
+
+&lt;h2 id=&#34;一些糟糕的回忆&#34;&gt;一些糟糕的回忆&lt;/h2&gt;
+
+&lt;p&gt;我印象中的关于拒绝的比较深刻的有两件事。&lt;/p&gt;
+
+&lt;h3 id=&#34;开放云精选二进制版本系统&#34;&gt;开放云精选二进制版本系统&lt;/h3&gt;
+
+&lt;p&gt;项目代号“FaceOff”，致敬于同名吴宇森执导的好莱坞电影。我为产品设计，然后找了一名我认为信得过的同事做开发。沟通、开通开发环境，我都一一准备好了，甚至连合伙协议、分成，或者钱都抬到桌面上了。然后，从2015年初到2016年中，没有哪怕一行代码给我。在谈的时候，非常明确的答应了。好吧，我托付的如此之大的创业大事，被他人视为儿戏。这是一个我深为信任的人没有拒绝我的教训，堪称人间经典案例！&lt;/p&gt;
+
+&lt;h3 id=&#34;东京福田机场的行李托运&#34;&gt;东京福田机场的行李托运&lt;/h3&gt;
+
+&lt;p&gt;2015年OpenStack东京Summit会议结束，回国是在机场等候Checkin的时候的遭遇。排在我前面的是前同事，前同事前面是一名带了很多东西的国人，类似小孩玩具之类的。先是找我同事，请求他帮忙拖带点东西，理由就是大家都是中国人，出门在外帮帮忙，好吧，我同事是那种很年轻、善良的，但是极为聪明的。就推说自己已经带了东西，说我没有带，就这样推到我身上。我当时其实蛮恼怒，我犹豫了几分钟之后，我断然拒绝了他，我不会帮你托带，因为你哪个根本就不重！其实在犹豫的几分钟里我也曾被他的“武器”动摇过。&lt;/p&gt;
+
+&lt;p&gt;拒绝的理由：我无法确认你所带的东西是否有违禁品！不好意思可能会让我深陷麻烦！陌生人为何会提出如此要求？还拎着本是同根生的大棒？&lt;/p&gt;
+
+&lt;h2 id=&#34;请你拒绝我&#34;&gt;请你拒绝我&lt;/h2&gt;
+
+&lt;p&gt;是的，如果你做不到，或者是影响到自己到生活和心情，请你拒绝我，以委婉的方式更好，直接拒绝也可以。我都可以接受。&lt;/p&gt;
+
+&lt;p&gt;我不会拿任何的不好意思绑架你！虽然我也懂得国人什么最管用：孝顺、不仗义、没面子、背后指点等等。放心，我仅仅是需要你的帮助，或者是合作做一些事情。&lt;/p&gt;
+
+&lt;p&gt;你的拒绝是对我最大的善意和仁慈！&lt;/p&gt;
+
+&lt;h2 id=&#34;我会真诚的拒绝你&#34;&gt;我会真诚的拒绝你&lt;/h2&gt;
+
+&lt;p&gt;我努力的去理解人性和人性之外的东西，我尝试去读历史、看心理学知识、了解文化、了解习俗。不断的去挑战我的平等信仰。沟通是人类最大的难题。&lt;/p&gt;
+
+&lt;p&gt;我不会答应你我做不到的事情，或者影响到我自身目标的事情。我会正式的告诉你，犹如今天和穆寰的沟通一样。不会浪费你宝贵的时间，因为你一定是希望能够尽快的达到你自己的目的。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>开源之道(bye 2016 hello 2017)</title>
@@ -1684,239 +1744,6 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 &lt;h2 id=&#34;关于信任&#34;&gt;关于信任&lt;/h2&gt;
 
 &lt;p&gt;在电影中，美国队长对于冬兵的信任，可谓是伟大的骑士精神！始终对于自己儿时的伙伴的内心的信任，并矢志不移！&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>曾经在职场中犯过的错</title>
-      <link>http://lijiangsheng1.github.io/posts/entrepreneur/make_mistake_in_my_career/</link>
-      <pubDate>Thu, 05 May 2016 10:40:34 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/make_mistake_in_my_career/</guid>
-      <description>
-
-&lt;h2 id=&#34;缘起&#34;&gt;缘起&lt;/h2&gt;
-
-&lt;p&gt;今天 InfoQ 中文网站发布了我点评的一篇&lt;a href=&#34;http://www.infoq.com/cn/articles/apache-foundation-the-success-of-apache&#34;&gt;文章&lt;/a&gt;。其实刚刚发布时，文章的题目不是这个，而是：“Apache 基金会17岁了！其成功的背后显为人知的“Apache 之道”！”。后来有位读者看到错别字就不爽了，我于是求助于编辑请求帮助。想更改为：“Apache 基金会17岁了！其成功背后独特的“Apache 之道””，（这要感谢&lt;a href=&#34;http://www.infoq.com/cn/author/%E5%A4%8F%E9%9B%AA&#34;&gt;夏雪&lt;/a&gt;的建议。）但是，InfoQ 中国的主编&lt;a href=&#34;http://www.infoq.com/cn/author/%E9%83%AD%E8%95%BE&#34;&gt;郭蕾&lt;/a&gt;大笔一挥，就是现在这个题目了：“17个Apache基金会的运营之道 ”。&lt;/p&gt;
-
-&lt;p&gt;这就是故事的始末，时间是2016年4月26日。我犯了一个很大、很大的错误，在信息爆炸的今天，一篇文章的题目占据一半的重要性。而还有一个明显的错别字！内容已经不再重要，我的点评也不再重要。重要的是我犯错了。于是，我引以为鉴！ 然后，我就回顾了一下我职业生涯中所犯的错误！&lt;/p&gt;
-
-&lt;p&gt;给自己声明一下，以下的错是我自己以为的，不是来自任何人的评价。当然是我记忆非常深刻的那些错，当然记忆有的时候不太靠谱。&lt;/p&gt;
-
-&lt;h2 id=&#34;靠记忆的遍历&#34;&gt;靠记忆的遍历&lt;/h2&gt;
-
-&lt;p&gt;0、 自己的第一份职业，修改网站的IIS配置，当时对IIS非常的不熟悉，但是胆子很大手很快，删除了一些配置，导致某些站点无法访问。似乎是刚入职不到一个月干的事情，记得我当时很担心被炒鱿鱼，但是主管知道我不熟悉IIS，他修复之后，让我将IIS替换为Apache，除非是ASP的程序。那是2005年，我刚毕业。&lt;/p&gt;
-
-&lt;p&gt;1、 时间再往前推点，大约是2006年的春夏之交，河南报业网的后台CMS系统需要修改一些功能，厂商派过来二名工程师在修改。我主要是配合，他们看到我使用的是 OpenSuSe，具体版本我忘记是多少了，但是那时的OpenSuSe对于Nvidia的驱动是最好的，界面相对非常的酷炫，立方体桌面等。于是，其中一名工程师想将自己的笔记本也装一个OpenSuSe，于是简单整理了一下，就交给我了。我不知道怎么回事，分区的时候，将他的其中一个Windows分区的存放数据的地方给格式化了。完了。OpenSuSe是可以用了，但是他积攒很久的数据资料也随之消失了。他一声叹息，旧的不去、新的不来。我那个纠结、惭愧，可是也无能为力。后来，我专门给他写了一封道歉信，他只是礼貌性的回复了一下。到现在我仍然记忆清晰。&lt;/p&gt;
-
-&lt;p&gt;此后的几年里，一只小心翼翼、战战兢兢。在红旗的售后，虽然是代表公司经常出入客户现场，有时甚至是故障修复。反而没有犯什么错误。直到开始做开发：&lt;/p&gt;
-
-&lt;p&gt;2、 我在红旗做开发，主要是冲着安装程序去的，当时的红旗 Linux 服务器版，是中、日、韩三国联合开发的 Asianux 为基础版的，我也作为关键的代表红旗成为了 Asianux 的一员。既然是多国人，交流基本都是靠英语了，某个开发周期中，有个虚拟化的软件包选项的问题。是测试提出来的，称在裸机安装时虚拟化（xen）相关的包应该显示，在虚拟机中安装 Asianux时，关于虚拟化的选项就不应该显示。似乎是蛮合理的，但是我当时是拒绝修改的。其实，为什么就没有嵌套了呢？但是我的态度是很坚决的，而且不解释原因。导致大家最后对我敬而远之。&lt;/p&gt;
-
-&lt;p&gt;3、 是近几年的事情了，我曾经在云端时代的时候，开除过一位同学，准确点说是一位对Jboss很有研究的同学。因为一些思路的不一致，以及和社区的风格冲突等，其实是我踢出团队中最为可惜的一位。没过两天我就后悔了。天知道，我那几天是怎么回事。&lt;/p&gt;
-
-&lt;p&gt;4、 轮到我做顾问的易云了，我将我花时间搭建的编译环境的虚拟机随手一个“rm －rf”彻底的删除，毫不留情。不是说技术多复杂，每个在境内搭建环境，比如一些Maven的库、rpm的仓库、python、ruby等环境，和糟糕的网络环境是有很大关系的。那绝对是对自己生命的扼杀。&lt;/p&gt;
-
-&lt;p&gt;5、 最近的错误就是过去一年，也是目前为止职业生涯中所犯的最大的错误。我将自己带团队的思路代入为个人，将自己放大！ 结果挖了无数的坑！！！一如 OVDG 没有人响应一样，一个人的战斗！战斗了大半年之后，终于出了问题！&lt;/p&gt;
-
-&lt;p&gt;6、 第5个错误，严格来说不是错误，所以里面的最大、代入等都不成立。因为这条才是，时间要追溯到2012年，我在普华做事情，亲历了一个团队的建设、乃至一个项目从无到有的过程，深刻明白了问题的所在，如招聘、团队文化、项目需求与现实的博弈、乃至政治因素对团队和技术生产力的破坏，于是，我鼓起勇气，走上了所谓的“叛逃”之路，而在云端，我是按照我自己的认识去重新走过上述这样的路，只是除了政治之外我可以把控所有环节，我以为我招聘的全部都是和我一样－－执着、清醒、为结果负责、目光远大等，甚至在和云端的高层破裂之后，我换一家依然是这么想的，直到又一天，我所倡导的团队扁平化被奸诈无比、气量狭小的高层利用了之后，而我依然坚信他们。经历过 OVDG的失败，我仍然没有醒悟；直到 OCSelected 社区在我失去那家公司的政治影响力之后再也没有任何他人贡献的时候，我开始渐渐的懂了。这个错误对我的伤害是蛮大，但是也是庆幸的！&lt;/p&gt;
-
-&lt;h2 id=&#34;简单的总结&#34;&gt;简单的总结&lt;/h2&gt;
-
-&lt;p&gt;这篇文章是我对于过去的一年的创业历程总结的前哨，我需要正视自己的错误，要将自己急躁的心慢下来，脚踏实地的去慢慢实现自己的梦想！要做长远的打算，而不是冲刺的去立即实现。&lt;/p&gt;
-
-&lt;p&gt;是的！应该找到自己的节奏了，再随波逐流就真的老了！&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>http://lijiangsheng1.github.io/about/</link>
-      <pubDate>Wed, 04 May 2016 17:28:07 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;关于此博客&#34;&gt;关于此博客&lt;/h1&gt;
-
-&lt;h2 id=&#34;从博客的搬家回溯自己的坎坷经历&#34;&gt;从博客的搬家回溯自己的坎坷经历&lt;/h2&gt;
-
-&lt;p&gt;从博客出现伊始，我就开始写博客，最早的是bokee.com，当然现在已经消失了，那时候还是青涩的大学年代，写写诗，骂骂自己认为的不公。真的把记录当回事的是2006年在 chinaunix 开博：&lt;a href=&#34;http://blog.chinaunix.net/uid/20172731.html&#34;&gt;生命的自由度与人&lt;/a&gt;。若是套在职业生涯中的话，此博客记录了我四年的技术学习史。也是我在红旗 Linux 的日子。从红旗 Linux 出来之后，一路迷失，从普华短暂的停留、再到云端的日夜奋斗，但并没有在博客中留下任何的痕迹。当意识到脱离这些时，再恢复博客到撰写，中间还有一小段的过渡，亦即&lt;a href=&#34;http://johnwoolee.blogspot.com/&#34;&gt;自由与爱&lt;/a&gt;，基本上就是记录了几篇自己职业上并不顺心的一些事情。终于有时间也有意识的再去开始写一些文章，即&lt;a href=&#34;http://iaaslee.blogspot.com/&#34;&gt;OpenSource tech. and culture&lt;/a&gt;，终于开始思考自己喜爱和认定的事情了。从2014年到决定迁移到国内可以访问，两年多的时间，其中有一些自己认为很好的文章翻译、有自己的对于技术的认知、对于开源、企业文化的反思、乃至于对于团队、人性的疑惑等等。&lt;/p&gt;
-
-&lt;p&gt;既然找回了自我，那么写作对于我就是生命的一个部分。博客从此将回归到它该有的状态。纪录我对&lt;a href=&#34;http://www.ocselected.org&#34;&gt;开源&lt;/a&gt;的认识、我生命的&lt;a href=&#34;http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/&#34;&gt;感悟&lt;/a&gt;、&lt;a href=&#34;http://lijiangsheng1.github.io/categories/%E5%88%9B%E4%B8%9A/&#34;&gt;创业&lt;/a&gt;已经深植我心，不创不快活、作为两个孩子的父亲，自己走过的弯路，谈谈&lt;a href=&#34;http://lijiangsheng1.github.io/categories/%E6%95%99%E8%82%B2/&#34;&gt;教育&lt;/a&gt;是必须的、&lt;a href=&#34;http://lijiangsheng1.github.io/categories/%E5%81%A5%E5%BA%B7/&#34;&gt;健康&lt;/a&gt;第一，尤其是去年的经历、剩余的就是我的爱好了&lt;a href=&#34;http://lijiangsheng1.github.io/categories/%E8%AF%BB%E4%B9%A6/&#34;&gt;读书&lt;/a&gt;与&lt;a href=&#34;http://lijiangsheng1.github.io/categories/%E7%94%B5%E5%BD%B1/&#34;&gt;电影&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;经过了回顾和分类，我就不打算将原来的博客内容迁移过来了，虽然这会花费我一些时间去学习将 xml 转换为 markdown 的内容，甚至需要写一些具体细节和编码的程序，这些技术倒是无甚所谓，反而无法为我划上一个明确的界线。&lt;/p&gt;
-
-&lt;h2 id=&#34;关于-戒技术-论人性-的诠释&#34;&gt;关于“戒技术，论人性”的诠释&lt;/h2&gt;
-
-&lt;p&gt;从开此博客到现在，我终于想到了我在接下来一段时间的总体描述，技术最终是为人／人性服务的，手段而已，纵览人类生活的全部，你的代码无论多么重要，都是生活中漫不经心的一小部分。再说技术从来都不是问题，问题是如何回归到技术的本质，追求自由！所谓的“最后的人”！在本土文化中，渗透着除却技术，不要和任何人谈论文化、意识形态、信仰、观点、方法论&amp;hellip;&amp;hellip;这是一个令人困苦的境地。除了经济（钱）之外，没有任何的激励方式可用，也没有任何除了这个目的之外的其它目的。没有情怀、没有自由、没有道德、没有契约&amp;hellip;&amp;hellip;我该如何对待技术？技术是我赖以生存的技能，但是它却不是解决问题的根本方式。苦闷之余，我还能做些什么？写几篇文章发发牢骚而已。&lt;/p&gt;
-
-&lt;h1 id=&#34;关于我&#34;&gt;关于我&lt;/h1&gt;
-
-&lt;h2 id=&#34;基本信息&#34;&gt;基本信息&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;真实姓名： 李建盛&lt;/li&gt;
-&lt;li&gt;网络惟一ID： 适兕&lt;/li&gt;
-&lt;li&gt;性别：男&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;自我描述&#34;&gt;自我描述&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Blogger、Author、Linuxer、Pythonic&lt;/li&gt;
-&lt;li&gt;开源文化布道师、技术翻译&lt;/li&gt;
-&lt;li&gt;开放云精选社区创始人&lt;/li&gt;
-&lt;li&gt;对分布式、集群系统有着浓厚的兴趣&lt;/li&gt;
-&lt;li&gt;经常以演讲嘉宾的身份混迹于北京各种开源相关技术的线下活动&lt;/li&gt;
-&lt;li&gt;每日必须阅读两小时&lt;/li&gt;
-&lt;li&gt;戒烟者，亦是戒酒者&lt;/li&gt;
-&lt;li&gt;尝试对自我时间进行苛刻的管理&lt;/li&gt;
-&lt;li&gt;极真空手道修行者&lt;/li&gt;
-&lt;li&gt;Google 重度依赖者&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;工作阅历&#34;&gt;工作阅历&lt;/h2&gt;
-
-&lt;p&gt;2016.6 ~ now UMCloud&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;资深技术顾问、开源布道师&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2015.11～ now 兼职&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;开放云精选社区创始人&lt;/li&gt;
-&lt;li&gt;InfoQ 开源专栏主编&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2013.11～2015.11 易云捷迅&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;研发部门经理&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2011.6～2013.10   云端时代&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;研发经理&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2010.3～2011.5   普华基础软件&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;高级开发工程师&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2006.11～2010.2   北京中科红旗技术有限公司&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;高级售后技术支持工程师&lt;/li&gt;
-&lt;li&gt;开发工程师&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2005.7～ 2006.10  大河网&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;系统管理员&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;演讲经历&#34;&gt;演讲经历&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;演讲主题&lt;/th&gt;
-&lt;th&gt;会议名称&lt;/th&gt;
-&lt;th&gt;时间&lt;/th&gt;
-&lt;th&gt;地点&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Python in Virtualization&lt;/td&gt;
-&lt;td&gt;BPUG 2010 第一次线下活动&lt;/td&gt;
-&lt;td&gt;2010.9.18&lt;/td&gt;
-&lt;td&gt;douban office,BeiJing&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;How to build geek&amp;rsquo;s team&lt;/td&gt;
-&lt;td&gt;Cloud Valley World 2012&lt;/td&gt;
-&lt;td&gt;2012.12.13&lt;/td&gt;
-&lt;td&gt;北京云基地（上地）&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;introduce oVirt&lt;/td&gt;
-&lt;td&gt;Fedora User/Developer Conferenc APAC&lt;/td&gt;
-&lt;td&gt;2014.5.25&lt;/td&gt;
-&lt;td&gt;北航&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;数据中心操作系统Mesos浅析&lt;/td&gt;
-&lt;td&gt;Mesos China Meetup&lt;/td&gt;
-&lt;td&gt;2015.6.24&lt;/td&gt;
-&lt;td&gt;去哪儿 office 北京&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;为什么基于成功的开源项目的商业产品会失败？&lt;/td&gt;
-&lt;td&gt;OpenStack China Meetup&lt;/td&gt;
-&lt;td&gt;2015.12.12&lt;/td&gt;
-&lt;td&gt;Intel北京研发中心&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Open Cloud Profile&lt;/td&gt;
-&lt;td&gt;2015中国软件技术大会&lt;/td&gt;
-&lt;td&gt;2015.12.12&lt;/td&gt;
-&lt;td&gt;北京国家会议中心&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Inner-Source 企业内部如何实践开源软件方法&lt;/td&gt;
-&lt;td&gt;2016 中国开源大会&lt;/td&gt;
-&lt;td&gt;2016.10.15&lt;/td&gt;
-&lt;td&gt;北航&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;方生与未死——秘方文化与开源及Ceph项目分析&lt;/td&gt;
-&lt;td&gt;Ceph中国社区年会&lt;/td&gt;
-&lt;td&gt;2016.12.11&lt;/td&gt;
-&lt;td&gt;北京.万寿宾馆&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;出版物&#34;&gt;出版物&lt;/h2&gt;
-
-&lt;p&gt;译作：&lt;a href=&#34;http://item.jd.com/11887046.html&#34;&gt;《云落谁家？OpenStack基于场景的架构设计实践》&lt;/a&gt; ISBN: 9787121276491 出版社：电子工业出版社&lt;/p&gt;
-
-&lt;h2 id=&#34;一些自己练习过的技能&#34;&gt; 一些自己练习过的技能&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Over ten years Linux user and 5 years developer.&lt;/li&gt;
-&lt;li&gt;Program Language: Python, C, Java, bash, xml,Go （都懂一点点）&lt;/li&gt;
-&lt;li&gt;Computer Science: Operating Systems, Cluster(HA,LB,Distributed), TCP/IP protocols&lt;/li&gt;
-&lt;li&gt;开源项目： Cloud computing: OpenStack,Eucalyptus,OpenNebula,CloudStack Virtualization: KVM,qemu,Ovirt,libvirt&lt;/li&gt;
-&lt;li&gt;框架之类的： Hugo、Django&lt;/li&gt;
-&lt;li&gt;写作工具： Docbook、 MarkDown、reStructuredText、以及一点点Tex&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;社交账号以及联系方式&#34;&gt;社交账号以及联系方式&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;SlideShare: &lt;a href=&#34;http://www.slideshare.net/johnwoolee&#34;&gt;Li Jiansheng&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Linkedin: &lt;a href=&#34;https://cn.linkedin.com/in/lijiansheng&#34;&gt;Li Jiansheng&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;e-mail: lijiangsheng1 AT gmail.com 或者是 lijiansheng AT ocselected.org&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
