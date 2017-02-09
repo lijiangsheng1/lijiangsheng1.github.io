@@ -11,14 +11,20 @@
     <atom:link href="http://lijiangsheng1.github.io/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
+      <title>在一个糟糕的环境的中如何生存？</title>
       <link>http://lijiangsheng1.github.io/posts/entrepreneur/how_to_face_when_you_are_in_bad_env/</link>
       <pubDate>Thu, 09 Feb 2017 14:48:16 +0800</pubDate>
       
       <guid>http://lijiangsheng1.github.io/posts/entrepreneur/how_to_face_when_you_are_in_bad_env/</guid>
-      <description>&lt;p&gt;&amp;ldquo;欲为大树，莫与草争.&amp;ldquo;前几日，爱人发给我的勉励语句。&lt;/p&gt;
+      <description>
 
-&lt;p&gt;不知道什么时候，突然发现自己与周边的人有些格格不入了。当你在讨论如何提高团队竞争力，怎么打造学习型组织，科学的提高自己的知识图谱，如何提高公司的竞争力，寻找目标客户的时候，别人在讨论最近很火的歌曲、真人秀娱乐节目、国资委多有钱。我真的无言以对。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;欲为大树，莫与草争.&amp;rdquo;    前几日，爱人发给我的勉励语句。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;创业-是否被主流媒体玩坏&#34;&gt;“创业”是否被主流媒体玩坏？&lt;/h2&gt;
+
+&lt;p&gt;当未来的人们看到当前这段历史的时候，该如何看待？”全民创业，万众创新。”仿佛一夜之间成为了红色主旋律一样。但是，给年轻人所灌输的美好，无异于红小兵的革命幻想！大有“人定胜天”的”十年赶超英美”的气势。&lt;/p&gt;
 </description>
     </item>
     
@@ -67,123 +73,6 @@
 &lt;p&gt;我努力的去理解人性和人性之外的东西，我尝试去读历史、看心理学知识、了解文化、了解习俗。不断的去挑战我的平等信仰。沟通是人类最大的难题。&lt;/p&gt;
 
 &lt;p&gt;我不会答应你我做不到的事情，或者影响到我自身目标的事情。我会正式的告诉你，犹如今天和穆寰的沟通一样。不会浪费你宝贵的时间，因为你一定是希望能够尽快的达到你自己的目的。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开源之道(bye 2016 hello 2017)</title>
-      <link>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%28bye-2016-hello-2017%29/</link>
-      <pubDate>Sun, 01 Jan 2017 07:05:38 +0800</pubDate>
-      
-      <guid>http://lijiangsheng1.github.io/posts/opensource/daily_reading/2017/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%28bye-2016-hello-2017%29/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;声明：本博客言论，仅代表我自己，不管任何其它！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;文章点评&#34;&gt;文章点评&lt;/h2&gt;
-
-&lt;h3 id=&#34;web开发的未来-gitlab-ceo-专访&#34;&gt;web开发的未来：GitLab CEO 专访&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/laurencebradford/2016/12/30/the-future-of-web-development-with-gitlab-ceo-sid-sijbrandij/2/#125a74824b34&#34;&gt;The Future Of Web Development With GitLab CEO Sid Sijbrandij&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;GitLab 作为 GitHub在私有公司的开源替代，大有可为的趋势。犹如政治观点、自由选择一样。有的公司就是不想全部放在公网上，保持私有，但是又想获得Git和开源协作的好处。GitLab就是为此而生的。以下是我看到本文的三个亮点：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Sijbrandij的方法论：小步走，小的目标更加的容易实现。&lt;/li&gt;
-&lt;li&gt;Inner-Source，也是GitLab的主要宣传理论！而这也恰好是我要宣传的。看来GitLab在某种程度上也是我需要重点关注的对象。&lt;/li&gt;
-&lt;li&gt;现在技术上有所突破非常的困难，得下苦功夫！是的，我多次强调过，要想看到别人看不到的风景，就得比别人走更远的路，爬更高的山。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://sdtimes.com/wp-content/uploads/2016/12/dirtycow.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;2016-开源仍在野蛮生长-但是也有令人担忧的地方&#34;&gt;2016: 开源仍在野蛮生长，但是也有令人担忧的地方&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://sdtimes.com/2016-open-source-grows-conflict-remains/&#34;&gt;2016: Open source grows, but conflict remains&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;一位业内人士的观察，基本覆盖了2016年开源上的一些“事故”，如糟糕的DirtyCOW漏洞、Node.js仓库删除事件等等。而关于社区治理方面的两个消息，颇耐人寻味：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Apache Cassandra项目的Jonathan Ellis 黯然离职&lt;/li&gt;
-&lt;li&gt;自由软件基金会的 Eben Moglen 的离开，Richard Stallman 认为他远离了革命的主旨&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;当然，还有一些令人兴奋的事情，比如总是被提起的微软的转变。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://tctechcrunch2011.files.wordpress.com/2016/12/gettyimages-628437600.png?w=1318&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;以开源创业的公司如何盈利&#34;&gt;以开源创业的公司如何盈利&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://techcrunch.com/2016/12/29/how-viral-open-source-startups-can-build-themselves-into-enterprise-it-powerhouses/&#34;&gt;How viral open-source startups can build themselves into enterprise-IT powerhouses&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;相信这是很多人都在思考的问题，本土的人们也在纠结，信息不对称的时代已经过去，愚民的方法不再管用。唯有突破创新方可。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;“open source is eating Goldman Sachs.”&lt;/strong&gt; 文中所举的例子！也确实代表企业的现状。&lt;/p&gt;
-
-&lt;p&gt;开源创业的三大优势：&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ol&gt;
-&lt;li&gt;像病毒一样的扩散&lt;/li&gt;
-&lt;li&gt;为R&amp;amp;D提供服务更加的优秀&lt;/li&gt;
-&lt;li&gt;Lower cost drives more usage, and expands the addressable market&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;文中列举的例子比较典型：cloudera、MangoDB、Elastic、Docker、InfluxDB、Redis Labs、JFrag。。。。。。我想国内的Zstack、Keylin、TiDB等公司也是可以说说他们的故事的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://assets.wired.com/photos/w_1720/wp-content/uploads/2016/12/GettyImages-627219854.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;2016-深度学习吞噬整个互联网的一年&#34;&gt;2016: 深度学习吞噬整个互联网的一年&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;https://www.wired.com/2016/12/2016-year-deep-learning-took-internet/&#34;&gt;2016: The Year That Deep Learning Took Over the Internet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;我依然流露处对于Wired文章的崇尚：给出一个让任何人都能理解的实例：Google开源AI项目TensorFlow的最佳实践之一。然后开始阐述过去一年的深度学习的成绩：打败围棋世界冠军，互联网巨头的竞争：翻译、聊天机器人、新的数据中心、云计算：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Companies like Google and Facebook are not only hiring a new kind of talent, but also reeducating their existing employees for this new future—a future where AI will come to define technology in the lives of just about everyone.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://blogs-images.forbes.com/moorinsights/files/2016/12/JF5.jpg?width=960&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;对于网络-2017年我们应该期待什么&#34;&gt;对于网络，2017年我们应该期待什么？&lt;/h3&gt;
-
-&lt;p&gt;原文链接：&lt;a href=&#34;http://www.forbes.com/sites/moorinsights/2016/12/28/what-to-expect-from-networking-in-2017/#be916036b1c7&#34;&gt;What To Expect From Networking In 2017&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;适兕点评：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;似乎自从人们认识了“时间”的存在，比如年，就希望计划、预测、向往些什么，网络这个古老而年轻的领域一点也不例外。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;软件定义广域网（SD-WAN）的时代已经来临&lt;/li&gt;
-&lt;li&gt;开源继续扩张它的势力范围&lt;/li&gt;
-&lt;li&gt;编排工具竞争激烈，鹿死谁手仍未可知&lt;/li&gt;
-&lt;li&gt;安全将会是非常大的问题域&lt;/li&gt;
-&lt;li&gt;WiFi的消费者市场要求更多的智能&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;More IT organizations are now not only depending on open source but also providing code updates back into the projects.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -1744,6 +1633,48 @@ N.B.: 没能做到反思自我，仍然对过去有点怨言。不应该是这�
 &lt;h2 id=&#34;关于信任&#34;&gt;关于信任&lt;/h2&gt;
 
 &lt;p&gt;在电影中，美国队长对于冬兵的信任，可谓是伟大的骑士精神！始终对于自己儿时的伙伴的内心的信任，并矢志不移！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>曾经在职场中犯过的错</title>
+      <link>http://lijiangsheng1.github.io/posts/entrepreneur/make_mistake_in_my_career/</link>
+      <pubDate>Thu, 05 May 2016 10:40:34 +0800</pubDate>
+      
+      <guid>http://lijiangsheng1.github.io/posts/entrepreneur/make_mistake_in_my_career/</guid>
+      <description>
+
+&lt;h2 id=&#34;缘起&#34;&gt;缘起&lt;/h2&gt;
+
+&lt;p&gt;今天 InfoQ 中文网站发布了我点评的一篇&lt;a href=&#34;http://www.infoq.com/cn/articles/apache-foundation-the-success-of-apache&#34;&gt;文章&lt;/a&gt;。其实刚刚发布时，文章的题目不是这个，而是：“Apache 基金会17岁了！其成功的背后显为人知的“Apache 之道”！”。后来有位读者看到错别字就不爽了，我于是求助于编辑请求帮助。想更改为：“Apache 基金会17岁了！其成功背后独特的“Apache 之道””，（这要感谢&lt;a href=&#34;http://www.infoq.com/cn/author/%E5%A4%8F%E9%9B%AA&#34;&gt;夏雪&lt;/a&gt;的建议。）但是，InfoQ 中国的主编&lt;a href=&#34;http://www.infoq.com/cn/author/%E9%83%AD%E8%95%BE&#34;&gt;郭蕾&lt;/a&gt;大笔一挥，就是现在这个题目了：“17个Apache基金会的运营之道 ”。&lt;/p&gt;
+
+&lt;p&gt;这就是故事的始末，时间是2016年4月26日。我犯了一个很大、很大的错误，在信息爆炸的今天，一篇文章的题目占据一半的重要性。而还有一个明显的错别字！内容已经不再重要，我的点评也不再重要。重要的是我犯错了。于是，我引以为鉴！ 然后，我就回顾了一下我职业生涯中所犯的错误！&lt;/p&gt;
+
+&lt;p&gt;给自己声明一下，以下的错是我自己以为的，不是来自任何人的评价。当然是我记忆非常深刻的那些错，当然记忆有的时候不太靠谱。&lt;/p&gt;
+
+&lt;h2 id=&#34;靠记忆的遍历&#34;&gt;靠记忆的遍历&lt;/h2&gt;
+
+&lt;p&gt;0、 自己的第一份职业，修改网站的IIS配置，当时对IIS非常的不熟悉，但是胆子很大手很快，删除了一些配置，导致某些站点无法访问。似乎是刚入职不到一个月干的事情，记得我当时很担心被炒鱿鱼，但是主管知道我不熟悉IIS，他修复之后，让我将IIS替换为Apache，除非是ASP的程序。那是2005年，我刚毕业。&lt;/p&gt;
+
+&lt;p&gt;1、 时间再往前推点，大约是2006年的春夏之交，河南报业网的后台CMS系统需要修改一些功能，厂商派过来二名工程师在修改。我主要是配合，他们看到我使用的是 OpenSuSe，具体版本我忘记是多少了，但是那时的OpenSuSe对于Nvidia的驱动是最好的，界面相对非常的酷炫，立方体桌面等。于是，其中一名工程师想将自己的笔记本也装一个OpenSuSe，于是简单整理了一下，就交给我了。我不知道怎么回事，分区的时候，将他的其中一个Windows分区的存放数据的地方给格式化了。完了。OpenSuSe是可以用了，但是他积攒很久的数据资料也随之消失了。他一声叹息，旧的不去、新的不来。我那个纠结、惭愧，可是也无能为力。后来，我专门给他写了一封道歉信，他只是礼貌性的回复了一下。到现在我仍然记忆清晰。&lt;/p&gt;
+
+&lt;p&gt;此后的几年里，一只小心翼翼、战战兢兢。在红旗的售后，虽然是代表公司经常出入客户现场，有时甚至是故障修复。反而没有犯什么错误。直到开始做开发：&lt;/p&gt;
+
+&lt;p&gt;2、 我在红旗做开发，主要是冲着安装程序去的，当时的红旗 Linux 服务器版，是中、日、韩三国联合开发的 Asianux 为基础版的，我也作为关键的代表红旗成为了 Asianux 的一员。既然是多国人，交流基本都是靠英语了，某个开发周期中，有个虚拟化的软件包选项的问题。是测试提出来的，称在裸机安装时虚拟化（xen）相关的包应该显示，在虚拟机中安装 Asianux时，关于虚拟化的选项就不应该显示。似乎是蛮合理的，但是我当时是拒绝修改的。其实，为什么就没有嵌套了呢？但是我的态度是很坚决的，而且不解释原因。导致大家最后对我敬而远之。&lt;/p&gt;
+
+&lt;p&gt;3、 是近几年的事情了，我曾经在云端时代的时候，开除过一位同学，准确点说是一位对Jboss很有研究的同学。因为一些思路的不一致，以及和社区的风格冲突等，其实是我踢出团队中最为可惜的一位。没过两天我就后悔了。天知道，我那几天是怎么回事。&lt;/p&gt;
+
+&lt;p&gt;4、 轮到我做顾问的易云了，我将我花时间搭建的编译环境的虚拟机随手一个“rm －rf”彻底的删除，毫不留情。不是说技术多复杂，每个在境内搭建环境，比如一些Maven的库、rpm的仓库、python、ruby等环境，和糟糕的网络环境是有很大关系的。那绝对是对自己生命的扼杀。&lt;/p&gt;
+
+&lt;p&gt;5、 最近的错误就是过去一年，也是目前为止职业生涯中所犯的最大的错误。我将自己带团队的思路代入为个人，将自己放大！ 结果挖了无数的坑！！！一如 OVDG 没有人响应一样，一个人的战斗！战斗了大半年之后，终于出了问题！&lt;/p&gt;
+
+&lt;p&gt;6、 第5个错误，严格来说不是错误，所以里面的最大、代入等都不成立。因为这条才是，时间要追溯到2012年，我在普华做事情，亲历了一个团队的建设、乃至一个项目从无到有的过程，深刻明白了问题的所在，如招聘、团队文化、项目需求与现实的博弈、乃至政治因素对团队和技术生产力的破坏，于是，我鼓起勇气，走上了所谓的“叛逃”之路，而在云端，我是按照我自己的认识去重新走过上述这样的路，只是除了政治之外我可以把控所有环节，我以为我招聘的全部都是和我一样－－执着、清醒、为结果负责、目光远大等，甚至在和云端的高层破裂之后，我换一家依然是这么想的，直到又一天，我所倡导的团队扁平化被奸诈无比、气量狭小的高层利用了之后，而我依然坚信他们。经历过 OVDG的失败，我仍然没有醒悟；直到 OCSelected 社区在我失去那家公司的政治影响力之后再也没有任何他人贡献的时候，我开始渐渐的懂了。这个错误对我的伤害是蛮大，但是也是庆幸的！&lt;/p&gt;
+
+&lt;h2 id=&#34;简单的总结&#34;&gt;简单的总结&lt;/h2&gt;
+
+&lt;p&gt;这篇文章是我对于过去的一年的创业历程总结的前哨，我需要正视自己的错误，要将自己急躁的心慢下来，脚踏实地的去慢慢实现自己的梦想！要做长远的打算，而不是冲刺的去立即实现。&lt;/p&gt;
+
+&lt;p&gt;是的！应该找到自己的节奏了，再随波逐流就真的老了！&lt;/p&gt;
 </description>
     </item>
     
