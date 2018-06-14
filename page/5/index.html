@@ -1,880 +1,120 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html lang="zh-CN">
 <head>
-  <base href="http://lijiangsheng1.github.io/">
-  <script>
-    document._writeOriginal = document.write;
-    document.write = function(str) {
-        if (str.indexOf('livereload.js') > -1) {
-            document._writeOriginal(str);
-        } else {
-            document._writeOriginal('<!-- Be Hijack!! -->');
-        }
-    }
-  </script>
-  <title>适兕的博客</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="keywords" content="">
-<meta name="description" content="适兕的博客">
-<meta name="author" content="lijiansheng">
-<meta name="publisher" content="lijiansheng">
-<meta name="generator" content="http://gohugo.io/"/>
-
-<meta itemprop="name" content="适兕的博客">
-<meta itemprop="description" content="适兕的博客">
-<meta itemprop="image" content="http://lijiangsheng1.github.io/public/lijiansheng.jpg">
-
-<meta property="og:title" content="适兕的博客" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="http://lijiangsheng1.github.io/" />
-<meta property="og:image" content="http://lijiangsheng1.github.io/public/lijiansheng.jpg" />
-<meta property="og:description" content="适兕的博客">
-
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@lijiangsheng1">
-<meta name="twitter:title" content="适兕的博客">
-<meta name="twitter:description" content="适兕的博客">
-<meta name="twitter:creator" content="@lijiangsheng1">
-<meta name="twitter:image" content="http://lijiangsheng1.github.io/public/lijiansheng.jpg">
-
-  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
-  <link rel="canonical" href="http://lijiangsheng1.github.io/">
-  <link rel='shortlink' href="http://lijiangsheng1.github.io/"/>
-  <link rel="shortcut icon" href="http://lijiangsheng1.github.io/public/favicon.ico"/>
-  
- <link href="http://lijiangsheng1.github.io/feed.xml" rel="alternate" type="application/rss+xml" title="适兕的博客" />
-
-<link rel="stylesheet" id="human-style-css" href="http://lijiangsheng1.github.io/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="human-style-css2" href="http://lijiangsheng1.github.io/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="responsive-css" href="http://lijiangsheng1.github.io/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="http://lijiangsheng1.github.io/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
-<link rel="stylesheet" href="http://lijiangsheng1.github.io/public/highlight/styles/github.css">
-<script src="http://lijiangsheng1.github.io/public/highlight/highlight.pack.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
-<link rel="stylesheet" id="human-style-css3" href="http://lijiangsheng1.github.io/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
-<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
-
-<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
-<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
-<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
-<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
-
+	<meta name="generator" content="Hugo 0.30.2" />
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<title>适兕的博客</title>
+	<link href="http://lijiangsheng1.github.io/index.xml" rel="alternate" type="application/rss+xml" title="适兕的博客" />
+	<base href="http://lijiangsheng1.github.io">
+	<link href="http://lijiangsheng1.github.iocss/style.min.css" rel="stylesheet">
 </head>
-
-<body class="archive category col-3cm full-width topbar-enabled chrome">
-
-<div id="wrapper">
-  <header id="header">
-
-  <nav class="nav-container group" id="nav-topbar">
-    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
-    <div class="nav-text"></div>
-    <div class="nav-wrap container">
-      <a rel="nofollow" href="http://lijiangsheng1.github.io/" class="nav-cs-icon">
-        <img width="40" height="40" src="http://lijiangsheng1.github.io/public/lijiansheng.jpg" alt="lijiansheng" title="Home">
-      </a>
-      <ul id="menu-default-menu" class="nav container-inner group">
-        <li class="menu-item menu-item-type-post_type menu-item-object-page">
-          <a rel="nofollow" href="http://lijiangsheng1.github.io/">首页</a>
-        </li>
-        
-        <li class="menu-item menu-item-type-post_type menu-item-object-page">
-          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/">开源</a>
-        </li>
-        
-        <li class="menu-item menu-item-type-post_type menu-item-object-page">
-          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/">感悟</a>
-        </li>
-        
-        <li class="menu-item menu-item-type-post_type menu-item-object-page">
-          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E5%88%9B%E4%B8%9A/">创业</a>
-        </li>
-        
-        <li class="menu-item menu-item-type-post_type menu-item-object-page">
-          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E6%95%99%E8%82%B2/">教育</a>
-        </li>
-        
-        <li class="menu-item menu-item-type-post_type menu-item-object-page">
-          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E5%81%A5%E5%BA%B7/">健康</a>
-        </li>
-        
-        <li class="menu-item menu-item-type-post_type menu-item-object-page">
-          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E8%AF%BB%E4%B9%A6/">读书</a>
-        </li>
-        
-        <li class="menu-item menu-item-type-post_type menu-item-object-page">
-          <a rel="nofollow" href="http://lijiangsheng1.github.io/categories/%E7%94%B5%E5%BD%B1/">电影</a>
-        </li>
-        
-        
-        <li class="menu-item menu-item-type-post_type menu-item-object-page">
-          <a rel="nofollow" href="http://lijiangsheng1.github.io/about/">关于</a>
-        </li>
-        
-        <li class="menu-item menu-item-type-post_type menu-item-object-page">
-          <a rel="nofollow" href="http://lijiangsheng1.github.io/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
-        </li>
-        <li class="menu-item menu-item-type-post_type menu-item-text">
-        
-        </li>
-      </ul>
-    </div>
-
-    <div class="container">
-      <div class="container-inner">
-        <div class="toggle-search"><i class="fa fa-search"></i></div>
-        <div class="search-expand">
-          <div class="search-expand-inner">
-            <form method="get" class="searchform themeform" action="https://www.google.com/search">
-              <div>
-                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-      
-    </div>
-    
-
-  </nav>
-  
-
-  <div class="container group">
-    <div class="container-inner">
-
-      <div class="group pad">
-
-        <div class="group pad">
-          <h1 class="site-title">
-            <a rel="nofollow" href="http://lijiangsheng1.github.io/" rel="home">
-              <img style="border-radius: 50%;width:72px;height:72px;margin:0 auto;" alt="lijiansheng" src="http://lijiangsheng1.github.io/public/lijiansheng.jpg"></img>
-              适兕的博客
-            </a>
-          </h1>
-          <p class="site-description">  戒技术，论人性！ </p>
-        </div>
-
-      </div>
-    </div>
-    
-  </div>
-  
-
+<body>
+<header class="site-header">
+	<div class="container">
+		<h1 class="site-title"><a href="http://lijiangsheng1.github.io">适兕的博客</a></h1>
+		<p class="lead blog-description"></p>
+	</div>
 </header>
-
-
-  <div class="container" id="page">
-    <div class="container-inner">
-      <div class="main">
-        <div class="main-inner group">
-          <section class="content">
-            <div class="pad group">
-             
-              
-               
-               <div class="featured">
-  <article class="post type-post status-publish format-standard has-post-thumbnail hentry group">
-      <div class="post-inner post-hover">
-          <div class="post-meta group">
-              <p class="post-category">
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/" title="All posts in 开源" rel="category tag">开源</a>
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/" title="All posts in 感悟" rel="category tag">感悟</a>
-              
-              </p>
-              <p class="post-date">2016年11月11日</p>
-          </div>
-          <h2 class="post-title">
-              <a href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-11%29/" rel="bookmark" title="开源之道(2016.11.11)">开源之道(2016.11.11)</a>
-          </h2>
-              <p class="post-description">昔日采用开源的标杆，近日重投微软的怀抱;嘉宾观点：为什么政府会对开源很&#39;感冒&#39;；Google 庆祝机器学习框架 TensorFlow 开源一周年</p>
-     
-
-      </div>
-  </article>
-</div>
-
-               
-              
-              <div class="post-list group">
-                
-                  
-                
-                  
-                    
-                      <div class="post-row">
-                    
-
-                      <article class="post type-post status-publish format-standard has-post-thumbnail hentry group">
-  <div class="post-inner post-hover">
-    <div class="post-meta group">
-              <p class="post-category">
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/" title="All posts in 开源" rel="category tag">开源</a>
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/" title="All posts in 感悟" rel="category tag">感悟</a>
-              
-              </p>
-  <p class="post-date">2016年11月10日</p>
-</div>
-<div>
-          <h3 class="post-title">
-              <a href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-10%29/" rel="bookmark" title="开源之道(2016.11.10)">开源之道(2016.11.10)</a>
-          </h3>
-  <p class="post-description">开源需要更多女性的参与；4个急需帮助的开源项目；苹果打算在开源投入更多</p>
-</div>
-
-  </div>
-  
-</article>
-
-
-
-                    
-                  
-                
-                  
-                    
-
-                      <article class="post type-post status-publish format-standard has-post-thumbnail hentry group">
-  <div class="post-inner post-hover">
-    <div class="post-meta group">
-              <p class="post-category">
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/" title="All posts in 开源" rel="category tag">开源</a>
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/" title="All posts in 感悟" rel="category tag">感悟</a>
-              
-              </p>
-  <p class="post-date">2016年11月09日</p>
-</div>
-<div>
-          <h3 class="post-title">
-              <a href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-09%29/" rel="bookmark" title="开源之道(2016.11.09)">开源之道(2016.11.09)</a>
-          </h3>
-  <p class="post-description">阿里巴巴承诺的Java大事件哪里去了？Linux 基金会为软件定义存储创建了开放的控制器——OpenSDS；撰写更好的文档四步法：如何获得用户最需回答的问题</p>
-</div>
-
-  </div>
-  
-</article>
-
-
-
-                    
-                      </div>
-                    
-                  
-                
-                  
-                    
-                      <div class="post-row">
-                    
-
-                      <article class="post type-post status-publish format-standard has-post-thumbnail hentry group">
-  <div class="post-inner post-hover">
-    <div class="post-meta group">
-              <p class="post-category">
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/" title="All posts in 开源" rel="category tag">开源</a>
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/" title="All posts in 感悟" rel="category tag">感悟</a>
-              
-              </p>
-  <p class="post-date">2016年11月08日</p>
-</div>
-<div>
-          <h3 class="post-title">
-              <a href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-08%29/" rel="bookmark" title="开源之道(2016.11.08)">开源之道(2016.11.08)</a>
-          </h3>
-  <p class="post-description">Linux 基金会发布开放云2016指南;为什么说开源是软件定义基础设施的未来;微软开源了 Azure 容器服务</p>
-</div>
-
-  </div>
-  
-</article>
-
-
-
-                    
-                  
-                
-                  
-                    
-
-                      <article class="post type-post status-publish format-standard has-post-thumbnail hentry group">
-  <div class="post-inner post-hover">
-    <div class="post-meta group">
-              <p class="post-category">
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/" title="All posts in 开源" rel="category tag">开源</a>
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/" title="All posts in 感悟" rel="category tag">感悟</a>
-              
-              </p>
-  <p class="post-date">2016年11月07日</p>
-</div>
-<div>
-          <h3 class="post-title">
-              <a href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-07%29/" rel="bookmark" title="开源之道(2016.11.07)">开源之道(2016.11.07)</a>
-          </h3>
-  <p class="post-description">如何为 GitHub 上的开源项目贡献代码；企业必须知道的有关“容器化”的姿势；开源开发者的日常</p>
-</div>
-
-  </div>
-  
-</article>
-
-
-
-                    
-                      </div>
-                    
-                  
-                
-                  
-                    
-                      <div class="post-row">
-                    
-
-                      <article class="post type-post status-publish format-standard has-post-thumbnail hentry group">
-  <div class="post-inner post-hover">
-    <div class="post-meta group">
-              <p class="post-category">
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/" title="All posts in 开源" rel="category tag">开源</a>
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/" title="All posts in 感悟" rel="category tag">感悟</a>
-              
-              </p>
-  <p class="post-date">2016年11月06日</p>
-</div>
-<div>
-          <h3 class="post-title">
-              <a href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-06%29/" rel="bookmark" title="开源之道(2016.11.06)">开源之道(2016.11.06)</a>
-          </h3>
-  <p class="post-description">原 Bitcoin 核心开发者 Jeff Garzik 加入Linux基金董事会；基于OpenStack再铸辉煌；Operations Transformation Summit 2016 和华为有关</p>
-</div>
-
-  </div>
-  
-</article>
-
-
-
-                    
-                  
-                
-                  
-                    
-
-                      <article class="post type-post status-publish format-standard has-post-thumbnail hentry group">
-  <div class="post-inner post-hover">
-    <div class="post-meta group">
-              <p class="post-category">
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/" title="All posts in 开源" rel="category tag">开源</a>
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/" title="All posts in 感悟" rel="category tag">感悟</a>
-              
-              </p>
-  <p class="post-date">2016年11月05日</p>
-</div>
-<div>
-          <h3 class="post-title">
-              <a href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-05%29/" rel="bookmark" title="开源之道(2016.11.05)">开源之道(2016.11.05)</a>
-          </h3>
-  <p class="post-description">著名的文本编辑器 Vim 庆祝25岁生日；Code.gov ，美国政府的开源软件站点正式运行；开源和协作的力量</p>
-</div>
-
-  </div>
-  
-</article>
-
-
-
-                    
-                      </div>
-                    
-                  
-                
-                  
-                    
-                      <div class="post-row">
-                    
-
-                      <article class="post type-post status-publish format-standard has-post-thumbnail hentry group">
-  <div class="post-inner post-hover">
-    <div class="post-meta group">
-              <p class="post-category">
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/" title="All posts in 开源" rel="category tag">开源</a>
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/" title="All posts in 感悟" rel="category tag">感悟</a>
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E5%88%9B%E4%B8%9A/" title="All posts in 创业" rel="category tag">创业</a>
-              
-              </p>
-  <p class="post-date">2016年11月04日</p>
-</div>
-<div>
-          <h3 class="post-title">
-              <a href="http://lijiangsheng1.github.io/posts/entrepreneur/mirantis_follow_ocselected_step/" rel="bookmark" title="Mirantis 走上了开放云精选之路">Mirantis 走上了开放云精选之路</a>
-          </h3>
-  <p class="post-description">Mirantis 近来收购TCP Cloud，裁员，收回了“Pure play OpenStack”的市场策略等等一系列的动作，然后就在本周推出了新的社区站点，然而没有让人想到的是走的是开放云精选的技术之路。</p>
-</div>
-
-  </div>
-  
-</article>
-
-
-
-                    
-                  
-                
-                  
-                    
-
-                      <article class="post type-post status-publish format-standard has-post-thumbnail hentry group">
-  <div class="post-inner post-hover">
-    <div class="post-meta group">
-              <p class="post-category">
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E5%BC%80%E6%BA%90/" title="All posts in 开源" rel="category tag">开源</a>
-              
-              <a href="http://lijiangsheng1.github.io/categories/%E6%84%9F%E6%82%9F/" title="All posts in 感悟" rel="category tag">感悟</a>
-              
-              </p>
-  <p class="post-date">2016年11月03日</p>
-</div>
-<div>
-          <h3 class="post-title">
-              <a href="http://lijiangsheng1.github.io/posts/opensource/daily_reading/2016_11/%E5%BC%80%E6%BA%90%E4%B9%8B%E9%81%93%282016-11-03%29/" rel="bookmark" title="开源之道(2016.11.03)">开源之道(2016.11.03)</a>
-          </h3>
-  <p class="post-description">Linux 基金会又添一大将，著名开源领导者 Nithya Ruff加盟；开源技术大会的新目录；微软为开放计算项目贡献了一款开放式设计</p>
-</div>
-
-  </div>
-  
-</article>
-
-
-
-                    
-                      </div>
-                    
-                  
-                
-              </div>
-
-
-              
-              
-
-<nav class="pagination group">
-  <div class="wp-pagenavi">
-    <span class="pages">
-        Page 5 of 22
-        (192 Posts)
-    </span>
-    
-      <a class="previouspostslink" rel="prev" href="http://lijiangsheng1.github.io/page/4/">&laquo;</a>
-    
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/">1</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/2/">2</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/3/">3</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/4/">4</a>
-        
-    
-        
-          <span class="current">5</span>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/6/">6</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/7/">7</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/8/">8</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/9/">9</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/10/">10</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/11/">11</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/12/">12</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/13/">13</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/14/">14</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/15/">15</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/16/">16</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/17/">17</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/18/">18</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/19/">19</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/20/">20</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/21/">21</a>
-        
-    
-        
-          <a class="page" href="http://lijiangsheng1.github.io/page/22/">22</a>
-        
-    
-    
-      <a class="nextpostslink" rel="next" href="http://lijiangsheng1.github.io/page/6/">&raquo;</a>
-    
-  </div>
+<nav class="main-nav">
+	<div class="container">
+		<ul class="main-menu">
+			<li><a href="http://lijiangsheng1.github.ioessay/" title="青砾小路">随笔</a></li>
+			<li><a href="http://lijiangsheng1.github.iopoem/" title="石磬美韵">诗歌</a></li>
+			<li><a href="http://lijiangsheng1.github.iolove/" title="此情若磐">挚爱</a></li>
+			<li><a href="http://lijiangsheng1.github.iocoding/" title="淬镐">编程</a></li>
+			<li><a href="http://lijiangsheng1.github.iomining/" title="琢石">采矿</a></li>
+			<li><a href="http://lijiangsheng1.github.iomisc/" title="碎石堆">杂项</a></li>
+			<li><a href="http://lijiangsheng1.github.iolinks/" title="他山之石">友邻</a></li>
+			<li><a href="http://lijiangsheng1.github.ioabout/" title="石铭">关于</a></li>
+		</ul>
+	</div>
 </nav>
 
-              
-            </div>
-          </section>
-          <div class="sidebar s1">
-  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
-  <div class="sidebar-content">
-    <div class="sidebar-top group">
-      <p>Follow:</p>
-      <ul class="social-links">
-    <li>
-    <a class="social-tooltip" title="On WeiBo"
-        href="http://www.weibo.com/2074346653/" target="_blank">
-        <i class="fa fa-weibo"></i>
-    </a>
-    </li>
-    <li>
-    <a class="social-tooltip" title="On Twitter" rel="nofollow"
-        href="https://twitter.com/lijiangsheng1" target="_blank">
-        <i class="fa fa-twitter"></i>
-    </a>
-    </li>
-    <li>
-    <a class="social-tooltip" title="On GitHub"
-        href="https://github.com/lijiangsheng1" target="_blank">
-        <i class="fa fa-github"></i>
-    </a>
-    </li>
-</ul>
+<div class="main-content container">
+	<div class="posts">
+	<div class="summary">
+		<h2 class="post-title"><a href="http://lijiangsheng1.github.io/posts/entrepreneur/talk_about_request_job_recently/">聊聊最近一个月的求职之旅</a></h2>
+		<div class="post-meta">
+			<p>2016年6月12日&nbsp;//&nbsp;<a href="tags/%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF">职业生涯</a>,&nbsp;<a href="tags/%E6%B1%82%E8%81%8C">求职</a></p>
+		</div>
+		从去年3月份决定创业，到现在已经过去了一年零一个季度，其实，到去年12月我干完我的第一笔真正意义上的生意之后，到今年5月初，我是处于调整身体
+		
+		<div class="read-more-link">
+			<a href='http://lijiangsheng1.github.io/posts/entrepreneur/talk_about_request_job_recently/'>阅读全文&raquo;</a>
+		</div>
+		
+	</div>
+	
+	<div class="summary">
+		<h2 class="post-title"><a href="http://lijiangsheng1.github.io/posts/reading/the_effective_executive/">时间，你真的能管理好自己的时间吗？</a></h2>
+		<div class="post-meta">
+			<p>2016年5月25日&nbsp;//&nbsp;<a href="tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86">时间管理</a>,&nbsp;<a href="tags/%E7%BB%84%E7%BB%87%E7%AE%A1%E7%90%86">组织管理</a></p>
+		</div>
+		我突然变成了被无数事情撕成碎片的机械式的、茫然不知所终的怪物，整天似乎看起来忙忙碌碌，然而却在原地打转。我贪得无厌，我恨不能将所有感兴趣的知
+		
+		<div class="read-more-link">
+			<a href='http://lijiangsheng1.github.io/posts/reading/the_effective_executive/'>阅读全文&raquo;</a>
+		</div>
+		
+	</div>
+	
+	<div class="summary">
+		<h2 class="post-title"><a href="http://lijiangsheng1.github.io/posts/karate/mas-oyama-2/">空手道晋级之橙带杠一日常训练</a></h2>
+		<div class="post-meta">
+			<p>2016年5月14日&nbsp;//&nbsp;<a href="tags/Karate">Karate</a>,&nbsp;<a href="tags/Health">Health</a>,&nbsp;<a href="tags/%E8%AE%AD%E7%BB%83">训练</a></p>
+		</div>
+		啰哩啰嗦 我在上一篇文章中谈到了建立大目标固然重要，那些可以努力达到的阶段性的小目标也很重要的，即不积硅步无以至千里。其中列出了极真空手道（宗
+		
+		<div class="read-more-link">
+			<a href='http://lijiangsheng1.github.io/posts/karate/mas-oyama-2/'>阅读全文&raquo;</a>
+		</div>
+		
+	</div>
+	
+	<div class="summary">
+		<h2 class="post-title"><a href="http://lijiangsheng1.github.io/posts/movies/captain_america_Civil_War/">美国队长：内战 观后感</a></h2>
+		<div class="post-meta">
+			<p>2016年5月6日&nbsp;//&nbsp;<a href="tags/Movies">Movies</a></p>
+		</div>
+		有关信念、坚持的故事 首先需要声明的一点就是，我对漫画一无所知。喜欢上美国队长，还是要从美国队长2：冬兵算起，一个人有意单挑神盾局，真是让人大
+		
+		<div class="read-more-link">
+			<a href='http://lijiangsheng1.github.io/posts/movies/captain_america_Civil_War/'>阅读全文&raquo;</a>
+		</div>
+		
+	</div>
+	
+	<div class="summary">
+		<h2 class="post-title"><a href="http://lijiangsheng1.github.io/posts/entrepreneur/make_mistake_in_my_career/">曾经在职场中犯过的错</a></h2>
+		<div class="post-meta">
+			<p>2016年5月5日</p>
+		</div>
+		缘起 今天 InfoQ 中文网站发布了我点评的一篇文章。其实刚刚发布时，文章的题目不是这个，而是：“Apache 基金会17岁了！其成功的背后显为人知的“A
+		
+		<div class="read-more-link">
+			<a href='http://lijiangsheng1.github.io/posts/entrepreneur/make_mistake_in_my_career/'>阅读全文&raquo;</a>
+		</div>
+		
+	</div>
+	
+	</div>
 
-    </div>
-
-    <div id="comment-2" class="widget"><h3>热评文章:</h3>
-
-	<div class="ds-top-threads" data-range="daily" data-num-items="5"></div>
-
-
-<script type="text/javascript">
-var duoshuoQuery = {short_name:"lijiansheng"};
-	(function() {
-		var ds = document.createElement('script');
-		ds.type = 'text/javascript';ds.async = true;
-		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-		ds.charset = 'UTF-8';
-		(document.getElementsByTagName('head')[0] 
-		 || document.getElementsByTagName('body')[0]).appendChild(ds);
-	})();
-	</script>
-
-
-
-    </div>
-    <div id="search-2" class="widget widget_search"><h3>Search</h3>
-      <form method="get" class="searchform themeform" action="https://www.google.com/search">
-        <div>
-          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
-        </div>
-      </form>
-    </div>
-  </div>
+	<ul class="pager">
+		<li class="previous"><a href="http://lijiangsheng1.github.io/page/4/">«更新文章</a></li>
+		<li><span class="page-number">第 5 页, 共 6 页</span></li>
+		<li class="next"><a href="http://lijiangsheng1.github.io/page/6/">更旧文章»</a></li>
+	</ul>
 </div>
-
-          <div class="sidebar s2">
-
-  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
-
-  <div class="sidebar-content">
-
-    <div class="sidebar-top group">
-      <p>More</p>
-    </div>
-
-
-    <div id="tag_cloud-2" class="widget widget_tag_cloud"><h3>Tags</h3>
-
-      <div class="tagcloud">
-        <p class="post-tags">
-          
-              
-              <a rel="tag" href="tags/health/"
-                 class="tag-link-2"
-                 title="2 Posts">health</a>
-              
-              <a rel="tag" href="tags/karate/"
-                 class="tag-link-3"
-                 title="3 Posts">karate</a>
-              
-              <a rel="tag" href="tags/movies/"
-                 class="tag-link-1"
-                 title="1 Posts">movies</a>
-              
-              <a rel="tag" href="tags/opensource/"
-                 class="tag-link-1"
-                 title="1 Posts">opensource</a>
-              
-              <a rel="tag" href="tags/stay-hangry-stay-foolish/"
-                 class="tag-link-1"
-                 title="1 Posts">stay-hangry-stay-foolish</a>
-              
-              <a rel="tag" href="tags/%e5%81%9c%e6%ad%a2%e7%bf%bb%e8%af%91/"
-                 class="tag-link-1"
-                 title="1 Posts">停止翻译</a>
-              
-              <a rel="tag" href="tags/%e5%8e%86%e5%8f%b2/"
-                 class="tag-link-1"
-                 title="1 Posts">历史</a>
-              
-              <a rel="tag" href="tags/%e5%bc%80%e6%ba%90/"
-                 class="tag-link-1"
-                 title="1 Posts">开源</a>
-              
-              <a rel="tag" href="tags/%e5%bc%80%e6%ba%90%e4%b9%8b%e9%81%93/"
-                 class="tag-link-154"
-                 title="154 Posts">开源之道</a>
-              
-              <a rel="tag" href="tags/%e5%bc%80%e6%ba%90%e5%93%b2%e5%ad%a6/"
-                 class="tag-link-1"
-                 title="1 Posts">开源哲学</a>
-              
-              <a rel="tag" href="tags/%e6%96%87%e5%8c%96/"
-                 class="tag-link-1"
-                 title="1 Posts">文化</a>
-              
-              <a rel="tag" href="tags/%e6%97%b6%e9%97%b4%e7%ae%a1%e7%90%86/"
-                 class="tag-link-1"
-                 title="1 Posts">时间管理</a>
-              
-              <a rel="tag" href="tags/%e6%af%8f%e6%97%a5%e9%98%85%e8%af%bb/"
-                 class="tag-link-167"
-                 title="167 Posts">每日阅读</a>
-              
-              <a rel="tag" href="tags/%e6%b1%82%e8%81%8c/"
-                 class="tag-link-1"
-                 title="1 Posts">求职</a>
-              
-              <a rel="tag" href="tags/%e6%bf%80%e5%8a%b1/"
-                 class="tag-link-1"
-                 title="1 Posts">激励</a>
-              
-              <a rel="tag" href="tags/%e7%9b%ae%e6%a0%87/"
-                 class="tag-link-1"
-                 title="1 Posts">目标</a>
-              
-              <a rel="tag" href="tags/%e7%a4%be%e5%8c%ba%e8%bf%90%e8%90%a5/"
-                 class="tag-link-1"
-                 title="1 Posts">社区运营</a>
-              
-              <a rel="tag" href="tags/%e7%bb%84%e7%bb%87%e7%ae%a1%e7%90%86/"
-                 class="tag-link-1"
-                 title="1 Posts">组织管理</a>
-              
-              <a rel="tag" href="tags/%e7%bb%8f%e5%85%b8%e6%96%87%e7%ab%a0/"
-                 class="tag-link-1"
-                 title="1 Posts">经典文章</a>
-              
-              <a rel="tag" href="tags/%e7%bf%bb%e8%af%91/"
-                 class="tag-link-4"
-                 title="4 Posts">翻译</a>
-              
-              <a rel="tag" href="tags/%e8%81%8c%e4%b8%9a%e7%94%9f%e6%b6%af/"
-                 class="tag-link-1"
-                 title="1 Posts">职业生涯</a>
-              
-              <a rel="tag" href="tags/%e8%a7%82%e7%82%b9/"
-                 class="tag-link-1"
-                 title="1 Posts">观点</a>
-              
-              <a rel="tag" href="tags/%e8%ae%ad%e7%bb%83/"
-                 class="tag-link-3"
-                 title="3 Posts">训练</a>
-              
-          
-        </p>
-      </div>
-    </div>
-
-    <div class="widget widget_recent_entries sidebarLeftCategories"><h3>Last 5 GitHub Commits for this blog</h3>
-      <ul>
-        
-        
-            <li>
-              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/8bdc50ccaa6a5132f4f1c8edc16a903d5c7bf08c" target="_blank">
-                  2017-01-01T00:49:27Z<br>
-                  新增新的一年的开源每周精选。
-
-Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
-              </a>
-            </li>
-        
-            <li>
-              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/71a83a01e47a6aa930b9c5f04b0a96938559b147" target="_blank">
-                  2016-12-25T11:29:40Z<br>
-                  为每日阅读改为每周精选添加描述。
-
-Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
-              </a>
-            </li>
-        
-            <li>
-              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/116b2804bc860d5af0cce0e5f439bce7849690e9" target="_blank">
-                  2016-12-22T14:31:04Z<br>
-                  解释下开源之道变更为每周精选的理由。其实是说给自己的。
-
-Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
-              </a>
-            </li>
-        
-            <li>
-              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/d500cd21b7695dc6d8aa3c61ef3992c01d0f043e" target="_blank">
-                  2016-12-17T23:10:58Z<br>
-                  add daily reading about open source articles.
-
-Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
-              </a>
-            </li>
-        
-            <li>
-              <a href="https://github.com/lijiangsheng1/lijiansheng_github_pages/commit/ba5d27d3446d8c163fa08abe06140cd5d3633c3d" target="_blank">
-                  2016-12-16T01:10:10Z<br>
-                  add daily reading about open source articles.
-
-Signed-off-by: LiJiansheng &lt;lijiansheng@ocselected.org&gt;
-              </a>
-            </li>
-        
-      </ul>
-    </div>
-
-
-  </div>
-  
-</div>
-
-        </div>
-      </div>
-    </div>
-  </div>
-  <footer id="footer">
-  <section class="container" id="footer-bottom">
-    <div class="container-inner">
-      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
-      <div class="pad group">
-        <div class="grid one-half">
-          <div id="copyright">
-            <p>Copyright © 2016. All Rights Reserved. <br>Powered by
-              <a rel="nofollow" href="http://gohugo.io/" target="_blank">Hugo - the static site generator</a>.
-              <a rel="nofollow" href="http://golang.org" target="_blank">#golang</a>.
-            </p>
-          </div>
-          
-        </div>
-        
-        <div class="grid one-half last">
-          <ul class="social-links">
-    <li>
-    <a class="social-tooltip" title="On WeiBo"
-        href="http://www.weibo.com/2074346653/" target="_blank">
-        <i class="fa fa-weibo"></i>
-    </a>
-    </li>
-    <li>
-    <a class="social-tooltip" title="On Twitter" rel="nofollow"
-        href="https://twitter.com/lijiangsheng1" target="_blank">
-        <i class="fa fa-twitter"></i>
-    </a>
-    </li>
-    <li>
-    <a class="social-tooltip" title="On GitHub"
-        href="https://github.com/lijiangsheng1" target="_blank">
-        <i class="fa fa-github"></i>
-    </a>
-    </li>
-</ul>
-
-        </div>
-      </div>
-
-    </div>
-    
-  </section>
-  
+<footer class="site-footer">
+	<div class="container">
+		<p>使用 <a href="https://gohugo.io/">Hugo</a> 并基于 <a href="https://github.com/chingli/rockrock">RockRock</a> 主题构建.&nbsp;
+		</span></p>
+		
+	</div>
 </footer>
 
-</div>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-79147508-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
 </body>
 </html>
 
